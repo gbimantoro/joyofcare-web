@@ -6,49 +6,60 @@ meta_description: Panduan triase kapan pasien butuh antar jemput medis non-darur
   ke rumah sakit berdasarkan protokol klinis keselamatan. Chat WA Joy of Care 08811-118-911!
 primary_keyword: kapan pasien butuh antar jemput ke rumah sakit
 secondary_keywords:
-<li>protokol transportasi medis cuci darah joy of care</li>
+<ul><li>protokol transportasi medis cuci darah joy of care</li>
 <li>transportasi lansia kontrol kemoterapi jakarta</li>
 <li>keuntungan mobil ambulans transport pasien</li>
 <li>pengalaman keluarga menggunakan joy of care</li>
+</ul>
 variation_type: kapan-harus
 faq:
-<li>question: Kapan keluarga sebaiknya berhenti memaksakan pasien naik mobil pribadi</li>
+<ul><li>question: Kapan keluarga sebaiknya berhenti memaksakan pasien naik mobil pribadi</li>
+</ul>
     dan beralih ke transportasi medis khusus?
   answer: Saat memindahkan pasien dari ranjang ke mobil membutuhkan tenaga lebih dari
     2 orang dewasa, saat pasien mengerang kesakitan atau menangis saat duduk di jok
     mobil, saat pasien menggunakan selang infus, kateter urin, atau tabung oksigen
     yang rentan terlepas, atau saat anggota keluarga tidak memiliki waktu untuk mendampingi
     antrean panjang di rumah sakit.
-<li>question: Bagaimana protokol keselamatan medis bagi pasien hemodialisis rutin selama</li>
+<ul><li>question: Bagaimana protokol keselamatan medis bagi pasien hemodialisis rutin selama</li>
+</ul>
     perjalanan menuju faskes?
   answer: Transportasi medis terpadu menerapkan pemantauan tanda vital sebelum keberangkatan,
     penggunaan armada ambulans non-darurat dengan suspensi lembut peredam getaran,
     serta pendampingan perawat ber-STR untuk mengantisipasi penurunan tekanan darah
     atau lemas pasca-dialisis.
-<li>question: Apakah layanan antar jemput medis Joy of Care dapat dipesan untuk kontrol</li>
+<ul><li>question: Apakah layanan antar jemput medis Joy of Care dapat dipesan untuk kontrol</li>
+</ul>
     rutin fisioterapi di faskes?
   answer: Ya, sangat bisa. Namun bila pasien merasa lelah bepergian jauh, Joy of Care
     juga menyediakan opsi alternatif di mana fisioterapis berizin kami yang datang
     langsung memberikan terapi latihan di rumah Anda (<em>in-home physiotherapy</em>).
 internal_links:
-<li>anchor: Layanan Antar Jemput ke Rumah Sakit Joy of Care</li>
+<ul><li>anchor: Layanan Antar Jemput ke Rumah Sakit Joy of Care</li>
+</ul>
   url: /layanan/antar-jemput-rs
-<li>anchor: Layanan Perawat Medis Homecare</li>
+<ul><li>anchor: Layanan Perawat Medis Homecare</li>
+</ul>
   url: /layanan/perawat-homecare
-<li>anchor: Layanan Panggil Dokter ke Rumah Jakarta</li>
+<ul><li>anchor: Layanan Panggil Dokter ke Rumah Jakarta</li>
+</ul>
   url: /layanan/panggil-dokter
-<li>anchor: Layanan Fisioterapi di Rumah</li>
+<ul><li>anchor: Layanan Fisioterapi di Rumah</li>
+</ul>
   url: /layanan/fisioterapi-di-rumah
 cta_text: Konsultasi Dokter Gratis via WhatsApp dan sekitarnya langsung via WhatsApp
   Joy of Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
 clinical_references:
-<li>Journal of the American Geriatrics Society - Transportation Barriers to Healthcare</li>
+<ul><li>Journal of the American Geriatrics Society - Transportation Barriers to Healthcare</li>
+</ul>
   Access in Frail Older Adults
-<li>BMC Health Services Research - Patient Safety and Clinical Benefits of Dedicated</li>
+<ul><li>BMC Health Services Research - Patient Safety and Clinical Benefits of Dedicated</li>
+</ul>
   Medical Transfer Services
-<li>National Kidney Foundation - Transportation Solutions for Maintenance Hemodialysis</li>
+<ul><li>National Kidney Foundation - Transportation Solutions for Maintenance Hemodialysis</li>
+</ul>
   Patients
 ---
 
@@ -91,26 +102,30 @@ Layanan transportasi medis non-darurat (<em>Non-Emergency Medical Transportation
 
 <h3>1. Triase Kelayakan Transportasi Medis Non-Darurat</h3>
 Sebelum armada diberangkatkan, tim koordinasi medis Joy of Care melakukan verifikasi status klinis pasien:
-<li><strong>Penilaian Kestabilan Hemodinamik</strong>: Memastikan pasien tidak sedang dalam status kegawatan darurat akut (seperti henti napas, nyeri dada khas infark miokard, atau kejang aktif yang memerlukan ambulans gawat darurat bersirene 118).</li>
+<ul><li><strong>Penilaian Kestabilan Hemodinamik</strong>: Memastikan pasien tidak sedang dalam status kegawatan darurat akut (seperti henti napas, nyeri dada khas infark miokard, atau kejang aktif yang memerlukan ambulans gawat darurat bersirene 118).</li>
 <li><strong>Klasifikasi Kebutuhan Transfer</strong>: Menentukan apakah pasien membutuhkan brankar tandu ambulans (<em>stretcher</em>) akibat imobilitas total fraktur panggul, atau kursi roda khusus (<em>wheelchair-accessible van</em>) berfasilitas ramp hidrolik anti-guncang.</li>
 <li><strong>Pemeriksaan Akses Medis Terpasang</strong>: Mengidentifikasi keberadaan kateter urin, selang makan NGT, infus perifer, atau akses hemodialisis (<em>cimino / AV shunt</em>) pada lengan pasien agar tidak tertekan selama transit.</li>
+</ul>
 
 <h3>2. Protokol Transfer Pasien dan Manajemen Posisi Tubuh</h3>
 Proses pemindahan pasien dari tempat tidur rumah ke dalam kendaraan medis dijalankan oleh tenaga terlatih:
-<li><em></em>Teknik Transfer Aman (<em>Safe Patient Handling</em>)<em></em>: Memanfaatkan matras geser transfer (<em>slide sheet</em>) atau papan transfer orthopedi untuk memindahkan pasien tirah baring tanpa membebani persendian lansia.</li>
+<ul><li><em></em>Teknik Transfer Aman (<em>Safe Patient Handling</em>)<em></em>: Memanfaatkan matras geser transfer (<em>slide sheet</em>) atau papan transfer orthopedi untuk memindahkan pasien tirah baring tanpa membebani persendian lansia.</li>
 <li><strong>Fiksasi Pengaman Standar Medis</strong>: Brankar atau kursi roda dikunci secara mekanis menggunakan sabuk pengaman empat titik (<em>four-point tie-down system</em>) di lantai kabin kendaraan, mencegah pergeseran posisi saat kendaraan bermanuver di jalan raya.</li>
 <li><strong>Ergonomi Kabin Berventilasi</strong>: Pengaturan suhu kabin stabil dan ventilasi udara bersih untuk mencegah hipotermia atau mabuk perjalanan pada pasien lanjut usia.</li>
+</ul>
 
 <h3>3. Pemantauan Tanda Vital Sepanjang Perjalanan</h3>
 Perawat medis ber-STR mendampingi pasien di kabin belakang sepanjang rute transportasi:
-<li><strong>Observasi Tekanan Darah dan Oksigenasi</strong>: Pemeriksaan tensimeter digital dan <em>pulse oximetry</em> berkala, khususnya bagi pasien pasca-cuci darah yang rentan mengalami hipotensi ortostatik atau sindrom disekuilibrium dialisis.</li>
+<ul><li><strong>Observasi Tekanan Darah dan Oksigenasi</strong>: Pemeriksaan tensimeter digital dan <em>pulse oximetry</em> berkala, khususnya bagi pasien pasca-cuci darah yang rentan mengalami hipotensi ortostatik atau sindrom disekuilibrium dialisis.</li>
 <li><strong>Kesiapan Terapi Oksigen Portabel</strong>: Tabung oksigen medis siaga penuh dengan regulator aliran siap dihubungkan melalui kanula hidung bila pasien menunjukkan tanda sesak napas.</li>
 <li><strong>Dukungan Hidrasi dan Posisi</strong>: Menempatkan tungkai pasien sedikit lebih tinggi (posisi elevasi) bila terjadi penurunan tekanan darah ringan selama perjalanan pulang ke kediaman.</li>
+</ul>
 
 <h3>4. Koordinasi Layanan Faskes Terpadu</h3>
 Setibanya di rumah sakit rujukan, perawat pendamping mengawal alur pelayanan pasien:
-<li><strong>Serah Terima Medis di Unit Faskes</strong>: Membantu proses registrasi loket, mendampingi pasien masuk ke ruang tindakan poliklinik, serta menyerahkan resume klinis kepada staf rumah sakit.</li>
+<ul><li><strong>Serah Terima Medis di Unit Faskes</strong>: Membantu proses registrasi loket, mendampingi pasien masuk ke ruang tindakan poliklinik, serta menyerahkan resume klinis kepada staf rumah sakit.</li>
 <li><strong>Manajemen Antrean Obat dan Kepulangan</strong>: Mengurus pengambilan resep obat di instalasi farmasi faskes sehingga keluarga tidak perlu terbebani antrean panjang, memastikan pasien tiba kembali di rumah dengan aman dan nyaman.</li>
+</ul>
 
 <h2>Tabel Panduan Pengambilan Keputusan Transportasi bagi Keluarga</h2>
 

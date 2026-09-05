@@ -6,54 +6,64 @@ meta_description: Tanya jawab lengkap seputar pola hidup sehat lansia, jadwal ma
   aktivitas fisik, dan pemeriksaan berkala. Hubungi WhatsApp tim Joy of Care di 08811-118-911!
 primary_keyword: faq rutinitas sehat lansia di rumah jakarta
 secondary_keywords:
-<li>pertanyaan umum kesehatan orang tua</li>
+<ul><li>pertanyaan umum kesehatan orang tua</li>
 <li>pola makan lansia hipertensi diabetes</li>
 <li>waktu tidur ideal untuk lansia</li>
 <li>skrining kesehatan lansia berkala</li>
+</ul>
 variation_type: yang-perlu-anda-ketahui
 faq:
-<li>question: Berapa jam durasi tidur malam yang normal dan sehat untuk orang berusia</li>
+<ul><li>question: Berapa jam durasi tidur malam yang normal dan sehat untuk orang berusia</li>
+</ul>
     60 tahun ke atas?
   answer: Kebutuhan tidur malam lansia berkisar antara 7 hingga 8 jam per hari. Namun,
     karena perubahan ritme sirkadian alami, tidur lansia cenderung lebih dangkal (fase
     deep sleep berkurang) dan sering terbangun singkat di malam hari. Selama lansia
     merasa segar di pagi hari dan tidak mengantuk berlebihan di siang hari, pola tidur
     tersebut masih tergolong normal.
-<li>question: Bagaimana cara menyiasati lansia yang nafsu makannya menurun drastis karena</li>
+<ul><li>question: Bagaimana cara menyiasati lansia yang nafsu makannya menurun drastis karena</li>
+</ul>
     indra pengecap berkurang?
   answer: Sajikan makanan dalam porsi kecil namun sering (4–5 kali sehari), manfaatkan
     bumbu aromatik alami seperti bawang putih, jahe, daun kemangi, dan kayu manis
     untuk merangsang nafsu makan tanpa menambahkan garam atau gula berlebih, serta
     pastikan tekstur makanan lembut dan menarik secara visual.
-<li>question: Seberapa sering pemeriksaan tekanan darah dan gula darah mandiri harus</li>
+<ul><li>question: Seberapa sering pemeriksaan tekanan darah dan gula darah mandiri harus</li>
+</ul>
     dilakukan di rumah?
   answer: Untuk lansia dengan riwayat hipertensi atau diabetes yang stabil, pemeriksaan
     tensi dianjurkan 2–3 kali seminggu di pagi hari, dan pemeriksaan gula darah sewaktu
     atau puasa 1–2 kali seminggu. Hasilnya dicatat rapi dalam buku kontrol untuk dievaluasi
     oleh dokter.
-<li>question: Apakah lansia masih perlu melakukan medical check up lengkap bila tidak</li>
+<ul><li>question: Apakah lansia masih perlu melakukan medical check up lengkap bila tidak</li>
+</ul>
     ada keluhan fisik sama sekali?
   answer: Sangat perlu. Banyak penyakit degeneratif seperti hipertensi derajat awal,
     diabetes, gangguan fungsi ginjal kronis, dan hiperkolesterol berkembang tanpa
     gejala (<em>silent killer</em>). Pemeriksaan laboratorium rutin tahunan sangat penting
     untuk deteksi dini.
 internal_links:
-<li>anchor: Layanan Panggil Dokter ke Rumah Jakarta</li>
+<ul><li>anchor: Layanan Panggil Dokter ke Rumah Jakarta</li>
+</ul>
   url: /layanan/panggil-dokter
-<li>anchor: Layanan Fisioterapi di Rumah Joy of Care</li>
+<ul><li>anchor: Layanan Fisioterapi di Rumah Joy of Care</li>
+</ul>
   url: /layanan/fisioterapi-di-rumah
-<li>anchor: Layanan Cek Lab Darah di Rumah</li>
+<ul><li>anchor: Layanan Cek Lab Darah di Rumah</li>
+</ul>
   url: /layanan/cek-lab-di-rumah
-<li>anchor: Layanan Perawat Medis Homecare</li>
+<ul><li>anchor: Layanan Perawat Medis Homecare</li>
+</ul>
   url: /layanan/perawat-homecare
 cta_text: Hubungi WhatsApp JoC untuk informasi harga langsung via WhatsApp Joy of
   Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
 clinical_references:
-<li>American Geriatrics Society (AGS) - Sleep and Nutrition Guidelines for Older Adults</li>
+<ul><li>American Geriatrics Society (AGS) - Sleep and Nutrition Guidelines for Older Adults</li>
 <li>Indonesian Ministry of Health - Pedoman Gizi Seimbang untuk Usia Lanjut</li>
 <li>'World Health Organization (WHO) - Active Ageing: A Policy Framework'</li>
+</ul>
 ---
 
 <h1>Panduan Tanya Jawab Lengkap (FAQ): Segala Hal yang Wajib Diketahui tentang Kesehatan dan Rutinitas Harian Lansia</h1>
@@ -74,21 +84,24 @@ Keseharian orang tua di rumah sangat dipengaruhi oleh kecukupan istirahat dan as
 
 <h3>1. Mengapa orang tua sering mengeluh sulit tidur di malam hari (<em>insomnia</em>) namun mudah tertidur di depan TV pada siang hari?</h3>
 <strong>Jawab</strong>: Fenomena ini disebabkan oleh penurunan sekresi hormon melatonin dan pergeseran ritme sirkadian di otak seiring usia. Untuk memperbaikinya:
-<li>Batasi tidur siang tidak lebih dari 30–45 menit dan hindari tidur siang setelah pukul 15.00.</li>
+<ul><li>Batasi tidur siang tidak lebih dari 30–45 menit dan hindari tidur siang setelah pukul 15.00.</li>
 <li>Pastikan lansia terpapar sinar matahari pagi selama 15–20 menit agar jam biologis tubuh dapat membedakan siang dan malam dengan tegas.</li>
 <li>Hindari konsumsi minuman teh, kopi, atau minuman bersoda setelah jam makan siang karena efek stimulan kafein dapat bertahan hingga 8–10 jam dalam tubuh lansia.</li>
+</ul>
 
 <h3>2. Berapa takaran konsumsi garam dan gula yang aman untuk lansia dengan riwayat penyakit metabolik?</h3>
 <strong>Jawab</strong>: Menurut panduan Kementerian Kesehatan RI dan WHO:
-<li><strong>Garam (Natrium)</strong>: Batasi maksimal 1 sendok teh peres garam dapur (sekitar 2.000 mg natrium) per hari untuk seluruh masakan. Hindari makanan kaleng, kecap asin berlebih, dan penyedap MSG tinggi.</li>
+<ul><li><strong>Garam (Natrium)</strong>: Batasi maksimal 1 sendok teh peres garam dapur (sekitar 2.000 mg natrium) per hari untuk seluruh masakan. Hindari makanan kaleng, kecap asin berlebih, dan penyedap MSG tinggi.</li>
 <li><strong>Gula</strong>: Batasi maksimal 4 sendok makan gula per hari. Bagi penderita diabetes, gantilah pemanis dengan pemanis alami nol kalori yang aman bagi gula darah.</li>
 <li>Untuk memantau dampak asupan harian terhadap profil metabolik, keluarga dapat memanfaatkan kemudahan [Layanan Cek Lab Darah di Rumah](/layanan/cek-lab-di-rumah).</li>
+</ul>
 
 <h3>3. Bagaimana mengatasi lansia yang sering menolak minum air putih karena takut sering kencing?</h3>
 <strong>Jawab</strong>: Rasa haus pada lansia kerap tumpul akibat penurunan kepekaan osmoreseptor di hipotalamus. Cara mengatasinya:
-<li>Jadwalkan minum 1 gelas air hangat secara berkala setiap 2 jam sekali antara jam 06.00 hingga 17.00.</li>
+<ul><li>Jadwalkan minum 1 gelas air hangat secara berkala setiap 2 jam sekali antara jam 06.00 hingga 17.00.</li>
 <li>Setelah jam 18.00, kurangi porsi minum agar kandung kemih tidak penuh di tengah malam yang berisiko membuat lansia terjatuh saat berjalan ke toilet dalam keadaan gelap.</li>
 <li>Variasikan asupan cairan dengan menyajikan sup kuah bening segar, potongan buah berair tinggi seperti semangka atau pir, atau air perasan lemon hangat.</li>
+</ul>
 
 ---
 
@@ -98,16 +111,18 @@ Kemandirian gerak merupakan penentu utama apakah lansia bahagia atau tertekan di
 
 <h3>4. Kapan seorang lansia membutuhkan tongkat atau alat bantu jalan (<em>walker</em>)?</h3>
 <strong>Jawab</strong>: Alat bantu jalan bukan tanda kelemahan, melainkan sarana proteksi kemandirian. Lansia dianjurkan menggunakan alat bantu jika:
-<li>Berjalan tampak tertatih-tatih, kaki diseret (<em>shuffling gait</em>), atau tangan sering mencari pegangan pada dinding dan perabot saat melangkah.</li>
+<ul><li>Berjalan tampak tertatih-tatih, kaki diseret (<em>shuffling gait</em>), atau tangan sering mencari pegangan pada dinding dan perabot saat melangkah.</li>
 <li>Sering mengeluhkan pusing melayang saat berbelok arah.</li>
 <li>Pernah memiliki riwayat jatuh dalam 6 bulan terakhir.</li>
+</ul>
 Konsultasikan pemilihan alat bantu yang tepat bersama terapis dari [Layanan Fisioterapi di Rumah Joy of Care](/layanan/fisioterapi-di-rumah) agar ketinggian pegangan disesuaikan presisi dengan postur tubuh pasien.
 
 <h3>5. Apakah wajar bila orang tua mulai sering lupa nama orang atau lupa meletakkan barang?</h3>
 <strong>Jawab</strong>: Lupa ringan (seperti lupa menaruh kacamata namun kemudian ingat kembali) adalah bagian dari penuaan normal (<em>age-associated memory impairment</em>). Namun, jika orang tua:
-<li>Tersesat di lingkungan yang sudah dikenal baik.</li>
+<ul><li>Tersesat di lingkungan yang sudah dikenal baik.</li>
 <li>Lupa cara menyeduh kopi atau mengancingkan baju.</li>
 <li>Mengulang pertanyaan yang sama berulang kali dalam hitungan menit.</li>
+</ul>
 Maka hal tersebut merupakan tanda bahaya demensia Alzheimer yang memerlukan evaluasi neurologis segera oleh dokter geriatri.
 
 ---

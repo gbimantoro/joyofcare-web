@@ -6,51 +6,61 @@ meta_description: Rehabilitasi fisik dan fisioterapi di rumah untuk pemulihan pa
   sekarang!
 primary_keyword: fisioterapi pasca operasi lutut di rumah
 secondary_keywords:
-<li>pemulihan operasi ganti lutut total knee replacement</li>
+<ul><li>pemulihan operasi ganti lutut total knee replacement</li>
 <li>latihan menekuk lutut pasca operasi</li>
 <li>mengatasi bengkak lutut tkr</li>
 <li>fisioterapi ortopedi ke rumah</li>
+</ul>
 faq:
-<li>question: Berapa derajat target tekukan lutut yang harus dicapai setelah operasi</li>
+<ul><li>question: Berapa derajat target tekukan lutut yang harus dicapai setelah operasi</li>
+</ul>
     TKR?
   answer: Target ideal pada minggu ke-6 hingga ke-8 pascaoperasi adalah fleksi lutut
     minimal 110 hingga 120 derajat dan ekstensi penuh 0 derajat (lutut lurus sempurna)
     agar pasien dapat menaiki tangga dan duduk normal.
-<li>question: Kapan fisioterapi di rumah harus dimulai setelah operasi ganti sendi lutut?</li>
+<ul><li>question: Kapan fisioterapi di rumah harus dimulai setelah operasi ganti sendi lutut?</li>
+</ul>
   answer: Fisioterapi harus segera dilanjutkan begitu pasien tiba di rumah dari rumah
     sakit (umumnya hari ke-3 hingga ke-5 pascaoperasi) untuk mencegah pembentukan
     jaringan parut fibrotik yang membuat sendi kaku permanen.
-<li>question: Bagaimana cara meredakan pembengkakan dan rasa panas pada lutut pascaoperasi</li>
+<ul><li>question: Bagaimana cara meredakan pembengkakan dan rasa panas pada lutut pascaoperasi</li>
+</ul>
     di rumah?
   answer: 'Terapkan protokol PRICE: kompres es selama 15-20 menit beberapa kali sehari,
     posisikan kaki lebih tinggi dari jantung saat berbaring (elevasi), gunakan perban
     kompresi elastis, dan lakukan pompa pergelangan kaki (ankle pumps).'
-<li>question: Kapan pasien pascaoperasi penggantian lutut total boleh mulai berjalan</li>
+<ul><li>question: Kapan pasien pascaoperasi penggantian lutut total boleh mulai berjalan</li>
+</ul>
     tanpa kruk atau walker?
   answer: Mayoritas pasien dapat bertransisi dari walker ke tongkat dalam 2–4 minggu,
     dan mulai berjalan mandiri tanpa alat bantu sekitar 6–8 minggu pascaoperasi, tergantung
     pada kekuatan otot paha depan (quadriceps) dan stabilitas keseimbangan tubuh.
-<li>question: Apakah rasa hangat dan sedikit kaku pada sendi lutut baru merupakan hal</li>
+<ul><li>question: Apakah rasa hangat dan sedikit kaku pada sendi lutut baru merupakan hal</li>
+</ul>
     yang normal?
   answer: Ya, rasa hangat ringan pada sendi lutut dapat bertahan hingga beberapa bulan
     pascaoperasi sebagai bagian dari proses penyembuhan jaringan. Namun, jika lutut
     mendadak merah membara, sangat bengkak, keluar cairan dari luka, atau disertai
     demam tinggi, segera hubungi dokter karena itu merupakan tanda infeksi.
 internal_links:
-<li>anchor: Layanan Fisioterapi Ortopedi Homecare</li>
+<ul><li>anchor: Layanan Fisioterapi Ortopedi Homecare</li>
+</ul>
   url: /layanan/fisioterapi
-<li>anchor: Perawatan Pasca Operasi Penggantian Panggul (THR)</li>
+<ul><li>anchor: Perawatan Pasca Operasi Penggantian Panggul (THR)</li>
+</ul>
   url: /blog/healthy-aging-3/perawatan-pasca-operasi-penggantian-panggul-total-total-hip-replacement-thr-pada-lansia-panduan-lengkap-untuk-pemulihan-optimal-di-rumah-19
-<li>anchor: Layanan Perawat Medis untuk Perawatan Luka Operasi</li>
+<ul><li>anchor: Layanan Perawat Medis untuk Perawatan Luka Operasi</li>
+</ul>
   url: /layanan/perawat-homecare
 cta_text: Konsultasi Dokter Gratis via WhatsApp langsung bersama dokter dan tim fisioterapis
   Joy of Care via WhatsApp di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
 clinical_references:
-<li>American Association of Hip and Knee Surgeons (AAHKS) Rehabilitation Protocols</li>
+<ul><li>American Association of Hip and Knee Surgeons (AAHKS) Rehabilitation Protocols</li>
 <li>Perhimpunan Dokter Spesialis Orthopaedi & Traumatologi Indonesia (PABOI)</li>
 <li>Journal of Bone and Joint Surgery - Home-Based vs Clinic-Based Rehabilitation for</li>
+</ul>
   TKR
 ---
 
@@ -65,32 +75,37 @@ Tanpa latihan gerak yang disiplin dan terarah, sendi implan baru yang terpasang 
 Program fisioterapi pasca-TKR dirancang bertahap sesuai proses penyembuhan jaringan biologis:
 
 <h3>Fase 1: Minggu 1–2 (Manajemen Bengkak, Ekstensi Penuh & Mobilisasi Awal)</h3>
-<li><strong>Fokus Utama</strong>: Mengontrol peradangan dan mencegah penggumpalan darah vena dalam (<em>Deep Vein Thrombosis</em> / DVT).</li>
+<ul><li><strong>Fokus Utama</strong>: Mengontrol peradangan dan mencegah penggumpalan darah vena dalam (<em>Deep Vein Thrombosis</em> / DVT).</li>
 <li><strong>Ankle Pumps</strong>: Menggerakkan pergelangan kaki naik-turun secara aktif untuk memompa aliran darah balik ke jantung.</li>
 <li><strong>Quad Sets (Mengencangkan Paha Depan)</strong>: Pasien menekan bagian belakang lutut ke kasur sambil mengencangkan otot paha depan (<em>quadriceps</em>). Ini adalah fondasi utama agar lutut bisa lurus sempurna (ekstensi 0 derajat).</li>
 <li><strong>Heel Slides (Meluncurkan Tumit)</strong>: Menekuk lutut perlahan dengan meluncurkan tumit ke arah bokong di atas permukaan kasur datar.</li>
+</ul>
 
 <h3>Fase 2: Minggu 3–6 (Meningkatkan Derajat Fleksi & Kekuatan Otot)</h3>
-<li><strong>Target Fleksi</strong>: Mencapai tekukan lutut 90 hingga 110 derajat.</li>
+<ul><li><strong>Target Fleksi</strong>: Mencapai tekukan lutut 90 hingga 110 derajat.</li>
 <li><strong>Straight Leg Raise (Angkat Kaki Lurus)</strong>: Mengangkat kaki dalam kondisi lutut terkunci lurus setinggi 30 cm dari kasur untuk memperkuat otot paha dan fleksor panggul.</li>
 <li><strong>Latihan Duduk-ke-Berdiri (Sit-to-Stand)</strong>: Melatih transfer posisi dari kursi dengan tumpuan berat badan seimbang pada kedua kaki.</li>
 <li><strong>Transisi Alat Bantu Jalan</strong>: Fisioterapis memandu transisi aman dari kruk ganda ke tongkat tunggal, lalu berjalan mandiri.</li>
+</ul>
 
 <h3>Fase 3: Minggu 7–12 (Ketahanan, Keseimbangan & Kemandirian Penuh)</h3>
-<li>Melatih berjalan di permukaan yang bervariasi, menaiki dan menuruni tangga dengan pola biomekanik yang benar, serta latihan sepeda statis untuk mempertahankan kelenturan sendi jangka panjang.</li>
+<ul><li>Melatih berjalan di permukaan yang bervariasi, menaiki dan menuruni tangga dengan pola biomekanik yang benar, serta latihan sepeda statis untuk mempertahankan kelenturan sendi jangka panjang.</li>
+</ul>
 
 <h2>Manfaat Nyata Fisioterapi Homecare Pasca Operasi Lutut</h2>
 
-<li><strong>Perawatan Luka Bersih dan Steril</strong>: Fisioterapis dan perawat Joy of Care dapat berkolaborasi memantau luka bekas jahitan operasi agar tetap kering dan bebas dari tanda-tanda infeksi lokal.</li>
+<ul><li><strong>Perawatan Luka Bersih dan Steril</strong>: Fisioterapis dan perawat Joy of Care dapat berkolaborasi memantau luka bekas jahitan operasi agar tetap kering dan bebas dari tanda-tanda infeksi lokal.</li>
 <li><strong>Kenyamanan Maksimal</strong>: Latihan peregangan sendi lutut pascaoperasi sering kali menimbulkan rasa ngilu. Berada di rumah sendiri memberikan ketenangan psikologis yang membuat pasien lebih rileks dan kooperatif.</li>
 <li><strong>Pemberian Edukasi Ergonomi Rumah Tangga</strong>: Fisioterapis dapat langsung mengajarkan cara aman masuk-keluar bak mandi, ketinggian kursi toilet yang aman, dan posisi tidur yang benar.</li>
+</ul>
 
 <h2>Tahapan Fase Rehabilitasi Pasca-Operasi Penggantian Sendi Lutut (Total Knee Replacement)</h2>
 
 Pemulihan pascaoperasi lutut membutuhkan disiplin tinggi dan terbagi menjadi beberapa fase klinis terstruktur:
-<li><strong>Fase Akut (Minggu 1–2)</strong>: Fokus utama adalah meredakan pembengkakan jaringan dengan protokol RICE (Rest, Ice, Compression, Elevation), aktivasi otot quadriceps (<em>quad sets</em>), dan melatih ekstensi penuh (lutut lurus 0 derajat).</li>
+<ul><li><strong>Fase Akut (Minggu 1–2)</strong>: Fokus utama adalah meredakan pembengkakan jaringan dengan protokol RICE (Rest, Ice, Compression, Elevation), aktivasi otot quadriceps (<em>quad sets</em>), dan melatih ekstensi penuh (lutut lurus 0 derajat).</li>
 <li><strong>Fase Penguatan & Fleksi (Minggu 3–6)</strong>: Menargetkan rentang gerak tekuk lutut mencapai 90–110 derajat, latihan transfer mandiri, dan melatih pola jalan normal tanpa pincang.</li>
 <li><strong>Fase Fungsional (Minggu 7–12)</strong>: Latihan menaiki tangga, latihan proprioseptif berdiri satu kaki, dan penguatan otot gluteus serta hamstring.</li>
+</ul>
 
 Dengan memanfaatkan [Layanan Fisioterapi Homecare Joy of Care](/layanan/fisioterapi), pasien tidak perlu menanggung rasa sakit akibat naik-turun mobil menuju rumah sakit. Perawatan luka sayatan operasi yang higienis dapat didampingi oleh [layanan perawat medis homecare](/layanan/perawat-homecare) untuk mencegah risiko infeksi prostetik sendi. Konsultasi berkala dengan dokter juga dapat dilakukan melalui [layanan panggil dokter ke rumah](/layanan/panggil-dokter).
 
@@ -98,9 +113,10 @@ Dengan memanfaatkan [Layanan Fisioterapi Homecare Joy of Care](/layanan/fisioter
 
 <h3>Checklist Harian Manajemen Pemulihan Gerak & Sendi di Rumah</h3>
 Pencegahan komplikasi pasca-cedera atau pascaoperasi membutuhkan kedisiplinan pemantauan setiap hari:
-<li><strong>Pemeriksaan Suhu & Tanda Infeksi Lokal</strong>: Raba area di sekitar sendi; bila teraba panas membara, sangat merah, atau keluar nanah, segera laporkan ke tim medis.</li>
+<ul><li><strong>Pemeriksaan Suhu & Tanda Infeksi Lokal</strong>: Raba area di sekitar sendi; bila teraba panas membara, sangat merah, atau keluar nanah, segera laporkan ke tim medis.</li>
 <li><strong>Protokol Elevasi Kaki saat Berbaring</strong>: Sangga tungkai dengan 1–2 bantal empuk agar posisinya lebih tinggi dari dada guna melancarkan aliran balik vena.</li>
 <li><strong>Latihan Pompa Ankle (Ankle Pumps)</strong>: Gerakkan pergelangan kaki ke atas dan bawah sebanyak 20 kali setiap jam untuk mencegah penggumpalan darah vena dalam (<em>DVT</em>).</li>
+</ul>
 
 
 

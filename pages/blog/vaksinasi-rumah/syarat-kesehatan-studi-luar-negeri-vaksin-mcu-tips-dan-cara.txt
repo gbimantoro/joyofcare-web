@@ -6,48 +6,58 @@ meta_description: 'Panduan jenis vaksin wajib untuk kuliah di Australia, UK, & U
   MMR, Meningitis, Hepatitis, & Tdap. Layanan vaksin ke rumah Joy of Care WA 08811-118-911!'
 primary_keyword: panduan vaksin wajib studi australia uk usa
 secondary_keywords:
-<li>jadwal vaksinasi mahasiswa baru luar negeri</li>
+<ul><li>jadwal vaksinasi mahasiswa baru luar negeri</li>
 <li>vaksin meningitis asrama kampus amerika</li>
 <li>syarat imunisasi visa pelajar inggris</li>
 <li>sertifikat vaksinasi internasional mahasiswa</li>
+</ul>
 variation_type: tips-dan-cara
 faq:
-<li>question: Berapa lama jeda waktu minimum antara penyuntikan vaksin pertama dengan</li>
+<ul><li>question: Berapa lama jeda waktu minimum antara penyuntikan vaksin pertama dengan</li>
+</ul>
     vaksin kedua?
   answer: Untuk vaksin hidup yang dilemahkan seperti MMR atau Varicella, jika tidak
     diberikan bersamaan pada hari yang sama, wajib diberi jeda minimal 28 hari (4
     minggu) agar antibodi dosis pertama tidak menetralkan antigen dosis kedua. Untuk
     vaksin inaktif seperti Hepatitis B, dosis kedua berjarak 1 bulan dan dosis ketiga
     berjarak 5 bulan dari dosis kedua.
-<li>question: Apakah calon mahasiswa bisa menerima beberapa jenis vaksin sekaligus dalam</li>
+<ul><li>question: Apakah calon mahasiswa bisa menerima beberapa jenis vaksin sekaligus dalam</li>
+</ul>
     satu hari kunjungan ke rumah?
   answer: Bisa. Berdasarkan panduan Centers for Disease Control and Prevention (CDC),
     pemberian beberapa vaksin berbeda secara simultan (misalnya vaksin MMR di lengan
     kiri dan vaksin Meningitis MenACWY di lengan kanan) terbukti sangat aman, efektif,
     dan tidak menurunkan respons imun tubuh.
-<li>question: Dokumen apa yang akan diterima mahasiswa setelah menyelesaikan vaksinasi</li>
+<ul><li>question: Dokumen apa yang akan diterima mahasiswa setelah menyelesaikan vaksinasi</li>
+</ul>
     di Joy of Care?
   answer: Mahasiswa akan mendapatkan lembar formulir universitas yang telah diisi
     lengkap dan distempel dokter ber-SIP, buku catatan vaksinasi internasional berstandar
     WHO (International Certificate of Vaccination / ICV) bila diperlukan, serta lembar
     rincian nomor batch/lot vaksin untuk rekam medis pribadi.
 internal_links:
-<li>anchor: Layanan Vaksinasi di Rumah Joy of Care</li>
+<ul><li>anchor: Layanan Vaksinasi di Rumah Joy of Care</li>
+</ul>
   url: /layanan/vaksinasi-di-rumah
-<li>anchor: Layanan Cek Lab Darah di Rumah</li>
+<ul><li>anchor: Layanan Cek Lab Darah di Rumah</li>
+</ul>
   url: /layanan/cek-lab-di-rumah
-<li>anchor: Layanan Panggil Dokter ke Rumah Jakarta</li>
+<ul><li>anchor: Layanan Panggil Dokter ke Rumah Jakarta</li>
+</ul>
   url: /layanan/panggil-dokter
 cta_text: Konsultasi Dokter Gratis via WhatsApp negeri langsung via WhatsApp Joy of
   Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
 clinical_references:
-<li>Centers for Disease Control and Prevention (CDC) - Recommended Adult Immunization</li>
+<ul><li>Centers for Disease Control and Prevention (CDC) - Recommended Adult Immunization</li>
+</ul>
   Schedule by Age Group
-<li>Australian Immunisation Handbook - Catch-up Vaccination Guidelines for Adolescents</li>
+<ul><li>Australian Immunisation Handbook - Catch-up Vaccination Guidelines for Adolescents</li>
+</ul>
   and Young Adults
-<li>UK Health Security Agency (UKHSA) - Meningococcal ACWY Immunisation Programme for</li>
+<ul><li>UK Health Security Agency (UKHSA) - Meningococcal ACWY Immunisation Programme for</li>
+</ul>
   University Entrants
 ---
 
@@ -69,21 +79,24 @@ Berikut adalah perbandingan persyaratan vaksinasi yang paling umum diwajibkan ol
 
 <h3>1. Persyaratan Kuliah di Amerika Serikat (USA)</h3>
 Perguruan tinggi di Amerika Serikat (mengikuti pedoman <em>American College Health Association</em> / ACHA) menerapkan regulasi imunisasi paling komprehensif di dunia:
-<li><strong>Vaksin MMR (Measles, Mumps, Rubella)</strong>: Wajib 2 dosis seumur hidup yang diberikan setelah ulang tahun ke-1. Dosis kedua wajib berjarak minimal 28 hari dari dosis pertama.</li>
+<ul><li><strong>Vaksin MMR (Measles, Mumps, Rubella)</strong>: Wajib 2 dosis seumur hidup yang diberikan setelah ulang tahun ke-1. Dosis kedua wajib berjarak minimal 28 hari dari dosis pertama.</li>
 <li><strong>Vaksin Meningitis MenACWY</strong>: Wajib 1 dosis yang diberikan dalam kurun waktu 5 tahun terakhir (atau pada usia 16 tahun ke atas) bagi seluruh mahasiswa tahun pertama yang tinggal di asrama kampus (<em>residence halls</em>).</li>
 <li><strong>Vaksin Tdap (Tetanus-Diphtheria-Pertussis)</strong>: Wajib 1 dosis dalam 10 tahun terakhir. Vaksin Td biasa tanpa komponen pertusis sering kali ditolak.</li>
 <li><strong>Vaksin Varicella (Cacar Air)</strong>: Wajib 2 dosis atau melampirkan hasil tes titer antibodi IgG darah positif.</li>
 <li><strong>Vaksin Hepatitis B</strong>: Wajib 3 dosis lengkap (atau titer Anti-HBs positif).</li>
+</ul>
 
 <h3>2. Persyaratan Kuliah di Inggris (United Kingdom / UK)</h3>
-<li><strong>Pemeriksaan Bebas Tuberkulosis (TB Certificate)</strong>: Wajib menjalani rontgen dada di klinik panel resmi IOM sebelum mengajukan <em>Student Visa</em>.</li>
+<ul><li><strong>Pemeriksaan Bebas Tuberkulosis (TB Certificate)</strong>: Wajib menjalani rontgen dada di klinik panel resmi IOM sebelum mengajukan <em>Student Visa</em>.</li>
 <li><strong>Vaksin Meningitis MenACWY</strong>: Sangat diwajibkan oleh National Health Service (NHS) bagi seluruh mahasiswa baru di bawah usia 25 tahun yang memasuki universitas Inggris untuk pertama kali.</li>
 <li><strong>Vaksin MMR</strong>: Wajib membuktikan telah menerima 2 dosis vaksin campak dan rubela.</li>
+</ul>
 
 <h3>3. Persyaratan Kuliah di Australia</h3>
-<li><strong>Visa Health Requirement (Subclass 500)</strong>: Pemeriksaan rontgen dada dan uji medis umum melalui sistem elektronik <em>eMedical</em> dengan HAP ID.</li>
+<ul><li><strong>Visa Health Requirement (Subclass 500)</strong>: Pemeriksaan rontgen dada dan uji medis umum melalui sistem elektronik <em>eMedical</em> dengan HAP ID.</li>
 <li><strong>Vaksin MMR & DTP</strong>: Sebagian besar universitas meminta bukti vaksinasi masa kecil lengkap atau tes titer antibodi darah.</li>
 <li><strong>Vaksinasi Khusus Rumpun Medis</strong>: Mahasiswa kedokteran, keperawatan, fisioterapi, dan kedokteran gigi wajib melampirkan bukti lengkap vaksin Hepatitis B (3 dosis + Anti-HBs > 10 mIU/mL), MMR, Varicella, serta tes skrining TBC darah (<em>IGRA test</em>).</li>
+</ul>
 
 ---
 
@@ -96,15 +109,17 @@ Unduh berkas <em>Immunization History Form</em> resmi dari portal universitas An
 
 <h3>Langkah 2: Buat Garis Waktu Penyuntikan (Timeline Roadmap)</h3>
 Konsultasikan dengan dokter Joy of Care untuk merancang jadwal:
-<li><strong>Hari Ke-0 (Kunjungan Pertama)</strong>: Vaksin MMR (Dosis 1) disuntikkan bersamaan dengan Vaksin Meningitis MenACWY (Lengan Kanan dan Lengan Kiri).</li>
+<ul><li><strong>Hari Ke-0 (Kunjungan Pertama)</strong>: Vaksin MMR (Dosis 1) disuntikkan bersamaan dengan Vaksin Meningitis MenACWY (Lengan Kanan dan Lengan Kiri).</li>
 <li><strong>Hari Ke-30 (Kunjungan Kedua / 1 Bulan Kemudian)</strong>: Vaksin MMR (Dosis 2) disuntikkan bersamaan dengan Vaksin Booster Tdap.</li>
 <li><strong>Hari Ke-45 (Kunjungan Ketiga / 2 Minggu Sebelum Terbang)</strong>: Vaksinasi Influenza tahunan untuk perlindungan saluran napas selama perjalanan udara dan adaptasi cuaca di negara tujuan.</li>
+</ul>
 
 <h3>Langkah 3: Menjalani Penyuntikan Steril di Hunian Anda</h3>
 Perawat atau dokter Joy of Care datang membawa <em>cool box</em> pendingin bersuhu 2–8°C berstandar WHO:
-<li>Vaksin diperlihatkan keutuhan segelnya kepada Anda.</li>
+<ul><li>Vaksin diperlihatkan keutuhan segelnya kepada Anda.</li>
 <li>Penyuntikan intramuskular dilakukan dengan jarum mikro sekali pakai yang nyaris tanpa rasa sakit.</li>
 <li>Anda diobservasi selama 15–30 menit santai di kamar tidur untuk memastikan tidak ada reaksi alergi.</li>
+</ul>
 
 <h3>Langkah 4: Pengisian dan Legalisasi Formulir Medis Internasional</h3>
 Dokter Joy of Care melalui [Layanan Panggil Dokter ke Rumah Jakarta](/layanan/panggil-dokter) akan mengisi kolom tanggal penyuntikan pada formulir universitas, mencantumkan nama vaksin, nama produsen pabrik, nomor batch obat, menandatangani form, dan membubuhkan stempel resmi izin praktik (SIP).

@@ -7,47 +7,57 @@ meta_description: Ketahui tanda dan kapan harus panggil dokter ke rumah Jakarta 
   juga!
 primary_keyword: kapan harus panggil dokter ke rumah jakarta
 secondary_keywords:
-<li>tanda lansia butuh dokter ke rumah</li>
+<ul><li>tanda lansia butuh dokter ke rumah</li>
 <li>kondisi yang bisa ditangani dokter homecare</li>
 <li>kapan harus ke igd vs dokter panggilan</li>
 <li>triase medis darurat lansia</li>
+</ul>
 variation_type: kapan-harus
 faq:
-<li>question: Gejala apa saja yang aman dan tepat ditangani oleh dokter panggilan ke</li>
+<ul><li>question: Gejala apa saja yang aman dan tepat ditangani oleh dokter panggilan ke</li>
+</ul>
     rumah?
   answer: Demam sedang, flu batuk pilek, diare tanpa dehidrasi berat, hipertensi terkontrol,
     gula darah tidak stabil ringan, infeksi saluran kemih, penggantian selang kateter/NGT,
     perawatan luka, dan kontrol penyakit degeneratif lansia.
-<li>question: Gejala apa yang TIDAK boleh ditangani dokter ke rumah dan wajib langsung</li>
+<ul><li>question: Gejala apa yang TIDAK boleh ditangani dokter ke rumah dan wajib langsung</li>
+</ul>
     ke IGD?
   answer: Nyeri dada seperti tertindih beban berat menjalar ke lengan/leher, sesak
     napas berat dengan bibir kebiruan, kelemahan separuh badan mendadak (tanda stroke
     akut), kejang berulang, penurunan kesadaran, atau pendarahan hebat tak berhenti.
-<li>question: Apakah demam pada bayi baru lahir boleh menunggu dokter datang ke rumah?</li>
+<ul><li>question: Apakah demam pada bayi baru lahir boleh menunggu dokter datang ke rumah?</li>
+</ul>
   answer: Demam pada bayi di bawah usia 3 bulan adalah kondisi kegawatdaruratan medis
     yang harus segera dibawa ke IGD rumah sakit untuk pemeriksaan sepsis neonatal
     komprehensif.
-<li>question: Bagaimana jika dokter panggilan menemukan kondisi pasien memburuk saat</li>
+<ul><li>question: Bagaimana jika dokter panggilan menemukan kondisi pasien memburuk saat</li>
+</ul>
     diperiksa?
   answer: Dokter Joy of Care akan segera melakukan stabilisasi darurat dasar dan mendampingi
     koordinasi pemanggilan ambulans menuju IGD rumah sakit rujukan terdekat.
 internal_links:
-<li>anchor: Panduan Lengkap Panggil Dokter ke Rumah Jakarta</li>
+<ul><li>anchor: Panduan Lengkap Panggil Dokter ke Rumah Jakarta</li>
+</ul>
   url: /blog/panggil-dokter-ke-rumah-jakarta-panduan-lengkap
-<li>anchor: Layanan Panggil Dokter ke Rumah Joy of Care</li>
+<ul><li>anchor: Layanan Panggil Dokter ke Rumah Joy of Care</li>
+</ul>
   url: /layanan/panggil-dokter
-<li>anchor: Layanan Perawat Homecare Medis 24 Jam</li>
+<ul><li>anchor: Layanan Perawat Homecare Medis 24 Jam</li>
+</ul>
   url: /layanan/perawat-homecare
-<li>anchor: Layanan Fisioterapi di Rumah</li>
+<ul><li>anchor: Layanan Fisioterapi di Rumah</li>
+</ul>
   url: /layanan/fisioterapi
 cta_text: Hubungi WhatsApp JoC untuk informasi harga langsung via WhatsApp Joy of
   Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
 clinical_references:
-<li>American College of Emergency Physicians (ACEP) - Emergency vs Urgent Care Guidelines</li>
+<ul><li>American College of Emergency Physicians (ACEP) - Emergency vs Urgent Care Guidelines</li>
 <li>Kementerian Kesehatan RI - Sistem Penanggulangan Gawat Darurat Terpadu (SPGDT)</li>
 <li>Perhimpunan Gerontologi Medik Indonesia (PERGEMI) - Tanda Bahaya Pasien Geriatri</li>
+</ul>
   Akut
 ---
 
@@ -73,9 +83,10 @@ Jika anggota keluarga Anda mengalami salah satu dari kondisi berikut, memanfaatk
 Lansia yang mengalami demensia, pascastroke, patah tulang panggul, atau penyakit Parkinson stadium lanjut sangat rentan mengalami cedera jika harus dipindahkan naik-turun mobil. Dokter datang langsung ke ranjang pasien untuk melakukan evaluasi klinis menyeluruh, memeriksa tekanan darah, dan mendeteksi komplikasi awal seperti dehidrasi atau infeksi paru. Jika ada defisit mobilitas, terapi gerak dapat dilanjutkan dengan [Layanan Fisioterapi di Rumah](/layanan/fisioterapi).
 
 <h3>2. Penyakit Akut Non-Gawat Darurat yang Menyerang Tiba-Tiba</h3>
-<li><strong>Demam dan Infeksi Saluran Napas</strong>: Demam hari ke-2 atau ke-3 yang disertai batuk pilek dan nyeri tenggorokan tanpa sesak napas. Dokter dapat memeriksa fisik dan mengambil sampel tes darah di rumah.</li>
+<ul><li><strong>Demam dan Infeksi Saluran Napas</strong>: Demam hari ke-2 atau ke-3 yang disertai batuk pilek dan nyeri tenggorokan tanpa sesak napas. Dokter dapat memeriksa fisik dan mengambil sampel tes darah di rumah.</li>
 <li><strong>Gangguan Pencernaan Akut</strong>: Diare atau muntah berulang tanpa tanda dehidrasi berat (pasien masih bisa minum cairan sedikit-sedikit). Dokter dapat meresepkan antiemetik dan terapi cairan rehidrasi intravena.</li>
 <li><strong>Gejala Infeksi Saluran Kemih (ISK)</strong>: Lansia yang mengeluh nyeri buang air kecil, urine berbau menyengat atau keruh, disertai demam sumeng.</li>
+</ul>
 
 <h3>3. Pemantauan dan Kalibrasi Obat Penyakit Kronis</h3>
 Penderita hipertensi, diabetes melitus tipe 2, gagal jantung stabil, atau asam urat kronis membutuhkan evaluasi berkala. Dokter home visit memeriksa kestabilan organ, mengevaluasi interaksi polifarmasi, dan menyesuaikan dosis obat harian tanpa pasien harus kelelahan di rumah sakit. Pendampingan obat harian ini dapat dibantu oleh [Layanan Perawat Homecare Medis 24 Jam](/layanan/perawat-homecare).
@@ -94,16 +105,18 @@ Sering kali penurunan kondisi fisik lansia di rumah bukan disebabkan oleh penyak
 <h2>⚠️ Kapan Pasien TIDAK Boleh Menunggu Dokter dan WAJIB Langsung ke IGD?</h2>
 
 Jika Anda menemukan salah satu dari <em></em>Tanda Bahaya (<em>Red Flags</em>)<em></em> di bawah ini, jangan menunggu dokter ke rumah! Segera panggil ambulans darurat atau larikan pasien ke IGD rumah sakit terdekat:
-<li><strong>Curiga Serangan Jantung Akut</strong>: Nyeri dada hebat seperti tertindih beban berat atau diremas di dada tengah/kiri, menjalar ke rahang, leher, atau lengan kiri, disertai keringat dingin dan sesak napas.</li>
+<ul><li><strong>Curiga Serangan Jantung Akut</strong>: Nyeri dada hebat seperti tertindih beban berat atau diremas di dada tengah/kiri, menjalar ke rahang, leher, atau lengan kiri, disertai keringat dingin dan sesak napas.</li>
 <li><strong>Curiga Serangan Stroke Akut (FAST Protocol)</strong>:</li>
+</ul>
    * <strong>Face</strong>: Wajah tampak mencong sebelah saat tersenyum.
    * <strong>Arms</strong>: Salah satu lengan atau tungkai mendadak lemas dan tidak bisa diangkat.
    * <strong>Speech</strong>: Bicara menjadi pelo, cadel, atau tidak mengerti perkataan orang lain.
    <em> <strong>Time</strong>: Segera ke RS dalam </em>golden period* kurang dari 4,5 jam!
-<li><strong>Penurunan Kesadaran Mendadak</strong>: Pasien tidak merespons panggilan suara, pingsan, mengigau parah, atau tidak bisa dibangunkan sama sekali.</li>
+<ul><li><strong>Penurunan Kesadaran Mendadak</strong>: Pasien tidak merespons panggilan suara, pingsan, mengigau parah, atau tidak bisa dibangunkan sama sekali.</li>
 <li><strong>Gagal Napas Berat</strong>: Pasien bernapas tersengal-sengal (>30 kali per menit), menggunakan otot leher/dada untuk bernapas, atau bibir dan kuku tampak kebiruan (<em>sianosis</em>).</li>
 <li><strong>Kejang Berulang atau Berlangsung Lebih dari 5 Menit</strong>: Terutama pada penderita epilepsi atau lansia dengan infeksi otak.</li>
 <li><strong>Pendarahan Masif yang Tidak Berhenti</strong>: Muntah darah berwarna hitam pekat (<em>hematemesis</em>), BAB darah segar dalam jumlah banyak, atau cedera kepala berat akibat benturan keras.</li>
+</ul>
 
 <h2>Pertanyaan yang Sering Diajukan (FAQ)</h2>
 

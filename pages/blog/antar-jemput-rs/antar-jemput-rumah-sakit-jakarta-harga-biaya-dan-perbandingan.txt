@@ -6,13 +6,15 @@ meta_description: 'Perbandingan layanan antar jemput pasien ke RS: Joy of Care v
   taksi online atau ambulans gawat darurat. Konsultasi via WhatsApp Joy of Care 08811-118-911!'
 primary_keyword: antar jemput ke rs joy of care vs transport lain
 secondary_keywords:
-<li>keunggulan transportasi medis non darurat</li>
+<ul><li>keunggulan transportasi medis non darurat</li>
 <li>perbandingan biaya sewa mobil pasien vs taksi</li>
 <li>bahaya membawa lansia sakit dengan taksi online</li>
 <li>fasilitas ambulans transport joy of care</li>
+</ul>
 variation_type: biaya-dan-perbandingan
 faq:
-<li>question: Mengapa menggunakan taksi daring konvensional dinilai berisiko bagi pasien</li>
+<ul><li>question: Mengapa menggunakan taksi daring konvensional dinilai berisiko bagi pasien</li>
+</ul>
     lanjut usia atau pascaoperasi?
   answer: Mobil penumpang umum memiliki kabin sempit dengan pintu berundak tinggi
     yang menyulitkan proses transfer lansia, jok mobil tidak dirancang menopang tulang
@@ -20,7 +22,8 @@ faq:
     tidak tersedia tabung oksigen darurat bila pasien sesak napas di jalan, serta
     pengemudi kerap membatalkan pesanan secara sepihak saat melihat pasien memakai
     kursi roda.
-<li>question: Apa perbedaan antara armada transportasi medis non-darurat (Joy of Care)</li>
+<ul><li>question: Apa perbedaan antara armada transportasi medis non-darurat (Joy of Care)</li>
+</ul>
     dengan ambulans gawat darurat (Ambulans 118 / RS)?
   answer: Ambulans gawat darurat dirancang untuk kondisi kritis yang mengancam nyawa
     (seperti serangan jantung akut atau kecelakaan lalu lintas) dengan sirine berkecepatan
@@ -28,7 +31,8 @@ faq:
     perjalanan medis terjadwal (seperti kontrol poliklinik, cuci darah, kemoterapi)
     dengan suspensi empuk tanpa sirine stres, dan perawat yang ikut mendampingi di
     dalam rumah sakit.
-<li>question: Bagaimana perbandingan biaya riil antara menyewa mobil Joy of Care PP</li>
+<ul><li>question: Bagaimana perbandingan biaya riil antara menyewa mobil Joy of Care PP</li>
+</ul>
     dengan akumulasi biaya taksi online plus sewa kursi roda mandiri?
   answer: Meskipun tarif taksi online terlihat lebih murah di awal per perjalanan,
     menyewa taksi PP ditambah biaya sewa kursi roda lipat, biaya tip pengemudi, biaya
@@ -36,22 +40,28 @@ faq:
     di faskes menjadikan total nilai layanan Joy of Care jauh lebih hemat, aman, dan
     bebas stres.
 internal_links:
-<li>anchor: Layanan Antar Jemput ke Rumah Sakit Joy of Care</li>
+<ul><li>anchor: Layanan Antar Jemput ke Rumah Sakit Joy of Care</li>
+</ul>
   url: /layanan/antar-jemput-rs
-<li>anchor: Layanan Perawat Medis Homecare</li>
+<ul><li>anchor: Layanan Perawat Medis Homecare</li>
+</ul>
   url: /layanan/perawat-homecare
-<li>anchor: Layanan Panggil Dokter ke Rumah Jakarta</li>
+<ul><li>anchor: Layanan Panggil Dokter ke Rumah Jakarta</li>
+</ul>
   url: /layanan/panggil-dokter
 cta_text: Hubungi WhatsApp JoC untuk informasi harga dan sekitarnya langsung via WhatsApp
   Joy of Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
 clinical_references:
-<li>Journal of Healthcare Management - Comparative Assessment of Non-Emergency Medical</li>
+<ul><li>Journal of Healthcare Management - Comparative Assessment of Non-Emergency Medical</li>
+</ul>
   Transportation Modes
-<li>American Hospital Association (AHA) - Transportation and the Role of Hospitals in</li>
+<ul><li>American Hospital Association (AHA) - Transportation and the Role of Hospitals in</li>
+</ul>
   Improving Patient Health Outcomes
-<li>Ministry of Transportation Republic of Indonesia - Standar Keselamatan Angkutan</li>
+<ul><li>Ministry of Transportation Republic of Indonesia - Standar Keselamatan Angkutan</li>
+</ul>
   Khusus Disabilitas dan Lansia
 ---
 
@@ -105,14 +115,16 @@ Rumah sakit besar di Jakarta memiliki gedung bertingkat dengan lorong yang sanga
 
 Mari kita bedah perbandingan pengeluaran riil untuk satu hari kontrol poliklinik spesialis di Jakarta Pusat:
 
-<li><strong>Simulasi Opsi A (Transportasi Konvensional & Mandiri)</strong>:</li>
+<ul><li><strong>Simulasi Opsi A (Transportasi Konvensional & Mandiri)</strong>:</li>
+</ul>
   * Biaya taksi online pulang-pergi yang berfluktuasi tajam akibat kemacetan dan cuaca hujan.
   * Biaya sewa kursi roda portabel harian dan risiko pengemudi menolak membawa pasien berisiko tinggi.
   * Kelelahan fisik anggota keluarga yang harus membopong pasien masuk-keluar mobil pribadi.
   * Kehilangan produktivitas kerja seharian penuh karena harus mengantre dan mengurus administrasi RS sendirian.
   * <strong>Hasil</strong>: Biaya tak terduga membengkak, pasien rentan mengalami cedera sendi, dan keluarga dilanda stres berat.
 
-<li><strong>Simulasi Opsi B (Joy of Care NEMT Transport Medis Khusus)</strong>:</li>
+<ul><li><strong>Simulasi Opsi B (Joy of Care NEMT Transport Medis Khusus)</strong>:</li>
+</ul>
   * Paket antar jemput pulang-pergi all-in transparan tanpa lonjakan tarif tersembunyi.
   * Armada mobil medis berfasilitas ramp kursi roda hidrolik, brankar ambulans, dan suspensi lembut anti-guncangan.
   * Jasa perawat ber-STR mengawal sepanjang hari di RS: mendampingi dokter poliklinik, membantu transfer pasien, dan mengurus antrean obat di faskes.

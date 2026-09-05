@@ -6,53 +6,64 @@ meta_description: 'Panduan lengkap kesehatan lansia sehat rutinitas harian di Ja
   nutrisi, hidrasi, mobilitas fisik, & mental. Hubungi WhatsApp Joy of Care 08811-118-911!'
 primary_keyword: kesehatan lansia sehat rutinitas harian
 secondary_keywords:
-<li>pola hidup sehat lansia di rumah</li>
+<ul><li>pola hidup sehat lansia di rumah</li>
 <li>jadwal aktivitas harian orang tua</li>
 <li>tips lansia bugar dan mandiri</li>
 <li>konsultasi geriatri jakarta</li>
+</ul>
 variation_type: panduan-lengkap
 faq:
-<li>question: Mengapa rutinitas harian yang terjadwal sangat penting bagi kesehatan</li>
+<ul><li>question: Mengapa rutinitas harian yang terjadwal sangat penting bagi kesehatan</li>
+</ul>
     fisik dan mental lansia?
   answer: Rutinitas yang teratur memberikan rasa kepastian dan stabilitas psikologis,
     mengurangi risiko disorientasi atau kecemasan pada lansia, menjaga ritme sirkadian
     tidur alami, serta memastikan jadwal minum obat, makan bernutrisi, dan aktivitas
     fisik terlaksana secara konsisten setiap hari.
-<li>question: Berapa lama durasi olahraga atau aktivitas fisik yang aman bagi lansia</li>
+<ul><li>question: Berapa lama durasi olahraga atau aktivitas fisik yang aman bagi lansia</li>
+</ul>
     setiap harinya?
   answer: Organisasi Kesehatan Dunia (WHO) dan Perhimpunan Gerontologi Medik Indonesia
     merekomendasikan lansia melakukan aktivitas fisik intensitas sedang selama minimal
     150 menit per minggu, atau sekitar 20 hingga 30 menit per hari, seperti jalan
     santai, latihan keseimbangan statis, atau senam peregangan sendi.
-<li>question: Bagaimana cara mengatur asupan cairan agar lansia tidak mengalami dehidrasi</li>
+<ul><li>question: Bagaimana cara mengatur asupan cairan agar lansia tidak mengalami dehidrasi</li>
+</ul>
     tanpa sering terbangun buang air kecil di malam hari?
   answer: Anjurkan lansia minum air putih hangat secara berkala sebanyak 1.500–2.000
     ml antara pagi hingga sore hari pukul 17.00. Kurangi asupan cairan berlebih dan
     hindari minuman berkafein (teh atau kopi) mendekati jam tidur malam guna mencegah
     nocturia yang memicu risiko jatuh saat ke kamar mandi.
-<li>question: Kapan keluarga sebaiknya mengundang tenaga medis atau fisioterapis ke</li>
+<ul><li>question: Kapan keluarga sebaiknya mengundang tenaga medis atau fisioterapis ke</li>
+</ul>
     rumah untuk mengevaluasi rutinitas orang tua?
   answer: Evaluasi medis ke rumah dianjurkan bila orang tua mulai tampak enggan beranjak
     dari tempat tidur, sering lupa minum obat kronis, berjalan tertatih-tatih atau
     kehilangan keseimbangan, atau mengalami penurunan nafsu makan yang drastis.
 internal_links:
-<li>anchor: Layanan Panggil Dokter ke Rumah Jakarta</li>
+<ul><li>anchor: Layanan Panggil Dokter ke Rumah Jakarta</li>
+</ul>
   url: /layanan/panggil-dokter
-<li>anchor: Layanan Fisioterapi di Rumah Joy of Care</li>
+<ul><li>anchor: Layanan Fisioterapi di Rumah Joy of Care</li>
+</ul>
   url: /layanan/fisioterapi-di-rumah
-<li>anchor: Layanan Perawat Medis Homecare</li>
+<ul><li>anchor: Layanan Perawat Medis Homecare</li>
+</ul>
   url: /layanan/perawat-homecare
-<li>anchor: Layanan Cek Lab Darah di Rumah</li>
+<ul><li>anchor: Layanan Cek Lab Darah di Rumah</li>
+</ul>
   url: /layanan/cek-lab-di-rumah
 cta_text: Hubungi WhatsApp JoC untuk informasi harga langsung via WhatsApp Joy of
   Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
 clinical_references:
-<li>World Health Organization (WHO) - Integrated Care for Older People (ICOPE) Guidelines</li>
+<ul><li>World Health Organization (WHO) - Integrated Care for Older People (ICOPE) Guidelines</li>
 <li>Indonesian Society of Internal Medicine (PAPDI) - Konsensus Tata Laksana Geriatri</li>
+</ul>
   dan Penuaan Sehat
-<li>American Geriatrics Society (AGS) - Daily Physical Activity and Cognitive Health</li>
+<ul><li>American Geriatrics Society (AGS) - Daily Physical Activity and Cognitive Health</li>
+</ul>
   in Older Adults
 ---
 
@@ -110,9 +121,10 @@ Berikut adalah panduan jadwal aktivitas harian yang direkomendasikan dokter spes
 <h2>Tips Manajemen Nutrisi dan Pengaturan Obat Kronis</h2>
 
 Banyak lansia di Jakarta mengonsumsi lebih dari 3 hingga 5 jenis obat setiap harinya (<em>polifarmasi</em>) untuk mengendalikan hipertensi, diabetes, atau kolesterol tinggi. Pengelolaan nutrisi dan obat yang tepat meliputi:
-<li><em></em>Gunakan Kotak Obat Harian Bersekat (<em>Pill Organizer Box</em>)<em></em>: Pisahkan obat ke dalam sekat Pagi, Siang, Sore, dan Malam dengan label warna mencolok untuk mencegah risiko lupa minum atau overdosis ganda.</li>
+<ul><li><em></em>Gunakan Kotak Obat Harian Bersekat (<em>Pill Organizer Box</em>)<em></em>: Pisahkan obat ke dalam sekat Pagi, Siang, Sore, dan Malam dengan label warna mencolok untuk mencegah risiko lupa minum atau overdosis ganda.</li>
 <li><strong>Kombinasi Protein Berkualitas Tinggi</strong>: Sajikan protein lembut yang mudah dikunyah seperti ikan kukus, tahu lembut, telur rebus, atau sup ayam tanpa lemak. Protein penting untuk mempertahankan massa otot dan daya tahan tubuh.</li>
 <li><strong>Pemeriksaan Profil Darah Rutin</strong>: Lakukan pemeriksaan laboratorium berkala untuk memantau fungsi ginjal (ureum, kreatinin), profil lipid, dan HbA1c melalui [Layanan Cek Lab Darah di Rumah](/layanan/cek-lab-di-rumah) setiap 3 hingga 6 bulan sekali tanpa perlu repot keluar rumah.</li>
+</ul>
 
 ---
 

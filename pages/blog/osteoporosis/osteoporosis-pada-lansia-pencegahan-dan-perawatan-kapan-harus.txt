@@ -6,48 +6,58 @@ meta_description: Pelajari kapan lansia dengan osteoporosis membutuhkan terapi m
   intensif dan pendampingan fisioterapi di rumah. Hubungi WA Joy of Care 08811-118-911!
 primary_keyword: statistik osteoporosis di indonesia pada lansia
 secondary_keywords:
-<li>protokol pemulihan patah tulang lansia homecare</li>
+<ul><li>protokol pemulihan patah tulang lansia homecare</li>
 <li>angka kejadian fraktur osteoporosis jakarta</li>
 <li>pencegahan jatuh lansia bertulang rapuh</li>
 <li>program rehabilitasi ortopedi joy of care</li>
+</ul>
 variation_type: kapan-harus
 faq:
-<li>question: Berapa prevalensi kejadian osteoporosis pada populasi lanjut usia di Indonesia</li>
+<ul><li>question: Berapa prevalensi kejadian osteoporosis pada populasi lanjut usia di Indonesia</li>
+</ul>
     menurut data Kementerian Kesehatan?
   answer: Data Kementerian Kesehatan RI dan Perhimpunan Osteoporosis Indonesia (PEROSI)
     menunjukkan bahwa 2 dari 5 wanita Indonesia berusia di atas 50 tahun dan 1 dari
     5 pria di atas 60 tahun mengalami osteoporosis. Di wilayah perkotaan seperti Jakarta,
     prevalensi osteopenia dan osteoporosis bahkan mendekati 41,8% pada kelompok usia
     lanjut akibat gaya hidup minim aktivitas luar ruangan.
-<li>question: Mengapa patah tulang panggul (<em>hip fracture</em>) pada lansia dianggap sebagai</li>
+<ul><li>question: Mengapa patah tulang panggul (<em>hip fracture</em>) pada lansia dianggap sebagai</li>
+</ul>
     kondisi darurat medis yang mengancam nyawa?
   answer: Patah tulang panggul bukan hanya merusak struktur kerangka mekanis tubuh,
     namun memaksa lansia mengalami tirah baring (<em>bedridden</em>) mendadak. Imobilitas
     total ini dengan cepat memicu komplikasi fatal seperti radang paru hipostatik
     (pneumonia), emboli paru bekuan darah vena, luka tekan dekubitus yang terinfeksi
     bakteri, serta infeksi saluran kemih berulang.
-<li>question: Bagaimana protokol rehabilitasi terpadu di rumah membantu pemulihan mobilitas</li>
+<ul><li>question: Bagaimana protokol rehabilitasi terpadu di rumah membantu pemulihan mobilitas</li>
+</ul>
     lansia pasca-operasi fraktur panggul osteoporosis?
   answer: Melalui tahapan mobilisasi dini bertahap di tempat tidur, latihan menahan
     beban terarah bersama fisioterapis, suplementasi kalsium-vitamin D3 aktif, serta
     terapi antiresorptif tulang di bawah pengawasan dokter spesialis.
 internal_links:
-<li>anchor: Layanan Fisioterapi di Rumah Joy of Care</li>
+<ul><li>anchor: Layanan Fisioterapi di Rumah Joy of Care</li>
+</ul>
   url: /layanan/fisioterapi-di-rumah
-<li>anchor: Layanan Panggil Dokter ke Rumah Jakarta</li>
+<ul><li>anchor: Layanan Panggil Dokter ke Rumah Jakarta</li>
+</ul>
   url: /layanan/panggil-dokter
-<li>anchor: Layanan Perawat Medis Homecare</li>
+<ul><li>anchor: Layanan Perawat Medis Homecare</li>
+</ul>
   url: /layanan/perawat-homecare
 cta_text: Konsultasi Dokter Gratis via WhatsApp langsung via WhatsApp Joy of Care
   di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
 clinical_references:
-<li>'Kementerian Kesehatan Republik Indonesia - Data dan Kondisi Penyakit Tidak Menular:</li>
+<ul><li>'Kementerian Kesehatan Republik Indonesia - Data dan Kondisi Penyakit Tidak Menular:</li>
+</ul>
   Osteoporosis di Indonesia'
-<li>'International Osteoporosis Foundation (IOF) - The Asian Audit: Epidemiology, Costs</li>
+<ul><li>'International Osteoporosis Foundation (IOF) - The Asian Audit: Epidemiology, Costs</li>
+</ul>
   and Burden of Osteoporosis in Asia'
-<li>Journal of Bone and Mineral Metabolism - Post-Fracture Rehabilitation Outcomes in</li>
+<ul><li>Journal of Bone and Mineral Metabolism - Post-Fracture Rehabilitation Outcomes in</li>
+</ul>
   Elderly Indonesian Patients
 ---
 
@@ -68,13 +78,15 @@ Peningkatan angka harapan hidup masyarakat Indonesia membawa dampak demografis y
 Berdasarkan laporan Kementerian Kesehatan RI, Perhimpunan Osteoporosis Indonesia (PEROSI), dan International Osteoporosis Foundation (IOF):
 
 <h3>1. Prevalensi Berdasarkan Usia dan Jenis Kelamin</h3>
-<li><strong>Wanita Usia > 50 Tahun</strong>: Sebanyak 41,8% wanita lanjut usia di Indonesia terbukti mengalami osteopenia atau osteoporosis aktif. Penurunan tajam kadar estrogen pascamenopause menjadi akselerator utama pengeroposan tulang.</li>
+<ul><li><strong>Wanita Usia > 50 Tahun</strong>: Sebanyak 41,8% wanita lanjut usia di Indonesia terbukti mengalami osteopenia atau osteoporosis aktif. Penurunan tajam kadar estrogen pascamenopause menjadi akselerator utama pengeroposan tulang.</li>
 <li><strong>Pria Usia > 60 Tahun</strong>: Sekitar 21,3% pria lanjut usia menderita osteoporosis. Meskipun sering terabaikan karena dianggap "penyakit wanita", komplikasi patah tulang pada pria lansia justru memiliki angka mortalitas yang lebih tinggi.</li>
 <li><strong>Wilayah Perkotaan Jakarta</strong>: Studi densitometri di DKI Jakarta mencatat prevalensi osteopenia mencapai 38% pada lansia mandiri, dipicu oleh gaya hidup dalam ruangan (<em>indoor lifestyle</em>) dan polusi udara yang menghambat penetrasi sinar matahari.</li>
+</ul>
 
 <h3>2. Defisiensi Kalsium dan Vitamin D3 Nasional</h3>
-<li>Hasil survei gizi nasional membuktikan bahwa rata-rata konsumsi kalsium harian masyarakat Indonesia hanya berkisar antara 250 hingga 300 mg per hari—kurang dari sepertiga rekomendasi baku emas medis.</li>
+<ul><li>Hasil survei gizi nasional membuktikan bahwa rata-rata konsumsi kalsium harian masyarakat Indonesia hanya berkisar antara 250 hingga 300 mg per hari—kurang dari sepertiga rekomendasi baku emas medis.</li>
 <li>Lebih dari 65% populasi lansia di perkotaan Indonesia mengalami defisiensi vitamin D (kadar serum 25-OH-D < 20 ng/mL), akibat minimnya paparan sinar matahari pagi dan kebiasaan berpakaian tertutup penuh.</li>
+</ul>
 
 ---
 
@@ -96,26 +108,30 @@ Osteoporosis sering dijuluki sebagai pencuri tulang senyap (<em>silent thief</em
 
 <h3>1. Kriteria Indikasi Terapi Medis Agresif Osteoporosis</h3>
 Intervensi farmakologis dan rehabilitatif khusus diindikasikan pada kondisi klinis berikut:
-<li><strong>Nilai T-Score Densitometri Tulang (DEXA Scan) ≤ -2.5</strong>: Pasien terbukti mengalami osteoporosis berat, terutama bila disertai skor FRAX (<em>Fracture Risk Assessment Tool</em>) yang menunjukkan probabilitas fraktur panggul 10 tahun > 3%.</li>
+<ul><li><strong>Nilai T-Score Densitometri Tulang (DEXA Scan) ≤ -2.5</strong>: Pasien terbukti mengalami osteoporosis berat, terutama bila disertai skor FRAX (<em>Fracture Risk Assessment Tool</em>) yang menunjukkan probabilitas fraktur panggul 10 tahun > 3%.</li>
 <li><em></em>Riwayat Fraktur Kerapuhan (<em>Fragility Fracture</em>)<em></em>: Lansia mengalami patah tulang pergelangan tangan (<em>Colles fracture</em>), tulang belakang, atau panggul hanya akibat benturan ringan atau jatuh dari ketinggian berdiri.</li>
 <li><em></em>Penurunan Tinggi Badan Signifikan (> 3 cm) atau Postur Bungkuk (<em>Kifosis / Dowager's Hump</em>)<em></em>: Menandakan telah terjadinya fraktur kompresi korpus vertebra tanpa disadari oleh keluarga.</li>
+</ul>
 
 <h3>2. Protokol Farmakoterapi Penguat Tulang Berbasis Bukti</h3>
 Dokter penanggung jawab klinis merancang terapi kombinasi agen antiresorptif dan suplemen mikronutrien:
-<li><strong>Terapi Agen Antiresorptif Bisfosfonat / Antibodi Monoklonal</strong>: Pemberian preparat bisfosfonat oral mingguan (alendronat) dengan aturan minum ketat (perut kosong dengan segelas air putih dan posisi tegak 30 menit), atau injeksi antibodi monoklonal penarget RANKL (<em>Denosumab</em>) setiap 6 bulan untuk menghambat aktivitas sel osteoklas penghancur tulang.</li>
+<ul><li><strong>Terapi Agen Antiresorptif Bisfosfonat / Antibodi Monoklonal</strong>: Pemberian preparat bisfosfonat oral mingguan (alendronat) dengan aturan minum ketat (perut kosong dengan segelas air putih dan posisi tegak 30 menit), atau injeksi antibodi monoklonal penarget RANKL (<em>Denosumab</em>) setiap 6 bulan untuk menghambat aktivitas sel osteoklas penghancur tulang.</li>
 <li><strong>Suplementasi Kalsium Bioavailable</strong>: Pemberian kalsium sitrat 1.000–1.200 mg per hari terbagi dalam beberapa dosis, dipilih karena tidak memerlukan asam lambung tinggi untuk penyerapan optimal pada lansia.</li>
 <li><strong>Vitamin D3 Aktif (Kolekalsiferol) dan Vitamin K2</strong>: Pemberian vitamin D3 dosis terapeutik (1.000–5.000 IU/hari) untuk membuka gerbang penyerapan kalsium di mukosa usus, didukung vitamin K2 (<em>menaquinone-7</em>) yang mengaktifkan protein osteokalsin guna mengikat kalsium ke matriks hidroksiapatit tulang.</li>
+</ul>
 
 <h3>3. Fisioterapi Latihan Beban Aksial dan Propriosepsi di Rumah</h3>
 Latihan mekanis terarah merangsang aktivitas sel osteoblas pembentuk tulang:
-<li><em></em>Latihan Menahan Beban Terkontrol (<em>Weight-Bearing Exercises</em>)<em></em>: Melatih pasien berdiri tegak dan melangkah dengan penopangan berat badan penuh secara aman bersama fisioterapis, merangsang efek piezoelektrik pada trabekula tulang panggul.</li>
+<ul><li><em></em>Latihan Menahan Beban Terkontrol (<em>Weight-Bearing Exercises</em>)<em></em>: Melatih pasien berdiri tegak dan melangkah dengan penopangan berat badan penuh secara aman bersama fisioterapis, merangsang efek piezoelektrik pada trabekula tulang panggul.</li>
 <li><strong>Penguatan Otot Ekstensor Punggung</strong>: Latihan memperkuat otot paraspinal dan gluteus untuk mengoreksi postur kifosis dan mengurangi beban kompresi pada bagian anterior korpus vertebra.</li>
 <li><em></em>Penghindaran Gerakan Berbahaya (<em>Contraindicated Movements</em>)<em></em>: Fisioterapis melatih pasien dan keluarga untuk menghindari gerakan membungkuk ke depan (<em>trunk flexion</em>) ekstrem, mengangkat beban berat dari lantai, atau memutar pinggang mendadak yang berisiko mematahkan tulang belakang.</li>
+</ul>
 
 <h3>4. Pemantauan Biomarker dan Keamanan Jangka Panjang</h3>
 Evaluasi laboratorium dan radiologis berkala:
-<li><strong>Pemantauan Kalsium Darah dan Kadar 25-OH Vitamin D Serum</strong>: Memastikan kadar vitamin D mencapai rentang optimal 40–60 ng/mL tanpa menimbulkan hiperkalsemia.</li>
+<ul><li><strong>Pemantauan Kalsium Darah dan Kadar 25-OH Vitamin D Serum</strong>: Memastikan kadar vitamin D mencapai rentang optimal 40–60 ng/mL tanpa menimbulkan hiperkalsemia.</li>
 <li><strong>Evaluasi DEXA Scan Ulang Tiap 1–2 Tahun</strong>: Memantau peningkatan kepadatan mineral tulang (<em>Bone Mineral Density</em> / BMD) pada area leher tulang paha (<em>femoral neck</em>) dan vertebra lumbalis.</li>
+</ul>
 
 <h2>Pertanyaan yang Sering Diajukan (FAQ)</h2>
 

@@ -6,45 +6,55 @@ meta_description: Langkah persiapan dan proses terapi akupuntur medis untuk mere
   nyeri sendi lutut lansia di rumah. Konsultasi terapis Joy of Care di WA 08811-118-911!
 primary_keyword: panduan terapi akupuntur nyeri sendi lansia
 secondary_keywords:
-<li>titik akupuntur nyeri lutut orang tua</li>
+<ul><li>titik akupuntur nyeri lutut orang tua</li>
 <li>persiapan sebelum terapi tusuk jarum lansia</li>
 <li>sensasi rasa saat akupuntur medis</li>
 <li>manfaat akupuntur sendi panggul</li>
+</ul>
 variation_type: tips-dan-cara
 faq:
-<li>question: Bagaimana persiapan yang perlu dilakukan lansia di rumah sebelum terapis</li>
+<ul><li>question: Bagaimana persiapan yang perlu dilakukan lansia di rumah sebelum terapis</li>
+</ul>
     akupuntur tiba?
   answer: Pastikan lansia sudah makan ringan 1–2 jam sebelum terapi (jangan dalam
     kondisi perut kosong lapar), kenakan celana longgar atau sarung yang mudah disingkap
     hingga di atas lutut, serta pastikan area kaki sudah dibersihkan dengan mandi
     air hangat.
-<li>question: Apa itu sensasi 'De-Qi' yang sering disebut terapis saat jarum ditusukkan?</li>
+<ul><li>question: Apa itu sensasi 'De-Qi' yang sering disebut terapis saat jarum ditusukkan?</li>
+</ul>
   answer: Sensasi De-Qi adalah respon fisiologis alami serabut saraf ketika titik
     akupuntur terstimulasi dengan tepat. Pasien akan merasakan sensasi pegal tumpul,
     rasa sedikit baal, hangat, atau sensasi aliran energi lembut di sekitar sendi.
     Ini bukan rasa sakit tajam dan merupakan tanda bahwa terapi bekerja secara efektif.
-<li>question: Apa yang boleh dan tidak boleh dilakukan lansia segera setelah sesi akupuntur</li>
+<ul><li>question: Apa yang boleh dan tidak boleh dilakukan lansia segera setelah sesi akupuntur</li>
+</ul>
     selesai?
   answer: Lansia dianjurkan beristirahat santai, minum 1–2 gelas air putih hangat
     untuk membantu metabolisme tubuh, dan menghindari mandi air dingin atau kompres
     es pada sendi selama minimal 2 hingga 3 jam pascatindakan.
 internal_links:
-<li>anchor: Layanan Akupuntur Medis di Rumah Joy of Care</li>
+<ul><li>anchor: Layanan Akupuntur Medis di Rumah Joy of Care</li>
+</ul>
   url: /layanan/akupuntur-di-rumah
-<li>anchor: Layanan Fisioterapi di Rumah</li>
+<ul><li>anchor: Layanan Fisioterapi di Rumah</li>
+</ul>
   url: /layanan/fisioterapi-di-rumah
-<li>anchor: Layanan Panggil Dokter ke Rumah Jakarta</li>
+<ul><li>anchor: Layanan Panggil Dokter ke Rumah Jakarta</li>
+</ul>
   url: /layanan/panggil-dokter
 cta_text: Hubungi WhatsApp JoC untuk informasi harga langsung via WhatsApp Joy of
   Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
 clinical_references:
-<li>British Medical Acupuncture Society (BMAS) - Safety Guidelines and Clinical Protocols</li>
+<ul><li>British Medical Acupuncture Society (BMAS) - Safety Guidelines and Clinical Protocols</li>
+</ul>
   for Healthcare Professionals
-<li>'National Center for Complementary and Integrative Health (NCCIH) - Acupuncture:</li>
+<ul><li>'National Center for Complementary and Integrative Health (NCCIH) - Acupuncture:</li>
+</ul>
   What You Need To Know'
-<li>Perhimpunan Dokter Spesialis Akupunktur Medik Indonesia - Standar Operasional Prosedur</li>
+<ul><li>Perhimpunan Dokter Spesialis Akupunktur Medik Indonesia - Standar Operasional Prosedur</li>
+</ul>
   Pelayanan Akupunktur
 ---
 
@@ -65,17 +75,19 @@ Menjalani terapi akupuntur medis pertama kali untuk mengatasi masalah persendian
 Kesiapan pasien dan suasana kamar yang tenang sangat membantu efektivitas terapi tusuk jarum:
 
 <h3>1. Pengaturan Asupan Makanan dan Hidrasi</h3>
-<li><strong>Hindari Perut Kosong</strong>: Jangan biarkan lansia menjalani akupuntur dalam keadaan lapar atau puasa. Kondisi hipoglikemia ringan dapat memicu rasa pusing vasovagal saat jarum ditusukkan. Berikan camilan bergizi seperti biskuit gandum, pisang, atau segelas susu hangat 1 jam sebelum jadwal kunjungan.</li>
+<ul><li><strong>Hindari Perut Kosong</strong>: Jangan biarkan lansia menjalani akupuntur dalam keadaan lapar atau puasa. Kondisi hipoglikemia ringan dapat memicu rasa pusing vasovagal saat jarum ditusukkan. Berikan camilan bergizi seperti biskuit gandum, pisang, atau segelas susu hangat 1 jam sebelum jadwal kunjungan.</li>
 <li><strong>Hindari Makanan Sangat Kenyang</strong>: Makan terlalu berat sesaat sebelum tindakan juga kurang nyaman karena pasien harus berbaring rileks selama 30 menit.</li>
 <li><strong>Hindari Minuman Berkafein</strong>: Kopi atau teh pekat dapat merangsang sistem saraf simpatis, sehingga menghambat proses relaksasi otot yang dibutuhkan.</li>
+</ul>
 
 <h3>2. Pemilihan Pakaian yang Tepat</h3>
 Pakaikan orang tua celana pendek longgar, celana kulot bertali karet, atau kain sarung yang mudah disingkapkan ke atas hingga mencapai paha bagian tengah. Titik akupuntur untuk sendi lutut dan panggul tersebar di area sekitar tempurung lutut, tulang kering, hingga paha bawah.
 
 <h3>3. Persiapan Kamar dan Tempat Tidur</h3>
-<li>Posisikan tempat tidur dalam keadaan rapi dan bersih.</li>
+<ul><li>Posisikan tempat tidur dalam keadaan rapi dan bersih.</li>
 <li>Sediakan 1–2 bantal empuk untuk diletakkan di bawah lipatan lutut pasien (<em>knee bolster</em>). Menekuk lutut sedikit pada sudut 15–20 derajat merelaksasi kapsul sendi lutut dan mengurangi tekanan pada tulang belakang bawah (<em>lumbal</em>).</li>
 <li>Atur suhu pendingin ruangan (AC) pada rentang nyaman (sekitar 24–25°C) agar lansia tidak merasa kedinginan saat bagian tungkai kaki dibuka.</li>
+</ul>
 
 ---
 
@@ -97,9 +109,10 @@ Kulit di sekitar titik-titik akupunktur terpilih dibersihkan menggunakan kapas a
 Terapis menggunakan jarum filiform steril sekali pakai. Dengan menempelkan tabung pemandu plastik steril pada kulit dan mengetuk bagian atas jarum dengan jari secara cepat, ujung jarum mikro menembus lapisan dermis dalam sepersekian detik tanpa merangsang reseptor nyeri permukaan.
 
 <h3>Langkah 4: Mencapai Sensasi 'De-Qi' dan Retensi Jarum</h3>
-<li>Terapis memutar jarum perlahan atau menggerakkannya naik-turun sedalam beberapa milimeter untuk mencapai sensasi <em>De-Qi</em> (sensasi pegal tumpul, berat, atau hangat yang menjalar lembut).</li>
+<ul><li>Terapis memutar jarum perlahan atau menggerakkannya naik-turun sedalam beberapa milimeter untuk mencapai sensasi <em>De-Qi</em> (sensasi pegal tumpul, berat, atau hangat yang menjalar lembut).</li>
 <li>Pada kasus osteoartritis kronis, klip kabel dari alat stimulasi listrik medis berdaya baterai (<em>elektroakupunktur</em>) dipasangkan pada pangkal jarum untuk memberikan arus mikro berirama teratur (<em>dense-disperse frequency</em>) yang terasa seperti pijatan lembut pada sendi.</li>
 <li>Jarum dipertahankan pada posisinya (<em>retensi</em>) selama 20 hingga 30 menit. Selama waktu ini, lansia diminta beristirahat santai, memejamkan mata, dan menikmati musik lembut.</li>
+</ul>
 
 <h3>Langkah 5: Pencabutan Jarum Aseptik</h3>
 Setelah waktu retensi selesai, kabel dilepaskan dan jarum dicabut satu per satu secara perlahan. Titik bekas tusukan ditekan lembut menggunakan kassa steril kering selama beberapa detik untuk memastikan tidak ada tetesan darah mikro. Jarum langsung dibuang ke dalam kotak limbah medis (<em>safety sharps box</em>).

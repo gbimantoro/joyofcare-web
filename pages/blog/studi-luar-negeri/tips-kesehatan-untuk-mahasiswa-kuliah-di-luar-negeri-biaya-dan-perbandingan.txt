@@ -6,49 +6,59 @@ meta_description: Perbandingan asuransi kesehatan mahasiswa di Australia (OSHC),
   (IHS), & USA vs asuransi swasta. Konsultasi MCU Joy of Care via WhatsApp 08811-118-911!
 primary_keyword: perbandingan asuransi kesehatan mahasiswa luar negeri
 secondary_keywords:
-<li>biaya asuransi oshc australia pelajar</li>
+<ul><li>biaya asuransi oshc australia pelajar</li>
 <li>immigration health surcharge ihs uk student</li>
 <li>asuransi kesehatan pelajar amerika serikat</li>
 <li>tips klaim asuransi kesehatan overseas student</li>
+</ul>
 variation_type: biaya-dan-perbandingan
 faq:
-<li>question: Apa itu asuransi OSHC di Australia dan IHS di Inggris, serta mengapa wajib</li>
+<ul><li>question: Apa itu asuransi OSHC di Australia dan IHS di Inggris, serta mengapa wajib</li>
+</ul>
     dibayar oleh mahasiswa internasional?
   answer: OSHC (Overseas Student Health Cover) di Australia dan IHS (Immigration Health
     Surcharge) di Inggris adalah skema asuransi kesehatan wajib yang menjadi prasyarat
     penerbitan visa pelajar. Asuransi ini memberikan hak akses bagi mahasiswa asing
     untuk menggunakan fasilitas layanan kesehatan publik (seperti dokter umum dan
     rumah sakit pemerintah) dengan tarif bersubsidi selama masa studi mereka.
-<li>question: Apakah asuransi wajib mahasiswa luar negeri menanggung seluruh biaya pengobatan</li>
+<ul><li>question: Apakah asuransi wajib mahasiswa luar negeri menanggung seluruh biaya pengobatan</li>
+</ul>
     secara 100% gratis?
   answer: Tidak. Sebagian besar asuransi pelajar memberlakukan sistem 'gap fee' (selisih
     biaya antara tarif dokter dengan nilai subsidi asuransi), sistem pembayaran bersama
     (<em>copayment</em> atau <em>deductible</em>), serta mengecualikan biaya perawatan gigi (*dental
     care<em>), kacamata (</em>optometry*), dan biaya obat-obatan tertentu yang tidak masuk
     daftar formularium subsidi negara setempat.
-<li>question: Apakah mahasiswa internasional masih membutuhkan asuransi perjalanan (*travel</li>
+<ul><li>question: Apakah mahasiswa internasional masih membutuhkan asuransi perjalanan (*travel</li>
+</ul>
     insurance*) tambahan dari Indonesia?
   answer: Sangat dianjurkan memiliki asuransi perjalanan tambahan khusus untuk 1–2
     bulan pertama masa transisi. Asuransi travel menanggung risiko kehilangan bagasi,
     penundaan penerbangan, serta evakuasi medis darurat internasional yang sering
     kali tidak dicakup oleh asuransi kesehatan lokal negara tujuan.
 internal_links:
-<li>anchor: Layanan Cek Lab Darah di Rumah Joy of Care</li>
+<ul><li>anchor: Layanan Cek Lab Darah di Rumah Joy of Care</li>
+</ul>
   url: /layanan/cek-lab-di-rumah
-<li>anchor: Layanan Vaksinasi di Rumah</li>
+<ul><li>anchor: Layanan Vaksinasi di Rumah</li>
+</ul>
   url: /layanan/vaksinasi-di-rumah
-<li>anchor: Layanan Panggil Dokter ke Rumah Jakarta</li>
+<ul><li>anchor: Layanan Panggil Dokter ke Rumah Jakarta</li>
+</ul>
   url: /layanan/panggil-dokter
 cta_text: Konsultasi Dokter Gratis via WhatsApp ke luar negeri langsung via WhatsApp
   Joy of Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
 clinical_references:
-<li>Australian Department of Health and Aged Care - Overseas Student Health Cover (OSHC)</li>
+<ul><li>Australian Department of Health and Aged Care - Overseas Student Health Cover (OSHC)</li>
+</ul>
   Fact Sheet
-<li>UK National Health Service (NHS) - Healthcare for International Students and Immigration</li>
+<ul><li>UK National Health Service (NHS) - Healthcare for International Students and Immigration</li>
+</ul>
   Health Surcharge
-<li>U.S. Department of State - Health Insurance Requirements for International Exchange</li>
+<ul><li>U.S. Department of State - Health Insurance Requirements for International Exchange</li>
+</ul>
   Visitors (J-1/F-1 Visas)
 ---
 
@@ -89,8 +99,9 @@ Di Australia, pemerintah menetapkan tarif standar konsultasi medis yang disebut 
 
 <h3>2. <em>Copayment</em> dan <em>Deductible</em> (Khusus Studi di Amerika Serikat)</h3>
 Sistem asuransi di AS sangat kompleks:
-<li><strong>Deductible</strong>: Batas akumulasi nominal pengobatan yang wajib Anda bayar mandiri sebelum perusahaan asuransi mulai menanggung biaya tanggungan medis dalam satu periode tahunan polis asuransi.</li>
+<ul><li><strong>Deductible</strong>: Batas akumulasi nominal pengobatan yang wajib Anda bayar mandiri sebelum perusahaan asuransi mulai menanggung biaya tanggungan medis dalam satu periode tahunan polis asuransi.</li>
 <li><strong>Copayment (Copay)</strong>: Biaya partisipasi bernominal tetap yang wajib dibayar pasien setiap kali berkonsultasi dengan dokter faskes, sementara sisa porsi tagihan medis ditanggung oleh pihak asuransi.</li>
+</ul>
 
 <h3>3. <em>Prescription Fee</em> (Biaya Penebusan Obat)</h3>
 Di Inggris, meskipun konsultasi dengan dokter umum NHS bersifat 100% gratis, setiap lembar resep obat yang ditebus di apotek dikenakan biaya standar flat per item obat (sekitar GBP £9,65 di Inggris). Di Australia, OSHC hanya menanggung selisih obat yang terdaftar dalam <em>Pharmaceutical Benefits Scheme</em> (PBS) dengan batas maksimal tanggungan tertentu per tahun.
@@ -101,9 +112,10 @@ Di Inggris, meskipun konsultasi dengan dokter umum NHS bersifat 100% gratis, set
 
 Bagaimana cara mahasiswa Indonesia menghemat pengeluaran medis dan terhindar dari tagihan tak terduga di luar negeri?
 
-<li><strong>Selesaikan Masalah Gigi di Indonesia</strong>: Tuntaskan pembersihan karang gigi (<em>scaling</em>), penambalan lubang gigi, dan pencabutan gigi bungsu yang miring (<em>odontektomi</em>) sebelum berangkat. Biaya cabut gigi bungsu di Australia atau AS bisa menghabiskan biaya hingga belasan juta rupiah per gigi.</li>
+<ul><li><strong>Selesaikan Masalah Gigi di Indonesia</strong>: Tuntaskan pembersihan karang gigi (<em>scaling</em>), penambalan lubang gigi, dan pencabutan gigi bungsu yang miring (<em>odontektomi</em>) sebelum berangkat. Biaya cabut gigi bungsu di Australia atau AS bisa menghabiskan biaya hingga belasan juta rupiah per gigi.</li>
 <li><strong>Bawa Stok Obat Pribadi Lengkap</strong>: Siapkan kotak obat P3K berisi obat penurun panas (parasetamol), obat pereda flu, obat maag, obat diare, salep luka, plester, dan vitamin C/D3 dari tanah air. Jangan lupa meminta surat keterangan resmi dokter berbahasa Inggris dari [Layanan Panggil Dokter ke Rumah Jakarta](/layanan/panggil-dokter).</li>
 <li><strong>Daftarkan Diri ke Dokter Kampus pada Minggu Pertama</strong>: Segera setelah tiba di negara tujuan, daftarkan diri Anda ke <em>University Medical Centre</em> atau klinik GP terdekat dari flat/asrama Anda. Jangan menunggu sampai sakit baru mencari dokter, karena proses registrasi rekam medis pertama kali membutuhkan waktu administrasi beberapa hari.</li>
+</ul>
 
 ---
 

@@ -6,50 +6,61 @@ meta_description: Ketahui tahapan evaluasi dan 7 hal yang dilakukan saat fisiote
   sekarang!
 primary_keyword: 7 hal tindakan fisioterapi lansia di rumah
 secondary_keywords:
-<li>tahapan kunjungan fisioterapi homecare</li>
+<ul><li>tahapan kunjungan fisioterapi homecare</li>
 <li>evaluasi risiko jatuh lansia</li>
 <li>terapi fisik geriatri di rumah</li>
 <li>modalitas fisioterapi panggilan</li>
+</ul>
 faq:
-<li>question: Berapa lama durasi satu sesi fisioterapi lansia di rumah?</li>
+<ul><li>question: Berapa lama durasi satu sesi fisioterapi lansia di rumah?</li>
+</ul>
   answer: Satu sesi kunjungan berlangsung sekitar 45 hingga 60 menit, mencakup pemeriksaan
     tanda vital awal, terapi modalitas atau manual, latihan fisik terarah, dan evaluasi
     pascaterapi.
-<li>question: Apakah keluarga perlu menyiapkan peralatan khusus sebelum fisioterapis</li>
+<ul><li>question: Apakah keluarga perlu menyiapkan peralatan khusus sebelum fisioterapis</li>
+</ul>
     datang?
   answer: Tidak perlu peralatan rumit. Cukup sediakan kursi kokoh tanpa roda, matras
     atau tempat tidur datar yang nyaman, handuk kecil, dan air minum untuk lansia.
     Fisioterapis Joy of Care membawa peralatan klinis yang dibutuhkan.
-<li>question: Apakah fisioterapi di rumah aman jika lansia baru pulang dari rawat inap</li>
+<ul><li>question: Apakah fisioterapi di rumah aman jika lansia baru pulang dari rawat inap</li>
+</ul>
     RS?
   answer: Sangat aman dan justru sangat dianjurkan untuk mencegah sindrom deconditioning
     (kelemahan otot akibat terlalu lama berbaring di rumah sakit) dan melatih kembali
     kemandirian di lingkungan rumah sendiri.
-<li>question: Berapa lama durasi ideal satu sesi kunjungan fisioterapi lansia di rumah?</li>
+<ul><li>question: Berapa lama durasi ideal satu sesi kunjungan fisioterapi lansia di rumah?</li>
+</ul>
   answer: Satu sesi fisioterapi lansia umumnya berlangsung antara 45 hingga 60 menit.
     Durasi ini sudah mencakup pemeriksaan tanda vital awal, pemanasan, latihan inti,
     pendinginan, serta edukasi kepada keluarga.
-<li>question: Apakah keluarga perlu membeli alat fisioterapi khusus yang mahal di rumah?</li>
+<ul><li>question: Apakah keluarga perlu membeli alat fisioterapi khusus yang mahal di rumah?</li>
+</ul>
   answer: Tidak perlu. Fisioterapis Joy of Care membawa perlengkapan portabel lengkap
     seperti theraband (karet resistensi), bola keseimbangan, matras, dan modalitas
     TENS. Terapis juga akan mengajarkan cara memanfaatkan perabot rumah tangga yang
     aman (seperti kursi kokoh dan undakan tangga) untuk latihan mandiri.
 internal_links:
-<li>anchor: Layanan Fisioterapi Homecare Joy of Care</li>
+<ul><li>anchor: Layanan Fisioterapi Homecare Joy of Care</li>
+</ul>
   url: /layanan/fisioterapi
-<li>anchor: Peran Dokter dan Fisioterapis Lansia</li>
+<ul><li>anchor: Peran Dokter dan Fisioterapis Lansia</li>
+</ul>
   url: /blog/healthy-aging-3/6-peran-anda-dan-dokter-dalam-mendukung-proses-fisioterapi-untuk-lansia-di-rumah-6
-<li>anchor: Fisioterapi untuk Menjaga Keseimbangan Lansia</li>
+<ul><li>anchor: Fisioterapi untuk Menjaga Keseimbangan Lansia</li>
+</ul>
   url: /blog/healthy-aging-3/fisioterapi-untuk-lansia-menjaga-mobilitas-dan-keseimbangan-30
 cta_text: Konsultasi Dokter Gratis via WhatsApp langsung bersama dokter dan tim fisioterapis
   Joy of Care via WhatsApp di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
 clinical_references:
-<li>Ikatan Fisioterapi Indonesia (IFI) - Standar Kompetensi Fisioterapi Pelayanan Home</li>
+<ul><li>Ikatan Fisioterapi Indonesia (IFI) - Standar Kompetensi Fisioterapi Pelayanan Home</li>
+</ul>
   Care
-<li>Chartered Society of Physiotherapy (CSP) - Physiotherapy with Older People</li>
+<ul><li>Chartered Society of Physiotherapy (CSP) - Physiotherapy with Older People</li>
 <li>Kementerian Kesehatan RI - Pedoman Pelayanan Rehabilitasi Medik di Fasilitas Kesehatan</li>
+</ul>
 ---
 
 <h1>7 Hal yang Dilakukan Saat Fisioterapi Lansia di Rumah: Panduan Transparan Keluarga</h1>
@@ -83,16 +94,18 @@ Di akhir sesi, fisioterapis mencatat perkembangan klinis dalam resume rekam medi
 
 <h2>Mengapa Fisioterapi di Rumah Jauh Lebih Disukai Lansia?</h2>
 
-<li><strong>Mengurangi Kelelahan di Perjalanan</strong>: Lansia dengan keterbatasan fisik rentan mengalami sindrom kelelahan akut dan nyeri bertambah hanya karena guncangan kendaraan di jalan raya.</li>
+<ul><li><strong>Mengurangi Kelelahan di Perjalanan</strong>: Lansia dengan keterbatasan fisik rentan mengalami sindrom kelelahan akut dan nyeri bertambah hanya karena guncangan kendaraan di jalan raya.</li>
 <li><strong>Keterlibatan Penuh Anggota Keluarga</strong>: Anak atau pendamping dapat melihat langsung teknik memegang, memindahkan, dan memotivasi lansia dengan aman.</li>
 <li><strong>Peningkatan Kepatuhan Terapi</strong>: Fleksibilitas jadwal kunjungan memastikan sesi terapi tidak terlewatkan akibat kendala transportasi atau cuaca buruk.</li>
+</ul>
 
 <h2>Asesmen Objektif & Penggunaan Modalitas Terapi Portabel Modern di Rumah</h2>
 
 Saat fisioterapis Joy of Care berkunjung ke rumah, pemeriksaan fisik tidak dilakukan secara perkiraan, melainkan menggunakan parameter objektif berbasis standar internasional:
-<li><em></em>Skala Keseimbangan Berg (<em>Berg Balance Scale</em>)<em></em>: Menilai 14 item kemampuan mobilitas (seperti duduk ke berdiri, berdiri satu kaki, berputar 360 derajat) untuk memetakan skor risiko jatuh secara akurat.</li>
+<ul><li><em></em>Skala Keseimbangan Berg (<em>Berg Balance Scale</em>)<em></em>: Menilai 14 item kemampuan mobilitas (seperti duduk ke berdiri, berdiri satu kaki, berputar 360 derajat) untuk memetakan skor risiko jatuh secara akurat.</li>
 <li><em></em>Tes Berjalan 6 Menit (<em>6-Minute Walk Test</em>)<em></em>: Mengukur daya tahan kardiorespirasi dan toleransi kelelahan aerobik lansia.</li>
 <li><strong>Pemanfaatan Modalitas Elektroterapi TENS Portabel</strong>: Alat stimulasi saraf listrik transkutan yang dibawa terapis untuk memblokade sinyal nyeri pada sendi osteoartritis lutut atau pinggang tanpa efek samping obat lambung.</li>
+</ul>
 
 Melalui pendampingan terpadu [Layanan Fisioterapi Homecare Joy of Care](/layanan/fisioterapi), lansia merasa aman karena setiap gerakan diawasi secara cermat. Apabila ditemukan pembengkakan sendi abnormal atau tanda infeksi, terapis segera berkoordinasi dengan [layanan panggil dokter ke rumah](/layanan/panggil-dokter) untuk penanganan medis lanjutan. Selain itu, keluarga juga dapat mempercayakan perawatan tirah baring harian kepada [layanan perawat medis homecare](/layanan/perawat-homecare).
 
@@ -100,9 +113,10 @@ Melalui pendampingan terpadu [Layanan Fisioterapi Homecare Joy of Care](/layanan
 
 <h3>Checklist Harian Manajemen Pemulihan Gerak & Sendi di Rumah</h3>
 Pencegahan komplikasi pasca-cedera atau pascaoperasi membutuhkan kedisiplinan pemantauan setiap hari:
-<li><strong>Pemeriksaan Suhu & Tanda Infeksi Lokal</strong>: Raba area di sekitar sendi; bila teraba panas membara, sangat merah, atau keluar nanah, segera laporkan ke tim medis.</li>
+<ul><li><strong>Pemeriksaan Suhu & Tanda Infeksi Lokal</strong>: Raba area di sekitar sendi; bila teraba panas membara, sangat merah, atau keluar nanah, segera laporkan ke tim medis.</li>
 <li><strong>Protokol Elevasi Kaki saat Berbaring</strong>: Sangga tungkai dengan 1–2 bantal empuk agar posisinya lebih tinggi dari dada guna melancarkan aliran balik vena.</li>
 <li><strong>Latihan Pompa Ankle (Ankle Pumps)</strong>: Gerakkan pergelangan kaki ke atas dan bawah sebanyak 20 kali setiap jam untuk mencegah penggumpalan darah vena dalam (<em>DVT</em>).</li>
+</ul>
 
 
 

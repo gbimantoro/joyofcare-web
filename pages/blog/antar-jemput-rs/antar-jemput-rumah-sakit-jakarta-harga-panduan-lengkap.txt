@@ -6,56 +6,68 @@ meta_description: 'Layanan antar jemput pasien ke rumah sakit di Jakarta 2026: t
   armada medis, & pendampingan perawat. Chat WhatsApp Joy of Care 08811-118-911 sekarang!'
 primary_keyword: antar jemput rumah sakit jakarta harga
 secondary_keywords:
-<li>transportasi medis non darurat jakarta</li>
+<ul><li>transportasi medis non darurat jakarta</li>
 <li>biaya sewa ambulans antar jemput rs</li>
 <li>layanan antar lansia kontrol rumah sakit</li>
 <li>mobil khusus pasien kursi roda jabodetabek</li>
+</ul>
 variation_type: panduan-lengkap
 faq:
-<li>question: Apa itu layanan transportasi medis non-darurat (Non-Emergency Medical</li>
+<ul><li>question: Apa itu layanan transportasi medis non-darurat (Non-Emergency Medical</li>
+</ul>
     Transportation / NEMT)?
   answer: Layanan NEMT adalah penyediaan armada kendaraan medis khusus yang dirancang
     untuk mengantar dan menjemput pasien yang memiliki keterbatasan fisik (seperti
     pengguna kursi roda atau pasien tirah baring/stretcher) menuju fasilitas kesehatan
     untuk kontrol rutin, cuci darah (hemodialisis), kemoterapi, atau radioterapi secara
     aman, terjadwal, dan didampingi perawat medis tanpa sirene darurat.
-<li>question: Berapa kisaran tarif resmi layanan antar jemput pasien ke rumah sakit</li>
+<ul><li>question: Berapa kisaran tarif resmi layanan antar jemput pasien ke rumah sakit</li>
+</ul>
     di Jakarta pada tahun 2026?
   answer: Tarif layanan antar-jemput medis non-darurat Joy of Care di Jakarta ditentukan
     secara transparan berdasarkan paket satu arah maupun pulang-pergi, sudah mencakup
     armada khusus berfasilitas medis serta pendampingan perawat profesional. Hubungi
     WhatsApp Joy of Care 08811-118-911 untuk informasi resmi.
-<li>question: Fasilitas medis apa saja yang tersedia di dalam armada mobil antar jemput</li>
+<ul><li>question: Fasilitas medis apa saja yang tersedia di dalam armada mobil antar jemput</li>
+</ul>
     Joy of Care?
   answer: Armada kami dilengkapi dengan brankar tandu ambulans (<em>ambulance stretcher</em>)
     hidrolik berperedam kejut, ramp kursi roda lipat, tabung oksigen medis portabel
     dengan regulator aliran, tensimeter, pulse oximeter, kotak P3K lengkap, serta
     pendingin kabin berventilasi udara bersih.
-<li>question: Apakah perawat medis Joy of Care akan ikut mendampingi pasien selama berada</li>
+<ul><li>question: Apakah perawat medis Joy of Care akan ikut mendampingi pasien selama berada</li>
+</ul>
     di dalam rumah sakit?
   answer: Ya. Perawat medis ber-STR kami tidak hanya menemani selama perjalanan mobil,
     namun juga membantu proses pendaftaran loket rumah sakit, mendorong kursi roda
     pasien di lorong poliklinik, mendampingi saat konsultasi dokter spesialis, hingga
     membantu pengambilan obat di farmasi rumah sakit.
 internal_links:
-<li>anchor: Layanan Antar Jemput ke Rumah Sakit Joy of Care</li>
+<ul><li>anchor: Layanan Antar Jemput ke Rumah Sakit Joy of Care</li>
+</ul>
   url: /layanan/antar-jemput-rs
-<li>anchor: Layanan Perawat Medis Homecare</li>
+<ul><li>anchor: Layanan Perawat Medis Homecare</li>
+</ul>
   url: /layanan/perawat-homecare
-<li>anchor: Layanan Panggil Dokter ke Rumah Jakarta</li>
+<ul><li>anchor: Layanan Panggil Dokter ke Rumah Jakarta</li>
+</ul>
   url: /layanan/panggil-dokter
-<li>anchor: Layanan Fisioterapi di Rumah</li>
+<ul><li>anchor: Layanan Fisioterapi di Rumah</li>
+</ul>
   url: /layanan/fisioterapi-di-rumah
 cta_text: Hubungi WhatsApp JoC untuk informasi harga dan sekitarnya langsung via WhatsApp
   Joy of Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
 clinical_references:
-<li>Kementerian Kesehatan Republik Indonesia - Standar Teknis Pelayanan Ambulans Transport</li>
+<ul><li>Kementerian Kesehatan Republik Indonesia - Standar Teknis Pelayanan Ambulans Transport</li>
+</ul>
   dan Transportasi Medis Non-Emergensi
-<li>World Health Organization (WHO) - Guidelines on Safe Patient Transport in Urban</li>
+<ul><li>World Health Organization (WHO) - Guidelines on Safe Patient Transport in Urban</li>
+</ul>
   Environments
-<li>American Journal of Public Health - Non-Emergency Medical Transportation (NEMT)</li>
+<ul><li>American Journal of Public Health - Non-Emergency Medical Transportation (NEMT)</li>
+</ul>
   and Chronic Disease Management Outcomes
 ---
 
@@ -89,10 +101,11 @@ Keluarga tidak perlu repot mencari tempat parkir faskes yang padat, mengangkat k
 <h2>Ragam Kategori Pasien yang Membutuhkan Layanan Antar Jemput RS</h2>
 
 Layanan transportasi medis Joy of Care dirancang spesifik untuk kelompok pasien berikut:
-<li><strong>Pasien Hemodialisis (Cuci Darah) Rutin</strong>: Pasien yang wajib menjalani cuci darah 2–3 kali seminggu di rumah sakit dan kerap mengalami lemas ekstrem, pusing hipotensi, dan kram otot saat perjalanan pulang.</li>
+<ul><li><strong>Pasien Hemodialisis (Cuci Darah) Rutin</strong>: Pasien yang wajib menjalani cuci darah 2–3 kali seminggu di rumah sakit dan kerap mengalami lemas ekstrem, pusing hipotensi, dan kram otot saat perjalanan pulang.</li>
 <li><strong>Pasien Kemoterapi dan Radioterapi Kanker</strong>: Pasien dengan daya tahan tubuh yang sangat rentan (<em>imunokompromais</em>) yang mengalami mual hebat pascaterapi dan membutuhkan kabin mobil yang steril dan tenang.</li>
 <li><strong>Pasien Pasca-Stroke dengan Hemiparesis</strong>: Pasien yang membutuhkan kontrol rutin ke dokter spesialis saraf atau menjalani rehabilitasi robotik di faskes rujukan. Bila membutuhkan latihan di rumah, keluarga dapat mengombinasikannya dengan [Layanan Fisioterapi di Rumah Joy of Care](/layanan/fisioterapi-di-rumah).</li>
 <li><em></em>Pasien Tirah Baring (<em>Bedridden</em>)<em></em>: Pasien yang harus mengganti selang trakeostomi atau pemeriksaan diagnostik radiologi (CT Scan/MRI) yang hanya bisa dipindahkan dalam posisi berbaring telentang di atas brankar.</li>
+</ul>
 
 ---
 
@@ -131,9 +144,10 @@ Pasien ditempatkan di dalam kabin mobil ber-AC yang higienis. Perawat duduk di s
 
 <h3>3. Pendampingan Penuh di Fasilitas Kesehatan</h3>
 Setibanya di lobi rumah sakit, perawat Joy of Care mendampingi pasien secara penuh:
-<li>Membantu proses registrasi dan verifikasi berkas jaminan asuransi atau BPJS.</li>
+<ul><li>Membantu proses registrasi dan verifikasi berkas jaminan asuransi atau BPJS.</li>
 <li>Menemani pasien menunggu di ruang tunggu poliklinik dan membimbing masuk ke ruang dokter spesialis.</li>
 <li>Mencatat instruksi dokter dan membantu menebus obat di instalasi farmasi hingga selesai.</li>
+</ul>
 
 <h3>4. Pengantaran Kembali ke Tempat Tidur</h3>
 Pasien diantar kembali ke hunian dan diposisikan secara nyaman di ranjang kamar tidur mereka. Perawat memberikan laporan tertulis kepada keluarga mengenai perkembangan hasil konsultasi dokter.

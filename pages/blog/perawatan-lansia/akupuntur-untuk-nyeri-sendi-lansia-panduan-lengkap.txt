@@ -6,13 +6,15 @@ meta_description: 'Terapi akupuntur medis untuk nyeri sendi lansia di rumah: ost
   lutut, redakan kram, & tarif 2026. Konsultasi Joy of Care via WA 08811-118-911!'
 primary_keyword: akupuntur untuk nyeri sendi lansia
 secondary_keywords:
-<li>terapi akupunktur osteoartritis lansia</li>
+<ul><li>terapi akupunktur osteoartritis lansia</li>
 <li>akupuntur medik datang ke rumah jakarta</li>
 <li>biaya akupuntur nyeri lutut lansia</li>
 <li>akupuntur aman tanpa efek samping ginjal</li>
+</ul>
 variation_type: panduan-lengkap
 faq:
-<li>question: Bagaimana mekanisme kerja akupuntur medis dalam meredakan nyeri sendi</li>
+<ul><li>question: Bagaimana mekanisme kerja akupuntur medis dalam meredakan nyeri sendi</li>
+</ul>
     pada pasien lanjut usia?
   answer: Penusukan jarum filiform mikro steril pada titik akupuntur spesifik menstimulasi
     serabut saraf aferen A-delta dan C di jaringan otot dan fasia periartikular. Sinyal
@@ -20,20 +22,23 @@ faq:
     neurotransmiter pereda nyeri alami tubuh seperti endorfin, enkefalin, dan dinorfin,
     sekaligus menghambat pelepasan zat pro-inflamasi (sitokin IL-1 dan TNF-alfa) di
     dalam cairan sinovial sendi.
-<li>question: Apakah terapi akupuntur medis aman bagi orang tua yang mengonsumsi obat</li>
+<ul><li>question: Apakah terapi akupuntur medis aman bagi orang tua yang mengonsumsi obat</li>
+</ul>
     pengencer darah atau memiliki riwayat penyakit jantung?
   answer: Sangat aman apabila dilakukan oleh dokter spesialis akupunktur medik atau
     akupunkturis berlisensi STR. Tenaga medis Joy of Care menggunakan teknik penusukan
     dangkal khusus geriatri dengan jarum sekali pakai ultra-tipis (diameter 0,16–0,20
     mm) dan menghindari titik-titik yang memiliki pembuluh darah besar, serta tidak
     menggunakan elektrostimulasi berlebihan pada pasien dengan alat pacu jantung (<em>pacemaker</em>).
-<li>question: Berapa sesi terapi akupuntur yang dibutuhkan untuk merasakan perbaikan</li>
+<ul><li>question: Berapa sesi terapi akupuntur yang dibutuhkan untuk merasakan perbaikan</li>
+</ul>
     nyata pada osteoartritis lutut lansia?
   answer: Mayoritas pasien geriatri mulai merasakan penurunan intensitas nyeri dan
     peningkatan kelenturan sendi setelah 3 hingga 5 sesi terapi. Untuk hasil pemulihan
     fungsional yang stabil dan jangka panjang, dokter umumnya menyarankan satu siklus
     terapi yang terdiri dari 8 hingga 10 sesi (dilakukan 1–2 kali seminggu).
-<li>question: Berapa kisaran biaya layanan akupuntur medis di rumah di kawasan Jabodetabek</li>
+<ul><li>question: Berapa kisaran biaya layanan akupuntur medis di rumah di kawasan Jabodetabek</li>
+</ul>
     pada tahun 2026?
   answer: Biaya layanan akupuntur medis home visit Joy of Care ditentukan secara transparan
     berdasarkan kebutuhan klinis pasien, sudah mencakup jasa tindakan dokter/terapis
@@ -42,24 +47,31 @@ faq:
     jarum steril sekali pakai, modalitas elektroakupunktur atau moxibustion bila diperlukan,
     dan biaya transportasi ke hunian Anda.
 internal_links:
-<li>anchor: Layanan Akupuntur Medis di Rumah Joy of Care</li>
+<ul><li>anchor: Layanan Akupuntur Medis di Rumah Joy of Care</li>
+</ul>
   url: /layanan/akupuntur-di-rumah
-<li>anchor: Layanan Fisioterapi di Rumah</li>
+<ul><li>anchor: Layanan Fisioterapi di Rumah</li>
+</ul>
   url: /layanan/fisioterapi-di-rumah
-<li>anchor: Layanan Panggil Dokter ke Rumah Jakarta</li>
+<ul><li>anchor: Layanan Panggil Dokter ke Rumah Jakarta</li>
+</ul>
   url: /layanan/panggil-dokter
-<li>anchor: Layanan Perawat Medis Homecare</li>
+<ul><li>anchor: Layanan Perawat Medis Homecare</li>
+</ul>
   url: /layanan/perawat-homecare
 cta_text: Konsultasi Dokter Gratis via WhatsApp langsung via WhatsApp Joy of Care
   di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
 clinical_references:
-<li>'World Health Organization (WHO) - Acupuncture: Review and Analysis of Reports on</li>
+<ul><li>'World Health Organization (WHO) - Acupuncture: Review and Analysis of Reports on</li>
+</ul>
   Controlled Clinical Trials'
-<li>American College of Rheumatology (ACR) - Guidelines for the Management of Osteoarthritis</li>
+<ul><li>American College of Rheumatology (ACR) - Guidelines for the Management of Osteoarthritis</li>
+</ul>
   of the Hand, Hip, and Knee
-<li>Perhimpunan Dokter Spesialis Akupunktur Medik Indonesia (PDAI) - Panduan Praktik</li>
+<ul><li>Perhimpunan Dokter Spesialis Akupunktur Medik Indonesia (PDAI) - Panduan Praktik</li>
+</ul>
   Klinis Akupunktur Medik pada Nyeri Muskuloskeletal Geriatri
 ---
 
@@ -81,9 +93,10 @@ Bagi masyarakat awam, akupuntur kerap dianggap sebagai terapi mistis kuno. Namun
 
 <h3>1. Teori Gerbang Kendali Nyeri (<em>Pain Gate Control Theory</em>)</h3>
 Ketika jarum akupuntur berdiameter mikro (0,18–0,25 mm) disuntikkan ke titik-titik akupuntur spesifik di sekitar sendi lutut (seperti titik <em>Dubi</em> / ST35, <em>Neixiyan</em> / EX-LE4, dan <em>Yanglingquan</em> / GB34):
-<li>Rangsangan mekanis ini mengaktivasi serabut saraf bermielin tebal (serabut A-beta dan A-delta).</li>
+<ul><li>Rangsangan mekanis ini mengaktivasi serabut saraf bermielin tebal (serabut A-beta dan A-delta).</li>
 <li>Impuls listrik yang cepat ini mencapai kornu dorsalis medula spinalis mendahului sinyal nyeri lambat dari serabut C yang tidak bermielin.</li>
 <li>Akibatnya, "gerbang transmisi nyeri" di sumsum tulang belakang tertutup rapat, sehingga persepsi nyeri tajam di lutut tidak diteruskan ke korteks sensorik otak.</li>
+</ul>
 
 <h3>2. Pelepasan Opioid Endogen (<em>Endogenous Opioid Release</em>)</h3>
 Stimulasi jarum mikro memicu aksis hipotalamus-hipofisis melepaskan neuropeptida pereda nyeri alami: beta-endorfin, enkefalin, dan dinorfin. Senyawa kimiawi internal ini mengikat reseptor mu-opioid di otak, memberikan efek analgesia mendalam dan menenangkan rasa cemas tanpa risiko ketergantungan obat sintetis.
@@ -129,10 +142,11 @@ Untuk mempercepat pemulihan fungsi motorik, terapi akupuntur sangat efektif bila
 <h2>Standar Operasional Prosedur (SOP) Akupuntur Steril Joy of Care</h2>
 
 Perawatan di hunian pasien dijalankan dengan standar keselamatan aseptik mutlak:
-<li><strong>Pemeriksaan Awal & Penapisan Kontraindikasi</strong>: Tenaga medis memeriksa tekanan darah dan memastikan kulit di sekitar sendi tidak sedang mengalami luka infeksi bernanah terbuka (<em>selulitis</em>).</li>
+<ul><li><strong>Pemeriksaan Awal & Penapisan Kontraindikasi</strong>: Tenaga medis memeriksa tekanan darah dan memastikan kulit di sekitar sendi tidak sedang mengalami luka infeksi bernanah terbuka (<em>selulitis</em>).</li>
 <li><em></em>Penggunaan Jarum 100% Baru Sekali Pakai (<em>Single-Use Disposable</em>)<em></em>: Jarum dikeluarkan dari blister tertutup di depan keluarga dan langsung dibuang ke dalam <em>safety box</em> medis limbah tajam setelah sesi selesai. Jarum tidak pernah digunakan ulang.</li>
 <li><em></em>Teknik Penusukan Lembut Tanpa Sakit (<em>Painless Insertion</em>)<em></em>: Menggunakan tabung pemandu jarum (<em>guide tube</em>), jarum diselipkan secara cepat dan halus sehingga lansia hanya merasakan sensasi sedikit kesemutan atau rasa pegal tumpul yang nyaman (<em>sensasi De-Qi</em>).</li>
 <li><strong>Retensi Jarum Selama 20–30 Menit</strong>: Pasien beristirahat mendengarkan musik santai selagi jarum bekerja merangsang sirkulasi cairan sendi.</li>
+</ul>
 
 ---
 

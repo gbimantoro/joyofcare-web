@@ -6,55 +6,66 @@ meta_description: 'Tanya jawab lengkap seputar persiapan kesehatan mahasiswa kul
   di luar negeri: bawa obat resep, vaksin wajib, & MCU. Chat Joy of Care di WA 08811-118-911!'
 primary_keyword: faq kesehatan mahasiswa studi ke luar negeri
 secondary_keywords:
-<li>cara membawa obat pribadi ke luar negeri</li>
+<ul><li>cara membawa obat pribadi ke luar negeri</li>
 <li>aturan bea cukai obat resep dokter di bandara</li>
 <li>surat keterangan dokter bahasa inggris travel</li>
 <li>vaksin wajib menigitis mmr pelajar</li>
+</ul>
 variation_type: yang-perlu-anda-ketahui
 faq:
-<li>question: Apakah calon mahasiswa boleh membawa obat-obatan antibiotik dari Indonesia</li>
+<ul><li>question: Apakah calon mahasiswa boleh membawa obat-obatan antibiotik dari Indonesia</li>
+</ul>
     untuk persediaan di luar negeri?
   answer: Boleh dalam jumlah wajar untuk konsumsi pribadi darurat, asalkan disertai
     dengan resep resmi dokter dan surat keterangan medis berbahasa Inggris yang menyatakan
     indikasi penyakitnya. Jangan membawa antibiotik dalam jumlah besar tanpa resep
     karena otoritas bea cukai dapat menyitanya dan mencurigainya sebagai upaya penyelundupan
     farmasi ilegal.
-<li>question: Bagaimana jika mahasiswa jatuh sakit demam tinggi atau diare akut di tengah</li>
+<ul><li>question: Bagaimana jika mahasiswa jatuh sakit demam tinggi atau diare akut di tengah</li>
+</ul>
     malam saat asrama kampus tutup?
   answer: Setiap negara memiliki nomor panggilan darurat medis 24 jam non-gawat (seperti
     layanan telepon NHS 111 di Inggris atau Healthdirect 1800 022 222 di Australia)
     di mana perawat dan dokter jaga dapat memberikan panduan triase klinis via telepon
     atau mengarahkan Anda ke klinik darurat luar jam kerja (<em>after-hours clinic</em>)
     terdekat.
-<li>question: Apakah mahasiswa yang mengenakan lensa kontak (softlens) memerlukan persiapan</li>
+<ul><li>question: Apakah mahasiswa yang mengenakan lensa kontak (softlens) memerlukan persiapan</li>
+</ul>
     khusus di negara empat musim?
   answer: Sangat perlu. Udara musim dingin yang kering dan pemanas ruangan sering
     kali membuat mata mengalami sindrom mata kering akut (<em>dry eye syndrome</em>) dan
     iritasi kornea. Bawalah kacamata cadangan dengan resep ukuran terbaru dan sediakan
     tetes mata pelumas steril (<em>artificial tears</em>) bebas pengawet dalam jumlah cukup.
-<li>question: Apakah Joy of Care melayani konsultasi medis daring bila mahasiswa mengalami</li>
+<ul><li>question: Apakah Joy of Care melayani konsultasi medis daring bila mahasiswa mengalami</li>
+</ul>
     masalah kesehatan saat sudah berada di luar negeri?
   answer: Ya. Joy of Care menyediakan layanan telekonsultasi medis bagi keluarga dan
     mahasiswa Indonesia di perantauan untuk memberikan opini kedua (<em>second opinion</em>),
     edukasi penanganan awal gejala, dan ketenangan psikologis keluarga di tanah air.
 internal_links:
-<li>anchor: Layanan Cek Lab Darah di Rumah Joy of Care</li>
+<ul><li>anchor: Layanan Cek Lab Darah di Rumah Joy of Care</li>
+</ul>
   url: /layanan/cek-lab-di-rumah
-<li>anchor: Layanan Vaksinasi di Rumah</li>
+<ul><li>anchor: Layanan Vaksinasi di Rumah</li>
+</ul>
   url: /layanan/vaksinasi-di-rumah
-<li>anchor: Layanan Panggil Dokter ke Rumah Jakarta</li>
+<ul><li>anchor: Layanan Panggil Dokter ke Rumah Jakarta</li>
+</ul>
   url: /layanan/panggil-dokter
-<li>anchor: Layanan Perawat Medis Homecare</li>
+<ul><li>anchor: Layanan Perawat Medis Homecare</li>
+</ul>
   url: /layanan/perawat-homecare
 cta_text: Konsultasi Dokter Gratis via WhatsApp ke luar negeri langsung via WhatsApp
   Joy of Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
 clinical_references:
-<li>International Society of Travel Medicine (ISTM) - Advice for Students Traveling</li>
+<ul><li>International Society of Travel Medicine (ISTM) - Advice for Students Traveling</li>
+</ul>
   Abroad
-<li>World Health Organization (WHO) - Health Advice for Travelers and Expatriate Students</li>
+<ul><li>World Health Organization (WHO) - Health Advice for Travelers and Expatriate Students</li>
 <li>US Customs and Border Protection - Traveling with Prescription Medications Regulations</li>
+</ul>
 ---
 
 <h1>Panduan Tanya Jawab Lengkap (FAQ): Segala Hal yang Wajib Diketahui Seputar Kesehatan Mahasiswa di Luar Negeri</h1>
@@ -78,9 +89,10 @@ Masalah kepabeanan (<em>customs & border protection</em>) adalah hal paling krus
 
 <h3>2. Bagaimana prosedur resmi membawa obat penyakit kronis (seperti obat asma, obat tiroid, atau obat alergi) ke luar negeri?</h3>
 <strong>Jawab</strong>: Ikuti 3 aturan emas kepabeanan internasional:
-<li>Simpan obat dalam kemasan aslinya yang mencantumkan nama generik obat dan tanggal kadaluwarsa dengan jelas.</li>
+<ul><li>Simpan obat dalam kemasan aslinya yang mencantumkan nama generik obat dan tanggal kadaluwarsa dengan jelas.</li>
 <li>Mintakan surat pengantar dokter (<em>Medical Travel Letter</em>) berbahasa Inggris dari dokter Joy of Care yang menjelaskan diagnosis penyakit, nama obat, serta dosis pemakaian Anda.</li>
 <li>Bawalah pasokan maksimal untuk 90 hari. Bila masa studi Anda berlangsung tahunan, surat dokter dari Indonesia akan digunakan oleh dokter umum (GP) di negara tujuan untuk menuliskan resep lokal lanjutan setelah pasokan obat Anda habis.</li>
+</ul>
 
 ---
 
@@ -90,12 +102,13 @@ Kondisi cuaca dan lingkungan kampus baru membutuhkan antisipasi medis yang tepat
 
 <h3>3. Apa saja isi kotak P3K darurat (<em>emergency first-aid kit</em>) yang wajib dibawa mahasiswa dari Indonesia?</h3>
 <strong>Jawab</strong>: Siapkan satu tas pouch khusus yang berisi:
-<li><strong>Obat Pereda Nyeri & Demam</strong>: Parasetamol 500 mg dan ibuprofen tablet.</li>
+<ul><li><strong>Obat Pereda Nyeri & Demam</strong>: Parasetamol 500 mg dan ibuprofen tablet.</li>
 <li><strong>Obat Saluran Napas</strong>: Obat batuk pengencer dahak (asetilsistein), obat pilek dekongestan, dan semprotan pelega hidung (<em>saline nasal spray</em>).</li>
 <li><strong>Obat Saluran Pencernaan</strong>: Obat antasida kunyah untuk maag, tablet loperamid untuk diare akut, dan oralit sachet untuk rehidrasi elektrolit.</li>
 <li><strong>Obat Alergi</strong>: Antihistamin cetirizine tablet.</li>
 <li><strong>Perawatan Kulit</strong>: Salep hidrokortison 1% untuk gatal kulit alergi, plester luka steril, dan termometer digital pribadi.</li>
 <li>Jika memerlukan paket vitamin pendukung daya tahan tubuh, Anda dapat mengombinasikannya dengan [Layanan Cek Lab Darah di Rumah Joy of Care](/layanan/cek-lab-di-rumah).</li>
+</ul>
 
 <h3>4. Mengapa asrama kampus di luar negeri sangat ketat mewajibkan vaksin Meningitis MenACWY?</h3>
 <strong>Jawab</strong>: Bakteri <em>Neisseria meningitidis</em> menular melalui droplet udara di lingkungan dengan kepadatan hunian tinggi seperti asrama mahasiswa (<em>college dorms</em>). Infeksi meningitis bakterialis dapat berkembang sangat cepat dalam hitungan 24 jam, menyebabkan radang selaput otak berat, kerusakan saraf permanen, hingga kematian. Vaksinasi MenACWY memberikan perlindungan terhadap 4 serogrup bakteri mematikan (A, C, W, dan Y) dan wajib dibuktikan dengan sertifikat vaksin internasional sebelum kunci kamar asrama diserahkan kepada Anda. Anda dapat memperoleh vaksin ini di rumah melalui [Layanan Vaksinasi di Rumah](/layanan/vaksinasi-di-rumah).

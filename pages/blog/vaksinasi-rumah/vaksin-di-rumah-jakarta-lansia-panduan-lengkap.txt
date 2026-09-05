@@ -7,56 +7,68 @@ meta_description: 'Layanan vaksin di rumah Jakarta untuk lansia 2026: influenza,
   juga!'
 primary_keyword: vaksin di rumah jakarta lansia
 secondary_keywords:
-<li>imunisasi lansia datang ke rumah</li>
+<ul><li>imunisasi lansia datang ke rumah</li>
 <li>vaksin pneumonia lansia jabodetabek</li>
 <li>biaya vaksin flu geriatri di rumah</li>
 <li>layanan vaksinasi lansia resmi kemenkes</li>
+</ul>
 variation_type: panduan-lengkap
 faq:
-<li>question: Mengapa lansia usia 60 tahun ke atas sangat dianjurkan menerima vaksinasi</li>
+<ul><li>question: Mengapa lansia usia 60 tahun ke atas sangat dianjurkan menerima vaksinasi</li>
+</ul>
     secara rutin?
   answer: Seiring bertambahnya usia, tubuh mengalami proses penuaan sistem imun alami
     yang disebut immunosenescence. Penurunan fungsi sel T dan sel B ini membuat daya
     tahan tubuh lansia melemah drastis, sehingga infeksi saluran pernapasan seperti
     influenza atau pneumonia dapat memicu komplikasi fatal seperti gagal napas atau
     sepsis jika tidak dilindungi oleh vaksinasi.
-<li>question: Apa saja jenis vaksin yang paling direkomendasikan PAPDI untuk lansia</li>
+<ul><li>question: Apa saja jenis vaksin yang paling direkomendasikan PAPDI untuk lansia</li>
+</ul>
     di Indonesia?
   answer: 'Perhimpunan Dokter Spesialis Penyakit Dalam Indonesia (PAPDI) merekomendasikan
     tiga vaksin utama bagi lansia: vaksin influenza kuadrivalen (diulang setiap satu
     tahun sekali), vaksin pneumonia (PCV13 / PCV15 diikuti PPSV23 untuk mencegah radang
     paru), serta vaksin herpes zoster (mencegah cacar ular dan nyeri saraf pascaherpes).'
-<li>question: Berapa kisaran biaya layanan vaksin lansia di rumah di Jakarta pada tahun</li>
+<ul><li>question: Berapa kisaran biaya layanan vaksin lansia di rumah di Jakarta pada tahun</li>
+</ul>
     2026?
   answer: Tarif layanan vaksinasi lansia di rumah Joy of Care ditentukan secara transparan
     sesuai jenis vaksin resmi (Influenza Kuadrivalen, Pneumonia PCV13/15, PPSV23,
     atau Herpes Zoster Rekombinan), sudah mencakup jasa visit tenaga medis, alat suntik
     steril, dan pemeliharaan cold chain steril. Hubungi WhatsApp Joy of Care 08811-118-911
     untuk informasi resmi.
-<li>question: Bagaimana Joy of Care memastikan kualitas dan suhu penyimpanan vaksin</li>
+<ul><li>question: Bagaimana Joy of Care memastikan kualitas dan suhu penyimpanan vaksin</li>
+</ul>
     tetap aman selama perjalanan ke rumah?
   answer: Seluruh vaksin Joy of Care dibawa menggunakan vaccine cool box medis berstandar
     WHO dengan termometer pemantau suhu digital terkalibrasi ketat pada rentang 2°C
     hingga 8°C (cold-chain management system), memastikan efektivitas antigen vaksin
     tetap 100% terjaga hingga disuntikkan.
 internal_links:
-<li>anchor: Layanan Vaksinasi Lansia di Rumah Joy of Care</li>
+<ul><li>anchor: Layanan Vaksinasi Lansia di Rumah Joy of Care</li>
+</ul>
   url: /layanan/vaksinasi-di-rumah
-<li>anchor: Layanan Panggil Dokter ke Rumah Jakarta</li>
+<ul><li>anchor: Layanan Panggil Dokter ke Rumah Jakarta</li>
+</ul>
   url: /layanan/panggil-dokter
-<li>anchor: Layanan Perawat Medis Homecare</li>
+<ul><li>anchor: Layanan Perawat Medis Homecare</li>
+</ul>
   url: /layanan/perawat-homecare
-<li>anchor: Layanan Cek Lab Darah di Rumah</li>
+<ul><li>anchor: Layanan Cek Lab Darah di Rumah</li>
+</ul>
   url: /layanan/cek-lab-di-rumah
 cta_text: Konsultasi Dokter Gratis via WhatsApp via WhatsApp Joy of Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
 clinical_references:
-<li>Perhimpunan Dokter Spesialis Penyakit Dalam Indonesia (PAPDI) - Jadwal Imunisasi</li>
+<ul><li>Perhimpunan Dokter Spesialis Penyakit Dalam Indonesia (PAPDI) - Jadwal Imunisasi</li>
+</ul>
   Dewasa dan Lansia 2024-2026
-<li>World Health Organization (WHO) - Guidelines for Immunization in Older Adults and</li>
+<ul><li>World Health Organization (WHO) - Guidelines for Immunization in Older Adults and</li>
+</ul>
   High-Risk Populations
-<li>Centers for Disease Control and Prevention (CDC) - Pneumococcal and Shingles Vaccination</li>
+<ul><li>Centers for Disease Control and Prevention (CDC) - Pneumococcal and Shingles Vaccination</li>
+</ul>
   Recommendations for Adults Aged 65 and Older
 ---
 
@@ -75,9 +87,10 @@ Sistem kekebalan tubuh manusia mengalami penurunan alami seiring bertambahnya us
 <h2>Fenomena Immunosenescence: Mengapa Lansia Wajib Mendapatkan Vaksinasi?</h2>
 
 Seiring penuaan biologis, organ timus mengalami atrofi dan produksi limfosit T naif menurun drastis. Akibatnya:
-<li><strong>Respon Imun Lambat</strong>: Ketika virus flu atau bakteri <em>Streptococcus pneumoniae</em> masuk ke saluran napas, sistem imun lansia membutuhkan waktu berhari-hari lebih lama untuk mengenali dan memproduksi antibodi spesifik.</li>
+<ul><li><strong>Respon Imun Lambat</strong>: Ketika virus flu atau bakteri <em>Streptococcus pneumoniae</em> masuk ke saluran napas, sistem imun lansia membutuhkan waktu berhari-hari lebih lama untuk mengenali dan memproduksi antibodi spesifik.</li>
 <li><em></em>Inflamasi Kronis Ringan (<em>Inflammaging</em>)<em></em>: Lansia kerap berada dalam status peradangan sistemik derajat rendah yang diperberat oleh penyakit penyerta seperti diabetes melitus, penyakit jantung koroner, gagal ginjal kronis, atau penyakit paru obstruktif kronis (PPOK).</li>
 <li><strong>Penyakit Sederhana Berujung Kritis</strong>: Infeksi influenza pada orang tua sering kali tidak bermanifestasi sebagai demam tinggi melainkan gejala atipikal seperti linglung mendadak (<em>delirium</em>), nafsu makan anjlok, atau kelemahan kaki mendadak yang memicu jatuh.</li>
+</ul>
 
 Vaksinasi berperan sebagai latihan pertahanan tanpa harus menderita penyakit aslinya. Dengan antibodi siap pakai yang dirangsang oleh vaksin, risiko infeksi berkembang menjadi peradangan paru parah dapat dicegah sejak dini.
 
@@ -88,21 +101,25 @@ Vaksinasi berperan sebagai latihan pertahanan tanpa harus menderita penyakit asl
 Berdasarkan panduan Perhimpunan Dokter Spesialis Penyakit Dalam Indonesia (PAPDI) dan Centers for Disease Control and Prevention (CDC), berikut adalah jadwal dan jenis vaksin esensial bagi individu berusia 60 tahun ke atas:
 
 <h3>1. Vaksin Influenza Kuadrivalen (Setiap 1 Tahun Sekali)</h3>
-<li><strong>Penyebab & Bahaya</strong>: Virus influenza tipe A (H1N1, H3N2) dan tipe B yang terus bermutasi setiap musim.</li>
+<ul><li><strong>Penyebab & Bahaya</strong>: Virus influenza tipe A (H1N1, H3N2) dan tipe B yang terus bermutasi setiap musim.</li>
 <li><strong>Manfaat Klinis</strong>: Mencegah infeksi saluran pernapasan akut, mengurangi risiko serangan jantung mendadak selama serangan flu hingga 30–45%, serta mencegah dekompensasi diabetes.</li>
 <li><strong>Jadwal Pemberian</strong>: Wajib diulang satu dosis setiap 12 bulan sekali karena galur virus influenza selalu diperbarui oleh WHO setiap tahunnya.</li>
+</ul>
 
 <h3>2. Vaksin Pneumonia / Pneumokokus (PCV13 / PCV15 dan PPSV23)</h3>
-<li><strong>Penyebab & Bahaya</strong>: Bakteri <em>Streptococcus pneumoniae</em> yang menyebabkan pneumonia lobaris (paru-paru basah), meningitis bakterialis, dan bakteremia sistemik.</li>
+<ul><li><strong>Penyebab & Bahaya</strong>: Bakteri <em>Streptococcus pneumoniae</em> yang menyebabkan pneumonia lobaris (paru-paru basah), meningitis bakterialis, dan bakteremia sistemik.</li>
 <li><strong>Skema Pemberian</strong>:</li>
+</ul>
   * Dosis pertama: Diberikan vaksin pneumokokus konjugat (PCV13 atau PCV15) untuk merangsang memori imun jangka panjang.
   * Dosis kedua: Diberikan vaksin polisakarida PPSV23 dengan jeda minimal 1 tahun setelah PCV, untuk memperluas cakupan serotipe bakteri hingga 23 strain berbahaya.
-<li><strong>Manfaat</strong>: Perlindungan seumur hidup terhadap infeksi paru invasif yang menjadi penyebab kematian infeksi nomor satu pada lansia.</li>
+<ul><li><strong>Manfaat</strong>: Perlindungan seumur hidup terhadap infeksi paru invasif yang menjadi penyebab kematian infeksi nomor satu pada lansia.</li>
+</ul>
 
 <h3>3. Vaksin Herpes Zoster (Shingles Vaccine)</h3>
-<li><strong>Penyebab & Bahaya</strong>: Reaktivasi virus <em>Varicella Zoster</em> (cacar air) yang dorman di ganglion saraf sensorik. Pada lansia, herpes zoster menimbulkan ruam lenting melepuh yang disertai nyeri saraf hebat terbakar (<em>Neuralgia Pasca-Herpes</em> / PHN) yang bisa menetap berbulan-bulan hingga bertahun-tahun.</li>
+<ul><li><strong>Penyebab & Bahaya</strong>: Reaktivasi virus <em>Varicella Zoster</em> (cacar air) yang dorman di ganglion saraf sensorik. Pada lansia, herpes zoster menimbulkan ruam lenting melepuh yang disertai nyeri saraf hebat terbakar (<em>Neuralgia Pasca-Herpes</em> / PHN) yang bisa menetap berbulan-bulan hingga bertahun-tahun.</li>
 <li><strong>Skema Pemberian</strong>: Vaksin rekombinan non-hidup (<em>Shingrix</em>) diberikan sebanyak 2 dosis dengan interval jarak 2 hingga 6 bulan antar-dosis.</li>
 <li><strong>Efektivitas</strong>: Memberikan perlindungan lebih dari 90% terhadap serangan cacar ular dan menurunkan risiko nyeri saraf kronis secara signifikan.</li>
+</ul>
 
 ---
 
@@ -134,8 +151,9 @@ Menyelenggarakan vaksinasi di lingkungan hunian membutuhkan ketelitian medis tin
 
 <h3>1. Skrining Anamnesis & Tanda Vital</h3>
 Sebelum jarum suntik dikeluarkan, perawat Joy of Care akan mengukur:
-<li>Tekanan darah, denyut nadi, laju pernapasan, saturasi oksigen, dan suhu tubuh.</li>
+<ul><li>Tekanan darah, denyut nadi, laju pernapasan, saturasi oksigen, dan suhu tubuh.</li>
 <li>Skrining kondisi akut: Lansia tidak boleh sedang demam tinggi (>38°C), mengalami infeksi saluran kemih akut, atau sesak napas berat pada hari vaksinasi. Bila ditemukan kondisi akut, jadwal vaksinasi dapat ditunda dengan aman hingga kondisi stabil melalui koordinasi [Layanan Panggil Dokter ke Rumah Jakarta](/layanan/panggil-dokter).</li>
+</ul>
 
 <h3>2. Verifikasi Rantai Dingin (<em>Cold-Chain Verification</em>)</h3>
 Keluarga dipersilakan memeriksa secara langsung kotak pendingin vaksin. Vaksin diambil langsung dari suhu 2–8°C sesaat sebelum disuntikkan secara intramuskular pada otot deltoid lengan atas lansia dengan teknik aseptik swab alkohol.

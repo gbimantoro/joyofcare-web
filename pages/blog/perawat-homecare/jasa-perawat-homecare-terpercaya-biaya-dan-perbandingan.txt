@@ -7,51 +7,62 @@ meta_description: 'Perbandingan keunggulan perawat homecare Joy of Care vs agens
   sekarang!'
 primary_keyword: perawat homecare joy of care vs agensi lain
 secondary_keywords:
-<li>keunggulan layanan homecare joy of care</li>
+<ul><li>keunggulan layanan homecare joy of care</li>
 <li>perbandingan penyedia perawat medis jakarta</li>
 <li>perawat bersertifikasi str vs yayasan art</li>
 <li>biaya perawat homecare transparan jabodetabek</li>
+</ul>
 variation_type: biaya-dan-perbandingan
 faq:
-<li>question: Apa keunggulan kompetitif utama perawat homecare Joy of Care dibanding</li>
+<ul><li>question: Apa keunggulan kompetitif utama perawat homecare Joy of Care dibanding</li>
+</ul>
     agensi penyalur konvensional?
   answer: 'Keunggulan utama Joy of Care terletak pada ekosistem medis terpadu: perawat
     medis bersertifikasi STR aktif, supervisi berkala langsung oleh dokter penanggung
     jawab, integrasi dengan layanan fisioterapi dan laboratorium darah di rumah, serta
     jaminan garansi penukaran perawat gratis.'
-<li>question: Mengapa yayasan penyalur tenaga kerja biasa sering kali kurang tepat untuk</li>
+<ul><li>question: Mengapa yayasan penyalur tenaga kerja biasa sering kali kurang tepat untuk</li>
+</ul>
     merawat pasien pascastroke?
   answer: Yayasan biasa umumnya menyalurkan asisten rumah tangga (ART) yang hanya
     diberi pelatihan kilat beberapa hari tanpa dasar ilmu keperawatan akademis. Mereka
     tidak memiliki kompetensi klinis untuk merawat selang NGT, kateter, luka dekubitus,
     atau mengenali tanda kegawatan medis stroke berulang.
-<li>question: Apakah biaya layanan perawat homecare di Joy of Care transparan tanpa</li>
+<ul><li>question: Apakah biaya layanan perawat homecare di Joy of Care transparan tanpa</li>
+</ul>
     biaya siluman?
   answer: Mutlak transparan. Kontrak layanan mencakup rincian biaya penempatan dan
     jasa perawat bulanan secara jelas sejak awal tanpa potongan sepihak atau biaya
     administrasi tak terduga.
-<li>question: Bagaimana prosedur penggantian perawat di Joy of Care jika keluarga merasa</li>
+<ul><li>question: Bagaimana prosedur penggantian perawat di Joy of Care jika keluarga merasa</li>
+</ul>
     kurang cocok?
   answer: Keluarga cukup menghubungi konsultan layanan Joy of Care via WhatsApp. Tim
     kami akan melakukan asesmen alasan ketidakcocokan dan menyiapkan tenaga perawat
     pengganti dalam waktu 1x24 hingga 2x24 jam tanpa biaya penempatan baru.
 internal_links:
-<li>anchor: Layanan Perawat Homecare Medis Joy of Care</li>
+<ul><li>anchor: Layanan Perawat Homecare Medis Joy of Care</li>
+</ul>
   url: /layanan/perawat-homecare
-<li>anchor: Panduan Lengkap Jasa Perawat Homecare Terpercaya</li>
+<ul><li>anchor: Panduan Lengkap Jasa Perawat Homecare Terpercaya</li>
+</ul>
   url: /blog/jasa-perawat-homecare-terpercaya-panduan-lengkap
-<li>anchor: Layanan Panggil Dokter ke Rumah</li>
+<ul><li>anchor: Layanan Panggil Dokter ke Rumah</li>
+</ul>
   url: /layanan/panggil-dokter
-<li>anchor: Layanan Fisioterapi di Rumah</li>
+<ul><li>anchor: Layanan Fisioterapi di Rumah</li>
+</ul>
   url: /layanan/fisioterapi
 cta_text: Konsultasi Dokter Gratis via WhatsApp via WhatsApp Joy of Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
 clinical_references:
-<li>Indonesian Journal of Health Administration - Comparative Analysis of Homecare Service</li>
+<ul><li>Indonesian Journal of Health Administration - Comparative Analysis of Homecare Service</li>
+</ul>
   Models in Urban Centers
-<li>Healthcare Quality and Safety Commission - Clinical Governance in Home Nursing Services</li>
+<ul><li>Healthcare Quality and Safety Commission - Clinical Governance in Home Nursing Services</li>
 <li>Kementerian Kesehatan RI - Pedoman Penyelenggaraan Pelayanan Home Care yang Bermutu</li>
+</ul>
 ---
 
 <h1>Perawat Homecare Joy of Care vs Agensi Penyalur Lain: Mengapa Ekosistem Medis Terpadu Menjadi Pilihan Terbaik?</h1>
@@ -72,8 +83,9 @@ Banyak keluarga di Jakarta tergiur merekrut perawat dari yayasan penyalur inform
 
 <h3>1. Ketiadaan Standar Kompetensi Klinis Medis</h3>
 Yayasan penyalur tenaga kerja konvensional pada hakikatnya beroperasi sebagai penyalur asisten rumah tangga (ART) dan pengasuh anak (<em>babysitter</em>). Ketika menyalurkan tenaga untuk pasien sakit berat:
-<li>Pekerja hanya dibekali pelatihan non-formal selama 3 hingga 7 hari tanpa pemahaman dasar mengenai mikrobiologi, fisiologi organ, dan teknik aseptik.</li>
+<ul><li>Pekerja hanya dibekali pelatihan non-formal selama 3 hingga 7 hari tanpa pemahaman dasar mengenai mikrobiologi, fisiologi organ, dan teknik aseptik.</li>
 <li>Mereka tidak memahami bahaya pemberian air putih pada pasien yang sedang tersedak atau cara memutar posisi pasien tanpa mencederai bahu hemiplegik pascastroke.</li>
+</ul>
 
 <h3>2. Putusnya Rantai Rujukan Medis</h3>
 Jika pasien mengalami demam mendadak, kejang, atau tensi darah melonjak hingga 200 mmHg di tengah malam, perawat yayasan biasa hanya bisa panik dan menelepon anak pasien yang sedang berada di kantor. Tidak ada dokter penanggung jawab yang dapat segera dihubungi untuk memberikan pertolongan pertama secara klinis.
@@ -106,10 +118,11 @@ Memilih Joy of Care berarti Anda tidak sekadar mendatangkan perawat ke rumah, me
 
 <h3>1. Koordinasi Multidisiplin Medis dalam Satu Pintu</h3>
 Saat orang tua Anda mengalami stroke:
-<li>Ns. Perawat Joy of Care memantau tanda vital harian dan merawat selang makanan NGT.</li>
+<ul><li>Ns. Perawat Joy of Care memantau tanda vital harian dan merawat selang makanan NGT.</li>
 <li>Fisioterapis dari [Layanan Fisioterapi di Rumah](/layanan/fisioterapi) berkunjung 2 kali seminggu untuk melatih pasien melangkah dan duduk tegak.</li>
 <li>Dokter dari [Layanan Panggil Dokter ke Rumah](/layanan/panggil-dokter) melakukan evaluasi tensi bulanan dan menerbitkan resep obat resmi.</li>
 <li>Seluruh tim berkomunikasi dalam satu grup medis terenkripsi, memastikan seluruh perkembangan pasien terpantau tanpa ada informasi yang terputus.</li>
+</ul>
 
 <h3>2. Rekam Medis Digital yang Terbuka untuk Keluarga</h3>
 Setiap perkembangan kesehatan orang tua dilaporkan secara harian. Anda yang sedang dinas kerja di luar kota atau di kantor dapat memantau grafik tekanan darah, saturasi oksigen, dan asupan nutrisi orang tua secara transparan melalui laporan perawat yang dikirimkan via WhatsApp.

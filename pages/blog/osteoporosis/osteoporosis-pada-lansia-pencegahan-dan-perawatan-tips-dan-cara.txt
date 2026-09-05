@@ -6,49 +6,59 @@ meta_description: Daftar makanan dan nutrisi terbaik penambah kepadatan tulang l
   untuk mencegah osteoporosis di rumah. Konsultasi dokter Joy of Care via WA 08811-118-911!
 primary_keyword: makanan penambah kepadatan tulang lansia osteoporosis
 secondary_keywords:
-<li>asupan kalsium harian orang tua</li>
+<ul><li>asupan kalsium harian orang tua</li>
 <li>sumber vitamin d3 alami untuk lansia</li>
 <li>menu makanan pencegah pengeroposan tulang</li>
 <li>penyerapan kalsium optimal usia senja</li>
+</ul>
 variation_type: tips-dan-cara
 faq:
-<li>question: Bahan makanan apa saja yang menjadi sumber kalsium non-susu terbaik bagi</li>
+<ul><li>question: Bahan makanan apa saja yang menjadi sumber kalsium non-susu terbaik bagi</li>
+</ul>
     lansia yang mengalami intoleransi laktosa?
   answer: Sumber kalsium non-susu yang sangat kaya meliputi ikan teri basah/kering
     yang dimakan bersama tulangnya, tahu sutra dan tempe kedelai, brokoli kukus, bayam
     hijau, biji wijen putih/hitam, ikan sarden kaleng bertulang lunak, serta susu
     nabati (almond milk atau soy milk) yang telah difortifikasi kalsium dan vitamin
     D.
-<li>question: Mengapa vitamin K2 dan magnesium sangat penting dikonsumsi bersamaan dengan</li>
+<ul><li>question: Mengapa vitamin K2 dan magnesium sangat penting dikonsumsi bersamaan dengan</li>
+</ul>
     kalsium?
   answer: Kalsium membutuhkan vitamin K2 untuk mengaktifkan protein osteokalsin yang
     bertugas mengikat kalsium langsung ke dalam matriks tulang, sekaligus mencegah
     penumpukan kalsium di dinding pembuluh darah arteri (<em>kalsifikasi pembuluh darah</em>).
     Sementara magnesium berperan dalam mengaktifkan enzim pengubah vitamin D menjadi
     bentuk hormon aktif.
-<li>question: Makanan atau minuman apa yang dapat menghambat penyerapan kalsium dan</li>
+<ul><li>question: Makanan atau minuman apa yang dapat menghambat penyerapan kalsium dan</li>
+</ul>
     mempercepat pengeroposan tulang?
   answer: Konsumsi garam dapur (natrium) berlebih memicu peningkatan ekskresi kalsium
     melalui urin, minuman bersoda mengandung asam fosfat yang mengikat kalsium, kafein
     berlebih dari kopi pekat, serta konsumsi alkohol kronis yang merusak sel-sel pembentuk
     tulang.
 internal_links:
-<li>anchor: Layanan Panggil Dokter ke Rumah Jakarta</li>
+<ul><li>anchor: Layanan Panggil Dokter ke Rumah Jakarta</li>
+</ul>
   url: /layanan/panggil-dokter
-<li>anchor: Layanan Fisioterapi di Rumah Joy of Care</li>
+<ul><li>anchor: Layanan Fisioterapi di Rumah Joy of Care</li>
+</ul>
   url: /layanan/fisioterapi-di-rumah
-<li>anchor: Layanan Cek Lab Darah di Rumah</li>
+<ul><li>anchor: Layanan Cek Lab Darah di Rumah</li>
+</ul>
   url: /layanan/cek-lab-di-rumah
 cta_text: Konsultasi Dokter Gratis via WhatsApp langsung via WhatsApp Joy of Care
   di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
 clinical_references:
-<li>American Society for Bone and Mineral Research (ASBMR) - Nutritional Guidelines</li>
+<ul><li>American Society for Bone and Mineral Research (ASBMR) - Nutritional Guidelines</li>
+</ul>
   for Bone Health in Seniors
-<li>Indonesian Ministry of Health - Pedoman Gizi Seimbang dan Angka Kecukupan Gizi (AKG)</li>
+<ul><li>Indonesian Ministry of Health - Pedoman Gizi Seimbang dan Angka Kecukupan Gizi (AKG)</li>
+</ul>
   Lanjut Usia
-<li>International Osteoporosis Foundation - Calcium, Vitamin D and Protein in Bone Health</li>
+<ul><li>International Osteoporosis Foundation - Calcium, Vitamin D and Protein in Bone Health</li>
+</ul>
 ---
 
 <h1>Makanan Penambah Kepadatan Tulang untuk Lansia: Menu Sehat, Sinergi Mikronutrien, dan Panduan Gizi Anti-Osteoporosis</h1>
@@ -69,19 +79,22 @@ Menyajikan makanan yang padat gizi namun tetap mudah dikunyah dan ramah pencerna
 
 <h3>1. Ikan Teri dan Ikan Sarden Bertulang Lunak</h3>
 Ikan teri nasi segar maupun kering, serta ikan sarden yang dimasak dengan presto tulang lunak merupakan salah satu "juara" kalsium lokal Indonesia:
-<li>100 gram ikan teri mengandung lebih dari 1.000 mg kalsium murni—hampir memenuhi 100% kebutuhan harian lansia dalam satu porsi makan.</li>
+<ul><li>100 gram ikan teri mengandung lebih dari 1.000 mg kalsium murni—hampir memenuhi 100% kebutuhan harian lansia dalam satu porsi makan.</li>
 <li>Tulang ikan yang hancur mengandung rasio kalsium dan fosfor alami yang sangat mudah diserap oleh sel usus halus manusia.</li>
 <li>Sajikan teri basah yang ditumis bersama tomat segar dan daun kemangi atau pepes teri tanpa banyak garam.</li>
+</ul>
 
 <h3>2. Produk Olahan Kedelai: Tahu Sutra dan Tempe Murni</h3>
 Bagi lansia yang kerap mengalami perut kembung atau diare setiap kali meminum susu sapi (<em>laktosa intoleran</em>), tahu dan tempe adalah sahabat terbaik:
-<li>Kedelai kaya akan senyawa fitoestrogen alami (isoflavon genistein dan daidzein) yang memiliki struktur mirip hormon estrogen wanita, membantu menghambat laju penghancuran tulang oleh sel osteoklas.</li>
+<ul><li>Kedelai kaya akan senyawa fitoestrogen alami (isoflavon genistein dan daidzein) yang memiliki struktur mirip hormon estrogen wanita, membantu menghambat laju penghancuran tulang oleh sel osteoklas.</li>
 <li>100 gram tahu sutra yang diolah dengan kalsium sulfat mengandung sekitar 350–450 mg kalsium serta protein nabati lembut yang mudah dicerna lambung geriatri.</li>
+</ul>
 
 <h3>3. Sayuran Hijau Kaya Kalsium dan Vitamin K1 (Brokoli dan Bok Choy)</h3>
 Sayuran hijau berdaun gelap memasok mikronutrien penting:
-<li>Brokoli kukus, sawi hijau, dan bok choy memiliki bioavailabilitas kalsium yang sangat tinggi (mencapai 50–60% penyerapan), melampaui kalsium susu karena kadar asam oksalatnya yang relatif rendah.</li>
+<ul><li>Brokoli kukus, sawi hijau, dan bok choy memiliki bioavailabilitas kalsium yang sangat tinggi (mencapai 50–60% penyerapan), melampaui kalsium susu karena kadar asam oksalatnya yang relatif rendah.</li>
 <li>Vitamin K1 dalam sayuran hijau diubah oleh flora mikrobioma usus menjadi vitamin K2, yang berperan penting mengaktifkan osteokalsin untuk mengikat mineral ke dalam tulang.</li>
+</ul>
 
 <h3>4. Telur Utuh Kaya Kolin dan Vitamin D Alami</h3>
 Kuning telur adalah salah satu dari sedikit sumber makanan alami yang mengandung vitamin D3 (<em>kolekalsiferol</em>). Mengonsumsi 1–2 butir telur rebus lembut per hari memasok protein albumin berkualitas tinggi untuk pembentukan serat kolagen tulang sekaligus mendukung kesehatan daya ingat otak.
@@ -108,11 +121,12 @@ Produk fermentasi susu seperti yoghurt telah memecah sebagian besar laktosa sehi
 
 Berikut adalah inspirasi jadwal makan ramah lansia yang dirancang memenuhi target 1.200 mg kalsium harian:
 
-<li><strong>Sarapan (07.00)</strong>: Oatmeal hangat dimasak dengan susu kedelai fortifikasi kalsium, ditaburi potongan buah pisang ambon dan 1 sendok teh biji chia seed halus, ditambah 1 butir telur rebus lembut.</li>
+<ul><li><strong>Sarapan (07.00)</strong>: Oatmeal hangat dimasak dengan susu kedelai fortifikasi kalsium, ditaburi potongan buah pisang ambon dan 1 sendok teh biji chia seed halus, ditambah 1 butir telur rebus lembut.</li>
 <li><strong>Camilan Pagi (10.00)</strong>: 1 cangkir yoghurt tawar dengan potongan pepaya manis kaya enzim papain.</li>
 <li><strong>Makan Siang (12.30)</strong>: Nasi lembek merah/putih, sup bening ikan salmon atau gurame, pepes tahu jamur, dan tumis brokoli bok choy dengan minyak zaitun.</li>
 <li><strong>Camilan Sore (15.30)</strong>: Susu rendah laktosa hangat dan segenggam kecil kacang almond panggang tumbuk.</li>
 <li><strong>Makan Malam (18.30)</strong>: Sup ayam bening wortel labu siam, perkedel tempe kukus, dan tumis teri basah bumbu tomat.</li>
+</ul>
 
 ---
 

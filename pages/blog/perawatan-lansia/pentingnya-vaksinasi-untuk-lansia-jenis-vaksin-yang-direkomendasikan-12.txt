@@ -5,49 +5,59 @@ meta_description: Panduan lengkap jenis vaksinasi untuk lansia yang direkomendas
   dokter PAPDI. Layanan vaksin ke rumah via WhatsApp Joy of Care 08811-118-911 sekarang!
 primary_keyword: pentingnya vaksinasi untuk lansia
 secondary_keywords:
-<li>jadwal imunisasi dewasa papdi</li>
+<ul><li>jadwal imunisasi dewasa papdi</li>
 <li>vaksin influenza lansia tahunan</li>
 <li>vaksin herpes zoster cacar api</li>
 <li>panggil dokter vaksin ke rumah</li>
+</ul>
 faq:
-<li>question: Mengapa lansia masih memerlukan vaksinasi padahal sudah pernah diimunisasi</li>
+<ul><li>question: Mengapa lansia masih memerlukan vaksinasi padahal sudah pernah diimunisasi</li>
+</ul>
     saat anak-anak?
   answer: Kekebalan tubuh dari vaksin masa kecil sudah menurun drastis, dan sistem
     imun lansia mengalami imunosenesens (penurunan daya tahan alami), sehingga lansia
     sangat rentan terserang infeksi bakteri dan virus yang mematikan.
-<li>question: Vaksin apa saja yang wajib diberikan pada orang lanjut usia menurut PAPDI?</li>
+<ul><li>question: Vaksin apa saja yang wajib diberikan pada orang lanjut usia menurut PAPDI?</li>
+</ul>
   answer: Perhimpunan Dokter Spesialis Penyakit Dalam Indonesia (PAPDI) merekomendasikan
     vaksin Influenza tahunan, vaksin Pneumonia konjugat/polisakarida (PCV13 & PPSV23),
     vaksin Herpes Zoster (Shingrix), dan vaksin Td/Tdap booster.
-<li>question: Apakah penderita diabetes atau penyakit jantung boleh divaksinasi?</li>
+<ul><li>question: Apakah penderita diabetes atau penyakit jantung boleh divaksinasi?</li>
+</ul>
   answer: Justru sangat diwajibkan. Pasien dengan penyakit penyerta kronis (komorbid)
     memiliki risiko komplikasi rawat inap dan kematian 3 hingga 5 kali lebih tinggi
     jika terinfeksi virus flu atau bakteri pneumonia.
-<li>question: Apakah lansia yang sudah pernah terkena penyakit cacar api (herpes zoster)</li>
+<ul><li>question: Apakah lansia yang sudah pernah terkena penyakit cacar api (herpes zoster)</li>
+</ul>
     masih perlu divaksin zoster?
   answer: Tetap sangat dianjurkan. Serangan herpes zoster alami tidak memberikan kekebalan
     seumur hidup; vaksinasi zoster rekombinan mencegah terjadinya serangan ulang dan
     menurunkan risiko nyeri saraf kronis yang menyiksa.
-<li>question: Bolehkah lansia menerima vaksin influenza dan vaksin pneumonia pada hari</li>
+<ul><li>question: Bolehkah lansia menerima vaksin influenza dan vaksin pneumonia pada hari</li>
+</ul>
     yang sama?
   answer: Boleh (diberikan secara co-administration), asalkan disuntikkan pada lengan
     yang berbeda dengan menggunakan spuit steril yang terpisah setelah dokter memastikan
     kondisi fisik lansia dalam keadaan fit.
 internal_links:
-<li>anchor: Layanan Vaksinasi di Rumah Joy of Care</li>
+<ul><li>anchor: Layanan Vaksinasi di Rumah Joy of Care</li>
+</ul>
   url: /layanan/vaksinasi-di-rumah
-<li>anchor: Vaksinasi Pneumonia untuk Paru-Paru Lansia</li>
+<ul><li>anchor: Vaksinasi Pneumonia untuk Paru-Paru Lansia</li>
+</ul>
   url: /blog/healthy-aging-3/vaksinasi-pneumonia-lindungi-opa-oma-39
-<li>anchor: Layanan Dokter Kunjungan ke Rumah</li>
+<ul><li>anchor: Layanan Dokter Kunjungan ke Rumah</li>
+</ul>
   url: /layanan/panggil-dokter
 cta_text: Konsultasi Dokter Gratis via WhatsApp dokter Joy of Care via WhatsApp di
   08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
 clinical_references:
-<li>Jadwal Imunisasi Dewasa PAPDI (Perhimpunan Dokter Spesialis Penyakit Dalam Indonesia)</li>
+<ul><li>Jadwal Imunisasi Dewasa PAPDI (Perhimpunan Dokter Spesialis Penyakit Dalam Indonesia)</li>
 <li>CDC Advisory Committee on Immunization Practices (ACIP) Adult Immunization Schedule</li>
 <li>World Health Organization (WHO) Guidelines on Immunization for Older Adults</li>
+</ul>
 ---
 
 <h1>Pentingnya Vaksinasi untuk Lansia: 4 Jenis Vaksin yang Wajib Diberikan</h1>
@@ -63,20 +73,24 @@ Vaksinasi dewasa adalah perisai pelindung yang terbukti klinis mampu mencegah ra
 Berdasarkan Panduan Imunisasi Dewasa dari Perhimpunan Dokter Spesialis Penyakit Dalam Indonesia (PAPDI) dan CDC:
 
 <h3>1. Vaksin Influenza Kuadrivalen (Setiap 1 Tahun Sekali)</h3>
-<li><strong>Mengapa Wajib?</strong>: Virus influenza bermutasi setiap tahun. Pada lansia, komplikasi flu dapat memicu infeksi paru berat hingga eksaserbasi kardiovaskular akut. Riset medis membuktikan vaksin flu tahunan menurunkan risiko rawat inap ICU hingga 50%.</li>
+<ul><li><strong>Mengapa Wajib?</strong>: Virus influenza bermutasi setiap tahun. Pada lansia, komplikasi flu dapat memicu infeksi paru berat hingga eksaserbasi kardiovaskular akut. Riset medis membuktikan vaksin flu tahunan menurunkan risiko rawat inap ICU hingga 50%.</li>
 <li><strong>Jadwal Pemberian</strong>: Diberikan 1 dosis setiap tahun (menggunakan formulasi galur virus terbaru rekomendasi WHO).</li>
+</ul>
 
 <h3>2. Vaksin Pneumonia / Pneumokokus (PCV13 dan PPSV23)</h3>
-<li><strong>Mengapa Wajib?</strong>: Bakteri <em>Streptococcus pneumoniae</em> adalah pembunuh nomor satu saluran pernapasan lansia. Bakteri ini menyebabkan pneumonia lobaris, meningitis, dan infeksi aliran darah (<em>bakteremia</em>).</li>
+<ul><li><strong>Mengapa Wajib?</strong>: Bakteri <em>Streptococcus pneumoniae</em> adalah pembunuh nomor satu saluran pernapasan lansia. Bakteri ini menyebabkan pneumonia lobaris, meningitis, dan infeksi aliran darah (<em>bakteremia</em>).</li>
 <li><strong>Jadwal Pemberian</strong>: Umumnya diawali dengan 1 dosis vaksin konjugat <strong>PCV13</strong>, diikuti dengan vaksin polisakarida <strong>PPSV23</strong> berjarak minimal 1 tahun kemudian untuk menghasilkan kekebalan mukosa paru seumur hidup.</li>
+</ul>
 
 <h3>3. Vaksin Herpes Zoster (Cacar Api / Shingles)</h3>
-<li><strong>Mengapa Wajib?</strong>: Virus cacar air (<em>Varicella Zoster</em>) yang pernah diderita saat kecil tetap tertidur di serabut saraf. Ketika daya tahan lansia turun, virus bangkit kembali menyebabkan ruam melepuh yang sangat menyakitkan (<em>cacar ular</em>) dan komplikasi nyeri saraf berkepanjangan selama berbulan-bulan (<em>Post-Herpetic Neuralgia</em>).</li>
+<ul><li><strong>Mengapa Wajib?</strong>: Virus cacar air (<em>Varicella Zoster</em>) yang pernah diderita saat kecil tetap tertidur di serabut saraf. Ketika daya tahan lansia turun, virus bangkit kembali menyebabkan ruam melepuh yang sangat menyakitkan (<em>cacar ular</em>) dan komplikasi nyeri saraf berkepanjangan selama berbulan-bulan (<em>Post-Herpetic Neuralgia</em>).</li>
 <li><strong>Jadwal Pemberian</strong>: Vaksin rekombinan terbaru (<strong>Shingrix</strong>) diberikan sebanyak 2 dosis dengan jeda interval 2 hingga 6 bulan.</li>
+</ul>
 
 <h3>4. Vaksin Td / Tdap (Tetanus, Difteri, Pertusis)</h3>
-<li><strong>Mengapa Wajib?</strong>: Kekebalan terhadap tetanus dan batuk rejan menurun seiring waktu. Luka tertusuk duri tanaman atau paku berkarat di halaman rumah dapat memicu kejang tetanus fatal pada lansia yang tidak pernah mendapatkan suntikan penguat (<em>booster</em>).</li>
+<ul><li><strong>Mengapa Wajib?</strong>: Kekebalan terhadap tetanus dan batuk rejan menurun seiring waktu. Luka tertusuk duri tanaman atau paku berkarat di halaman rumah dapat memicu kejang tetanus fatal pada lansia yang tidak pernah mendapatkan suntikan penguat (<em>booster</em>).</li>
 <li><strong>Jadwal Pemberian</strong>: Booster Tdap diberikan 1 kali, diikuti vaksin Td setiap 10 tahun sekali.</li>
+</ul>
 
 <h2>Manfaat Vaksinasi bagi Penderita Penyakit Komorbid</h2>
 
@@ -85,9 +99,10 @@ Jika orang tua Anda mengidap diabetes melitus, gagal ginjal, asma, PPOK, atau pe
 <h2>Imunosenesens & Konsep Perlindungan Menyeluruh (Cocooning Strategy) pada Lansia</h2>
 
 Penuaan sistem kekebalan tubuh (<em>immunosenescence</em>) menyebabkan sumsum tulang menghasilkan lebih sedikit sel T dan sel B naif, sehingga lansia tidak hanya lebih rentan terserang infeksi, melainkan juga mengalami respons kekebalan yang lebih lambat saat terinfeksi patogen baru:
-<li><strong>Vaksinasi Influenza Kuadrivalen Dosis Tinggi / Standar</strong>: Harus diulang setiap tahun karena strain virus influenza bermutasi secara berkala. Vaksinasi ini menurunkan risiko serangan stroke dan serangan jantung akibat peradangan flu berat hingga 30%.</li>
+<ul><li><strong>Vaksinasi Influenza Kuadrivalen Dosis Tinggi / Standar</strong>: Harus diulang setiap tahun karena strain virus influenza bermutasi secara berkala. Vaksinasi ini menurunkan risiko serangan stroke dan serangan jantung akibat peradangan flu berat hingga 30%.</li>
 <li><strong>Vaksinasi Pneumokokus Terkonjugasi (PCV13 atau PCV15 diikuti PPSV23)</strong>: Memberikan perlindungan ganda terhadap pneumonia lobaris dan infeksi aliran darah mematikan.</li>
 <li><strong>Vaksinasi Herpes Zoster Rekombinan</strong>: Mencegah reaktivasi virus cacar air yang menyebabkan cacar api di kulit dengan komplikasi nyeri saraf kronis berkepanjangan (<em>Post-Herpetic Neuralgia</em>).</li>
+</ul>
 
 Keluarga dapat menghadirkan proteksi medis ini langsung di rumah melalui [layanan vaksinasi di rumah](/layanan/vaksinasi-di-rumah). Seluruh proses skrining tanda vital dilakukan secara teliti oleh dokter berpengalaman dari [layanan panggil dokter ke rumah](/layanan/panggil-dokter). Pasien lansia tirah baring juga dapat dipantau kondisi kesehatannya oleh [layanan perawat medis homecare](/layanan/perawat-homecare).
 
@@ -95,9 +110,10 @@ Keluarga dapat menghadirkan proteksi medis ini langsung di rumah melalui [layana
 
 <h3>Checklist Harian Pemeliharaan Kebugaran & Kesehatan Holistik Lansia</h3>
 Keluarga dapat menerapkan panduan perawatan preventif harian untuk menjaga kemandirian lansia:
-<li><strong>Target Asupan Hidrasi 1,5 Liter</strong>: Sediakan botol minum takar di dekat tempat tidur lansia agar keluarga mudah memantau volume air yang telah dihabiskan.</li>
+<ul><li><strong>Target Asupan Hidrasi 1,5 Liter</strong>: Sediakan botol minum takar di dekat tempat tidur lansia agar keluarga mudah memantau volume air yang telah dihabiskan.</li>
 <li><strong>Stimulasi Kognitif & Interaksi Sosial</strong>: Luangkan waktu 15–20 menit setiap sore untuk mengajak lansia mengobrol santai, mendengarkan lagu kenangan, atau melihat album foto keluarga.</li>
 <li><strong>Inspeksi Kulit di Titik Tumpu Tulang</strong>: Periksa kulit area bokong, tulang ekor, dan tumit setiap kali selesai mandi untuk mencegah luka tekan dekubitus stadium awal.</li>
+</ul>
 
 
 

@@ -6,50 +6,61 @@ meta_description: Panduan lengkap perawatan pasca operasi penggantian panggul to
   ini!
 primary_keyword: perawatan pasca operasi thr panggul lansia
 secondary_keywords:
-<li>pantangan gerakan operasi panggul dislokasi</li>
+<ul><li>pantangan gerakan operasi panggul dislokasi</li>
 <li>posisi tidur pasca operasi thr</li>
 <li>fisioterapi ganti panggul total lansia</li>
 <li>perawat luka pasca operasi homecare</li>
+</ul>
 faq:
-<li>question: Gerakan apa yang paling dilarang setelah operasi penggantian panggul total</li>
+<ul><li>question: Gerakan apa yang paling dilarang setelah operasi penggantian panggul total</li>
+</ul>
     (THR)?
   answer: 'Tiga pantangan utama untuk mencegah dislokasi implan panggul adalah: tidak
     menekuk panggul lebih dari 90 derajat, tidak menyilangkan kaki atau pergelangan
     kaki, dan tidak memutar jari kaki ke arah dalam.'
-<li>question: Bagaimana posisi tidur yang benar dan aman setelah operasi THR?</li>
+<ul><li>question: Bagaimana posisi tidur yang benar dan aman setelah operasi THR?</li>
+</ul>
   answer: Tidur telentang adalah posisi paling aman, dengan bantal khusus (abductor
     pillow) di antara kedua paha untuk mencegah kaki menyilang tanpa sadar saat tidur.
     Hindari tidur menyamping tanpa izin dokter.
-<li>question: Kapan pasien operasi panggul boleh mulai belajar berjalan mandiri?</li>
+<ul><li>question: Kapan pasien operasi panggul boleh mulai belajar berjalan mandiri?</li>
+</ul>
   answer: Pasien biasanya mulai belajar berdiri dan melangkah dengan walker dalam
     24 jam pertama pascaoperasi didampingi fisioterapis, dan bertahap beralih ke tongkat
     setelah 2 hingga 4 minggu.
-<li>question: Apa saja tanda-tanda darurat terjadinya dislokasi sendi panggul tiruan</li>
+<ul><li>question: Apa saja tanda-tanda darurat terjadinya dislokasi sendi panggul tiruan</li>
+</ul>
     pada lansia?
   answer: Tanda bahaya dislokasi meliputi timbulnya nyeri tajam mendadak di area panggul/selangkangan,
     terdengar bunyi letupan 'pop', tungkai kaki di sisi yang dioperasi mendadak tampak
     lebih pendek dan berputar keluar, serta ketidakmampuan menopang berat badan sama
     sekali.
-<li>question: Bolehkah pasien pascaoperasi THR menggunakan kloset jongkok di rumah?</li>
+<ul><li>question: Bolehkah pasien pascaoperasi THR menggunakan kloset jongkok di rumah?</li>
+</ul>
   answer: Sangat dilarang keras. Kloset jongkok menekuk sendi panggul hingga lebih
     dari 120 derajat dan hampir pasti memicu dislokasi sendi tiruan. Pasien wajib
     menggunakan kloset duduk dengan peninggi dudukan (toilet seat riser).
 internal_links:
-<li>anchor: Lanjutan Panduan Perawatan Pasca Operasi THR (Bagian 2)</li>
+<ul><li>anchor: Lanjutan Panduan Perawatan Pasca Operasi THR (Bagian 2)</li>
+</ul>
   url: /blog/healthy-aging-3/lanjutan-panduan-perawatan-pasca-operasi-untuk-pemulihan-optimal-di-rumah-penggantian-panggul-total-total-hip-replacement-thr-pada-lansia-20
-<li>anchor: Layanan Fisioterapi Ortopedi Homecare</li>
+<ul><li>anchor: Layanan Fisioterapi Ortopedi Homecare</li>
+</ul>
   url: /layanan/fisioterapi
-<li>anchor: Layanan Perawat Medis Rawat Luka Operasi</li>
+<ul><li>anchor: Layanan Perawat Medis Rawat Luka Operasi</li>
+</ul>
   url: /layanan/perawat-homecare
 cta_text: Hubungi WhatsApp JoC untuk informasi harga langsung bersama dokter dan tim
   fisioterapis Joy of Care via WhatsApp di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
 clinical_references:
-<li>American Academy of Orthopaedic Surgeons (AAOS) - Total Hip Replacement Recovery</li>
+<ul><li>American Academy of Orthopaedic Surgeons (AAOS) - Total Hip Replacement Recovery</li>
+</ul>
   Guidelines
-<li>Perhimpunan Dokter Spesialis Orthopaedi & Traumatologi Indonesia (PABOI)</li>
+<ul><li>Perhimpunan Dokter Spesialis Orthopaedi & Traumatologi Indonesia (PABOI)</li>
 <li>National Health Service (NHS) UK - Hip Replacement Recovery Guide</li>
+</ul>
 ---
 
 <h1>Perawatan Pasca Operasi Penggantian Panggul Total (THR) pada Lansia di Rumah: Bagian 1</h1>
@@ -63,28 +74,32 @@ Kunci sukses pemulihan panggul di rumah bertumpu pada <strong>kepatuhan mutlak t
 <h2>3 Pantangan Gerakan Utama untuk Mencegah Dislokasi Implan Panggul</h2>
 
 Jaringan kapsul sendi dan otot di sekitar panggul membutuhkan waktu 6 hingga 12 minggu untuk pulih rapat membungkus implan prostetik baru. Selama fase kritis ini, pasien wajib mematuhi <strong>Hip Precautions</strong> (khususnya untuk teknik operasi pendekatan posterior standar):
-<li><strong>Jangan Menekuk Panggul Melebihi 90 Derajat</strong>: Hindari membungkuk untuk mengambil barang di lantai, jangan mengangkat lutut lebih tinggi dari pinggang, dan jangan duduk di kursi atau toilet yang terlalu rendah.</li>
+<ul><li><strong>Jangan Menekuk Panggul Melebihi 90 Derajat</strong>: Hindari membungkuk untuk mengambil barang di lantai, jangan mengangkat lutut lebih tinggi dari pinggang, dan jangan duduk di kursi atau toilet yang terlalu rendah.</li>
 <li><strong>Jangan Menyilangkan Kaki (Crossing Legs)</strong>: Dilarang menyilangkan kaki pada posisi duduk, dan dilarang menyilangkan pergelangan kaki saat berbaring.</li>
 <li><strong>Jangan Memutar Kaki ke Arah Dalam (Internal Rotation)</strong>: Selalu jaga jari-jari kaki menghadap lurus ke depan atau sedikit membuka ke arah luar saat berdiri, melangkah, maupun duduk.</li>
+</ul>
 
 <h2>Posisi Duduk, Tidur, dan Berpakaian yang Benar di Rumah</h2>
 
-<li><strong>Posisi Tidur Aman</strong>: Tidur telentang adalah posisi paling aman. Tempatkan <strong>bantal tebal di antara kedua paha</strong> (<em>abduction pillow</em>) agar kaki tetap terbuka selebar bahu dan tidak menyilang saat tertidur lelap.</li>
+<ul><li><strong>Posisi Tidur Aman</strong>: Tidur telentang adalah posisi paling aman. Tempatkan <strong>bantal tebal di antara kedua paha</strong> (<em>abduction pillow</em>) agar kaki tetap terbuka selebar bahu dan tidak menyilang saat tertidur lelap.</li>
 <li><strong>Penggunaan Kloset Duduk Adaptif</strong>: Kloset jongkok mutlak dilarang. Bahkan untuk kloset duduk biasa, gunakan peninggi dudukan kloset (<em>raised toilet seat</em>) dan pasang pegangan tangan kokoh di dinding toilet agar sudut panggul tetap tumpul (>90 derajat).</li>
 <li><strong>Alat Bantu Memakai Baju dan Sepatu</strong>: Jangan membungkuk untuk memakai celana atau kaus kaki. Gunakan alat penjepit bertangkai panjang (<em>reacher/grabber</em>) atau mintalah bantuan perawat/keluarga.</li>
+</ul>
 
 <h2>Perawatan Luka Operasi dan Pengenalan Tanda Infeksi</h2>
 
 Luka bekas jahitan bedah ortopedi harus dirawat dengan teknik aseptik steril standar rumah sakit:
-<li>Jaga perban penutup luka tetap kering dan bersih. Jangan biarkan luka terkena air mandi sebelum diizinkan oleh dokter spesialis ortopedi.</li>
+<ul><li>Jaga perban penutup luka tetap kering dan bersih. Jangan biarkan luka terkena air mandi sebelum diizinkan oleh dokter spesialis ortopedi.</li>
 <li>Waspadai <strong>Tanda Bahaya Infeksi</strong>: Keluarnya nanah atau cairan keruh berbau dari celah perban, kemerahan yang meluas di sekitar sayatan, pembengkakan hebat pada paha, dan demam di atas 38 derajat Celsius. Segera hubungi dokter jika tanda ini muncul.</li>
+</ul>
 
 <h2>Tiga Pantangan Gerakan Mutlak Pasca-Operasi Penggantian Sendi Panggul</h2>
 
 Setelah menjalani operasi Total Hip Replacement (THR), prostesis panggul baru memerlukan waktu beberapa minggu untuk berintegrasi kokoh dengan tulang femur dan mangkuk pelvis. Tiga aturan mekanik mutlak (<em>hip precautions</em>) yang wajib dipatuhi:
-<li><strong>Jangan Menekuk Panggul Melebihi 90 Derajat</strong>: Hindari membungkuk mengambil barang di lantai atau duduk di sofa pendek yang membuat lutut lebih tinggi dari pinggang.</li>
+<ul><li><strong>Jangan Menekuk Panggul Melebihi 90 Derajat</strong>: Hindari membungkuk mengambil barang di lantai atau duduk di sofa pendek yang membuat lutut lebih tinggi dari pinggang.</li>
 <li><em></em>Jangan Menyilangkan Kaki (<em>No Crossing Legs</em>)<em></em>: Hindari posisi duduk menyilangkan pergelangan kaki atau paha, baik saat duduk di kursi maupun saat berbaring di tempat tidur.</li>
 <li><em></em>Jangan Memutar Jari Kaki ke Arah Dalam (<em>No Internal Rotation</em>)<em></em>: Jaga kedua ujung jari kaki selalu menghadap lurus ke depan atau sedikit membuka ke arah luar.</li>
+</ul>
 
 Rehabilitasi pasca-THR di rumah dapat berjalan mulus dan minim risiko dislokasi prostesis berkat bimbingan [Layanan Fisioterapi Homecare Joy of Care](/layanan/fisioterapi). Untuk perawatan balutan luka operasi agar tetap kering dan steril, keluarga dapat mempercayakannya kepada [layanan perawat medis homecare](/layanan/perawat-homecare). Evaluasi medikamentosa dan pelepasan jahitan dapat dilakukan langsung oleh [layanan panggil dokter ke rumah](/layanan/panggil-dokter).
 
@@ -92,9 +107,10 @@ Rehabilitasi pasca-THR di rumah dapat berjalan mulus dan minim risiko dislokasi 
 
 <h3>Checklist Harian Manajemen Pemulihan Gerak & Sendi di Rumah</h3>
 Pencegahan komplikasi pasca-cedera atau pascaoperasi membutuhkan kedisiplinan pemantauan setiap hari:
-<li><strong>Pemeriksaan Suhu & Tanda Infeksi Lokal</strong>: Raba area di sekitar sendi; bila teraba panas membara, sangat merah, atau keluar nanah, segera laporkan ke tim medis.</li>
+<ul><li><strong>Pemeriksaan Suhu & Tanda Infeksi Lokal</strong>: Raba area di sekitar sendi; bila teraba panas membara, sangat merah, atau keluar nanah, segera laporkan ke tim medis.</li>
 <li><strong>Protokol Elevasi Kaki saat Berbaring</strong>: Sangga tungkai dengan 1–2 bantal empuk agar posisinya lebih tinggi dari dada guna melancarkan aliran balik vena.</li>
 <li><strong>Latihan Pompa Ankle (Ankle Pumps)</strong>: Gerakkan pergelangan kaki ke atas dan bawah sebanyak 20 kali setiap jam untuk mencegah penggumpalan darah vena dalam (<em>DVT</em>).</li>
+</ul>
 
 
 

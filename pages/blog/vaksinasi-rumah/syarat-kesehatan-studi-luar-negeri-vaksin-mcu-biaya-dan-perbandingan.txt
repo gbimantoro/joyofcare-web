@@ -6,13 +6,15 @@ meta_description: 'Perbandingan syarat kesehatan & biaya MCU studi: Australia vs
   vs Jepang vs Korea Selatan. Konsultasi dokter Joy of Care via WhatsApp di 08811-118-911!'
 primary_keyword: perbandingan syarat kesehatan studi australia uk jepang korea
 secondary_keywords:
-<li>biaya medical check up visa pelajar per negara</li>
+<ul><li>biaya medical check up visa pelajar per negara</li>
 <li>perbedaan aturan rontgen tbc visa student</li>
 <li>persyaratan tes bebas narkoba studi luar negeri</li>
 <li>skrining kesehatan pelajar asia vs barat</li>
+</ul>
 variation_type: biaya-dan-perbandingan
 faq:
-<li>question: Mengapa persyaratan medical check-up (MCU) visa studi ke Jepang dan Korea</li>
+<ul><li>question: Mengapa persyaratan medical check-up (MCU) visa studi ke Jepang dan Korea</li>
+</ul>
     Selatan sangat berbeda dengan negara Barat seperti Australia atau UK?
   answer: Negara-negara Asia Timur seperti Jepang (untuk visa pelajar dan beasiswa
     MEXT) dan Korea Selatan sangat menitikberatkan pada skrining penyakit menular
@@ -21,13 +23,15 @@ faq:
     bebas zat narkotika/obat terlarang (<em>drug screening test</em>), sedangkan negara Barat
     lebih menitikberatkan pada kelengkapan vaksinasi komunitas asrama kampus seperti
     Meningitis dan MMR.
-<li>question: Berapa rata-rata estimasi biaya pemeriksaan MCU visa pelajar resmi antar-negara</li>
+<ul><li>question: Berapa rata-rata estimasi biaya pemeriksaan MCU visa pelajar resmi antar-negara</li>
+</ul>
     pada tahun 2026?
   answer: Biaya pemeriksaan MCU dan vaksinasi studi ke luar negeri bervariasi sesuai
     regulasi visa negara tujuan (Australia, UK, Jepang, Korea, atau USA) serta daftar
     imunisasi wajib yang disyaratkan universitas. Hubungi WhatsApp Joy of Care 08811-118-911
     untuk informasi resmi.
-<li>question: Apakah tes narkoba (drug test 5-6 parameter) selalu diwajibkan untuk semua</li>
+<ul><li>question: Apakah tes narkoba (drug test 5-6 parameter) selalu diwajibkan untuk semua</li>
+</ul>
     negara tujuan studi?
   answer: Tidak semua negara. Uji skrining bebas narkoba (amphetamines, cannabis/THC,
     opiates, cocaine, benzodiazepines) umumnya diwajibkan secara ketat oleh universitas
@@ -35,22 +39,28 @@ faq:
     sedangkan untuk visa Australia dan UK uji narkoba tidak diwajibkan secara rutin
     kecuali ada indikasi klinis khusus.
 internal_links:
-<li>anchor: Layanan Cek Lab Darah di Rumah Joy of Care</li>
+<ul><li>anchor: Layanan Cek Lab Darah di Rumah Joy of Care</li>
+</ul>
   url: /layanan/cek-lab-di-rumah
-<li>anchor: Layanan Vaksinasi di Rumah</li>
+<ul><li>anchor: Layanan Vaksinasi di Rumah</li>
+</ul>
   url: /layanan/vaksinasi-di-rumah
-<li>anchor: Layanan Panggil Dokter ke Rumah Jakarta</li>
+<ul><li>anchor: Layanan Panggil Dokter ke Rumah Jakarta</li>
+</ul>
   url: /layanan/panggil-dokter
 cta_text: Hubungi WhatsApp JoC untuk informasi harga negeri langsung via WhatsApp
   Joy of Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
 clinical_references:
-<li>Ministry of Foreign Affairs of Japan (MOFA) - Medical Certificate Requirements for</li>
+<ul><li>Ministry of Foreign Affairs of Japan (MOFA) - Medical Certificate Requirements for</li>
+</ul>
   Japanese Visa Applicants
-<li>Embassy of the Republic of Korea in Indonesia - Student Visa (D-2) Health Examination</li>
+<ul><li>Embassy of the Republic of Korea in Indonesia - Student Visa (D-2) Health Examination</li>
+</ul>
   Guidelines
-<li>International Organization for Migration (IOM) - Migration Health Assessment Services</li>
+<ul><li>International Organization for Migration (IOM) - Migration Health Assessment Services</li>
+</ul>
   Overview
 ---
 
@@ -87,25 +97,29 @@ Mari kita bedah secara spesifik hal-hal yang menjadi perhatian khusus kedutaan m
 
 <h3>1. Australia (Sistem eMedical & HAP ID)</h3>
 Australia menerapkan salah satu sistem keimigrasian medis paling canggih di dunia:
-<li>Pemohon visa membuat akun ImmiAccount terlebih dahulu untuk menerbitkan nomor rujukan medis yang disebut <strong>HAP ID</strong> beserta lembar <em>Referral Letter</em>.</li>
+<ul><li>Pemohon visa membuat akun ImmiAccount terlebih dahulu untuk menerbitkan nomor rujukan medis yang disebut <strong>HAP ID</strong> beserta lembar <em>Referral Letter</em>.</li>
 <li>Dengan membawa HAP ID, pemohon menjalani pemeriksaan rontgen dada (<em>Medical Examination 502</em>) dan pemeriksaan fisik dokter (<em>Medical Examination 501</em>) di klinik panel resmi.</li>
 <li>Seluruh data foto rontgen dan catatan dokter diunggah langsung secara digital ke sistem imigrasi Australia tanpa perlu membawa dokumen fisik ke kedutaan.</li>
+</ul>
 
 <h3>2. Inggris / United Kingdom (Sertifikat Bebas TBC IOM)</h3>
 Sistem imigrasi Inggris (UKVI) sangat terfokus dan efisien:
-<li>Bagi warga negara Indonesia yang berencana tinggal di Inggris lebih dari 6 bulan untuk studi, syarat medis wajib adalah <strong>UK TB Clearance Certificate</strong>.</li>
+<ul><li>Bagi warga negara Indonesia yang berencana tinggal di Inggris lebih dari 6 bulan untuk studi, syarat medis wajib adalah <strong>UK TB Clearance Certificate</strong>.</li>
 <li>Pemeriksaan rontgen paru dilakukan di klinik resmi IOM Jakarta. Bila paru bersih, sertifikat resmi diterbitkan pada hari yang sama dan diunggah bersama dokumen visa online.</li>
 <li>Setelah mendarat di UK dan mendaftar di universitas, barulah mahasiswa diminta menunjukkan bukti vaksinasi MMR dan MenACWY oleh dokter kampus.</li>
+</ul>
 
 <h3>3. Jepang (Standar Ketelitian Beasiswa MEXT & Visa Studi)</h3>
 Otoritas pendidikan Jepang (MEXT) sangat menitikberatkan pada kesehatan metabolik dan fungsi organ secara menyeluruh:
-<li>Formulir medis resmi Jepang (<em>Certificate of Health</em>) mewajibkan dokter memeriksa ketajaman mata, pendengaran, warna kulit, auskultasi jantung/paru, serta hasil laboratorium lengkap mencakup enzim fungsi hati (SGOT, SGPT), tes darah sifilis, dan urinalisis protein/glukosa.</li>
+<ul><li>Formulir medis resmi Jepang (<em>Certificate of Health</em>) mewajibkan dokter memeriksa ketajaman mata, pendengaran, warna kulit, auskultasi jantung/paru, serta hasil laboratorium lengkap mencakup enzim fungsi hati (SGOT, SGPT), tes darah sifilis, dan urinalisis protein/glukosa.</li>
 <li>Pengisian formulir ini dapat dilakukan oleh dokter berizin resmi dari [Layanan Panggil Dokter ke Rumah Jakarta](/layanan/panggil-dokter) Joy of Care setelah hasil sampel darah terverifikasi akurat.</li>
+</ul>
 
 <h3>4. Korea Selatan (Regulasi Bebas Narkoba dan TBC)</h3>
 Pemerintah Korea Selatan sangat ketat dalam menjaga lingkungan pendidikan mereka dari penyalahgunaan zat terlarang:
-<li>Calon mahasiswa wajib melampirkan lembar hasil tes laboratorium bebas narkotika (<em>Negative Drug Test</em>) yang memeriksa zat morfin, ganja (THC), metamfetamin, dan kokain dari sampel urin terbaru.</li>
+<ul><li>Calon mahasiswa wajib melampirkan lembar hasil tes laboratorium bebas narkotika (<em>Negative Drug Test</em>) yang memeriksa zat morfin, ganja (THC), metamfetamin, dan kokain dari sampel urin terbaru.</li>
 <li>Pemeriksaan rontgen dada wajib bebas dari tanda-tanda infeksi tuberkulosis aktif dan wajib dilegalisasi oleh faskes yang diakui.</li>
+</ul>
 
 ---
 

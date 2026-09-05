@@ -6,54 +6,66 @@ meta_description: 'Layanan panggil dokter umum ke rumah di Tangerang & Tangerang
   2026: BSD, Serpong, Bintaro, & tarif. Chat WhatsApp Joy of Care 08811-118-911 sekarang!'
 primary_keyword: dokter umum ke rumah tangerang
 secondary_keywords:
-<li>dokter panggilan bsd gading serpong</li>
+<ul><li>dokter panggilan bsd gading serpong</li>
 <li>biaya visit dokter ke rumah tangerang selatan</li>
 <li>layanan dokter homecare bintaro alam sutera</li>
 <li>dokter jaga 24 jam tangerang</li>
+</ul>
 variation_type: panduan-lengkap
 faq:
-<li>question: Wilayah mana saja di Tangerang dan sekitarnya yang dijangkau oleh layanan</li>
+<ul><li>question: Wilayah mana saja di Tangerang dan sekitarnya yang dijangkau oleh layanan</li>
+</ul>
     dokter ke rumah Joy of Care?
   answer: Layanan visit dokter umum Joy of Care menjangkau seluruh area Tangerang
     Selatan (BSD City, Serpong, Bintaro Jaya, Ciputat, Pamulang, Pondok Aren), Kota
     Tangerang (Karawaci, Modernland, Cipondoh, Ciledug), hingga kawasan Kabupaten
     Tangerang seperti Gading Serpong, Alam Sutera, dan Lippo Karawaci.
-<li>question: Berapa kisaran biaya panggil dokter umum ke rumah di Tangerang pada tahun</li>
+<ul><li>question: Berapa kisaran biaya panggil dokter umum ke rumah di Tangerang pada tahun</li>
+</ul>
     2026?
   answer: Biaya resmi kunjungan dokter umum ke rumah Joy of Care di kawasan Tangerang
     dan Tangsel dirancang transparan, terjangkau, dan disesuaikan dengan kebutuhan
     klinis pasien tanpa biaya transportasi tersembunyi. Hubungi WhatsApp Joy of Care
     08811-118-911 untuk informasi resmi.
-<li>question: Apa saja jenis penyakit atau kondisi medis yang dapat ditangani oleh dokter</li>
+<ul><li>question: Apa saja jenis penyakit atau kondisi medis yang dapat ditangani oleh dokter</li>
+</ul>
     umum di rumah?
   answer: Dokter umum dapat menangani demam akut (skrining DBD, tifus, flu), infeksi
     saluran pernapasan (ISPA), batuk-pilek, diare dan muntah dengan dehidrasi ringan-sedang,
     hipertensi dan diabetes rutin, nyeri sendi akut, vertigo, alergi kulit, perawatan
     luka pascaoperasi ringan, serta evaluasi kesehatan geriatri.
-<li>question: Berapa lama waktu respon tim medis Joy of Care hingga dokter tiba di kediaman</li>
+<ul><li>question: Berapa lama waktu respon tim medis Joy of Care hingga dokter tiba di kediaman</li>
+</ul>
     pasien di Tangerang?
   answer: Dengan basis operasional Joy of Care di area BSD City Tangerang Selatan,
     dokter kami dapat tiba di lokasi hunian pasien dalam waktu rata-rata 45 hingga
     75 menit setelah konfirmasi reservasi via WhatsApp, tergantung kondisi lalu lintas.
 internal_links:
-<li>anchor: Layanan Panggil Dokter ke Rumah Joy of Care</li>
+<ul><li>anchor: Layanan Panggil Dokter ke Rumah Joy of Care</li>
+</ul>
   url: /layanan/panggil-dokter
-<li>anchor: Layanan Perawat Medis Homecare</li>
+<ul><li>anchor: Layanan Perawat Medis Homecare</li>
+</ul>
   url: /layanan/perawat-homecare
-<li>anchor: Layanan Cek Lab Darah di Rumah</li>
+<ul><li>anchor: Layanan Cek Lab Darah di Rumah</li>
+</ul>
   url: /layanan/cek-lab-di-rumah
-<li>anchor: Layanan Fisioterapi di Rumah</li>
+<ul><li>anchor: Layanan Fisioterapi di Rumah</li>
+</ul>
   url: /layanan/fisioterapi-di-rumah
 cta_text: Hubungi WhatsApp JoC untuk informasi harga Tangsel langsung via WhatsApp
   Joy of Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
 clinical_references:
-<li>Ikatan Dokter Indonesia (IDI) Cabang Tangerang Selatan - Standar Pelayanan Praktik</li>
+<ul><li>Ikatan Dokter Indonesia (IDI) Cabang Tangerang Selatan - Standar Pelayanan Praktik</li>
+</ul>
   Kedokteran Mandiri dan Kunjungan Rumah
-<li>Kementerian Kesehatan RI - Peraturan Menteri Kesehatan tentang Pelayanan Home Care</li>
+<ul><li>Kementerian Kesehatan RI - Peraturan Menteri Kesehatan tentang Pelayanan Home Care</li>
+</ul>
   dan Pelayanan Kesehatan Primer
-<li>World Organization of Family Doctors (WONCA) - The Role of Home-Based Primary Care</li>
+<ul><li>World Organization of Family Doctors (WONCA) - The Role of Home-Based Primary Care</li>
+</ul>
   in Modern Healthcare Systems
 ---
 
@@ -125,10 +137,11 @@ Kami merancang alur reservasi yang sangat ringkas dan ramah pengguna agar pertol
 [Chat WA Customer Care] -> [Triage & Skrining Gejala] -> [Dokter Diberangkatkan] -> [Pemeriksaan di Rumah]
 ```
 
-<li><strong>Kirim Pesan WhatsApp</strong>: Hubungi kontak resmi Joy of Care di 08811-118-911 dan sampaikan keluhan singkat, nama pasien, usia, dan alamat hunian Anda di Tangerang.</li>
+<ul><li><strong>Kirim Pesan WhatsApp</strong>: Hubungi kontak resmi Joy of Care di 08811-118-911 dan sampaikan keluhan singkat, nama pasien, usia, dan alamat hunian Anda di Tangerang.</li>
 <li><strong>Triase Gejala Awal</strong>: Petugas medis kami akan melakukan konfirmasi cepat untuk memastikan kondisi pasien bukan tergolong gawat darurat henti napas atau henti jantung yang wajib segera dilarikan ke IGD dengan ambulans.</li>
 <li><strong>Konfirmasi & Keberangkatan Dokter</strong>: Dokter terdekat segera ditugaskan dengan tas perlengkapan medis lengkap menuju kediaman Anda.</li>
 <li><strong>Pemeriksaan & Tindak Lanjut</strong>: Dokter memeriksa pasien, meresepkan terapi obat, mengedukasi keluarga mengenai tanda bahaya, serta memberikan nomor kontak untuk konsultasi lanjutan.</li>
+</ul>
 
 ---
 

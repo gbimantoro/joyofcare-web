@@ -6,26 +6,30 @@ meta_description: Langkah persiapan medical check-up (MCU) dan vaksin wajib sebe
   berangkat kuliah ke luar negeri. Layanan home lab Joy of Care di nomor WA 08811-118-911!
 primary_keyword: panduan medical check up studi luar negeri mcu
 secondary_keywords:
-<li>syarat mcu visa pelajar australia uk</li>
+<ul><li>syarat mcu visa pelajar australia uk</li>
 <li>tes rontgen tuberkulosis student visa</li>
 <li>paket cek lab darah pelajar luar negeri</li>
 <li>sertifikat vaksinasi internasional icv</li>
+</ul>
 variation_type: tips-dan-cara
 faq:
-<li>question: Kapan waktu yang paling ideal untuk mulai melakukan medical check-up dan</li>
+<ul><li>question: Kapan waktu yang paling ideal untuk mulai melakukan medical check-up dan</li>
+</ul>
     vaksinasi sebelum jadwal terbang ke luar negeri?
   answer: Waktu paling ideal adalah 2 hingga 3 bulan sebelum tanggal keberangkatan.
     Rentang waktu ini diperlukan karena beberapa jenis vaksin (seperti Hepatitis B)
     memerlukan 3 dosis berseri dengan jeda minimal 1 bulan antar-dosis, serta memberi
     waktu yang cukup bila ditemukan masalah kesehatan yang memerlukan pengobatan lanjutan
     sebelum visa diterbitkan.
-<li>question: Dokumen apa saja yang wajib dibawa saat menjalani pemeriksaan medical</li>
+<ul><li>question: Dokumen apa saja yang wajib dibawa saat menjalani pemeriksaan medical</li>
+</ul>
     check-up untuk universitas asing?
   answer: Bawa paspor asli yang masih berlaku, formulir medis resmi (*Health Examination
     Form / Immunization Form*) dari universitas atau kedutaan terkait, buku rekam
     vaksinasi masa kecil (bila ada), kacamata bagi yang mengenakan lensa koreksi,
     serta daftar obat resep rutin yang sedang dikonsumsi.
-<li>question: Mengapa tes tuberkulosis (TBC) berupa rontgen dada atau tes darah IGRA</li>
+<ul><li>question: Mengapa tes tuberkulosis (TBC) berupa rontgen dada atau tes darah IGRA</li>
+</ul>
     selalu diwajibkan untuk pelajar asal Indonesia?
   answer: Indonesia dikategorikan oleh Organisasi Kesehatan Dunia (WHO) sebagai negara
     dengan beban tuberkulosis tinggi (<em>high TB burden country</em>). Oleh karena itu,
@@ -33,22 +37,28 @@ faq:
     mewajibkan skrining bebas TBC aktif sebelum visa pelajar disetujui guna melindungi
     kesehatan masyarakat mereka.
 internal_links:
-<li>anchor: Layanan Cek Lab Darah di Rumah Joy of Care</li>
+<ul><li>anchor: Layanan Cek Lab Darah di Rumah Joy of Care</li>
+</ul>
   url: /layanan/cek-lab-di-rumah
-<li>anchor: Layanan Vaksinasi di Rumah</li>
+<ul><li>anchor: Layanan Vaksinasi di Rumah</li>
+</ul>
   url: /layanan/vaksinasi-di-rumah
-<li>anchor: Layanan Panggil Dokter ke Rumah Jakarta</li>
+<ul><li>anchor: Layanan Panggil Dokter ke Rumah Jakarta</li>
+</ul>
   url: /layanan/panggil-dokter
 cta_text: Hubungi WhatsApp JoC untuk informasi harga ke luar negeri langsung via WhatsApp
   Joy of Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
 clinical_references:
-<li>Australian Government Department of Home Affairs - Health Requirements for Student</li>
+<ul><li>Australian Government Department of Home Affairs - Health Requirements for Student</li>
+</ul>
   Visa Applicants
-<li>UK Visas and Immigration (UKVI) - Tuberculosis Testing for Visa Applicants from</li>
+<ul><li>UK Visas and Immigration (UKVI) - Tuberculosis Testing for Visa Applicants from</li>
+</ul>
   Indonesia
-<li>Centers for Disease Control and Prevention (CDC) - Technical Instructions for Tuberculosis</li>
+<ul><li>Centers for Disease Control and Prevention (CDC) - Technical Instructions for Tuberculosis</li>
+</ul>
   Screening and Treatment
 ---
 
@@ -70,24 +80,28 @@ Agar proses administrasi kesehatan berjalan mulus tanpa kendala, ikuti 4 tahapan
 
 <h3>Tahap 1: Mempelajari Formulir Medis Resmi Universitas & Kedutaan</h3>
 Setiap universitas dan negara memiliki regulasi kesehatan yang berbeda:
-<li><strong>Amerika Serikat</strong>: Mayoritas kampus mewajibkan form imunisasi yang mencakup vaksin MMR 2 dosis, Tdap dalam 10 tahun terakhir, vaksin Meningitis MenACWY untuk penghuni asrama, vaksin Varicella (cacar air), serta tes skrining TBC (tes kulit Mantoux atau tes darah IGRA).</li>
+<ul><li><strong>Amerika Serikat</strong>: Mayoritas kampus mewajibkan form imunisasi yang mencakup vaksin MMR 2 dosis, Tdap dalam 10 tahun terakhir, vaksin Meningitis MenACWY untuk penghuni asrama, vaksin Varicella (cacar air), serta tes skrining TBC (tes kulit Mantoux atau tes darah IGRA).</li>
 <li><strong>Australia & Inggris (UK)</strong>: Fokus utama kedutaan pada saat pengajuan visa adalah pemeriksaan rontgen dada (<em>Chest X-Ray</em>) di klinik panel dokter resmi (<em>Panel Physician</em>) untuk memastikan pemohon bebas dari penyakit tuberkulosis paru aktif. Pihak universitas kemudian meminta bukti vaksinasi umum.</li>
 <li>Unduh formulir medis resmi dari portal mahasiswa Anda, cetak, dan pelajari seluruh daftar vaksin yang diminta.</li>
+</ul>
 
 <h3>Tahap 2: Penelusuran Riwayat Vaksinasi Masa Kecil atau Tes Titer Darah</h3>
 Kumpulkan buku Kesehatan Ibu dan Anak (KMS), kartu imunisasi masa kecil, atau rekam medis dokter anak Anda:
-<li>Bila buku catatan vaksin lengkap dan jelas tanggal penyuntikannya, dokter Joy of Care dapat langsung menyalin data tersebut ke dalam formulir bahasa Inggris universitas.</li>
+<ul><li>Bila buku catatan vaksin lengkap dan jelas tanggal penyuntikannya, dokter Joy of Care dapat langsung menyalin data tersebut ke dalam formulir bahasa Inggris universitas.</li>
 <li><strong>Bagaimana jika buku vaksin masa kecil hilang?</strong> Jangan panik. Anda tidak perlu mengulang seluruh suntikan vaksin masa kecil. Tim analis lab Joy of Care dapat datang ke rumah Anda untuk mengambil sampel darah guna melakukan tes serologi titer antibodi (Titer IgG Campak, Gondongan, Rubela, Varicella, dan Hepatitis B). Sertifikat laboratorium yang menyatakan titer antibodi reaktif/positif diakui secara internasional sebagai pengganti sah catatan vaksinasi.</li>
+</ul>
 
 <h3>Tahap 3: Melengkapi Vaksinasi yang Kurang (Catch-up Immunization)</h3>
 Bila hasil titer darah menunjukkan antibodi negatif atau ada vaksin wajib yang belum pernah Anda terima:
-<li>Segera jadwalkan penyuntikan vaksin booster melalui [Layanan Vaksinasi di Rumah](/layanan/vaksinasi-di-rumah) Joy of Care.</li>
+<ul><li>Segera jadwalkan penyuntikan vaksin booster melalui [Layanan Vaksinasi di Rumah](/layanan/vaksinasi-di-rumah) Joy of Care.</li>
 <li>Tenaga medis kami akan memberikan vaksin resmi terdaftar BPOM lengkap dengan pencatatan nomor batch/lot, tanggal kadaluwarsa, dan tanda tangan resmi pada lembar form internasional Anda.</li>
+</ul>
 
 <h3>Tahap 4: Pemeriksaan Fisik, Tanda Vital, dan Tanda Tangan Dokter</h3>
 Langkah terakhir adalah konsultasi tatap muka bersama dokter dari [Layanan Panggil Dokter ke Rumah Jakarta](/layanan/panggil-dokter):
-<li>Dokter memeriksa ketajaman penglihatan (uji visus Snellen), buta warna Ishihara, auskultasi jantung dan paru, serta tanda vital.</li>
+<ul><li>Dokter memeriksa ketajaman penglihatan (uji visus Snellen), buta warna Ishihara, auskultasi jantung dan paru, serta tanda vital.</li>
 <li>Dokter mengisi lembar rekomendasi kesehatan, menyertakan nomor izin registrasi (STR/SIP), dan membubuhkan stempel resmi klinik Joy of Care.</li>
+</ul>
 
 ---
 
@@ -107,9 +121,10 @@ Langkah terakhir adalah konsultasi tatap muka bersama dokter dari [Layanan Pangg
 <h2>Tips Menghindari Hasil MCU yang Tidak Memenuhi Syarat (<em>Medical Hold</em>)</h2>
 
 Beberapa kesalahan umum yang kerap menunda persetujuan visa atau registrasi kampus:
-<li><strong>Kurang Minum Air Putih Sebelum Tes Urin</strong>: Dehidrasi dapat menyebabkan tes urin menunjukkan berat jenis tinggi, adanya kristal epitel, atau sel darah merah semu (<em>hematuria mikroskopik</em>). Minumlah 2–3 gelas air putih beberapa jam sebelum tes urin.</li>
+<ul><li><strong>Kurang Minum Air Putih Sebelum Tes Urin</strong>: Dehidrasi dapat menyebabkan tes urin menunjukkan berat jenis tinggi, adanya kristal epitel, atau sel darah merah semu (<em>hematuria mikroskopik</em>). Minumlah 2–3 gelas air putih beberapa jam sebelum tes urin.</li>
 <li><strong>Jangan Begadang Semalam Sebelumnya</strong>: Kurang tidur dapat memicu peningkatan tekanan darah sistolik dan denyut nadi mendadak (<em>tachycardia</em>), yang memerlukan pemeriksaan ulang tensi.</li>
 <li><strong>Informasikan Menstruasi pada Mahasiswi</strong>: Jangan lakukan tes urin saat sedang menstruasi atau hingga 3 hari setelahnya, karena tetesan darah menstruasi dapat mengontaminasi sampel urin.</li>
+</ul>
 
 ---
 

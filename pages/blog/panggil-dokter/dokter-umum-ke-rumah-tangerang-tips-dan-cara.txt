@@ -6,44 +6,53 @@ meta_description: Panduan mudah cara panggil dokter umum ke rumah di BSD, Gading
   & Alam Sutera via WhatsApp. Respon cepat tim Joy of Care di nomor WA 08811-118-911!
 primary_keyword: cara panggil dokter ke rumah di bsd tangerang
 secondary_keywords:
-<li>pesan dokter home visit tangerang</li>
+<ul><li>pesan dokter home visit tangerang</li>
 <li>persiapan visit dokter ke rumah bsd</li>
 <li>layanan dokter panggil gading serpong</li>
 <li>dokter homecare jabodetabek barat</li>
+</ul>
 variation_type: tips-dan-cara
 faq:
-<li>question: Informasi apa saja yang harus disiapkan keluarga saat menghubungi call</li>
+<ul><li>question: Informasi apa saja yang harus disiapkan keluarga saat menghubungi call</li>
+</ul>
     center via WhatsApp?
   answer: Siapkan informasi mengenai nama lengkap pasien, usia, alamat lengkap hunian
     beserta nomor rumah atau patokan cluster, keluhan utama yang dirasakan dan sejak
     kapan gejalanya muncul, serta daftar riwayat alergi obat atau penyakit kronis
     yang sedang diderita.
-<li>question: Bagaimana cara mempersiapkan ruangan di rumah sebelum dokter tiba?</li>
+<ul><li>question: Bagaimana cara mempersiapkan ruangan di rumah sebelum dokter tiba?</li>
+</ul>
   answer: Pastikan ruangan memiliki penerangan yang terang dan sirkulasi udara baik,
     sediakan satu kursi dekat tempat tidur pasien untuk dokter duduk memeriksa, siapkan
     air cuci tangan atau hand sanitizer, serta kumpulkan obat-obatan yang sedang dikonsumsi
     pasien di atas meja kecil.
-<li>question: Apakah keluarga boleh berkonsultasi mengenai hasil tes lab lama saat dokter</li>
+<ul><li>question: Apakah keluarga boleh berkonsultasi mengenai hasil tes lab lama saat dokter</li>
+</ul>
     datang?
   answer: Sangat boleh. Kunjungan dokter ke rumah memberikan ruang diskusi yang leluasa.
     Siapkan hasil laboratorium atau rontgen terdahulu agar dokter dapat meninjau riwayat
     kesehatan pasien secara utuh dan menyeluruh.
 internal_links:
-<li>anchor: Layanan Panggil Dokter ke Rumah Joy of Care</li>
+<ul><li>anchor: Layanan Panggil Dokter ke Rumah Joy of Care</li>
+</ul>
   url: /layanan/panggil-dokter
-<li>anchor: Layanan Cek Lab Darah di Rumah</li>
+<ul><li>anchor: Layanan Cek Lab Darah di Rumah</li>
+</ul>
   url: /layanan/cek-lab-di-rumah
-<li>anchor: Layanan Perawat Medis Homecare</li>
+<ul><li>anchor: Layanan Perawat Medis Homecare</li>
+</ul>
   url: /layanan/perawat-homecare
 cta_text: Konsultasi Dokter Gratis via WhatsApp Tangsel langsung via WhatsApp Joy
   of Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
 clinical_references:
-<li>Ministry of Health RI - Panduan Pelayanan Kedokteran Keluarga dan Telekonsultasi</li>
+<ul><li>Ministry of Health RI - Panduan Pelayanan Kedokteran Keluarga dan Telekonsultasi</li>
 <li>Indonesian Medical Association (IDI) - Kode Etik Kedokteran Indonesia dan Pelayanan</li>
+</ul>
   Kunjungan Rumah
-<li>American Academy of Home Care Medicine - Preparing the Patient and Home Environment</li>
+<ul><li>American Academy of Home Care Medicine - Preparing the Patient and Home Environment</li>
+</ul>
   for Physician Visits
 ---
 
@@ -65,30 +74,34 @@ Untuk memastikan dokter yang tepat segera diberangkatkan ke hunian Anda dengan p
 
 <h3>Langkah 1: Hubungi Hotline WhatsApp Joy of Care (08811-118-911)</h3>
 Kirimkan pesan ke customer care Joy of Care dengan menyertakan format ringkas berikut guna mempercepat proses administrasi:
-<li><strong>Nama Pasien & Usia</strong>: (Contoh format: Nama Lengkap Pasien, Usia)</li>
+<ul><li><strong>Nama Pasien & Usia</strong>: (Contoh format: Nama Lengkap Pasien, Usia)</li>
 <li><strong>Alamat Lengkap</strong>: (Contoh: Cluster Greenwich Park Blok A5 No. 12, BSD City, Tangerang Selatan)</li>
 <li><strong>Keluhan Utama & Durasi</strong>: (Contoh: Demam naik-turun sejak 2 hari, mual, pusing melayang saat berdiri)</li>
 <li><strong>Riwayat Penyakit & Alergi Obat</strong>: (Contoh: Ada riwayat hipertensi dan asam urat, alergi obat amoksisilin)</li>
+</ul>
 
 <h3>Langkah 2: Proses Triase Medis oleh Petugas</h3>
 Dalam hitungan menit, petugas medis Joy of Care akan meninjau pesan Anda:
-<li>Petugas memastikan bahwa kondisi pasien berada dalam kategori stabil dan aman ditangani di rumah (<em>non-life threatening</em>).</li>
+<ul><li>Petugas memastikan bahwa kondisi pasien berada dalam kategori stabil dan aman ditangani di rumah (<em>non-life threatening</em>).</li>
 <li>Jika ditemukan gejala gawat darurat kritis (seperti nyeri dada menjalar ke lengan kiri, sesak napas berat dengan bibir membiru, atau penurunan kesadaran tiba-tiba), petugas akan segera memandu keluarga untuk memanggil ambulans darurat ke IGD rumah sakit terdekat.</li>
 <li>Jika kondisi aman untuk home visit, petugas mengonfirmasi jadwal kedatangan dokter dan estimasi waktu tempuh menuju cluster hunian Anda.</li>
+</ul>
 
 <h3>Langkah 3: Menyiapkan Pasien dan Ruang Pemeriksaan di Rumah</h3>
 Selagi dokter dalam perjalanan menuju lokasi Anda, lakukan beberapa persiapan sederhana berikut:
-<li><strong>Pencahayaan yang Cukup</strong>: Nyalakan lampu kamar secara optimal agar dokter dapat memeriksa kondisi pupil mata, tenggorokan, dan warna kulit pasien dengan jelas.</li>
+<ul><li><strong>Pencahayaan yang Cukup</strong>: Nyalakan lampu kamar secara optimal agar dokter dapat memeriksa kondisi pupil mata, tenggorokan, dan warna kulit pasien dengan jelas.</li>
 <li><strong>Sediakan Kursi di Samping Tempat Tidur</strong>: Letakkan satu kursi stabil di dekat ranjang pasien agar dokter dapat duduk memeriksa tanda vital dan melakukan auskultasi dada dengan nyaman.</li>
 <li><strong>Kumpulkan Obat-Obatan Pasien</strong>: Letakkan semua botol obat, blister tablet, atau suplemen yang sedang dikonsumsi pasien di atas meja samping ranjang. Ini mempermudah dokter mendeteksi potensi efek samping obat atau interaksi farmakologis.</li>
 <li><strong>Jaga Lingkungan Tenang</strong>: Kurangi kebisingan suara televisi atau hewan peliharaan agar proses mendengarkan suara detak jantung dan paru melalui stetoskop berlangsung jernih dan akurat.</li>
+</ul>
 
 <h3>Langkah 4: Pemeriksaan Medis Komprehensif dan Penatalaksanaan</h3>
 Setibanya di hunian Anda, dokter umum Joy of Care yang mengenakan seragam medis resmi dan membawa tas medis steril akan menjalankan prosedur klinis:
-<li>Pemeriksaan tanda vital menyeluruh (tekanan darah, denyut nadi, laju pernapasan, suhu tubuh, dan saturasi oksigen).</li>
+<ul><li>Pemeriksaan tanda vital menyeluruh (tekanan darah, denyut nadi, laju pernapasan, suhu tubuh, dan saturasi oksigen).</li>
 <li>Pemeriksaan fisik terarah (<em>head-to-toe examination</em>) sesuai keluhan pasien.</li>
 <li>Penjelasan diagnosis medis kepada pasien dan keluarga dalam bahasa yang mudah dipahami tanpa istilah medis yang membingungkan.</li>
 <li>Penulisan resep obat resmi dan rencana tindak lanjut (<em>monitoring plan</em>).</li>
+</ul>
 
 ---
 

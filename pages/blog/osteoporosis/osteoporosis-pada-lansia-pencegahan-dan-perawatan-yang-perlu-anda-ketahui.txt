@@ -6,13 +6,15 @@ meta_description: 'Tanya jawab lengkap seputar osteoporosis lansia: tes kepadata
   tulang DEXA, gejala awal, & penanganan di rumah. Hubungi tim Joy of Care di WA 08811-118-911!'
 primary_keyword: faq osteoporosis pada lansia pencegahan diagnosis
 secondary_keywords:
-<li>pertanyaan umum tulang keropos lansia</li>
+<ul><li>pertanyaan umum tulang keropos lansia</li>
 <li>pemeriksaan dexa scan lansia jakarta</li>
 <li>apakah osteoporosis bisa disembuhkan total</li>
 <li>skrining risiko fraktur frax indonesia</li>
+</ul>
 variation_type: yang-perlu-anda-ketahui
 faq:
-<li>question: Apa perbedaan mendasar antara osteoporosis (pengeroposan tulang) dengan</li>
+<ul><li>question: Apa perbedaan mendasar antara osteoporosis (pengeroposan tulang) dengan</li>
+</ul>
     osteoartritis (pengapuran sendi)?
   answer: Keduanya sering kali disalahartikan oleh masyarakat. Osteoartritis adalah
     penyakit keausan tulang rawan pada bantalan persendian (terutama sendi lutut)
@@ -20,45 +22,55 @@ faq:
     Sedangkan osteoporosis adalah penurunan massa mineral dan kepadatan pada seluruh
     kerangka tulang yang bersifat tidak nyeri sama sekali sampai terjadinya patah
     tulang.
-<li>question: Apakah penderita osteoporosis boleh dipijat atau diurut tradisional di</li>
+<ul><li>question: Apakah penderita osteoporosis boleh dipijat atau diurut tradisional di</li>
+</ul>
     bagian punggung dan pinggang?
   answer: Sangat dilarang keras. Tekanan pijatan yang kuat atau manipulasi tulang
     secara paksa (<em>kretek/chiropractic abal-abal</em>) pada lansia bertulang rapuh dapat
     dengan mudah mematahkan tulang rusuk atau meremukkan korpus ruas tulang belakang
     (<em>fraktur kompresi vertebra</em>), yang dapat mencederai sumsum tulang belakang dan
     memicu kelumpuhan kedua kaki.
-<li>question: Apakah hasil tes kepadatan tulang tumit (USG kalkaneus) di apotek atau</li>
+<ul><li>question: Apakah hasil tes kepadatan tulang tumit (USG kalkaneus) di apotek atau</li>
+</ul>
     mall akurat untuk mendiagnosis osteoporosis?
   answer: Tes USG kalkaneus di tumit hanya berfungsi sebagai alat penapisan (*skrining
     kasar awal*) dan tidak dapat digunakan sebagai dasar diagnosis pasti maupun penentuan
     dosis obat. Diagnosis definitif baku emas internasional wajib menggunakan alat
     Dual-Energy X-ray Absorptiometry (DEXA scan) yang mengukur kepadatan tulang panggul
     (<em>femoral neck</em>) dan tulang belakang lumbal.
-<li>question: Bagaimana cara keluarga mengevaluasi risiko jatuh orang tua di lingkungan</li>
+<ul><li>question: Bagaimana cara keluarga mengevaluasi risiko jatuh orang tua di lingkungan</li>
+</ul>
     rumah tangga?
   answer: 'Keluarga dapat melakukan inspeksi keselamatan: pastikan lantai kamar mandi
     dilapisi karpet antilicin, pasang pegangan besi kokoh (<em>grab bar</em>) di samping
     kloset dan shower, singkirkan kabel yang melintang di lantai, serta pastikan pencahayaan
     lorong kamar tidur cukup terang di malam hari.'
 internal_links:
-<li>anchor: Layanan Panggil Dokter ke Rumah Jakarta</li>
+<ul><li>anchor: Layanan Panggil Dokter ke Rumah Jakarta</li>
+</ul>
   url: /layanan/panggil-dokter
-<li>anchor: Layanan Fisioterapi di Rumah Joy of Care</li>
+<ul><li>anchor: Layanan Fisioterapi di Rumah Joy of Care</li>
+</ul>
   url: /layanan/fisioterapi-di-rumah
-<li>anchor: Layanan Cek Lab Darah di Rumah</li>
+<ul><li>anchor: Layanan Cek Lab Darah di Rumah</li>
+</ul>
   url: /layanan/cek-lab-di-rumah
-<li>anchor: Layanan Perawat Medis Homecare</li>
+<ul><li>anchor: Layanan Perawat Medis Homecare</li>
+</ul>
   url: /layanan/perawat-homecare
 cta_text: Hubungi WhatsApp JoC untuk informasi harga langsung via WhatsApp Joy of
   Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
 clinical_references:
-<li>Perhimpunan Osteoporosis Indonesia (PEROSI) - Tanya Jawab Seputar Kesehatan Tulang</li>
+<ul><li>Perhimpunan Osteoporosis Indonesia (PEROSI) - Tanya Jawab Seputar Kesehatan Tulang</li>
+</ul>
   Geriatri
-<li>National Osteoporosis Foundation (NOF) - Clinician's Guide to Prevention and Treatment</li>
+<ul><li>National Osteoporosis Foundation (NOF) - Clinician's Guide to Prevention and Treatment</li>
+</ul>
   of Osteoporosis
-<li>World Health Organization (WHO) - Assessment of Fracture Risk and its Application</li>
+<ul><li>World Health Organization (WHO) - Assessment of Fracture Risk and its Application</li>
+</ul>
   to Screening for Postmenopausal Osteoporosis
 ---
 
@@ -83,9 +95,10 @@ Keluarga kerap menghadapi keraguan saat orang tua mengeluhkan badan pegal-pegal:
 
 <h3>2. Bolehkah orang tua yang osteoporosis dibawa ke tempat terapi pijat urut atau terapi 'kretek tulang' (chiropractic)?</h3>
 <strong>Jawab</strong>: <strong>Sangat Dilarang Keras Secara Medis.</strong> Pada penderita osteoporosis, kepadatan arsitektur trabekular tulang telah sangat tipis dan berongga menyerupai sarang lebah yang rapuh. Tekanan telapak tangan, siku pemijat, atau hentakan tarikan leher dan punggung dapat dengan mudah memicu:
-<li>Fraktur kompresi ruas tulang belakang lumbal dan torakal.</li>
+<ul><li>Fraktur kompresi ruas tulang belakang lumbal dan torakal.</li>
 <li>Keretakan tulang iga yang berisiko menusuk lapisan selaput paru-paru (<em>pneumotoraks</em>).</li>
 <li>Jepitan sumsum tulang belakang (<em>spinal cord injury</em>) yang berujung pada kelumpuhan kedua tungkai kaki (<em>paraplegia</em>) seumur hidup.</li>
+</ul>
 Jika orang tua mengeluhkan pegal kaku pada otot punggung, mintalah fisioterapis berizin dari [Layanan Fisioterapi di Rumah Joy of Care](/layanan/fisioterapi-di-rumah) untuk memberikan terapi pemanasan inframerah lembut dan peregangan medis yang aman.
 
 ---
@@ -96,9 +109,10 @@ Memahami metode pemeriksaan yang tepat mencegah salah diagnosis:
 
 <h3>3. Apa itu skor T-Score pada hasil pemeriksaan DEXA scan dan bagaimana cara membacanya?</h3>
 <strong>Jawab</strong>: Nilai T-score adalah perbandingan kepadatan mineral tulang pasien dibandingkan dengan nilai rata-rata kepadatan tulang orang dewasa muda sehat berjenis kelamin sama pada masa puncak massanya (<em>peak bone mass</em>):
-<li><strong>T-Score antara +1,0 hingga -1,0</strong>: Kepadatan tulang normal dan sehat.</li>
+<ul><li><strong>T-Score antara +1,0 hingga -1,0</strong>: Kepadatan tulang normal dan sehat.</li>
 <li><strong>T-Score antara -1,0 hingga -2,5</strong>: Dikategorikan sebagai <strong>Osteopenia</strong> (kepadatan tulang mulai menurun, merupakan sinyal waspada).</li>
 <li><strong>T-Score di bawah -2,5 (misalnya -2,8 atau -3,5)</strong>: Didiagnosis definitif sebagai <strong>Osteoporosis</strong>. Semakin rendah angka negatifnya, semakin tinggi risiko tulang patah spontan.</li>
+</ul>
 
 <h3>4. Apa itu instrumen FRAX (<em>Fracture Risk Assessment Tool</em>) yang sering digunakan dokter?</h3>
 <strong>Jawab</strong>: FRAX adalah algoritma perhitungan risiko klinis yang dikembangkan oleh Organisasi Kesehatan Dunia (WHO). Dengan memasukkan data usia pasien, berat badan, riwayat patah tulang keluarga, kebiasaan merokok, penggunaan obat steroid, serta nilai BMD tulang leher paha (<em>femoral neck</em>), FRAX dapat menghitung persentase probabilitas kemungkinan pasien mengalami patah tulang panggul dalam kurun waktu 10 tahun ke depan.
@@ -121,10 +135,11 @@ Memahami metode pemeriksaan yang tepat mencegah salah diagnosis:
 
 <h3>5. Apa modifikasi terpenting di rumah untuk melindungi lansia dengan osteoporosis?</h3>
 <strong>Jawab</strong>: Mengingat 90% fraktur panggul pada lansia dipicu oleh insiden jatuh di hunian sendiri, modifikasi rumah menjadi langkah penyelamat jiwa yang krusial:
-<li>Pasang pegangan dinding kokoh (<em>safety grab bars</em>) di area kloset duduk dan area shower mandi.</li>
+<ul><li>Pasang pegangan dinding kokoh (<em>safety grab bars</em>) di area kloset duduk dan area shower mandi.</li>
 <li>Gunakan keset antilicin berkaret hisap di seluruh lantai kamar mandi basah.</li>
 <li>Singkirkan keset kain yang mudah bergeser atau kabel peralatan elektronik yang berserakan di lorong jalan.</li>
 <li>Pasang lampu malam otomatis bersensor gerak dari kamar tidur menuju toilet agar lansia tidak berjalan dalam kegelapan saat ingin buang air kecil.</li>
+</ul>
 
 <h3>6. Apakah Joy of Care menyediakan tenaga perawat yang dapat membantu merawat lansia dengan osteoporosis berat?</h3>
 <strong>Jawab</strong>: Ya. Melalui [Layanan Perawat Medis Homecare](/layanan/perawat-homecare), perawat bersertifikasi STR kami dilatih secara khusus dalam teknik transfer aman (<em>safe patient transfer technique</em>), membantu lansia mandi, berpindah dari tempat tidur ke kursi roda, memfasilitasi senam ringan, serta memantau jadwal minum obat bisfosfonat dengan posisi tubuh yang benar.

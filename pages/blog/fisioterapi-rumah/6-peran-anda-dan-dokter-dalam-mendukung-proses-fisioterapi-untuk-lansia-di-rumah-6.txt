@@ -6,52 +6,63 @@ meta_description: Sinergi peran dokter, fisioterapis, dan keluarga dalam pemulih
   hari ini!
 primary_keyword: peran dokter dan fisioterapi lansia di rumah
 secondary_keywords:
-<li>kolaborasi medis geriatri</li>
+<ul><li>kolaborasi medis geriatri</li>
 <li>peran keluarga fisioterapi lansia</li>
 <li>rehabilitasi medik homecare</li>
 <li>evaluasi kemandirian fisik orang tua</li>
+</ul>
 faq:
-<li>question: Mengapa program fisioterapi lansia di rumah harus melibatkan supervisi</li>
+<ul><li>question: Mengapa program fisioterapi lansia di rumah harus melibatkan supervisi</li>
+</ul>
     dokter?
   answer: Lansia sering kali memiliki penyakit penyerta multimorbid (seperti hipertensi,
     diabetes, atau penyakit jantung); dokter memastikan bahwa intensitas latihan fisik
     aman bagi sistem kardiovaskular pasien.
-<li>question: Apa kesalahan terbesar yang sering dilakukan keluarga saat mendampingi</li>
+<ul><li>question: Apa kesalahan terbesar yang sering dilakukan keluarga saat mendampingi</li>
+</ul>
     fisioterapi lansia?
   answer: Terlalu cepat memaksa lansia mencapai target gerak yang melampaui batas
     toleransi nyeri mereka, atau sebaliknya terlalu cemas sehingga melarang lansia
     berlatih mandiri saat sesi terapi berakhir.
-<li>question: Bagaimana cara mengukur keberhasilan fisioterapi geriatri di rumah?</li>
+<ul><li>question: Bagaimana cara mengukur keberhasilan fisioterapi geriatri di rumah?</li>
+</ul>
   answer: Keberhasilan diukur menggunakan skala fungsional klinis baku seperti Indeks
     Barthel (kemandirian makan, mandi, berpakaian), tes Time Up and Go (kecepatan
     dan stabilitas berjalan), serta penurunan skala nyeri visual.
-<li>question: Seberapa sering dokter umum atau konsultan geriatri harus mengevaluasi</li>
+<ul><li>question: Seberapa sering dokter umum atau konsultan geriatri harus mengevaluasi</li>
+</ul>
     program fisioterapi lansia di rumah?
   answer: Evaluasi medis berkala sebaiknya dilakukan setiap 4 hingga 6 minggu sekali,
     atau lebih cepat jika pasien mengalami perubahan kondisi klinis seperti nyeri
     mendadak, pusing berputar, sesak napas saat latihan, atau penurunan daya ingat.
-<li>question: Bagaimana cara keluarga menjaga motivasi lansia yang sering menolak latihan</li>
+<ul><li>question: Bagaimana cara keluarga menjaga motivasi lansia yang sering menolak latihan</li>
+</ul>
     fisioterapi karena takut nyeri?
   answer: Gunakan pendekatan persuasif yang lembut, mulai latihan dengan durasi singkat
     (5–10 menit), kaitkan tujuan latihan dengan hal yang disukai lansia (misalnya
     agar bisa bermain dengan cucu atau berjalan ke taman), dan konsultasikan dengan
     fisioterapis untuk menyesuaikan intensitas gerakan agar tidak memicu nyeri.
 internal_links:
-<li>anchor: Layanan Dokter Kunjungan ke Rumah</li>
+<ul><li>anchor: Layanan Dokter Kunjungan ke Rumah</li>
+</ul>
   url: /layanan/panggil-dokter
-<li>anchor: Layanan Fisioterapi Geriatri Homecare</li>
+<ul><li>anchor: Layanan Fisioterapi Geriatri Homecare</li>
+</ul>
   url: /layanan/fisioterapi
-<li>anchor: 7 Hal Saat Fisioterapi Lansia di Rumah</li>
+<ul><li>anchor: 7 Hal Saat Fisioterapi Lansia di Rumah</li>
+</ul>
   url: /blog/healthy-aging-3/7-hal-yang-dilakukan-saat-fisioterapi-di-rumah-untuk-lansia-5
 cta_text: Hubungi WhatsApp JoC untuk informasi harga langsung bersama dokter dan tim
   fisioterapis Joy of Care via WhatsApp di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
 clinical_references:
-<li>Perhimpunan Gerontologi Medik Indonesia (PERGEMI) - Panduan Kolaborasi Multidisiplin</li>
+<ul><li>Perhimpunan Gerontologi Medik Indonesia (PERGEMI) - Panduan Kolaborasi Multidisiplin</li>
+</ul>
   Geriatri
-<li>World Health Organization (WHO) Integrated Care for Older People (ICOPE)</li>
+<ul><li>World Health Organization (WHO) Integrated Care for Older People (ICOPE)</li>
 <li>Ikatan Fisioterapi Indonesia (IFI) - Standar Pelayanan Fisioterapi Lansia</li>
+</ul>
 ---
 
 <h1>Sinergi Dokter, Fisioterapis, dan Keluarga dalam Pemulihan Lansia di Rumah</h1>
@@ -103,9 +114,10 @@ Di sela-sela jadwal kunjungan fisioterapi (yang biasanya berlangsung 2–3 kali 
 
 <h3>Checklist Harian Manajemen Pemulihan Gerak & Sendi di Rumah</h3>
 Pencegahan komplikasi pasca-cedera atau pascaoperasi membutuhkan kedisiplinan pemantauan setiap hari:
-<li><strong>Pemeriksaan Suhu & Tanda Infeksi Lokal</strong>: Raba area di sekitar sendi; bila teraba panas membara, sangat merah, atau keluar nanah, segera laporkan ke tim medis.</li>
+<ul><li><strong>Pemeriksaan Suhu & Tanda Infeksi Lokal</strong>: Raba area di sekitar sendi; bila teraba panas membara, sangat merah, atau keluar nanah, segera laporkan ke tim medis.</li>
 <li><strong>Protokol Elevasi Kaki saat Berbaring</strong>: Sangga tungkai dengan 1–2 bantal empuk agar posisinya lebih tinggi dari dada guna melancarkan aliran balik vena.</li>
 <li><strong>Latihan Pompa Ankle (Ankle Pumps)</strong>: Gerakkan pergelangan kaki ke atas dan bawah sebanyak 20 kali setiap jam untuk mencegah penggumpalan darah vena dalam (<em>DVT</em>).</li>
+</ul>
 
 
 

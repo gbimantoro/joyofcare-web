@@ -6,47 +6,57 @@ meta_description: Panduan praktis cara memesan layanan antar jemput pasien ke ru
   sakit di Jakarta via WhatsApp. Respon cepat tim Joy of Care di nomor WA 08811-118-911!
 primary_keyword: cara memesan layanan antar jemput ke rumah sakit
 secondary_keywords:
-<li>prosedur reservasi transportasi medis jakarta</li>
+<ul><li>prosedur reservasi transportasi medis jakarta</li>
 <li>persiapan pasien sebelum diantar ke rs</li>
 <li>layanan pendamping perawat ke rumah sakit</li>
 <li>transportasi pasien bedridden ke faskes</li>
+</ul>
 variation_type: tips-dan-cara
 faq:
-<li>question: Data apa saja yang harus disampaikan keluarga saat memesan transportasi</li>
+<ul><li>question: Data apa saja yang harus disampaikan keluarga saat memesan transportasi</li>
+</ul>
     medis via WhatsApp?
   answer: Sampaikan nama lengkap pasien, usia, alamat penjemputan di rumah, nama rumah
     sakit dan dokter spesialis yang dituju, jam janji temu kontrol, kondisi mobilitas
     pasien (apakah bisa duduk di kursi roda atau harus berbaring di brankar tandu),
     serta kebutuhan alat medis tambahan seperti tabung oksigen.
-<li>question: Apa yang harus dipersiapkan keluarga di rumah sebelum mobil medis Joy</li>
+<ul><li>question: Apa yang harus dipersiapkan keluarga di rumah sebelum mobil medis Joy</li>
+</ul>
     of Care tiba?
   answer: Pastikan pasien sudah mandi/diseka bersih, kenakan pakaian yang nyaman dan
     hangat, siapkan tas dokumen rekam medis (KTP, kartu asuransi/BPJS, surat rujukan
     kontrol), serta pastikan akses pintu kamar dan pagar rumah tidak terhalang kendaraan
     lain.
-<li>question: Apakah layanan ini bisa dipesan untuk penjemputan pasien yang baru keluar</li>
+<ul><li>question: Apakah layanan ini bisa dipesan untuk penjemputan pasien yang baru keluar</li>
+</ul>
     rawat inap (discharge hospital)?
   answer: Bisa. Sampaikan kepada customer care kami estimasi jam kepulangan pasien
     dari ruang rawat inap rumah sakit. Tim kami akan tiba tepat waktu di lobi gedung
     rawat inap untuk menjemput pasien langsung dari ranjang kamar rawat inap (*bed-to-bed
     transfer*).
 internal_links:
-<li>anchor: Layanan Antar Jemput ke Rumah Sakit Joy of Care</li>
+<ul><li>anchor: Layanan Antar Jemput ke Rumah Sakit Joy of Care</li>
+</ul>
   url: /layanan/antar-jemput-rs
-<li>anchor: Layanan Perawat Medis Homecare</li>
+<ul><li>anchor: Layanan Perawat Medis Homecare</li>
+</ul>
   url: /layanan/perawat-homecare
-<li>anchor: Layanan Panggil Dokter ke Rumah Jakarta</li>
+<ul><li>anchor: Layanan Panggil Dokter ke Rumah Jakarta</li>
+</ul>
   url: /layanan/panggil-dokter
 cta_text: Konsultasi Dokter Gratis via WhatsApp dan sekitarnya langsung via WhatsApp
   Joy of Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
 clinical_references:
-<li>Ministry of Health Republic of Indonesia - Standar Operasional Pelayanan Transportasi</li>
+<ul><li>Ministry of Health Republic of Indonesia - Standar Operasional Pelayanan Transportasi</li>
+</ul>
   Pasien Rujukan
-<li>Emergency Medical Services Authority (EMSA) - Protocols for Pre-Hospital Patient</li>
+<ul><li>Emergency Medical Services Authority (EMSA) - Protocols for Pre-Hospital Patient</li>
+</ul>
   Transfer and Safety
-<li>Indonesian Hospital Association (PERSI) - Alur Pelayanan Pasien Rawat Jalan dan</li>
+<ul><li>Indonesian Hospital Association (PERSI) - Alur Pelayanan Pasien Rawat Jalan dan</li>
+</ul>
   Discharge Planning
 ---
 
@@ -68,28 +78,32 @@ Ikuti langkah-langkah terstruktur berikut untuk memastikan perjalanan kontrol me
 
 <h3>Langkah 1: Hubungi Hotline WhatsApp Joy of Care (08811-118-911)</h3>
 Kirimkan pesan ke customer service Joy of Care dengan menyertakan format reservasi ringkas:
-<li><strong>Nama Pasien & Usia</strong>: (Contoh format: Nama Lengkap Pasien, Usia)</li>
+<ul><li><strong>Nama Pasien & Usia</strong>: (Contoh format: Nama Lengkap Pasien, Usia)</li>
 <li><strong>Alamat Rumah Lengkap</strong>: (Contoh: Jl. Kemang Timur No. 18, Jakarta Selatan)</li>
 <li><strong>Rumah Sakit & Dokter Tujuan</strong>: (Contoh: RS Siloam Semanggi, dr. Spesialis Syaraf)</li>
 <li><strong>Hari, Tanggal & Jam Janji Temu</strong>: (Contoh: Selasa, 10 September, Jam 10.00 WIB)</li>
 <li><strong>Kebutuhan Fasilitas Medis</strong>: (Contoh: Butuh brankar tandu telentang + tabung oksigen 2 lpm + perawat pendamping)</li>
+</ul>
 
 <h3>Langkah 2: Konfirmasi Armada & Estimasi Waktu Penjemputan</h3>
 Petugas medis Joy of Care akan meninjau rute lalu lintas di Jakarta dan menentukan jam penjemputan terbaik (biasanya 1,5 hingga 2 jam sebelum jam janji temu dokter poliklinik):
-<li>Tim kami mengonfirmasi ketersediaan armada mobil khusus dan menugaskan perawat ber-STR aktif yang sesuai.</li>
+<ul><li>Tim kami mengonfirmasi ketersediaan armada mobil khusus dan menugaskan perawat ber-STR aktif yang sesuai.</li>
 <li>Keluarga menerima rincian biaya resmi paket (satu arah atau pulang-pergi) tanpa ada biaya tersembunyi.</li>
+</ul>
 
 <h3>Langkah 3: Persiapan Pasien dan Kamar di Rumah Sebelum Mobil Tiba</h3>
 Satu jam sebelum waktu penjemputan, lakukan beberapa persiapan penting berikut:
-<li><strong>Kebersihan Diri Pasien</strong>: Bersihkan pasien dengan menyeka air hangat atau memandikannya, ganti popok dewasa (<em>diapers</em>) dengan yang baru, dan kenakan pakaian berkancing depan yang longgar dan hangat.</li>
+<ul><li><strong>Kebersihan Diri Pasien</strong>: Bersihkan pasien dengan menyeka air hangat atau memandikannya, ganti popok dewasa (<em>diapers</em>) dengan yang baru, dan kenakan pakaian berkancing depan yang longgar dan hangat.</li>
 <li><strong>Asupan Makanan & Minum Ringan</strong>: Berikan sarapan atau camilan ringan serta air hangat agar pasien tidak mengalami hipoglikemia di perjalanan. Hindari memberi makan dalam porsi sangat kenyang tepat sebelum mobil berangkat untuk mencegah rasa mual atau mabuk perjalanan.</li>
 <li><strong>Buka Akses Jalan Rumah</strong>: Buka pintu pagar rumah dan pastikan tidak ada kendaraan lain yang menghalangi mobil medis Joy of Care untuk merapat sedekat mungkin ke pintu masuk hunian Anda.</li>
+</ul>
 
 <h3>Langkah 4: Penjemputan dan Pendampingan Sepanjang Hari</h3>
 Setibanya tim Joy of Care di rumah:
-<li>Perawat memeriksa tanda vital awal pasien (tensi darah, nadi, dan saturasi oksigen).</li>
+<ul><li>Perawat memeriksa tanda vital awal pasien (tensi darah, nadi, dan saturasi oksigen).</li>
 <li>Bersama pengemudi, perawat memindahkan pasien secara ergonomis ke atas brankar atau kursi roda beroda halus, lalu membawanya masuk ke dalam kabin mobil medis.</li>
 <li>Selama perjalanan dan di rumah sakit, perawat mengawal seluruh alur administrasi dan medis hingga pasien kembali beristirahat di ranjang kamar tidurnya dengan selamat.</li>
+</ul>
 
 ---
 
@@ -108,9 +122,10 @@ Setibanya tim Joy of Care di rumah:
 <h2>Manfaat Pendampingan Perawat Medis Joy of Care di Rumah Sakit</h2>
 
 Banyak keluarga yang merasa sangat terbantu dengan adanya perawat pendamping dari [Layanan Perawat Medis Homecare](/layanan/perawat-homecare) Joy of Care selama berada di faskes:
-<li><strong>Komunikasi Medis yang Efektif</strong>: Perawat mampu menyampaikan riwayat keluhan harian dan catatan tanda vital pasien kepada dokter spesialis dalam bahasa medis yang presisi, sehingga diagnosis dan penyesuaian dosis obat menjadi sangat akurat.</li>
+<ul><li><strong>Komunikasi Medis yang Efektif</strong>: Perawat mampu menyampaikan riwayat keluhan harian dan catatan tanda vital pasien kepada dokter spesialis dalam bahasa medis yang presisi, sehingga diagnosis dan penyesuaian dosis obat menjadi sangat akurat.</li>
 <li><strong>Mencegah Pasien Kelelahan di Ruang Tunggu</strong>: Perawat mengawasi posisi duduk pasien di kursi roda, mengatur bantalan penopang tubuh, dan memberikan asupan air minum secara teratur agar pasien tetap segar.</li>
 <li><strong>Mempercepat Urusan Apotek</strong>: Perawat sigap mengantre dan memeriksa ulang kecocokan etiket obat resep yang diserahkan bagian farmasi sebelum membawa pasien pulang.</li>
+</ul>
 
 Bila di kemudian hari pasien membutuhkan evaluasi kesehatan rutin tanpa perlu kembali ke rumah sakit, keluarga dapat memanfaatkan kenyamanan [Layanan Panggil Dokter ke Rumah Jakarta](/layanan/panggil-dokter).
 

@@ -6,54 +6,66 @@ meta_description: 'Tanya jawab lengkap seputar layanan antar jemput rumah sakit:
   kursi roda, brankar, & tarif resmi. Hubungi WhatsApp Joy of Care 08811-118-911!'
 primary_keyword: faq layanan antar jemput ke rumah sakit jakarta
 secondary_keywords:
-<li>pertanyaan seputar transportasi pasien non darurat</li>
+<ul><li>pertanyaan seputar transportasi pasien non darurat</li>
 <li>apakah ada perawat mendampingi di dalam mobil</li>
 <li>armada khusus pasien tirah baring stretcher</li>
 <li>area jangkauan antar jemput pasien jabodetabek</li>
+</ul>
 variation_type: yang-perlu-anda-ketahui
 faq:
-<li>question: Apakah layanan antar jemput pasien Joy of Care melayani penjemputan di</li>
+<ul><li>question: Apakah layanan antar jemput pasien Joy of Care melayani penjemputan di</li>
+</ul>
     gedung apartemen bertingkat tinggi di Jakarta?
   answer: Ya, melayani penuh. Tim perawat dan staf Joy of Care membawa kursi roda
     transfer lipat yang dirancang dapat masuk ke dalam lift gedung apartemen, menjemput
     pasien langsung dari dalam unit kamar apartemen, dan membawanya turun ke lobi
     penjemputan mobil secara aman.
-<li>question: Bagaimana jika pasien membutuhkan oksigen mengalir secara kontinu selama</li>
+<ul><li>question: Bagaimana jika pasien membutuhkan oksigen mengalir secara kontinu selama</li>
+</ul>
     perjalanan di dalam mobil?
   answer: Armada mobil Joy of Care selalu dilengkapi dengan tabung oksigen medis portabel
     dengan regulator aliran (<em>flowmeter</em>) dan selang kanul nasal steril baru. Perawat
     kami akan mengatur konsentrasi aliran oksigen (1–5 liter per menit) sesuai anjuran
     dokter penanggung jawab sepanjang perjalanan.
-<li>question: Apakah layanan ini mencakup penjemputan pasien yang baru selesai menjalani</li>
+<ul><li>question: Apakah layanan ini mencakup penjemputan pasien yang baru selesai menjalani</li>
+</ul>
     operasi bedah besar di rumah sakit?
   answer: Ya. Layanan kepulangan pascaoperasi (<em>post-surgery hospital discharge</em>)
     adalah salah satu spesialisasi utama kami. Pasien dipindahkan secara hati-hati
     di atas brankar tandu empuk guna melindungi luka jahitan bedah dari guncangan
     jalan raya, didampingi perawat yang mengawasi cairan infus dan drainase luka.
-<li>question: Berapa kapasitas penumpang yang dapat ditampung di dalam armada mobil</li>
+<ul><li>question: Berapa kapasitas penumpang yang dapat ditampung di dalam armada mobil</li>
+</ul>
     medis Joy of Care?
   answer: Selain pasien (di atas brankar atau kursi roda) dan satu orang perawat medis,
     armada kami menyediakan tempat duduk penumpang ber-AC yang nyaman untuk 1 hingga
     2 orang anggota keluarga pendamping beserta barang bawaan tas rekam medis pasien.
 internal_links:
-<li>anchor: Layanan Antar Jemput ke Rumah Sakit Joy of Care</li>
+<ul><li>anchor: Layanan Antar Jemput ke Rumah Sakit Joy of Care</li>
+</ul>
   url: /layanan/antar-jemput-rs
-<li>anchor: Layanan Perawat Medis Homecare</li>
+<ul><li>anchor: Layanan Perawat Medis Homecare</li>
+</ul>
   url: /layanan/perawat-homecare
-<li>anchor: Layanan Panggil Dokter ke Rumah Jakarta</li>
+<ul><li>anchor: Layanan Panggil Dokter ke Rumah Jakarta</li>
+</ul>
   url: /layanan/panggil-dokter
-<li>anchor: Layanan Fisioterapi di Rumah</li>
+<ul><li>anchor: Layanan Fisioterapi di Rumah</li>
+</ul>
   url: /layanan/fisioterapi-di-rumah
 cta_text: Hubungi WhatsApp JoC untuk informasi harga dan sekitarnya langsung via WhatsApp
   Joy of Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
 clinical_references:
-<li>Ministry of Health Republic of Indonesia - Pedoman Pelayanan Transportasi Pasien</li>
+<ul><li>Ministry of Health Republic of Indonesia - Pedoman Pelayanan Transportasi Pasien</li>
+</ul>
   Fasilitas Pelayanan Kesehatan
-<li>National Highway Traffic Safety Administration (NHTSA) - Wheelchair Securement and</li>
+<ul><li>National Highway Traffic Safety Administration (NHTSA) - Wheelchair Securement and</li>
+</ul>
   Patient Restraint Guidelines in Ambulances
-<li>World Health Organization (WHO) - Safe Handling and Transport of Geriatric and Disabled</li>
+<ul><li>World Health Organization (WHO) - Safe Handling and Transport of Geriatric and Disabled</li>
+</ul>
   Patients
 ---
 
@@ -75,9 +87,10 @@ Kondisi fisik armada kendaraan merupakan faktor utama yang menentukan kenyamanan
 
 <h3>1. Bagaimana pasien pengguna kursi roda masuk ke dalam mobil tanpa harus berdiri?</h3>
 <strong>Jawab</strong>: Armada mobil transportasi medis Joy of Care menggunakan modifikasi khusus:
-<li>Dilengkapi dengan jalur ramp lipat berbahan aluminium paduan kokoh dengan sudut kemiringan landai dan lapisan antilicin.</li>
+<ul><li>Dilengkapi dengan jalur ramp lipat berbahan aluminium paduan kokoh dengan sudut kemiringan landai dan lapisan antilicin.</li>
 <li>Kursi roda pasien didorong masuk ke dalam kabin secara perlahan tanpa mengharuskan pasien berdiri atau berpindah kursi.</li>
 <li>Di dalam kabin, roda kursi roda dikunci secara mekanis menggunakan sistem pengikat 4 titik (<em>four-point wheelchair tie-down system</em>) yang berstandar keselamatan internasional, serta pasien dipasangi sabuk pengaman dada dan pinggang khusus, sehingga kursi roda tidak akan bergeser atau oleng saat mobil bermanuver.</li>
+</ul>
 
 <h3>2. Bagaimana armada Joy of Care meredam guncangan jalan raya Jakarta yang bergelombang?</h3>
 <strong>Jawab</strong>: Berbeda dengan kendaraan ambulans tipe pikap atau truk ringan yang suspensi belakangnya sangat keras dan memantul-mantul, Joy of Care menggunakan basis armada minibus modern berbahan peredam getaran ganda (<em>dual shock-absorber suspension</em>) yang telah disesuaikan khusus untuk kenyamanan geriatri. Brankar tandu pasien juga dilengkapi dengan matras busa medis tebal bersertifikasi ortopedi yang menyerap getaran mikro jalan raya secara optimal.
@@ -90,10 +103,11 @@ Banyak keluarga ingin mengetahui sejauh mana perawat Joy of Care akan membantu d
 
 <h3>3. Apa saja yang akan dilakukan oleh perawat Joy of Care selama mendampingi pasien di rumah sakit?</h3>
 <strong>Jawab</strong>: Perawat medis kami bertugas memberikan pendampingan paripurna:
-<li>Menemani pasien sejak penjemputan dari ranjang rumah hingga pengantaran kembali ke ranjang.</li>
+<ul><li>Menemani pasien sejak penjemputan dari ranjang rumah hingga pengantaran kembali ke ranjang.</li>
 <li>Mendorong kursi roda atau brankar pasien di seluruh area rumah sakit (lobi, lift, poliklinik, laboratorium, radiologi, apotek).</li>
 <li>Melakukan tindakan medis ringan bila diperlukan di faskes (seperti membersihkan dahak dengan suction portabel, mengecek saturasi oksigen darah, atau merapikan selang kateter urin).</li>
 <li>Berkomunikasi aktif dengan perawat faskes dan dokter spesialis mengenai kondisi harian pasien di rumah, serta mencatat anjuran medis dokter penanggung jawab untuk dilaporkan kepada pihak keluarga.</li>
+</ul>
 
 <h3>4. Apakah perawat Joy of Care memiliki wewenang untuk mengambil keputusan medis atas nama keluarga?</h3>
 <strong>Jawab</strong>: Tidak. Segala bentuk persetujuan tindakan medis invasif (<em>informed consent</em>), persetujuan rawat inap, atau keputusan terapi besar di rumah sakit tetap merupakan wewenang mutlak dari pihak keluarga inti (<em>next of kin</em>). Perawat Joy of Care bertindak sebagai pendamping medis profesional, penasihat kesehatan, dan fasilitator komunikasi teknis antara dokter faskes dengan keluarga Anda.

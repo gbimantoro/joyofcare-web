@@ -6,52 +6,64 @@ meta_description: 'Perbandingan perawatan parkinson di rumah vs rawat inap rumah
   biaya, kenyamanan, dan kualitas hidup. Chat WhatsApp Joy of Care 08811-118-911 sekarang!'
 primary_keyword: perawatan parkinson di rumah vs rumah sakit
 secondary_keywords:
-<li>biaya perawatan parkinson homecare vs rs</li>
+<ul><li>biaya perawatan parkinson homecare vs rs</li>
 <li>kelebihan merawat parkinson di rumah sendiri</li>
 <li>kapan pasien parkinson harus dirawat di rs</li>
 <li>panti jompo vs homecare pasien parkinson</li>
+</ul>
 variation_type: biaya-dan-perbandingan
 faq:
-<li>question: Apakah merawat pasien Parkinson di rumah lebih murah dibanding bolak-balik</li>
+<ul><li>question: Apakah merawat pasien Parkinson di rumah lebih murah dibanding bolak-balik</li>
+</ul>
     rumah sakit?
   answer: Jauh lebih ekonomis dan terukur. Merawat pasien Parkinson di rumah menghindarkan
     keluarga dari tagihan rawat inap rumah sakit harian yang sangat mahal, sekaligus
     memberikan kenyamanan emosional bagi pasien. Hubungi WhatsApp Joy of Care 08811-118-911
     untuk informasi resmi. tak terduga.
-<li>question: Mengapa lingkungan rumah sakit sering memicu kebingungan mendadak (delirium)</li>
+<ul><li>question: Mengapa lingkungan rumah sakit sering memicu kebingungan mendadak (delirium)</li>
+</ul>
     pada pasien Parkinson?
   answer: Pasien Parkinson sangat sensitif terhadap perubahan lingkungan. Ruang rawat
     inap yang asing, bunyi mesin medis berisik, dan pencahayaan rumah sakit dapat
     memicu stres sensorik akut yang memicu halusinasi dan disorientasi delirium.
-<li>question: Kondisi darurat apa yang mengharuskan pasien Parkinson segera dibawa ke</li>
+<ul><li>question: Kondisi darurat apa yang mengharuskan pasien Parkinson segera dibawa ke</li>
+</ul>
     IGD rumah sakit?
   answer: Episode krisis Parkinson (<em>Parkinsonism-Hyperpyrexia Syndrome</em>), cedera
     kepala atau patah tulang akibat jatuh, sesak napas berat akibat aspirasi makanan,
     atau demam tinggi disertai penurunan kesadaran akibat infeksi paru berat.
-<li>question: Apakah fisioterapi Parkinson di rumah sama efektifnya dengan fasilitas</li>
+<ul><li>question: Apakah fisioterapi Parkinson di rumah sama efektifnya dengan fasilitas</li>
+</ul>
     fisioterapi rumah sakit?
   answer: 'Bahkan lebih efektif dalam konteks fungsional harian. Fisioterapis homecare
     melatih pasien langsung pada tantangan nyata di rumahnya: menaiki tangga rumah
     sendiri, bangkit dari kursi makannya sendiri, dan berjalan di koridor kamarnya.'
 internal_links:
-<li>anchor: Layanan Fisioterapi Parkinson di Rumah Joy of Care</li>
+<ul><li>anchor: Layanan Fisioterapi Parkinson di Rumah Joy of Care</li>
+</ul>
   url: /layanan/fisioterapi
-<li>anchor: Panduan Lengkap Perawatan Pasien Parkinson di Rumah</li>
+<ul><li>anchor: Panduan Lengkap Perawatan Pasien Parkinson di Rumah</li>
+</ul>
   url: /blog/perawatan-pasien-parkinson-di-rumah-panduan-lengkap
-<li>anchor: Layanan Panggil Dokter ke Rumah</li>
+<ul><li>anchor: Layanan Panggil Dokter ke Rumah</li>
+</ul>
   url: /layanan/panggil-dokter
-<li>anchor: Layanan Perawat Lansia Homecare</li>
+<ul><li>anchor: Layanan Perawat Lansia Homecare</li>
+</ul>
   url: /layanan/perawat-homecare
 cta_text: Konsultasi Dokter Gratis via WhatsApp Anda langsung via WhatsApp Joy of
   Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
 clinical_references:
-<li>The Lancet Neurology - In-Home Multidisciplinary Care vs Standard Hospital Outpatient</li>
+<ul><li>The Lancet Neurology - In-Home Multidisciplinary Care vs Standard Hospital Outpatient</li>
+</ul>
   Care for Parkinson's Disease
-<li>Neurology Clinical Practice - Prevention of Hospitalizations in Advanced Parkinson</li>
+<ul><li>Neurology Clinical Practice - Prevention of Hospitalizations in Advanced Parkinson</li>
+</ul>
   Disease
-<li>World Parkinson Congress - Quality of Life Metrics in Home-Based vs Institutional</li>
+<ul><li>World Parkinson Congress - Quality of Life Metrics in Home-Based vs Institutional</li>
+</ul>
   Care
 ---
 
@@ -73,8 +85,9 @@ Meskipun rumah sakit memiliki fasilitas medis canggih, lingkungan rawat inap kon
 
 <h3>1. Sindrom Disorientasi dan Halusinasi Akut (<em>Hospital Delirium</em>)</h3>
 Otak penderita Parkinson memiliki cadangan neurotransmiter asetilkolin dan dopamin yang rapuh. Ketika pasien dipindahkan ke kamar rawat inap rumah sakit dengan bunyi alarm monitor berisik, pergantian perawat asing setiap shift, dan lampu terang di malam hari, ritme sirkadian otak terganggu parah:
-<li>Pasien dapat mengalami disorientasi waktu dan tempat, menjadi sangat gelisah (<em>agitasi</em>), mencabuti selang infus, hingga mengalami halusinasi visual yang menakutkan.</li>
+<ul><li>Pasien dapat mengalami disorientasi waktu dan tempat, menjadi sangat gelisah (<em>agitasi</em>), mencabuti selang infus, hingga mengalami halusinasi visual yang menakutkan.</li>
 <li>Sebaliknya, di kamar tidurnya sendiri di rumah, tata letak perabot yang sudah dihafal selama puluhan tahun memberikan rasa tenang dan jangkar orientasi yang kokoh bagi otaknya.</li>
+</ul>
 
 <h3>2. Risiko Infeksi Silang Bakteri Kebal Obat (<em>Superbug HAIs</em>)</h3>
 Pasien Parkinson lanjut usia sering memiliki reflek batuk yang melemah dan imunitas tubuh yang rentan. Berada di lingkungan bangsal rumah sakit meningkatkan risiko tertular bakteri resisten antibiotik (<em>Healthcare-Associated Infections / HAIs</em>), seperti pneumonia aspirasi nosokomial atau infeksi saluran kemih akibat kateter urin rumah sakit.
@@ -104,10 +117,11 @@ Berikut adalah matriks perbandingan komprehensif antara perawatan rumah sakit ko
 
 Meskipun perawatan di rumah adalah standar emas jangka panjang, keluarga wajib memahami bahwa ada kondisi darurat medis tertentu (<em>red flag</em>) yang mengharuskan pasien segera dilarikan ke Unit Gawat Darurat (UGD) rumah sakit terdekat:
 
-<li><em></em>Sindrom Krisis Parkinson (<em>Parkinsonism-Hyperpyrexia Syndrome</em>)<em></em>: Kondisi mengancam nyawa yang dipicu oleh penghentian mendadak obat levodopa. Pasien mengalami demam tinggi mendadak, otot sangat kaku seperti patung, tensi darah melonjak drastis, dan penurunan kesadaran.</li>
+<ul><li><em></em>Sindrom Krisis Parkinson (<em>Parkinsonism-Hyperpyrexia Syndrome</em>)<em></em>: Kondisi mengancam nyawa yang dipicu oleh penghentian mendadak obat levodopa. Pasien mengalami demam tinggi mendadak, otot sangat kaku seperti patung, tensi darah melonjak drastis, dan penurunan kesadaran.</li>
 <li><em></em>Insiden Jatuh dengan Patah Tulang Panggul (<em>Hip Fracture</em>)<em></em>: Pasien tidak mampu menumpu berat badan sama sekali, tungkai kaki tampak memendek dan memutar keluar, serta nyeri hebat di pangkal paha yang memerlukan tindakan bedah ortopedi darurat.</li>
 <li><strong>Pneumonia Aspirasi Akut</strong>: Pasien tersedak cairan atau makanan padat yang masuk ke paru-paru, ditandai sesak napas berat, bibir kebiruan (<em>sianosis</em>), napas berbunyi mengorok (<em>stridor</em>), dan saturasi oksigen anjlok di bawah 90%.</li>
 <li><em></em>Obstruksi Usus Berat (<em>Ileus Paralitik</em>)<em></em>: Perut kembung membuncit keras seperti drum, tidak bisa buang angin dan BAB selama lebih dari 5 hari disertai muntah hijau pekat.</li>
+</ul>
 
 Di luar situasi darurat akut di atas, seluruh perawatan pemeliharaan, latihan rehabilitasi, dan pencegahan komplikasi dapat dilakukan secara sempurna di rumah bersama [Layanan Perawat Lansia Homecare](/layanan/perawat-homecare) dan [Layanan Panggil Dokter ke Rumah](/layanan/panggil-dokter). Pelajari panduan lengkapnya di [Panduan Lengkap Perawatan Pasien Parkinson di Rumah](/blog/perawatan-pasien-parkinson-di-rumah-panduan-lengkap).
 

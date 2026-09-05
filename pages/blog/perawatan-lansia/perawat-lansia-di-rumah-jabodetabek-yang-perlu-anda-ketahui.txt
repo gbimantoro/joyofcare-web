@@ -6,48 +6,59 @@ meta_description: Jawaban lengkap seputar layanan perawat lansia di rumah Jabode
   biaya, tugas, dan sertifikasi. Chat tim medis via WhatsApp Joy of Care 08811-118-911!
 primary_keyword: faq perawat lansia di rumah jabodetabek
 secondary_keywords:
-<li>tanya jawab perawat homecare lansia</li>
+<ul><li>tanya jawab perawat homecare lansia</li>
 <li>aturan mempekerjakan perawat lansia</li>
 <li>hak dan kewajiban perawat homecare</li>
 <li>keamanan menyewa perawat lansia di rumah</li>
+</ul>
 variation_type: yang-perlu-anda-ketahui
 faq:
-<li>question: Apakah perawat lansia di rumah boleh membantu pekerjaan rumah tangga umum?</li>
+<ul><li>question: Apakah perawat lansia di rumah boleh membantu pekerjaan rumah tangga umum?</li>
+</ul>
   answer: Tidak. Standar profesional keperawatan membatasi tugas perawat hanya pada
     keselamatan klinis, higiene, nutrisi, dan lingkungan kamar pasien lansia. Menugaskan
     pekerjaan rumah tangga umum dapat membahayakan keselamatan pengawasan medis lansia.
-<li>question: Berapa lama waktu yang dibutuhkan untuk mendatangkan perawat lansia Joy</li>
+<ul><li>question: Berapa lama waktu yang dibutuhkan untuk mendatangkan perawat lansia Joy</li>
+</ul>
     of Care ke rumah?
   answer: Untuk wilayah Jabodetabek, proses penempatan perawat dapat diproses dalam
     waktu 1x24 jam hingga 2x24 jam setelah proses konsultasi kondisi medis pasien
     dan persetujuan kontrak keluarga selesai.
-<li>question: Apakah perawat medis Joy of Care berwenang memberikan suntikan obat atau</li>
+<ul><li>question: Apakah perawat medis Joy of Care berwenang memberikan suntikan obat atau</li>
+</ul>
     memasang infus di rumah?
   answer: Ya, perawat medis bersertifikasi STR berwenang melakukan terapi injeksi
     dan pemasangan infus selama tindakan tersebut didasarkan pada instruksi resep
     tertulis dari dokter yang merawat.
-<li>question: Bagaimana sistem garansi penggantian perawat di Joy of Care jika terjadi</li>
+<ul><li>question: Bagaimana sistem garansi penggantian perawat di Joy of Care jika terjadi</li>
+</ul>
     ketidakcocokan?
   answer: Joy of Care menyediakan fasilitas garansi penukaran perawat hingga 3 kali
     dalam masa kontrak aktif tanpa pungutan biaya administrasi tambahan, demi menjamin
     kepuasan dan kenyamanan psikologis keluarga.
 internal_links:
-<li>anchor: Layanan Perawat Lansia Homecare Joy of Care</li>
+<ul><li>anchor: Layanan Perawat Lansia Homecare Joy of Care</li>
+</ul>
   url: /layanan/perawat-homecare
-<li>anchor: Panduan Lengkap Perawat Lansia di Rumah Jabodetabek</li>
+<ul><li>anchor: Panduan Lengkap Perawat Lansia di Rumah Jabodetabek</li>
+</ul>
   url: /blog/perawat-lansia-di-rumah-jabodetabek-panduan-lengkap
-<li>anchor: Layanan Panggil Dokter ke Rumah</li>
+<ul><li>anchor: Layanan Panggil Dokter ke Rumah</li>
+</ul>
   url: /layanan/panggil-dokter
-<li>anchor: Layanan Fisioterapi di Rumah</li>
+<ul><li>anchor: Layanan Fisioterapi di Rumah</li>
+</ul>
   url: /layanan/fisioterapi
 cta_text: Konsultasi Dokter Gratis via WhatsApp via WhatsApp Joy of Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
 clinical_references:
-<li>Kementerian Kesehatan RI - Tanya Jawab Seputar Pelayanan Keperawatan Rumah Tangga</li>
+<ul><li>Kementerian Kesehatan RI - Tanya Jawab Seputar Pelayanan Keperawatan Rumah Tangga</li>
+</ul>
   (Home Nursing)
-<li>World Institute on Aging - Family Caregiver FAQs and Ethics</li>
+<ul><li>World Institute on Aging - Family Caregiver FAQs and Ethics</li>
 <li>Dewan Pertimbangan Persatuan Perawat Nasional Indonesia (PPNI)</li>
+</ul>
 ---
 
 <h1>FAQ Lengkap Perawat Lansia di Rumah Jabodetabek: Semua yang Wajib Anda Ketahui Sebelum Menyewa</h1>
@@ -67,27 +78,35 @@ Menyewa jasa tenaga kesehatan untuk tinggal bersama orang tua di rumah sering ka
 Berikut adalah jawaban mendalam dari tim praktisi klinis geriatri Joy of Care untuk menjawab keraguan keluarga:
 
 <h3>1. Seputar Kualifikasi dan Legalitas Tenaga Perawat</h3>
-<li><strong>Tanya: Bagaimana cara membuktikan bahwa perawat medis yang dikirim benar-benar lulusan keperawatan resmi?</strong></li>
+<ul><li><strong>Tanya: Bagaimana cara membuktikan bahwa perawat medis yang dikirim benar-benar lulusan keperawatan resmi?</strong></li>
+</ul>
   <em> </em>Jawab*: Joy of Care selalu melampirkan profil lengkap tenaga perawat sebelum penempatan. Profil ini mencakup fotokopi ijazah resmi D3/S1 Keperawatan, bukti Surat Tanda Registrasi (STR) aktif yang dapat diverifikasi secara daring di portal KTKI Kemenkes RI, Surat Keterangan Catatan Kepolisian (SKCK), serta hasil skrining kesehatan bebas penyakit infeksi menular.
-<li><strong>Tanya: Apakah caregiver yang bukan sarjana keperawatan aman untuk mendampingi orang tua?</strong></li>
+<ul><li><strong>Tanya: Apakah caregiver yang bukan sarjana keperawatan aman untuk mendampingi orang tua?</strong></li>
+</ul>
   <em> </em>Jawab*: Sangat aman, asalkan kondisi lansia hanya membutuhkan bantuan aktivitas fisik harian (ADL) seperti memandikan, menyuapi makanan, membantu mobilisasi, dan menemani beraktivitas. Caregiver Joy of Care telah melalui pelatihan intensif teknik transfer pasien, stimulasi kognitif, dan etika komunikasi geriatri.
 
 <h3>2. Seputar Ruang Lingkup Pekerjaan (Job Description)</h3>
-<li><strong>Tanya: Apakah perawat lansia boleh diminta membersihkan seluruh rumah atau memasak untuk keluarga besar?</strong></li>
+<ul><li><strong>Tanya: Apakah perawat lansia boleh diminta membersihkan seluruh rumah atau memasak untuk keluarga besar?</strong></li>
+</ul>
   <em> </em>Jawab*: Tidak diperbolehkan. Ruang lingkup kebersihan perawat dibatasi secara ketat pada area kamar tidur pasien lansia, merapikan ranjang pasien, mencuci pakaian pribadi lansia, dan mencuci peralatan makan lansia. Mengalihkan perawat untuk melakukan pekerjaan rumah tangga umum dapat membahayakan keselamatan lansia karena pengawasan medis menjadi terabaikan.
-<li><strong>Tanya: Tindakan apa saja yang dicatat perawat dalam laporan harian?</strong></li>
+<ul><li><strong>Tanya: Tindakan apa saja yang dicatat perawat dalam laporan harian?</strong></li>
+</ul>
   <em> </em>Jawab*: Setiap hari perawat mencatat tanda-tanda vital (tensi, nadi, suhu tubuh, saturasi SpO2), jam dan dosis pemberian obat, jenis serta volume asupan makanan dan minuman, eliminasi urine dan feses, keluhan nyeri atau perubahan suasana hati pasien, serta tindakan perawatan luka jika ada.
 
 <h3>3. Seputar Fasilitas, Hak Istirahat, dan Cuti</h3>
-<li><strong>Tanya: Bagaimana pengaturan jam tidur dan istirahat untuk perawat menginap (live-in 24 jam)?</strong></li>
+<ul><li><strong>Tanya: Bagaimana pengaturan jam tidur dan istirahat untuk perawat menginap (live-in 24 jam)?</strong></li>
+</ul>
   <em> </em>Jawab<em>: Meskipun bersiaga 24 jam, perawat adalah manusia yang membutuhkan pemulihan energi fisiologis. Keluarga wajib memberikan waktu tidur malam minimal 7–8 jam di kamar yang layak berpintu. Jika perawat harus terbangun di malam hari untuk merawat lansia, perawat berhak mendapatkan waktu tidur pengganti di siang hari agar tetap fokus dan terhindar dari kelalaian medis (</em>medical error*).
-<li><strong>Tanya: Bagaimana pengaturan cuti perawat bulanan?</strong></li>
+<ul><li><strong>Tanya: Bagaimana pengaturan cuti perawat bulanan?</strong></li>
+</ul>
   <em> </em>Jawab<em>: Standar kontrak bulanan perawat live-in mencakup hak cuti 2 hari setiap bulannya. Jika keluarga meminta perawat untuk tidak mengambil cuti karena tidak ada yang menggantikan di rumah, keluarga dapat memberikan uang pengganti cuti (</em>infield allowance*) sesuai kesepakatan resmi.
 
 <h3>4. Seputar Penanganan Darurat dan Garansi</h3>
-<li><strong>Tanya: Apa yang dilakukan perawat jika kondisi orang tua mendadak kritis di rumah?</strong></li>
+<ul><li><strong>Tanya: Apa yang dilakukan perawat jika kondisi orang tua mendadak kritis di rumah?</strong></li>
+</ul>
   <em> </em>Jawab*: Perawat Joy of Care dilatih dalam protokol bantuan hidup dasar (Basic Life Support / BLS). Perawat akan segera memposisikan pasien secara aman, melonggarkan jalan napas, memberikan bantuan oksigen darurat, menghubungi ambulans/keluarga, serta berkoordinasi langsung dengan dokter supervisor Joy of Care untuk tindakan stabilisasi awal.
-<li><strong>Tanya: Apakah ada jaminan garansi jika orang tua saya merasa tidak cocok dengan karakter perawat?</strong></li>
+<ul><li><strong>Tanya: Apakah ada jaminan garansi jika orang tua saya merasa tidak cocok dengan karakter perawat?</strong></li>
+</ul>
   <em> </em>Jawab*: Tentu saja. Joy of Care memberikan fasilitas garansi penukaran perawat hingga 3 kali selama periode kontrak berjalan tanpa dikenakan biaya administrasi tambahan.
 
 ---
@@ -108,9 +127,10 @@ Berikut adalah jawaban mendalam dari tim praktisi klinis geriatri Joy of Care un
 <h2>Sinergi Layanan Medis Homecare untuk Hasil Terbaik</h2>
 
 Untuk mewujudkan pemulihan dan kualitas hidup lansia yang optimal, perawatan perawat di rumah idealnya dikombinasikan secara terencana dengan disiplin medis lainnya:
-<li>Jadwalkan pemeriksaan dan evaluasi resep obat berkala melalui [Layanan Panggil Dokter ke Rumah](/layanan/panggil-dokter).</li>
+<ul><li>Jadwalkan pemeriksaan dan evaluasi resep obat berkala melalui [Layanan Panggil Dokter ke Rumah](/layanan/panggil-dokter).</li>
 <li>Pulihkan mobilitas berjalan dan kelenturan sendi orang tua bersama [Layanan Fisioterapi di Rumah](/layanan/fisioterapi).</li>
 <li>Pelajari standar perawatan geriatri selengkapnya di [Panduan Lengkap Perawat Lansia di Rumah Jabodetabek](/blog/perawat-lansia-di-rumah-jabodetabek-panduan-lengkap).</li>
+</ul>
 
 ---
 

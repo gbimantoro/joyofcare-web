@@ -6,55 +6,66 @@ meta_description: 'Tanya jawab lengkap seputar layanan panggil dokter umum ke ru
   di Tangerang: wilayah jangkau, resep obat, & tarif. Chat Joy of Care di WA 08811-118-911!'
 primary_keyword: faq dokter umum ke rumah tangerang
 secondary_keywords:
-<li>pertanyaan seputar visit dokter bsd tangsel</li>
+<ul><li>pertanyaan seputar visit dokter bsd tangsel</li>
 <li>apakah dokter homecare bisa terbitkan resep</li>
 <li>alat medis yang dibawa dokter ke rumah</li>
 <li>jam operasional dokter panggilan tangerang</li>
+</ul>
 variation_type: yang-perlu-anda-ketahui
 faq:
-<li>question: Alat medis apa saja yang dibawa oleh dokter umum Joy of Care saat melakukan</li>
+<ul><li>question: Alat medis apa saja yang dibawa oleh dokter umum Joy of Care saat melakukan</li>
+</ul>
     kunjungan ke rumah di Tangerang?
   answer: 'Dokter kami membawa tas perlengkapan medis lengkap berstandar klinik primer:
     stetoskop, tensimeter digital terkalibrasi, pulse oximeter (pengukur saturasi
     oksigen), termometer inframerah, glukometer darah instan, otoskop (pemeriksa telinga),
     penlight diagnostik, alat tes urin celup cepat, torniket, set minor wound dressing
     steril, serta obat-obatan emergensi lini pertama.'
-<li>question: Apakah dokter umum ke rumah dapat melakukan pemasangan atau penggantian</li>
+<ul><li>question: Apakah dokter umum ke rumah dapat melakukan pemasangan atau penggantian</li>
+</ul>
     kateter urin dan selang makan (NGT)?
   answer: Bisa. Dokter umum atau perawat medis pendamping Joy of Care memiliki kompetensi
     klinis resmi untuk melakukan prosedur pemasangan baru maupun penggantian berkala
     kateter urin foley dan selang nasogastrik (NGT) dengan teknik steril langsung
     di atas tempat tidur pasien.
-<li>question: Apakah layanan dokter panggilan ke rumah ini beroperasi 24 jam sehari</li>
+<ul><li>question: Apakah layanan dokter panggilan ke rumah ini beroperasi 24 jam sehari</li>
+</ul>
     di wilayah Tangerang?
   answer: Joy of Care melayani kunjungan terjadwal maupun panggilan on-demand setiap
     hari mulai pukul 07.00 pagi hingga pukul 22.00 malam. Untuk reservasi dan konsultasi
     darurat di luar jam operasional, customer care WhatsApp kami tetap aktif merespons
     kebutuhan triase Anda.
-<li>question: Bagaimana bila kondisi pasien ternyata membutuhkan tindakan rontgen dada</li>
+<ul><li>question: Bagaimana bila kondisi pasien ternyata membutuhkan tindakan rontgen dada</li>
+</ul>
     atau rawat inap di rumah sakit?
   answer: Dokter visit kami akan menerbitkan surat rujukan medis resmi dengan mencantumkan
     resume hasil pemeriksaan fisik dan temuan klinis, membantu mengarahkan keluarga
     ke rumah sakit rekanan terdekat yang memiliki fasilitas radiologi lengkap, serta
     membantu koordinasi transfer medis pasien.
 internal_links:
-<li>anchor: Layanan Panggil Dokter ke Rumah Joy of Care</li>
+<ul><li>anchor: Layanan Panggil Dokter ke Rumah Joy of Care</li>
+</ul>
   url: /layanan/panggil-dokter
-<li>anchor: Layanan Perawat Medis Homecare</li>
+<ul><li>anchor: Layanan Perawat Medis Homecare</li>
+</ul>
   url: /layanan/perawat-homecare
-<li>anchor: Layanan Cek Lab Darah di Rumah</li>
+<ul><li>anchor: Layanan Cek Lab Darah di Rumah</li>
+</ul>
   url: /layanan/cek-lab-di-rumah
-<li>anchor: Layanan Fisioterapi di Rumah</li>
+<ul><li>anchor: Layanan Fisioterapi di Rumah</li>
+</ul>
   url: /layanan/fisioterapi-di-rumah
 cta_text: Hubungi WhatsApp JoC untuk informasi harga Tangsel langsung via WhatsApp
   Joy of Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
 clinical_references:
-<li>Ministry of Health Republic of Indonesia - Standar Kompetensi Dokter Indonesia (SKDI)</li>
+<ul><li>Ministry of Health Republic of Indonesia - Standar Kompetensi Dokter Indonesia (SKDI)</li>
 <li>Konsil Kedokteran Indonesia (KKI) - Registrasi dan Regulasi Izin Praktik Dokter</li>
+</ul>
   Kunjungan Mandiri
-<li>World Organization of Family Doctors (WONCA) - Guidelines for Home Care by Family</li>
+<ul><li>World Organization of Family Doctors (WONCA) - Guidelines for Home Care by Family</li>
+</ul>
   Physicians
 ---
 
@@ -79,19 +90,21 @@ Berikut adalah tanya jawab mengenai apa saja yang bisa dan tidak bisa dilakukan 
 
 <h3>2. Tindakan medis apa saja yang dapat dilakukan dokter umum langsung di tempat tidur pasien?</h3>
 <strong>Jawab</strong>: Dokter umum Joy of Care dibekali keterampilan dan peralatan steril untuk melakukan:
-<li>Pemeriksaan fisik diagnostik menyeluruh (jantung, paru-paru, perut, saraf tepi, telinga-hidung-tenggorokan).</li>
+<ul><li>Pemeriksaan fisik diagnostik menyeluruh (jantung, paru-paru, perut, saraf tepi, telinga-hidung-tenggorokan).</li>
 <li>Terapi inhalasi nebulizer untuk meredakan sesak napas asma atau bronkitis akut.</li>
 <li>Penjahitan luka robek sederhana (<em>hecting</em>) dan debridement luka terbuka.</li>
 <li>Penggantian selang makan <em>Nasogastric Tube</em> (NGT) dan selang kateter urine foley.</li>
 <li>Injeksi obat pereda nyeri, antialergi, antiemetik (anti-mual), atau terapi cairan infus hidrasi awal.</li>
+</ul>
 Bila pasien memerlukan perawatan pascatindakan jangka panjang, keluarga dapat menghubungkannya dengan [Layanan Perawat Medis Homecare](/layanan/perawat-homecare).
 
 <h3>3. Apa yang TIDAK BISA ditangani oleh layanan dokter visit ke rumah?</h3>
 <strong>Jawab</strong>: Layanan kunjungan rumah bukan pengganti Instalasi Gawat Darurat (IGD) untuk kondisi kritis yang mengancam nyawa seketika (<em>life-threatening emergencies</em>), seperti:
-<li>Pasien tidak sadarkan diri atau koma mendadak.</li>
+<ul><li>Pasien tidak sadarkan diri atau koma mendadak.</li>
 <li>Serangan henti napas atau henti jantung.</li>
 <li>Gejala stroke hiperakut dalam rentang <em>golden period</em> kurang dari 3 jam (membutuhkan CT Scan kepala segera di RS).</li>
 <li>Fraktur patah tulang terbuka dengan perdarahan masif yang membutuhkan ruang operasi bedah ortopedi.</li>
+</ul>
 
 ---
 
@@ -104,8 +117,9 @@ Aspek teknis pemeriksaan dan pengadaan obat sering ditanyakan oleh keluarga:
 
 <h3>5. Bagaimana proses mendapatkan obat yang diresepkan oleh dokter?</h3>
 <strong>Jawab</strong>: Dokter akan menuliskan lembar resep resmi lengkap dengan nomor SIP dokter. Pasien memiliki kebebasan penuh:
-<li>Menebusnya sendiri di apotek terdekat (seperti Kimia Farma, Century, Guardian, atau K-24).</li>
+<ul><li>Menebusnya sendiri di apotek terdekat (seperti Kimia Farma, Century, Guardian, atau K-24).</li>
 <li>Menggunakan layanan pesan antar Joy of Care, di mana staf kami akan memproses resep ke apotek mitra dan mengirimkannya via kurir instan langsung ke rumah Anda dalam tempo 30–60 menit.</li>
+</ul>
 
 ---
 

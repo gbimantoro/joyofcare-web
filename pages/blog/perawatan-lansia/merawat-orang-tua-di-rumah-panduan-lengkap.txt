@@ -7,48 +7,58 @@ meta_description: 'Panduan lengkap merawat orang tua di rumah: nutrisi, pencegah
   juga!'
 primary_keyword: merawat orang tua di rumah panduan
 secondary_keywords:
-<li>cara merawat lansia di rumah</li>
+<ul><li>cara merawat lansia di rumah</li>
 <li>panduan caregiver keluarga lansia</li>
 <li>perawatan geriatri mandiri di rumah</li>
 <li>kebutuhan medis orang tua lansia</li>
+</ul>
 variation_type: panduan-lengkap
 faq:
-<li>question: Apa saja pilar utama dalam merawat orang tua lanjut usia di rumah?</li>
+<ul><li>question: Apa saja pilar utama dalam merawat orang tua lanjut usia di rumah?</li>
+</ul>
   answer: Empat pilar utama meliputi pemenuhan nutrisi padat gizi dan hidrasi adekuat,
     modifikasi lingkungan rumah bebas risiko jatuh, manajemen kepatuhan obat teratur,
     serta stimulasi fisik dan kognitif harian.
-<li>question: Bagaimana cara mencegah luka baring (dekubitus) pada orang tua yang tirah</li>
+<ul><li>question: Bagaimana cara mencegah luka baring (dekubitus) pada orang tua yang tirah</li>
+</ul>
     baring di rumah?
   answer: Lakukan miring kanan dan miring kiri secara bergantian setiap 2 jam sekali,
     gunakan kasur angin anti-dekubitus (air mattress), jaga kulit tetap bersih dan
     kering, serta gunakan pelembap khusus kulit geriatri.
-<li>question: Kapan keluarga sebaiknya memanggil dokter untuk memeriksa orang tua di</li>
+<ul><li>question: Kapan keluarga sebaiknya memanggil dokter untuk memeriksa orang tua di</li>
+</ul>
     rumah?
   answer: Segera panggil dokter jika orang tua mengalami penurunan nafsu makan drastis,
     mendadak tampak bingung atau mengigau (delirium), sesak napas, demam, atau jika
     ada luka yang tidak kunjung sembuh.
-<li>question: Bagaimana cara menjaga kesehatan mental caregiver yang merawat orang tua</li>
+<ul><li>question: Bagaimana cara menjaga kesehatan mental caregiver yang merawat orang tua</li>
+</ul>
     setiap hari?
   answer: Bagi tugas perawatan antar-anggota keluarga, luangkan waktu untuk istirahat
     pribadi (respite care), dan jangan ragu menggunakan bantuan perawat homecare profesional
     untuk mendampingi lansia.
 internal_links:
-<li>anchor: Layanan Perawat Lansia Homecare Joy of Care</li>
+<ul><li>anchor: Layanan Perawat Lansia Homecare Joy of Care</li>
+</ul>
   url: /layanan/perawat-homecare
-<li>anchor: Layanan Panggil Dokter ke Rumah</li>
+<ul><li>anchor: Layanan Panggil Dokter ke Rumah</li>
+</ul>
   url: /layanan/panggil-dokter
-<li>anchor: Layanan Fisioterapi di Rumah</li>
+<ul><li>anchor: Layanan Fisioterapi di Rumah</li>
+</ul>
   url: /layanan/fisioterapi
-<li>anchor: Layanan Cek Lab Darah di Rumah</li>
+<ul><li>anchor: Layanan Cek Lab Darah di Rumah</li>
+</ul>
   url: /layanan/cek-lab-di-rumah
 cta_text: Hubungi WhatsApp JoC untuk informasi harga langsung via WhatsApp Joy of
   Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
 clinical_references:
-<li>World Health Organization (WHO) - Integrated Care for Older People (ICOPE) Guidelines</li>
+<ul><li>World Health Organization (WHO) - Integrated Care for Older People (ICOPE) Guidelines</li>
 <li>Perhimpunan Gerontologi Medik Indonesia (PERGEMI) - Konsensus Pelayanan Geriatri</li>
 <li>American Geriatrics Society (AGS) - Home-Based Frailty Management</li>
+</ul>
 ---
 
 <h1>Panduan Lengkap Merawat Orang Tua di Rumah: Nutrisi, Keamanan Lingkungan, dan Pendampingan Medis</h1>
@@ -69,27 +79,31 @@ Agar orang tua tetap sehat, aman, dan berdaya di rumah, keluarga perlu menerapka
 
 <h3>1. Manajemen Nutrisi dan Hidrasi yang Tepat</h3>
 Penuaan menyebabkan penurunan sensitivitas rasa kecap, berkurangnya asam lambung, dan keterlambatan pengosongan usus. Terapkan strategi berikut:
-<li><strong>Target Asupan Protein Mencegah Sarkopenia</strong>: Berikan 1,2–1,5 gram protein per kilogram berat badan setiap hari (seperti ikan kembung, telur rebus, tahu, tempe, dan daging ayam cincang) untuk menjaga massa otot tungkai.</li>
+<ul><li><strong>Target Asupan Protein Mencegah Sarkopenia</strong>: Berikan 1,2–1,5 gram protein per kilogram berat badan setiap hari (seperti ikan kembung, telur rebus, tahu, tempe, dan daging ayam cincang) untuk menjaga massa otot tungkai.</li>
 <li><strong>Cegah Dehidrasi Tersembunyi</strong>: Lansia sering kehilangan rasa haus. Sediakan air putih hangat minimal 1,5 liter per hari dalam botol ukur untuk memantau asupan cairan. Dehidrasi pada lansia adalah pemicu utama kebingungan mendadak (<em>delirium</em>) dan infeksi saluran kemih.</li>
 <li><strong>Serat Alami dan Probiotik</strong>: Berikan buah pepaya matang, pisang ambon, dan sayuran labu siam untuk mencegah konstipasi kronis.</li>
+</ul>
 
 <h3>2. Modifikasi Lingkungan Hunian Bebas Bahaya Jatuh</h3>
 Sekitar sepertiga lansia di atas usia 65 tahun mengalami insiden jatuh setidaknya sekali setiap tahun:
-<li>Singkirkan semua keset kain licin dan karpet lipat dari jalur jalan orang tua.</li>
+<ul><li>Singkirkan semua keset kain licin dan karpet lipat dari jalur jalan orang tua.</li>
 <li>Pasang pegangan besi kokoh (<em>grab bars</em>) di dinding kamar mandi di samping kloset duduk dan area shower.</li>
 <li>Pasang lampu malam sensor gerak di sepanjang lorong antara tempat tidur dan toilet.</li>
 <li>Pastikan lantai kamar mandi selalu kering dan gunakan alas karet anti-selip (<em>anti-slip mat</em>).</li>
+</ul>
 
 <h3>3. Pengawasan Obat Rutin & Pencegahan Polifarmasi</h3>
 Banyak orang tua lansia mengonsumsi 5 hingga 8 macam obat resep setiap hari untuk hipertensi, diabetes, jantung, dan kolesterol:
-<li>Gunakan kotak obat harian terbagi (<em>pill organizer 7-day</em>) dengan sekat pagi, siang, sore, dan malam yang diberi label jelas.</li>
+<ul><li>Gunakan kotak obat harian terbagi (<em>pill organizer 7-day</em>) dengan sekat pagi, siang, sore, dan malam yang diberi label jelas.</li>
 <li>Simpan daftar riwayat obat lengkap dan konsultasikan secara berkala dengan dokter. Kunjungan rutin dari [layanan panggil dokter ke rumah](/layanan/panggil-dokter) sangat bermanfaat untuk mengevaluasi interaksi antar-obat dan menyederhanakan dosis.</li>
 <li>Lakukan pemeriksaan laboratorium penunjang berkala (seperti fungsi ginjal ureum-kreatinin dan HbA1c) tanpa stres bepergian via [layanan cek lab darah di rumah](/layanan/cek-lab-di-rumah).</li>
+</ul>
 
 <h3>4. Stimulasi Mobilitas Fisik dan Kesehatan Kognitif</h3>
-<li>Ajak orang tua berjalan kaki santai di halaman rumah atau berjemur matahari pagi selama 15–20 menit untuk memicu sintesis vitamin D3 alami.</li>
+<ul><li>Ajak orang tua berjalan kaki santai di halaman rumah atau berjemur matahari pagi selama 15–20 menit untuk memicu sintesis vitamin D3 alami.</li>
 <li>Untuk lansia dengan kekakuan sendi atau riwayat stroke, latihan gerak terarah bersama [Layanan Fisioterapi di Rumah](/layanan/fisioterapi) membantu melatih keseimbangan dan mencegah kekakuan kontraktur.</li>
 <li>Latih fungsi memori dengan mengajak orang tua mengobrol mengenai kenangan masa lalu (<em>reminiscence therapy</em>), bermain tebak kata, atau mendengarkan lagu-lagu nostalgia.</li>
+</ul>
 
 ---
 

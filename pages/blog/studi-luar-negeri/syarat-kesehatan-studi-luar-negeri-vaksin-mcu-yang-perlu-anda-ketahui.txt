@@ -6,57 +6,69 @@ meta_description: 'Jawaban lengkap pertanyaan syarat kesehatan studi luar negeri
   visa ditolak, vaksin hilang, & tes TBC. Konsultasi via WhatsApp Joy of Care 08811-118-911!'
 primary_keyword: faq syarat kesehatan untuk studi ke luar negeri
 secondary_keywords:
-<li>apakah riwayat flek paru menggagalkan visa pelajar</li>
+<ul><li>apakah riwayat flek paru menggagalkan visa pelajar</li>
 <li>tanya jawab medical examination form universitas</li>
 <li>legalitas surat dokter indonesia untuk kampus luar</li>
 <li>tes darah quantiferon tb untuk visa</li>
+</ul>
 variation_type: yang-perlu-anda-ketahui
 faq:
-<li>question: Apakah riwayat pernah menderita sakit flek paru-paru (TBC) di masa kecil</li>
+<ul><li>question: Apakah riwayat pernah menderita sakit flek paru-paru (TBC) di masa kecil</li>
+</ul>
     dapat menggagalkan permohonan visa pelajar ke luar negeri?
   answer: Sama sekali tidak menggagalkan, asalkan pengobatan telah tuntas dan penyakit
     tersebut sudah tidak aktif. Bekas luka parut (<em>fibrotik</em>) di paru-paru akan terlihat
     pada rontgen, namun dokter panel imigrasi hanya akan meminta tes dahak lanjutan
     (<em>sputum culture</em>) untuk membuktikan bahwa tidak ada bakteri aktif yang menular,
     setelah itu visa akan tetap disetujui.
-<li>question: Apa yang harus dilakukan bila calon mahasiswa memiliki penyakit kronis</li>
+<ul><li>question: Apa yang harus dilakukan bila calon mahasiswa memiliki penyakit kronis</li>
+</ul>
     seperti diabetes tipe 1 atau asma saat mengajukan visa?
   answer: Kondisi kronis yang terkontrol dengan baik tidak akan menggagalkan visa
     pelajar. Mahasiswa cukup melampirkan surat keterangan resmi dari dokter spesialis
     (<em>specialist medical report</em>) yang menerangkan bahwa penyakit dalam kondisi stabil,
     mandiri dalam pengobatan harian, dan tidak memerlukan biaya rawat inap yang membebani
     sistem publik negara tujuan.
-<li>question: Apakah hasil rontgen dada wanita hamil aman dilakukan saat pemeriksaan</li>
+<ul><li>question: Apakah hasil rontgen dada wanita hamil aman dilakukan saat pemeriksaan</li>
+</ul>
     visa pelajar?
   answer: 'Wanita hamil memiliki hak medis khusus: pemeriksaan rontgen dada dapat
     ditunda hingga setelah persalinan dengan mengajukan penangguhan medis visa, atau
     bila mendesak, rontgen dapat dilakukan dengan perlindungan pelindung timbal ganda
     (<em>double lead-shield aprons</em>) khusus di atas perut untuk melindungi janin.'
-<li>question: Bagaimana cara Joy of Care membantu mahasiswa yang membutuhkan hasil tes</li>
+<ul><li>question: Bagaimana cara Joy of Care membantu mahasiswa yang membutuhkan hasil tes</li>
+</ul>
     laboratorium darurat menjelang deadline visa?
   answer: 'Joy of Care menyediakan layanan ''Fast-Track Student Home Lab'': sampel
     darah dan urin diambil di rumah pagi hari, diproses dengan prioritas cito di laboratorium
     terakreditasi, dan hasil tes resmi berbahasa Inggris diterbitkan pada sore atau
     malam hari di hari yang sama.'
 internal_links:
-<li>anchor: Layanan Cek Lab Darah di Rumah Joy of Care</li>
+<ul><li>anchor: Layanan Cek Lab Darah di Rumah Joy of Care</li>
+</ul>
   url: /layanan/cek-lab-di-rumah
-<li>anchor: Layanan Vaksinasi di Rumah</li>
+<ul><li>anchor: Layanan Vaksinasi di Rumah</li>
+</ul>
   url: /layanan/vaksinasi-di-rumah
-<li>anchor: Layanan Panggil Dokter ke Rumah Jakarta</li>
+<ul><li>anchor: Layanan Panggil Dokter ke Rumah Jakarta</li>
+</ul>
   url: /layanan/panggil-dokter
-<li>anchor: Layanan Perawat Medis Homecare</li>
+<ul><li>anchor: Layanan Perawat Medis Homecare</li>
+</ul>
   url: /layanan/perawat-homecare
 cta_text: Hubungi WhatsApp JoC untuk informasi harga negeri langsung via WhatsApp
   Joy of Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
 clinical_references:
-<li>World Health Organization (WHO) - Global Tuberculosis Report and International Student</li>
+<ul><li>World Health Organization (WHO) - Global Tuberculosis Report and International Student</li>
+</ul>
   Screening Protocols
-<li>Centers for Disease Control and Prevention (CDC) - Vaccination Documentation Requirements</li>
+<ul><li>Centers for Disease Control and Prevention (CDC) - Vaccination Documentation Requirements</li>
+</ul>
   for Immigrants and Students
-<li>Australian Department of Home Affairs - Significant Health Conditions and Medical</li>
+<ul><li>Australian Department of Home Affairs - Significant Health Conditions and Medical</li>
+</ul>
   Waivers
 ---
 
@@ -78,9 +90,10 @@ Pemeriksaan rontgen dada (<em>chest X-ray</em>) adalah hal yang paling sering me
 
 <h3>1. Apa yang terjadi jika hasil foto rontgen dada saya menunjukkan adanya garis bekas flek paru (<em>fibrosis/kalsifikasi</em>)?</h3>
 <strong>Jawab</strong>: Jangan panik. Adanya jaringan parut fibrotik (<em>scarring</em>) pada paru-paru adalah hal yang sangat lazim ditemukan pada masyarakat yang tinggal di negara berkembang seperti Indonesia, sering kali akibat infeksi saluran napas masa kecil yang telah sembuh sempurna:
-<li>Dokter panel kedutaan tidak akan langsung menolak visa Anda.</li>
+<ul><li>Dokter panel kedutaan tidak akan langsung menolak visa Anda.</li>
 <li>Sesuai protokol Organisasi Kesehatan Dunia (WHO) dan <em>Centers for Disease Control and Prevention</em> (CDC), Anda akan diminta menjalani pemeriksaan uji dahak (<em>Sputum Smear and Culture</em>) selama 3 hari berturut-turut untuk memeriksa ada tidaknya kuman <em>Mycobacterium tuberculosis</em> hidup.</li>
 <li>Jika hasil biakan kultur dahak setelah 6–8 minggu dinyatakan negatif (tidak ada kuman hidup), dokter panel akan menerbitkan surat <em>medical clearance</em> dan visa pelajar Anda akan disetujui secara normal.</li>
+</ul>
 
 <h3>2. Apakah tes darah IGRA (<em>QuantiFERON-TB</em>) bisa menggantikan pemeriksaan rontgen dada?</h3>
 <strong>Jawab</strong>: Untuk pengajuan visa imigrasi resmi (seperti Australia atau UK), rontgen dada tetap merupakan prosedur standar wajib yang tidak dapat digantikan oleh tes darah. Namun, untuk formulir registrasi kesehatan internal universitas di Amerika Serikat, tes darah IGRA (<em>Interferon-Gamma Release Assay</em> seperti QuantiFERON-TB Gold) justru merupakan pilihan utama yang sangat disukai pihak kampus karena memiliki spesifisitas tinggi dan tidak dipengaruhi oleh riwayat vaksinasi BCG masa kecil. Anda dapat melakukan tes IGRA ini langsung di rumah melalui [Layanan Cek Lab Darah di Rumah Joy of Care](/layanan/cek-lab-di-rumah).
@@ -93,8 +106,9 @@ Aspek kelengkapan buku vaksinasi masa lampau sering kali menjadi kendala praktis
 
 <h3>3. Bagaimana jika buku imunisasi bayi atau catatan KMS masa kecil saya hilang total?</h3>
 <strong>Jawab</strong>: Ini adalah kasus yang dialami oleh lebih dari 60% mahasiswa internasional asal Indonesia. Anda memiliki 2 opsi solusi medis resmi:
-<li><strong>Pemeriksaan Titer Antibodi Darah (Serologi IgG)</strong>: Petugas analis lab Joy of Care mengambil darah Anda untuk menguji keberadaan antibodi terhadap Campak (<em>Measles</em>), Gondongan (<em>Mumps</em>), Rubela, Cacar Air (<em>Varicella</em>), dan Hepatitis B. Hasil laboratorium positif diakui secara sah oleh seluruh universitas dunia sebagai bukti kekebalan permanen.</li>
+<ul><li><strong>Pemeriksaan Titer Antibodi Darah (Serologi IgG)</strong>: Petugas analis lab Joy of Care mengambil darah Anda untuk menguji keberadaan antibodi terhadap Campak (<em>Measles</em>), Gondongan (<em>Mumps</em>), Rubela, Cacar Air (<em>Varicella</em>), dan Hepatitis B. Hasil laboratorium positif diakui secara sah oleh seluruh universitas dunia sebagai bukti kekebalan permanen.</li>
 <li><em></em>Imunisasi Ulang (<em>Catch-up Vaccination</em>)<em></em>: Untuk vaksin yang hasil titernya negatif atau vaksin yang wajib dosis terkini (seperti Meningitis MenACWY dan Tdap), Anda dapat langsung menerima penyuntikan vaksin baru melalui [Layanan Vaksinasi di Rumah](/layanan/vaksinasi-di-rumah) Joy of Care. Memberikan vaksin ulang pada orang dewasa yang sudah memiliki antibodi terbukti secara klinis sangat aman dan hanya bertindak sebagai penguat (<em>booster</em>).</li>
+</ul>
 
 <h3>4. Apakah universitas di luar negeri menerima formulir imunisasi yang diisi oleh dokter umum biasa di Indonesia?</h3>
 <strong>Jawab</strong>: Ya, 100% diterima. Pihak universitas internasional hanya mensyaratkan bahwa tenaga medis yang mengisi dan menandatangani formulir adalah seorang dokter medis berlisensi (<em>licensed medical doctor / physician</em>). Dokter Joy of Care mencantumkan nomor Surat Izin Praktik (SIP) resmi dari Dinas Kesehatan serta stempel institusi klinik Joy of Care yang diakui secara internasional.

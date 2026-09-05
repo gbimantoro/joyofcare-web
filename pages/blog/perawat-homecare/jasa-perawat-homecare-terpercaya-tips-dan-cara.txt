@@ -7,50 +7,61 @@ meta_description: Langkah mudah memverifikasi keaslian STR perawat homecare di s
   sekarang!
 primary_keyword: cara verifikasi sertifikasi perawat homecare
 secondary_keywords:
-<li>cara cek str perawat online kemenkes</li>
+<ul><li>cara cek str perawat online kemenkes</li>
 <li>membedakan perawat asli dan perawat palsu</li>
 <li>verifikasi ijazah perawat homecare</li>
 <li>keabsahan surat tanda registrasi ners</li>
+</ul>
 variation_type: tips-dan-cara
 faq:
-<li>question: Bagaimana cara mengecek keaslian Surat Tanda Registrasi (STR) perawat</li>
+<ul><li>question: Bagaimana cara mengecek keaslian Surat Tanda Registrasi (STR) perawat</li>
+</ul>
     secara daring?
   answer: Buka laman resmi SatuSehat SDMK Kemenkes RI (ktki.kemkes.go.id), masukkan
     nomor STR atau Nomor Induk Kependudukan (NIK) perawat, dan sistem akan menampilkan
     nama lengkap, institusi pendidikan, masa berlaku, dan status keaktifan registrasi
     tenaga kesehatan tersebut.
-<li>question: Apa bahaya terbesar mempekerjakan perawat dengan STR palsu di rumah?</li>
+<ul><li>question: Apa bahaya terbesar mempekerjakan perawat dengan STR palsu di rumah?</li>
+</ul>
   answer: Perawat palsu tidak menguasai prinsip sterilisasi dan anatomi tubuh. Kesalahan
     saat memasang selang lambung NGT dapat menusuk saluran trakea paru-paru, sedangkan
     kesalahan memasang kateter urine dapat merobek dinding uretra kandung kemih yang
     memicu perdarahan dan syok septik fatal.
-<li>question: Apakah keluarga pasien berhak meminta fotokopi KTP, ijazah, dan STR sebelum</li>
+<ul><li>question: Apakah keluarga pasien berhak meminta fotokopi KTP, ijazah, dan STR sebelum</li>
+</ul>
     perawat mulai bekerja?
   answer: Sangat berhak. Keluarga pasien adalah pihak konsumen penerima jasa medis
     di ruang privat rumah tangga. Agensi penyalur yang profesional dan beretika selalu
     memberikan berkas verifikasi identitas dan STR tersebut secara terbuka.
-<li>question: Bagaimana jika STR perawat terdaftar tetapi masa berlakunya sudah kedaluwarsa?</li>
+<ul><li>question: Bagaimana jika STR perawat terdaftar tetapi masa berlakunya sudah kedaluwarsa?</li>
+</ul>
   answer: Perawat dengan STR kedaluwarsa secara hukum medis kehilangan kewenangan
     untuk melakukan tindakan invasif mandiri. Pastikan perawat yang menangani tindakan
     luka steril, infus, atau selang medis memiliki STR yang berstatus 'Aktif' seumur
     hidup sesuai regulasi UU Kesehatan terbaru.
 internal_links:
-<li>anchor: Layanan Perawat Homecare Medis Joy of Care</li>
+<ul><li>anchor: Layanan Perawat Homecare Medis Joy of Care</li>
+</ul>
   url: /layanan/perawat-homecare
-<li>anchor: Panduan Lengkap Jasa Perawat Homecare Terpercaya</li>
+<ul><li>anchor: Panduan Lengkap Jasa Perawat Homecare Terpercaya</li>
+</ul>
   url: /blog/jasa-perawat-homecare-terpercaya-panduan-lengkap
-<li>anchor: Layanan Panggil Dokter ke Rumah</li>
+<ul><li>anchor: Layanan Panggil Dokter ke Rumah</li>
+</ul>
   url: /layanan/panggil-dokter
-<li>anchor: Layanan Fisioterapi di Rumah</li>
+<ul><li>anchor: Layanan Fisioterapi di Rumah</li>
+</ul>
   url: /layanan/fisioterapi
 cta_text: Hubungi WhatsApp JoC untuk informasi harga via WhatsApp Joy of Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
 clinical_references:
-<li>Kementerian Kesehatan RI - Portal Pengecekan Keabsahan Tenaga Kesehatan Konsil Tenaga</li>
+<ul><li>Kementerian Kesehatan RI - Portal Pengecekan Keabsahan Tenaga Kesehatan Konsil Tenaga</li>
+</ul>
   Kesehatan Indonesia (KTKI)
-<li>Undang-Undang Republik Indonesia Nomor 17 Tahun 2023 tentang Kesehatan</li>
+<ul><li>Undang-Undang Republik Indonesia Nomor 17 Tahun 2023 tentang Kesehatan</li>
 <li>Persatuan Perawat Nasional Indonesia (PPNI) - Pedoman Etik Profesi Keperawatan</li>
+</ul>
 ---
 
 <h1>Cara Memverifikasi Sertifikasi dan Keaslian STR Perawat Homecare di Rumah: Panduan Keamanan Keluarga</h1>
@@ -68,9 +79,10 @@ Menyerahkan tindakan medis di rumah kepada seseorang yang mengaku sebagai perawa
 <h2>Mengapa Verifikasi Sertifikasi Perawat Homecare Begitu Krusial?</h2>
 
 Tindakan keperawatan di rumah sering kali melibatkan prosedur invasif yang membutuhkan presisi milimeter:
-<li><strong>Pemasangan Selang Makan Lambung (NGT)</strong>: Selang karet dimasukkan melalui lubang hidung menuju lambung. Jika dilakukan oleh orang yang tidak kompeten, selang dapat salah masuk ke percabangan bronkus paru-paru. Saat susu dialirkan, paru-paru pasien akan terisi cairan yang memicu gagal napas mendadak (<em>acute respiratory distress</em>).</li>
+<ul><li><strong>Pemasangan Selang Makan Lambung (NGT)</strong>: Selang karet dimasukkan melalui lubang hidung menuju lambung. Jika dilakukan oleh orang yang tidak kompeten, selang dapat salah masuk ke percabangan bronkus paru-paru. Saat susu dialirkan, paru-paru pasien akan terisi cairan yang memicu gagal napas mendadak (<em>acute respiratory distress</em>).</li>
 <li><strong>Pemasangan Kateter Urine Foley</strong>: Memasukkan kateter ke saluran kemih pria atau wanita lansia membutuhkan teknik sterilisasi mutlak (<em>aseptic technique</em>). Kontaminasi bakteri saat pemasangan akan memicu infeksi ginjal parah (<em>pielonefritis</em>) dan syok septik dalam hitungan hari.</li>
 <li><strong>Perawatan Luka Dekubitus dan Diabetes</strong>: Penggunaan balutan steril dan teknik debridemen jaringan mati harus dilakukan dengan ilmu penyembuhan luka modern. Penanganan yang asal-asalan justru mempercepat pembusukan jaringan hingga ke lapisan tulang.</li>
+</ul>
 
 Oleh karena itu, jangan pernah merasa sungkan atau ragu untuk memeriksa keaslian ijazah dan STR perawat. Meminta bukti legalitas adalah hak perlindungan konsumen yang dilindungi oleh undang-undang kesehatan.
 
@@ -84,23 +96,27 @@ Kementerian Kesehatan RI telah mendigitalkan seluruh data tenaga kesehatan Indon
 Sebelum perawat tiba di rumah Anda, mintalah dokumen STR perawat kepada pihak agensi atau perawat bersangkutan. STR resmi mencantumkan nama lengkap, tempat tanggal lahir, nomor registrasi (berupa kombinasi angka unik), nama universitas kelulusan, dan kompetensi keahlian.
 
 <h3>2. Buka Portal Resmi Pengecekan Tenaga Kesehatan Kemenkes RI</h3>
-<li>Buka peramban internet (browser) dan akses laman resmi Konsil Tenaga Kesehatan Indonesia: <strong>https://ktki.kemkes.go.id</strong> atau portal profil tenaga kesehatan di <strong>https://satusehat.kemkes.go.id/sdmk</strong>.</li>
+<ul><li>Buka peramban internet (browser) dan akses laman resmi Konsil Tenaga Kesehatan Indonesia: <strong>https://ktki.kemkes.go.id</strong> atau portal profil tenaga kesehatan di <strong>https://satusehat.kemkes.go.id/sdmk</strong>.</li>
 <li>Pastikan alamat situs berakhiran domain resmi pemerintah <strong>.go.id</strong>. Waspadai situs tiruan yang menggunakan domain komersial gratisan.</li>
+</ul>
 
 <h3>3. Masukkan Nomor STR atau Nomor Induk Kependudukan (NIK)</h3>
-<li>Pada kolom pencarian tenaga kesehatan, masukkan nomor STR atau NIK KTP perawat yang tertera pada berkas.</li>
+<ul><li>Pada kolom pencarian tenaga kesehatan, masukkan nomor STR atau NIK KTP perawat yang tertera pada berkas.</li>
 <li>Masukkan kode keamanan (captcha) yang muncul di layar, lalu klik tombol <strong>Cari</strong>.</li>
+</ul>
 
 <h3>4. Cocokkan Data yang Muncul di Layar Sistem</h3>
 Sistem Kemenkes akan menampilkan profil resmi tenaga medis yang tersimpan di basis data nasional:
-<li>Cocokkan apakah <strong>Nama Lengkap</strong> yang tampil persis sama dengan nama di KTP perawat.</li>
+<ul><li>Cocokkan apakah <strong>Nama Lengkap</strong> yang tampil persis sama dengan nama di KTP perawat.</li>
 <li>Periksa <strong>Institusi Pendidikan</strong>: pastikan nama akademi atau universitas keperawatan tempat beliau lulus sesuai dengan ijazah fisik.</li>
 <li>Periksa <strong>Masa Berlaku STR</strong>: pastikan statusnya tertulis <strong>"AKTIF"</strong>. Sesuai UU Kesehatan No. 17 Tahun 2023, STR kini berlaku seumur hidup selama tenaga medis memenuhi kecukupan satuan kredit profesi (SKP).</li>
+</ul>
 
 <h3>5. Pindai Kode QR Resmi pada Lembar STR</h3>
 Jika perawat menunjukkan lembaran STR cetak berformat PDF:
-<li>Gunakan kamera smartphone Anda untuk memindai kode QR yang tercetak di sudut bawah dokumen.</li>
+<ul><li>Gunakan kamera smartphone Anda untuk memindai kode QR yang tercetak di sudut bawah dokumen.</li>
 <li>Tautan hasil pemindaian <strong>wajib mengarah langsung ke tautan resmi situs Kemenkes RI</strong> yang menampilkan sertifikat digital asli. Jika tautan mengarah ke situs web mencurigakan atau dokumen gambar offline, patut dicurigai dokumen tersebut adalah rekayasa perangkat lunak palsu.</li>
+</ul>
 
 ---
 
@@ -120,10 +136,11 @@ Jika perawat menunjukkan lembaran STR cetak berformat PDF:
 <h2>Evaluasi Kinerja Klinis di Hari Pertama Bertugas</h2>
 
 Selain verifikasi dokumen di atas kertas, keluarga dapat menilai keahlian nyata perawat pada hari pertama penugasan di rumah:
-<li><strong>Penerapan Prinsip Cuci Tangan WHO</strong>: Perawat wajib mencuci tangan dengan sabun air mengalir atau hand sanitizer sebelum dan sesudah menyentuh pasien atau peralatan steril.</li>
+<ul><li><strong>Penerapan Prinsip Cuci Tangan WHO</strong>: Perawat wajib mencuci tangan dengan sabun air mengalir atau hand sanitizer sebelum dan sesudah menyentuh pasien atau peralatan steril.</li>
 <li><strong>Komunikasi Terapeutik</strong>: Perawat selalu menyapa orang tua dengan santun, menjelaskan prosedur tindakan yang akan dilakukan dengan bahasa lembut, dan meminta izin pasien meskipun pasien sedang dalam kondisi penurunan kesadaran.</li>
 <li><strong>Pencatatan Rekam Medis</strong>: Perawat langsung mencatat tanda vital ke dalam buku observasi pasien dan melaporkan perkembangannya kepada dokter penanggung jawab dari [Layanan Panggil Dokter ke Rumah](/layanan/panggil-dokter).</li>
 <li><strong>Kolaborasi Multidisiplin</strong>: Bersinergi aktif dengan instruksi latihan dari [Layanan Fisioterapi di Rumah](/layanan/fisioterapi). Baca panduan lengkapnya di [Panduan Lengkap Jasa Perawat Homecare Terpercaya](/blog/jasa-perawat-homecare-terpercaya-panduan-lengkap).</li>
+</ul>
 
 ---
 
