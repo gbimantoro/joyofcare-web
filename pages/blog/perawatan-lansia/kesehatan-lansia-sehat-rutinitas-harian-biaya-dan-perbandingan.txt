@@ -15,12 +15,7 @@ variation_type: biaya-dan-perbandingan
 faq:
 - question: Berapa perbedaan estimasi pengeluaran biaya medis tahunan antara lansia
     yang aktif mandiri dibandingkan lansia pasif tirah baring?
-  answer: Data ekonomi kesehatan menunjukkan bahwa merawat lansia tirah baring (*bedridden*)
-    membutuhkan biaya 4 hingga 7 kali lipat lebih tinggi (berkisar antara Rp 80.000.000
-    hingga Rp 180.000.000 per tahun) untuk penanganan luka dekubitus, infeksi saluran
-    kemih berulang, rawat inap ICU pneumonia, dan popok dewasa harian, dibandingkan
-    lansia aktif yang hanya memerlukan biaya perawatan preventif sekitar Rp 15.000.000
-    hingga Rp 25.000.000 per tahun.
+  answer: Data ekonomi kesehatan membuktikan bahwa merawat lansia tirah baring membutuhkan biaya medis 4 hingga 7 kali lipat lebih tinggi untuk rawat inap ICU dan perawatan luka dekubitus berat, dibandingkan dengan lansia aktif yang mengutamakan pemeliharaan fisik preventif. Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
 - question: Apa dampak klinis tercepat yang terjadi pada tubuh orang tua jika mereka
     hanya berdiam diri di tempat tidur sepanjang hari?
   answer: Dalam waktu 1 hingga 2 minggu imobilitas total, lansia dapat kehilangan
@@ -41,7 +36,7 @@ internal_links:
   url: /layanan/perawat-homecare
 - anchor: Layanan Cek Lab Darah di Rumah
   url: /layanan/cek-lab-di-rumah
-cta_text: Konsultasikan program rutinitas sehat dan perawatan lansia di rumah Anda
+cta_text: Hubungi WhatsApp JoC untuk informasi harga
   langsung via WhatsApp Joy of Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -87,19 +82,17 @@ Banyak keluarga tidak menyadari bahwa biaya "mengobati komplikasi akibat ketidak
 
 ### Profil A: Biaya Perawatan Lansia Pasif Tirah Baring (Komplikasi Kronis)
 Ketika seorang lansia telah jatuh pada status tirah baring (*bedridden*), biaya yang timbul mencakup:
-1. **Rawat Inap RS Akibat Pneumonia Aspirasi / Sepsis Dekubitus**: Rata-rata 1–2 kali perawatan ICU/HCU per tahun = Rp 50.000.000 – Rp 90.000.000.
-2. **Perawatan Luka Dekubitus Khusus oleh Tenaga Medis**: Penggantian kassa modern dressing 3x seminggu = Rp 1.200.000/minggu atau sekitar Rp 62.000.000/tahun.
-3. **Kebutuhan Logistik Pasien Bedridden**: Popok dewasa (*diapers*), perlak medis, kateter urin, selang NGT, dan suction lendir = Rp 18.000.000 – Rp 25.000.000/tahun.
-4. **Total Estimasi Biaya Per Tahun**: **Rp 130.000.000 – Rp 177.000.000+** (serta beban mental dan emosional keluarga yang sangat berat).
+1. **Rawat Inap RS Akibat Pneumonia Aspirasi / Sepsis Dekubitus**: Komplikasi infeksi berat membutuhkan penanganan intensif di ICU/HCU dengan tagihan rumah sakit yang sangat fantastis.
+2. **Perawatan Luka Dekubitus Khusus oleh Tenaga Medis**: Penggantian balutan modern dressing steril secara intensif berkali-kali seminggu yang menguras anggaran bulanan.
+3. **Kebutuhan Logistik Pasien Bedridden**: Kebutuhan popok dewasa harian, selang NGT, kateter urin steril, dan kateter suction yang harus terus diperbarui.
+4. **Beban Finansial & Psikologis**: Biaya kuratif pengobatan penyakit akut menembus ratusan juta rupiah per tahun, ditambah kelelahan fisik dan stres mental keluarga.
 
-### Profil B: Biaya Pemeliharaan Lansia Aktif Melalui Program Preventif Homecare
-Sebaliknya, menjaga orang tua tetap bugar dan aktif mandiri hanya membutuhkan investasi preventif terencana:
-1. **Pemeriksaan Dokter dan Skrining Laboratorium Berkala**: Kunjungan [Layanan Panggil Dokter ke Rumah Jakarta](/layanan/panggil-dokter) dan [Layanan Cek Lab Darah di Rumah](/layanan/cek-lab-di-rumah) setiap 3 bulan = Rp 4.500.000/tahun.
-2. **Paket Sesi Latihan Bersama Fisioterapis Homecare**: Mempertahankan mobilitas dan keseimbangan fisik 2x sebulan = Rp 8.400.000/tahun.
-3. **Suplemen Nutrisi & Vitamin Esensial**: Kalsium, vitamin D3, dan susu protein geriatri = Rp 6.000.000/tahun.
-4. **Total Estimasi Biaya Per Tahun**: **Rp 18.900.000 – Rp 24.500.000/tahun**.
-
-Investasi preventif pada pola hidup aktif menghasilkan penghematan biaya medis riil lebih dari Rp 100.000.000 per tahun, sekaligus memberikan kebahagiaan batin yang tak ternilai bagi orang tua tercinta.
+### Profil B: Pemeliharaan Lansia Aktif Melalui Program Preventif Homecare
+Sebaliknya, menjaga orang tua tetap bugar dan aktif mandiri hanya memerlukan program pemeliharaan preventif yang teratur dan terjangkau:
+1. **Pemeriksaan Dokter dan Skrining Laboratorium Berkala**: Evaluasi kesehatan berkala melalui [Layanan Panggil Dokter ke Rumah Jakarta](/layanan/panggil-dokter) dan [Layanan Cek Lab Darah di Rumah](/layanan/cek-lab-di-rumah) secara terjadwal.
+2. **Paket Sesi Latihan Bersama Fisioterapis Homecare**: Mempertahankan fungsi motorik, fleksibilitas sendi, dan keseimbangan tubuh lansia di hunian sendiri.
+3. **Suplemen Nutrisi & Hidrasi Terarah**: Pemenuhan mikronutrien kalsium, vitamin D3, serta nutrisi seimbang untuk mencegah osteoporosis dan sarkopenia.
+4. **Hasil Terukur**: Pengeluaran kesehatan jauh lebih efisien, komplikasi berbahaya dicegah sejak dini, dan lansia menikmati masa tua bahagia bersama keluarga tercinta. Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
 
 ---
 
@@ -129,4 +122,6 @@ Tergantung pada derajat keparahan imobilitas dan ada atau tidaknya penyakit peny
 
 Jangan biarkan orang tua Anda terjebak dalam lingkaran pasif yang merugikan kesehatan fisik dan finansial keluarga. Hubungi tim Joy of Care untuk merancang program pendampingan aktif terbaik di rumah Anda.
 
-Hubungi WhatsApp kami di [https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?) sekarang juga!
+Hubungi WhatsApp kami di [https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?) sekarang juga!
+
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Hubungi WhatsApp JoC untuk informasi harga](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?)

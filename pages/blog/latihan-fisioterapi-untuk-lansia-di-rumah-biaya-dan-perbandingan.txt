@@ -31,9 +31,7 @@ faq:
     keluarga mendampingi latihan mandiri ringan pada hari-hari jeda di antaranya.'
 - question: Berapa perbandingan biaya antara latihan mandiri dengan menyewa paket
     fisioterapis di rumah?
-  answer: Latihan mandiri berbiaya Rp 0, namun memiliki risiko biaya pengobatan ratusan
-    juta jika terjadi insiden jatuh patah tulang. Paket fisioterapis homecare (sekitar
-    Rp 2.000.000 – Rp 2.400.000 per bulan untuk 8 sesi) merupakan investasi preventif
+  answer: Latihan fisik tanpa pengawasan terapis berisiko memicu cedera jatuh fatal yang menelan biaya medis hingga ratusan juta rupiah. Paket fisioterapi homecare merupakan investasi preventif yang terukur dan aman. Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
     yang sangat hemat dan terukur.
 internal_links:
 - anchor: Layanan Fisioterapi Lansia di Rumah Joy of Care
@@ -44,7 +42,7 @@ internal_links:
   url: /layanan/panggil-dokter
 - anchor: Layanan Perawat Lansia Homecare
   url: /layanan/perawat-homecare
-cta_text: Konsultasikan kebutuhan panduan latihan fisioterapi lansia di rumah Anda
+cta_text: Konsultasi Dokter Gratis via WhatsApp
   langsung via WhatsApp Joy of Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -86,7 +84,7 @@ Banyak lansia mengidap penyakit jantung koroner atau hipertensi tersembunyi. Saa
 
 | Faktor Parameter Penilaian | Latihan Fisioterapi Mandiri (Keluarga) | Didampingi Fisioterapis Joy of Care |
 |---|---|---|
-| **Biaya Jasa Langsung** | **Rp 0 (Gratis)** | Rp 250.000 – Rp 350.000 / sesi paket |
+| **Biaya Jasa Langsung** | Bebas Biaya Langsung | **Transparan & Terukur (Hubungi WA JoC)** |
 | **Risiko Insiden Jatuh saat Latihan** | **Tinggi (terutama pada pasien oleng)** | **Nol (dijaga dengan gait belt & teknik spotting)** |
 | **Koreksi Biomekanika Gerak** | Nol (mengandalkan perasaan awam) | **Presisi tinggi (koreksi sudut sendi & postur)** |
 | **Peralatan Modalitas Terapi** | Tidak ada | **Lengkap (TENS portabel, ultrasound, elastis)** |
@@ -102,12 +100,12 @@ Banyak lansia mengidap penyakit jantung koroner atau hipertensi tersembunyi. Saa
 Mencoba menghemat biaya dengan menghindari jasa fisioterapis sering kali berujung pada ironi finansial (*penny wise, pound foolish*):
 
 * Jika seorang lansia yang sedang berlatih mandiri tiba-tiba kehilangan keseimbangan dan terjatuh di lantai ubin kamar tidur:
-  * Biaya ambulans darurat: **Rp 500.000**.
-  * Operasi pemasangan pen patah panggul di rumah sakit swasta: **Rp 60.000.000 – Rp 120.000.000**.
-  * Rawat inap ruang intensif (ICU/HDU) selama 5 hari: **Rp 25.000.000**.
-  * Total kerugian akibat satu kali insiden jatuh dapat melenyapkan tabungan keluarga hingga **ratusan juta rupiah**!
+  * Biaya ambulans evakuasi darurat ke unit gawat darurat rumah sakit.
+  * Biaya tindakan operasi bedah orthopedi dan pemasangan pen patah tulang panggul yang mencapai puluhan hingga ratusan juta rupiah.
+  * Biaya rawat inap intensif di ruang ICU/HDU dan perawatan rehabilitasi medik pascabedah.
+  * Beban kerugian finansial akibat satu insiden jatuh dapat menguras habis tabungan keluarga!
 
-Sebaliknya, berinvestasi pada paket fisioterapi lansia Joy of Care (berkisar antara **Rp 2.000.000 – Rp 2.400.000 per bulan** untuk 8 sesi komprehensif) memberikan perlindungan keselamatan fisik tingkat tinggi, memastikan otot lansia terbangun secara aman, serta membebaskan anak dari ketakutan konstan akan kecelakaan rumah tangga.
+Sebaliknya, berinvestasi pada paket fisioterapi lansia Joy of Care memberikan proteksi keselamatan maksimal, memastikan biomekanika gerak lansia terkoreksi sempurna, dan menghindarkan keluarga dari bencana medis. Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
 
 ---
 
@@ -134,11 +132,11 @@ Fisioterapis mampu mengidentifikasi kelainan biomekanika gerak yang tak terlihat
 Model hybrid sangat dianjurkan: fisioterapis berkunjung 1–2 kali seminggu untuk mengukur progres, mengoreksi gerakan, dan meningkatkan dosis latihan, sementara keluarga mendampingi latihan mandiri ringan pada hari-hari jeda di antaranya.
 
 ### Berapa perbandingan biaya antara latihan mandiri dengan menyewa paket fisioterapis di rumah?
-Latihan mandiri berbiaya Rp 0, namun memiliki risiko biaya pengobatan ratusan juta jika terjadi insiden jatuh patah tulang. Paket fisioterapis homecare (sekitar Rp 2.000.000 – Rp 2.400.000 per bulan untuk 8 sesi) merupakan investasi preventif yang sangat hemat dan terukur.
+Latihan mandiri berisiko memicu cedera jatuh fatal yang menelan biaya medis hingga ratusan juta rupiah jika tulang patah. Paket pendampingan fisioterapis homecare merupakan investasi preventif yang jauh lebih aman dan terukur bagi lansia. Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
 
 ---
 
 ### Pilih Keamanan dan Kepastian Medis untuk Orang Tua Anda
 Jangan biarkan coba-coba latihan mandiri membahayakan persendian dan keselamatan orang tua tercinta. Dapatkan pendampingan fisioterapi berlisensi resmi yang aman, terbukti klinis, dan penuh kasih di kediaman Anda bersama Joy of Care.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Chat WhatsApp 08811-118-911](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?)
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)

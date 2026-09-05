@@ -40,7 +40,7 @@ internal_links:
   url: /layanan/panggil-dokter
 - anchor: Layanan Fisioterapi Lansia di Rumah
   url: /layanan/fisioterapi
-cta_text: Konsultasikan kebutuhan perawatan dan pendampingan orang tua Anda di rumah
+cta_text: Konsultasi Dokter Gratis via WhatsApp
   langsung via WhatsApp Joy of Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -136,4 +136,4 @@ Memantau tanda-tanda vital lengkap, memandikan dan menjaga higiene personal, men
 ### Hadirkan Perawat Terbaik untuk Orang Tua Tercinta
 Jangan biarkan kelelahan merenggut kebahagiaan keluarga Anda. Hubungi Joy of Care hari ini untuk mendapatkan perawat lansia berizin, terlatih, dan penuh empati langsung di kediaman Anda di Jabodetabek.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Chat WhatsApp 08811-118-911](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?)
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)

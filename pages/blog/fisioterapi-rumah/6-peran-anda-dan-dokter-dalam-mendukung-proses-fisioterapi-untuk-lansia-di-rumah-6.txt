@@ -44,7 +44,7 @@ internal_links:
   url: /layanan/fisioterapi
 - anchor: 7 Hal Saat Fisioterapi Lansia di Rumah
   url: /blog/healthy-aging-3/7-hal-yang-dilakukan-saat-fisioterapi-di-rumah-untuk-lansia-5
-cta_text: Konsultasikan kebutuhan rehabilitasi medik dan fisioterapi keluarga Anda
+cta_text: Hubungi WhatsApp JoC untuk informasi harga
   langsung bersama dokter dan tim fisioterapis Joy of Care via WhatsApp di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -132,4 +132,4 @@ Gunakan pendekatan persuasif yang lembut, mulai latihan dengan durasi singkat (5
 ### Kolaborasi Pemulihan Holistik Bersama Tim Medis Joy of Care
 Joy of Care menghadirkan layanan terintegrasi di mana dokter dan fisioterapis kami berkoordinasi langsung dalam satu rekam medis digital untuk memantau kemajuan orang tua Anda di rumah. Kami bermitra erat dengan keluarga Anda demi mengembalikan senyum dan kemandirian lansia tercinta.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Chat WhatsApp 08811-118-911](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?)
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Hubungi WhatsApp JoC untuk informasi harga](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?)

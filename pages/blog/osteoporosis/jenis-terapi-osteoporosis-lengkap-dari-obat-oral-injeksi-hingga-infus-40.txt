@@ -48,7 +48,7 @@ internal_links:
   url: /blog/healthy-aging-3/panduan-fisioterapi-di-rumah-untuk-pasien-osteoporosis-mengurangi-nyeri-mencegah-jatuh-43
 - anchor: Layanan Dokter Kunjungan ke Rumah
   url: /layanan/panggil-dokter
-cta_text: Konsultasikan kebutuhan perawatan kesehatan tulang keluarga Anda langsung
+cta_text: Hubungi WhatsApp JoC untuk informasi harga
   bersama dokter dan tim medis Joy of Care via WhatsApp di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -147,4 +147,4 @@ Setelah 3 hingga 5 tahun penggunaan bisfosfonat terus-menerus, dokter biasanya a
 ### Konsultasi Terapi Injeksi Osteoporosis Bersama Joy of Care
 Joy of Care bekerja sama dengan dokter spesialis ortopedi dan penyakit dalam untuk memfasilitasi kelanjutan terapi injeksi Bonevell® dan Corora® langsung di rumah pasien. Tenaga kesehatan kami berizin resmi Dinas Kesehatan, menjamin prosedur steril standar rumah sakit tanpa repot transportasi.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Chat WhatsApp 08811-118-911](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?)
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Hubungi WhatsApp JoC untuk informasi harga](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?)

@@ -42,7 +42,7 @@ internal_links:
   url: /layanan/panggil-dokter
 - anchor: Layanan Perawat Lansia Homecare
   url: /layanan/perawat-homecare
-cta_text: Konsultasikan kebutuhan panduan latihan fisioterapi lansia di rumah Anda
+cta_text: Konsultasi Dokter Gratis via WhatsApp
   langsung via WhatsApp Joy of Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -169,4 +169,4 @@ Saat lansia memiliki riwayat jatuh dalam 6 bulan terakhir, menderita penyakit kr
 ### Hidupkan Kembali Gerak Aktif Orang Tua Anda
 Tubuh yang aktif adalah kunci masa tua yang bahagia dan bermartabat. Dapatkan pendampingan latihan fisioterapi profesional yang sabar dan berpengalaman langsung di ruang keluarga Anda bersama Joy of Care.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Chat WhatsApp 08811-118-911](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?)
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)

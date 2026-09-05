@@ -26,9 +26,7 @@ faq:
     serta tidak ada tenaga pengganti jika perawat mendadak sakit atau berhenti bekerja.
 - question: Berapa kisaran biaya jasa perawat homecare terpercaya di Jabodetabek pada
     tahun 2026?
-  answer: Biaya jasa perawat homecare medis berijazah D3/S1 Keperawatan berkisar antara
-    Rp 5.000.000 hingga Rp 9.500.000 per bulan untuk sistem live-in 24 jam, atau Rp
-    250.000 hingga Rp 400.000 per shift harian 12 jam, tergantung kompleksitas alat
+  answer: Biaya jasa perawat homecare medis berijazah resmi ditentukan secara transparan berdasarkan sistem penugasan (live-in 24 jam, shift harian, atau per visit tindakan medis) serta kompleksitas alat kesehatan pasien. Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
     medis pasien.
 - question: Apakah Joy of Care menyediakan kontrak kerja tertulis sebelum penempatan
     perawat?
@@ -44,7 +42,7 @@ internal_links:
   url: /layanan/fisioterapi
 - anchor: Layanan Cek Lab Darah di Rumah
   url: /layanan/cek-lab-di-rumah
-cta_text: Konsultasikan kebutuhan jasa perawat homecare terpercaya di rumah Anda langsung
+cta_text: Konsultasi Dokter Gratis via WhatsApp
   via WhatsApp Joy of Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -125,10 +123,10 @@ Penyedia jasa terpercaya menyediakan beragam paket layanan yang rasional: mulai 
 
 Berikut adalah kisaran biaya resmi layanan perawat homecare berstandar medis di kawasan Jakarta, Bogor, Depok, Tangerang, dan Bekasi pada tahun 2026:
 
-* **Perawat Medis Live-In 24 Jam (Menginap Bulanan)**: Rp 5.500.000 – Rp 9.500.000 per bulan. Khusus untuk pasien pascastroke, tirah baring (*bedridden*), terpasang selang makan NGT, kateter urin, atau trakeostomi.
-* **Caregiver Lansia Live-In 24 Jam (Menginap Bulanan)**: Rp 2.800.000 – Rp 4.500.000 per bulan. Untuk pendampingan lansia mandiri sebagian (*partial dependent*), bantuan aktivitas mandi, makan, dan jalan santai.
-* **Perawat Medis Shift Harian (12 Jam)**: Rp 250.000 – Rp 400.000 per shift. Cocok untuk keluarga yang membutuhkan pengawasan medis saat jam kerja kantor siang hari.
-* **Kunjungan Tindakan Medis Khusus (Per Visit)**: Rp 200.000 – Rp 350.000 per kunjungan. Untuk penggantian selang NGT steril, pemasangan kateter urine baru, atau perawatan luka diabetes gangren.
+* **Perawat Medis Live-In 24 Jam (Menginap Bulanan)**: Layanan komprehensif bagi pasien pascastroke, tirah baring, terpasang selang makan NGT, kateter urin, atau trakeostomi dengan sistem kontrak transparan.
+* **Caregiver Lansia Live-In 24 Jam (Menginap Bulanan)**: Pendampingan lansia mandiri sebagian, pemenuhan kebutuhan aktivitas harian (ADL), pendampingan mobilisasi, dan stimulasi kognitif.
+* **Perawat Medis Shift Harian (12 Jam)**: Pendampingan medis profesional saat jam kerja keluarga siang hari atau pemantauan malam hari.
+* **Kunjungan Tindakan Medis Khusus (Per Visit)**: Kunjungan steril untuk penggantian selang NGT, pemasangan kateter urine Foley, atau perawatan luka diabetes modern dressing. Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
 
 Untuk mendukung pemulihan mobilitas sendi pasien, keluarga dapat mengombinasikannya dengan [Layanan Fisioterapi di Rumah](/layanan/fisioterapi) serta pemeriksaan darah berkala melalui [Layanan Cek Lab Darah di Rumah](/layanan/cek-lab-di-rumah).
 
@@ -143,7 +141,7 @@ Penyedia terpercaya memiliki badan hukum resmi berizin Dinas Kesehatan, memberla
 Perawat freelance tanpa naungan agensi resmi tidak memiliki perlindungan hukum yang jelas, tidak ada jaminan keaslian sertifikasi STR, tidak ada pihak penanggung jawab jika terjadi kelalaian medis atau kehilangan barang di rumah, serta tidak ada tenaga pengganti jika perawat mendadak sakit atau berhenti bekerja.
 
 ### Berapa kisaran biaya jasa perawat homecare terpercaya di Jabodetabek pada tahun 2026?
-Biaya jasa perawat homecare medis berijazah D3/S1 Keperawatan berkisar antara Rp 5.000.000 hingga Rp 9.500.000 per bulan untuk sistem live-in 24 jam, atau Rp 250.000 hingga Rp 400.000 per shift harian 12 jam, tergantung kompleksitas alat medis pasien.
+Biaya jasa perawat homecare medis berijazah resmi dirancang transparan berdasarkan sistem kerja yang dibutuhkan (live-in, shift harian, atau per visit tindakan khusus) serta kualifikasi klinis tenaga kesehatan. Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
 
 ### Apakah Joy of Care menyediakan kontrak kerja tertulis sebelum penempatan perawat?
 Ya, Joy of Care selalu menandatangani perjanjian kerja sama tertulis yang transparan bersama keluarga pasien, mencakup rincian tugas, hak istirahat perawat, SOP keselamatan klinis, serta klausul jaminan garansi penukaran tenaga perawat.
@@ -153,4 +151,4 @@ Ya, Joy of Care selalu menandatangani perjanjian kerja sama tertulis yang transp
 ### Berikan Perlindungan Medis Terbaik Bersama Joy of Care
 Keselamatan orang tua tercinta Anda tidak boleh dikompromikan dengan tenaga kerja yang tidak jelas asal-usulnya. Hubungi Joy of Care sekarang untuk mendapatkan pendampingan perawat homecare berizin resmi, bersertifikasi STR, dan berhati tulus di Jabodetabek.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Chat WhatsApp 08811-118-911](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?)
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)

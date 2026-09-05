@@ -42,7 +42,7 @@ internal_links:
   url: /layanan/panggil-dokter
 - anchor: Layanan Fisioterapi Pascastroke di Rumah
   url: /layanan/fisioterapi
-cta_text: Konsultasikan kebutuhan perawat lansia di rumah Anda di Jabodetabek langsung
+cta_text: Hubungi WhatsApp JoC untuk informasi harga
   via WhatsApp Joy of Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -144,4 +144,4 @@ Dengan pendampingan perawat medis yang disiplin melakukan alih baring setiap 2 j
 ### Tulis Kisah Pemulihan Indah untuk Orang Tua Anda
 Kesehatan dan senyum bahagia orang tua adalah warisan paling berharga bagi keluarga Anda. Jangan biarkan keraguan menunda keselamatan mereka. Percayakan perawatan orang tua Anda kepada tim perawat profesional Joy of Care hari ini.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Chat WhatsApp 08811-118-911](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?)
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Hubungi WhatsApp JoC untuk informasi harga](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?)

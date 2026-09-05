@@ -42,7 +42,7 @@ internal_links:
   url: /layanan/panggil-dokter
 - anchor: Layanan Cek Lab Darah di Rumah
   url: /layanan/cek-lab-di-rumah
-cta_text: Konsultasikan terapi akupuntur medis untuk nyeri sendi lansia di rumah Anda
+cta_text: Konsultasi Dokter Gratis via WhatsApp
   langsung via WhatsApp Joy of Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -102,19 +102,19 @@ Berikut adalah perbandingan objektif antara terapi akupuntur medik dengan konsum
 
 ## Analisis Biaya Finansial Riil: Investasi Preventif vs Biaya Komplikasi
 
-Banyak orang mengira membeli obat pereda nyeri generik seharga Rp 20.000 per strip adalah opsi yang sangat murah. Namun, mari kita cermati kalkulasi biaya medis riil jika komplikasi terjadi:
+Banyak orang mengira membeli obat pereda nyeri generik secara bebas tanpa resep adalah opsi yang murah. Namun, mari kita cermati kalkulasi biaya medis riil jika komplikasi terjadi:
 
-### Skenario A: Perawatan Akibat Komplikasi Konsumsi Obat Nyeri Rutin (1 Tahun)
-1. Pembelian obat NSAID + obat pelindung lambung harian: Rp 3.600.000/tahun
-2. Biaya Rawat Inap RS Akibat Tukak Lambung Berdarah (Kamar + Transfusi Darah): Rp 25.000.000 – Rp 45.000.000
-3. Biaya Perawatan Gagal Ginjal Stadium Awal (Nefrolog + Obat Ginjal): Rp 15.000.000 – Rp 35.000.000
-4. **Total Risiko Biaya Medis**: **Rp 43.600.000 – Rp 83.600.000+**
+### Skenario A: Risiko Komplikasi Konsumsi Obat Nyeri Kimiawi Jangka Panjang (1 Tahun)
+1. Pembelian obat antinyeri NSAID dan pelindung lambung terus-menerus tanpa pengawasan dokter.
+2. Beban rawat inap rumah sakit akibat tukak lambung akut atau perdarahan saluran cerna yang menuntut transfusi.
+3. Beban perawatan gagal ginjal atau penurunan laju filtrasi glomerulus yang membutuhkan pemantauan nefrolog.
+4. **Total Beban Medis**: Membengkak sangat besar hingga puluhan bahkan ratusan juta rupiah serta memicu penurunan kualitas hidup lansia.
 
-### Skenario B: Program Terapi Akupuntur Medis Berkala Joy of Care (1 Tahun)
-1. Siklus Awal Akupuntur Medis Intensif (8 sesi di rumah): Rp 3.200.000
-2. Sesi Pemeliharaan Rutin (1x per bulan untuk menjaga sendi lentur): Rp 4.500.000/tahun
-3. Suplemen Pelumas Sendi Alami (Glukosamin / Kolagen Tipe 2): Rp 2.400.000/tahun
-4. **Total Investasi Kesehatan**: **Rp 10.100.000/tahun** (Nol komplikasi organ, ginjal dan lambung lansia 100% sehat terlindungi).
+### Skenario B: Program Terapi Akupuntur Medis Terpadu Joy of Care (1 Tahun)
+1. Siklus awal akupuntur medis intensif di rumah oleh dokter/terapis berlisensi Kemenkes.
+2. Sesi pemeliharaan berkala untuk menjaga kelenturan sendi dan meredakan kekakuan otot pagi hari.
+3. Suplemen nutrisi pelindung sendi tanpa risiko toksisitas pada lambung maupun ginjal.
+4. **Investasi Kesehatan Terencana**: Nol risiko komplikasi organ internal, kenyamanan dan mobilitas lansia terlindungi optimal. Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
 
 Secara ekonomi kesehatan jangka panjang, akupuntur medis terbukti jauh lebih murah, bijaksana, dan menyelamatkan nyawa orang tua dari bahaya cuci darah atau operasi pendarahan lambung.
 
@@ -146,4 +146,6 @@ Pada mayoritas penderita osteoartritis lutut, efek peredaan nyeri dan kelenturan
 
 Lindungi lambung dan ginjal orang tua Anda dari bahaya efek samping obat kimiawi. Hadirkan terapi akupuntur medis berstandar internasional langsung di hunian Anda.
 
-Hubungi WhatsApp kami di [https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?) sekarang juga!
+Hubungi WhatsApp kami di [https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter) sekarang juga!
+
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)

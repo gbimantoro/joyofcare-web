@@ -42,7 +42,7 @@ internal_links:
   url: /blog/panggil-dokter-ke-rumah-jakarta-biaya-dan-perbandingan
 - anchor: Layanan Cek Darah di Rumah
   url: /layanan/cek-lab-di-rumah
-cta_text: Konsultasikan kebutuhan kunjungan dokter ke rumah Anda di Jakarta dan sekitarnya
+cta_text: Konsultasi Dokter Gratis via WhatsApp
   langsung via WhatsApp Joy of Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -129,4 +129,4 @@ Dokter membawa tas perlengkapan darurat dasar, vitamin suntik, dan bahan medis s
 ### Jadwalkan Dokter ke Rumah Anda Sekarang
 Kesehatan keluarga Anda adalah prioritas nomor satu. Dapatkan pelayanan medis profesional, hangat, dan tepercaya langsung di rumah Anda tanpa repot bermacet-macetan di jalan raya ibu kota.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Chat WhatsApp 08811-118-911](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?)
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)

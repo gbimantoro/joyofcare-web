@@ -42,7 +42,7 @@ internal_links:
   url: /layanan/panggil-dokter
 - anchor: Layanan Fisioterapi di Rumah
   url: /layanan/fisioterapi
-cta_text: Konsultasikan kebutuhan jasa perawat homecare terpercaya di rumah Anda langsung
+cta_text: Hubungi WhatsApp JoC untuk informasi harga
   via WhatsApp Joy of Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -147,4 +147,4 @@ Sangat sebanding. Kehadiran perawat tidak hanya mencegah biaya rawat inap darura
 ### Hadirkan Perawat Berhati Tulus untuk Keluarga Tercinta
 Jangan biarkan kelelahan membebani rasa cinta Anda kepada orang tua. Percayakan pendampingan medis orang tua Anda kepada tim perawat homecare profesional Joy of Care untuk hidup yang lebih sehat, aman, dan penuh kedamaian.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Chat WhatsApp 08811-118-911](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?)
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Hubungi WhatsApp JoC untuk informasi harga](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?)

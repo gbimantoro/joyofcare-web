@@ -41,7 +41,7 @@ internal_links:
   url: /layanan/panggil-dokter
 - anchor: Layanan Fisioterapi di Rumah
   url: /layanan/fisioterapi-di-rumah
-cta_text: Konsultasikan kebutuhan layanan antar jemput pasien ke rumah sakit di Jakarta
+cta_text: Konsultasi Dokter Gratis via WhatsApp
   dan sekitarnya langsung via WhatsApp Joy of Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -139,4 +139,6 @@ Tentu saja. Layanan transportasi medis Joy of Care beroperasi 365 hari setahun, 
 
 Setiap perjalanan menuju kesembuhan berhak dijalani dengan rasa tenang, aman, dan penuh perhatian. Percayakan seluruh kebutuhan antar jemput pasien ke rumah sakit di kawasan Jakarta kepada tim medis profesional Joy of Care.
 
-Hubungi WhatsApp kami di [https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?) sekarang juga!
+Hubungi WhatsApp kami di [https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter) sekarang juga!
+
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)

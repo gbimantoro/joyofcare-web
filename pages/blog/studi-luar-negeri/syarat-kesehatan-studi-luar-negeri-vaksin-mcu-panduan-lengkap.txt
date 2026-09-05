@@ -50,7 +50,7 @@ internal_links:
   url: /layanan/panggil-dokter
 - anchor: Layanan Perawat Medis Homecare
   url: /layanan/perawat-homecare
-cta_text: Konsultasikan pemenuhan syarat vaksinasi dan medical check-up studi luar
+cta_text: Hubungi WhatsApp JoC untuk informasi harga
   negeri langsung via WhatsApp Joy of Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -121,11 +121,13 @@ Berikut adalah estimasi biaya resmi penyiapan berkas medis pelajar di rumah yang
 
 | Jenis Pelayanan Medis Pra-Studi | Cakupan Pemeriksaan / Tindakan | Estimasi Biaya Home Service |
 |---|---|---|
-| **Paket Cek Lab Darah Titer Imunisasi** | Darah lengkap, Titer IgG Campak & Rubela, HBsAg, Anti-HBs kuantitatif | Rp 850.000 – Rp 1.250.000 |
-| **Vaksin Meningitis MenACWY** | Injeksi 1 dosis vaksin quadrivalent resmi + Buku Kuning ICV internasional | Rp 650.000 – Rp 850.000 |
-| **Vaksin MMR Dewasa** | Injeksi 1 dosis vaksin campak-gondongan-rubela terdaftar BPOM | Rp 550.000 – Rp 700.000 |
-| **Vaksin Tdap Booster** | Injeksi 1 dosis tetanus-difteri-pertusis dewasa | Rp 500.000 – Rp 650.000 |
-| **Paket Verifikasi Form & Konsultasi Dokter** | Visit dokter ke rumah, cek tanda vital, pengisian form kampus berbahasa Inggris | Rp 450.000 – Rp 550.000 |
+| **Paket Cek Lab Darah Titer Imunisasi** | Darah lengkap, Titer IgG Campak & Rubela, HBsAg, Anti-HBs kuantitatif | Paket Uji Lab (Hubungi WA JoC) |
+| **Vaksin Meningitis MenACWY** | Injeksi 1 dosis vaksin quadrivalent resmi + Buku Kuning ICV internasional | Vaksin Resmi (Hubungi WA JoC) |
+| **Vaksin MMR Dewasa** | Injeksi 1 dosis vaksin campak-gondongan-rubela terdaftar BPOM | Vaksin Resmi (Hubungi WA JoC) |
+| **Vaksin Tdap Booster** | Injeksi 1 dosis tetanus-difteri-pertusis dewasa | Vaksin Resmi (Hubungi WA JoC) |
+| **Paket Verifikasi Form & Konsultasi Dokter** | Visit dokter ke rumah, cek tanda vital, pengisian form kampus berbahasa Inggris | Layanan Dokter (Hubungi WA JoC) |
+
+Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
 
 *Catatan: Seluruh tarif sudah mencakup kunjungan tenaga medis ke rumah, spuit jarum steril, transport medis, dan penerbitan sertifikat resmi.*
 
@@ -165,4 +167,6 @@ Pasti diterima. Dokter umum Joy of Care memiliki Surat Tanda Registrasi (STR) ak
 
 Waktu terus berjalan mendekati hari keberangkatan Anda. Jangan biarkan urusan berkas medis menunda impian studi global Anda. Percayakan pemenuhan cek laboratorium, vaksinasi internasional, dan pengisian formulir medis kampus kepada tim profesional Joy of Care.
 
-Hubungi WhatsApp kami di [https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?) sekarang juga!
+Hubungi WhatsApp kami di [https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?) sekarang juga!
+
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Hubungi WhatsApp JoC untuk informasi harga](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?)

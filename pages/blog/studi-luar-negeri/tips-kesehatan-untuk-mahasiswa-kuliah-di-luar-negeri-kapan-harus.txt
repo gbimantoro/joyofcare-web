@@ -40,7 +40,7 @@ internal_links:
   url: /layanan/vaksinasi-di-rumah
 - anchor: Layanan Panggil Dokter ke Rumah Jakarta
   url: /layanan/panggil-dokter
-cta_text: Konsultasikan persiapan medical check-up, cek lab darah, dan vaksinasi studi
+cta_text: Hubungi WhatsApp JoC untuk informasi harga
   ke luar negeri langsung via WhatsApp Joy of Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -111,7 +111,7 @@ Berdasarkan pengalaman para pelajar sukses, terapkan kebiasaan disiplin berikut:
 ## Pertanyaan yang Sering Diajukan (FAQ)
 
 ### 1. Bagaimana jika mahasiswa mengalami sakit gigi parah saat berada di luar negeri?
-Bila belum memiliki asuransi gigi tambahan, biaya penanganan darurat di klinik gigi luar negeri berkisar antara AUD $150–$300 hanya untuk pemeriksaan awal dan obat pereda nyeri. Inilah mengapa dokter Joy of Care selalu mewajibkan seluruh calon mahasiswa untuk melakukan pemeriksaan gigi komprehensif di Indonesia sebelum terbang.
+Bila belum memiliki asuransi gigi tambahan, biaya penanganan darurat di klinik gigi luar negeri sangat mahal hanya untuk pemeriksaan awal dan obat pereda nyeri. Inilah mengapa tim dokter Joy of Care selalu menyarankan seluruh calon mahasiswa untuk melakukan pemeriksaan gigi komprehensif di Indonesia sebelum keberangkatan.
 
 ### 2. Apakah mahasiswa yang memiliki alergi makanan berat (seperti alergi kacang atau seafood) aman makan di luar negeri?
 Sangat aman asalkan Anda selalu waspada. Di negara seperti Australia, AS, dan Inggris, regulasi pelabelan alergen makanan pada menu restoran sangat ketat. Selalu beri tahu pelayan (*waiter*) mengenai alergi spesifik Anda dan bawalah obat antialergi darurat (*EpiPen / antihistamin*) di tas ransel Anda setiap saat.
@@ -125,4 +125,6 @@ Ya. Joy of Care sering melayani pemesanan skrining kesehatan kelompok bagi pener
 
 Perjalanan meraih gelar akademik impian di luar negeri adalah investasi masa depan yang luar biasa. Pastikan langkah awal Anda diawali dengan tubuh yang prima dan persiapan kesehatan yang sempurna bersama Joy of Care.
 
-Hubungi WhatsApp kami di [https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?) sekarang juga!
+Hubungi WhatsApp kami di [https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?) sekarang juga!
+
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Hubungi WhatsApp JoC untuk informasi harga](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?)

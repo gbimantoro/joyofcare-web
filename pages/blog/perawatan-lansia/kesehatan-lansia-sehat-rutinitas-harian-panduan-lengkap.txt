@@ -45,7 +45,7 @@ internal_links:
   url: /layanan/perawat-homecare
 - anchor: Layanan Cek Lab Darah di Rumah
   url: /layanan/cek-lab-di-rumah
-cta_text: Konsultasikan program rutinitas sehat dan perawatan lansia di rumah Anda
+cta_text: Hubungi WhatsApp JoC untuk informasi harga
   langsung via WhatsApp Joy of Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -140,4 +140,6 @@ Tanda bahaya meliputi: berat badan turun tanpa sebab jelas dalam 1 bulan, lansia
 
 Joy of Care hadir sebagai mitra terpercaya keluarga Anda di Jakarta dalam merancang dan mendampingi rutinitas kesehatan lansia yang aman, profesional, dan penuh kasih sayang. 
 
-Hubungi WhatsApp kami di [https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?) sekarang juga untuk konsultasi gratis bersama tim medis kami!
+Hubungi WhatsApp kami di [https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?) sekarang juga untuk konsultasi gratis bersama tim medis kami!
+
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Hubungi WhatsApp JoC untuk informasi harga](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?)

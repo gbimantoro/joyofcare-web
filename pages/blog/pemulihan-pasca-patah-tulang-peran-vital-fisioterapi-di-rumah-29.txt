@@ -43,7 +43,7 @@ internal_links:
   url: /blog/healthy-aging-3/bahaya-komplikasi-osteoporosis-dan-faktor-risiko-yang-wajib-diwaspadai-41
 - anchor: Layanan Perawat Homecare Medis Pascaoperasi
   url: /layanan/perawat-homecare
-cta_text: Konsultasikan kebutuhan perawatan kesehatan geriatri dan lansia keluarga
+cta_text: Hubungi WhatsApp JoC untuk informasi harga
   Anda langsung bersama dokter dan tim medis Joy of Care via WhatsApp di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -77,9 +77,7 @@ Fisioterapis berlisensi Joy of Care mendampingi pasien melalui empat tahapan kli
 
 ### Tahap 3: Latihan Beban Bertahap (Partial Weight-Bearing, Minggu 4–8)
 * Setelah dokter ortopedi melihat pembentukan kalus tulang awal (*soft callus*) pada foto rontgen kontrol, fisioterapis memandu latihan berdiri tegak menggunakan walker.
-* Pasien diajarkan menumpukan sebagian berat badan secara terkontrol (misalnya 25% $
-ightarrow$ 50% $
-ightarrow$ 75% bobot tubuh) agar tulang terangsang mengeras (*remodeling*) tanpa risiko pergeseran implan pen.
+* Pasien diajarkan menumpukan sebagian berat badan secara terkontrol (misalnya 25% bertahap ke 50% hingga 75% bobot tubuh) agar tulang terangsang mengeras (*remodeling*) tanpa risiko pergeseran implan pen.
 
 ### Tahap 4: Pelatihan Pola Berjalan dan Keseimbangan Mandiri (Minggu 8–16)
 * Transisi bertahap dari walker beroda ke tongkat tunggal, melatih koordinasi langkah normal, menaiki tangga rumah, dan membangun kembali rasa percaya diri lansia untuk beraktivitas mandiri tanpa rasa takut jatuh.
@@ -135,4 +133,4 @@ Sangat umum terjadi. Perubahan tekanan udara dan suhu dingin dapat memengaruhi j
 ### Dampingi Pemulihan Tulang Orang Tua Bersama Joy of Care
 Patah tulang bukanlah akhir dari kemandirian orang tua Anda. Dengan pendampingan fisioterapis ortopedi berpengalaman dari Joy of Care, kami siap membimbing langkah demi langkah pemulihan orang tua Anda di rumah dengan aman, sabar, dan penuh kepedulian.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Chat WhatsApp 08811-118-911](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?)
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Hubungi WhatsApp JoC untuk informasi harga](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?)

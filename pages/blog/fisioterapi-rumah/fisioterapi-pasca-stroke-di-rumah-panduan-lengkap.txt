@@ -42,7 +42,7 @@ internal_links:
   url: /layanan/perawat-homecare
 - anchor: Layanan Cek Lab Darah di Rumah
   url: /layanan/cek-lab-di-rumah
-cta_text: Konsultasikan kebutuhan rehabilitasi fisioterapi pasca stroke di rumah Anda
+cta_text: Hubungi WhatsApp JoC untuk informasi harga
   langsung via WhatsApp Joy of Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -153,4 +153,4 @@ Terapis membawa perlengkapan stimulasi saraf portabel (seperti TENS/NMES untuk s
 ### Mulai Pemulihan Stroke Bersama Joy of Care Hari Ini
 Setiap detik sangat berharga dalam proses neuroplastisitas otak. Berikan pendampingan fisioterapi pasca stroke terbaik langsung di rumah Anda bersama tim fisioterapis berdedikasi Joy of Care di Jakarta dan sekitarnya.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Chat WhatsApp 08811-118-911](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?)
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Hubungi WhatsApp JoC untuk informasi harga](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?)

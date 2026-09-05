@@ -15,11 +15,7 @@ variation_type: biaya-dan-perbandingan
 faq:
 - question: Apakah biaya vaksinasi lansia di rumah jauh lebih mahal dibandingkan datang
     ke faskes atau rumah sakit?
-  answer: Selisih biayanya relatif sangat kecil (berkisar antara Rp 100.000 hingga
-    Rp 200.000 untuk biaya kunjungan tenaga medis), namun bila memperhitungkan biaya
-    transportasi bolak-balik, tarif parkir, waktu cuti kerja anggota keluarga yang
-    mendampingi, serta risiko tertular infeksi nosokomial di faskes, layanan di rumah
-    justru jauh lebih hemat dan efisien.
+  answer: Selisih biaya langsung sangat kecil, namun bila memperhitungkan biaya transportasi bolak-balik, parkir faskes, serta hilangnya waktu produktif keluarga, vaksinasi lansia di rumah sesungguhnya jauh lebih hemat, praktis, dan aman. Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
 - question: Mengapa ruang tunggu klinik atau rumah sakit dinilai berisiko bagi orang
     tua lanjut usia?
   answer: Di faskes umum, lansia rentan terpapar kuman patogen udara (airborne diseases)
@@ -38,7 +34,7 @@ internal_links:
   url: /layanan/panggil-dokter
 - anchor: Layanan Cek Lab Darah di Rumah
   url: /layanan/cek-lab-di-rumah
-cta_text: Konsultasikan kebutuhan vaksinasi lansia di rumah Anda di Jakarta langsung
+cta_text: Konsultasi Dokter Gratis via WhatsApp
   via WhatsApp Joy of Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -81,20 +77,20 @@ Untuk memberikan gambaran utuh dan objektif bagi para pengambil keputusan keluar
 
 Banyak orang berasumsi bahwa datang langsung ke rumah sakit pasti jauh lebih murah daripada memanggil perawat ke rumah. Namun, jika kita menghitung *total cost of care* (biaya riil keseluruhan), perhitungannya sering kali berkata sebaliknya:
 
-### Rincian Simulasi Biaya Datang ke Rumah Sakit (Vaksin Influenza Kuadrivalen)
-1. Harga Vaksin di Kasir Faskes: Rp 350.000 – Rp 450.000
-2. Biaya Administrasi & Kartu Pasien RS: Rp 50.000 – Rp 100.000
-3. Jasa Konsultasi Dokter Spesialis / Dokter Umum RS: Rp 250.000 – Rp 450.000
-4. Biaya Transportasi Mobil Khusus Lansia / Taksi Online PP: Rp 150.000 – Rp 250.000
-5. Biaya Parkir & Konsumsi Pendamping di RS: Rp 50.000 – Rp 100.000
-6. **Total Biaya yang Dikeluarkan**: **Rp 850.000 – Rp 1.350.000** (belum termasuk hilangnya pemasukan karena harus izin cuti kerja 4–5 jam).
+### Simulasi Biaya Datang Sendiri ke Rumah Sakit (Vaksin Influenza Kuadrivalen)
+1. Tagihan kasir obat dan ampul vaksin di instalasi farmasi faskes.
+2. Biaya administrasi loket pendaftaran dan pembukaan kartu pasien rumah sakit.
+3. Jasa konsultasi dan pemeriksaan dokter di ruang poliklinik faskes.
+4. Biaya transportasi kendaraan khusus atau taksi online bolak-balik dalam kemacetan.
+5. Biaya parkir faskes dan konsumsi anggota keluarga selama menunggu antrean berjam-jam.
+6. **Hasil Akhir**: Total pengeluaran membengkak tinggi disertai kelelahan fisik lansia dan hilangnya jam kerja produktif pendamping.
 
-### Rincian Biaya Layanan Vaksin di Rumah Joy of Care
-1. Paket All-in Vaksin Influenza Kuadrivalen Homecare: Rp 550.000 – Rp 675.000
-2. Jasa Transportasi Medis & Visit Fee Tenaga Kesehatan: Sudah termasuk dalam paket
-3. Alat Suntik Steril, Swab Aseptik, & Cold-Chain Transport: Sudah termasuk dalam paket
-4. Skrining Tanda Vital & Observasi KIPI 30 Menit: Sudah termasuk dalam paket
-5. **Total Biaya Bersih**: **Rp 550.000 – Rp 675.000** (Tanpa biaya tersembunyi, keluarga tetap produktif bekerja dari rumah).
+### Keunggulan Layanan Vaksin di Rumah Joy of Care
+1. Paket All-in Vaksin Influenza Kuadrivalen homecare transparan tanpa biaya terselubung.
+2. Jasa transportasi tenaga medis dan visit fee dokter/perawat sudah termasuk dalam paket layanan.
+3. Jarum suntik mikro sekali pakai, perlengkapan aseptik, serta cold-chain box terstandar medis sudah termasuk.
+4. Skrining tanda vital komprehensif dan observasi KIPI selama 30 menit pascapenyuntikan sudah termasuk.
+5. **Hasil Akhir**: Lansia terlindungi nyaman di tempat tidur sendiri, keluarga tenang tanpa perlu izin cuti kerja, dan pengeluaran total terbukti lebih hemat. Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
 
 Terlihat jelas bahwa untuk satu tindakan preventif vaksinasi lansia, layanan home visit Joy of Care tidak hanya menawarkan kenyamanan tak ternilai, namun secara finansial justru lebih ekonomis dan efisien.
 
@@ -127,4 +123,6 @@ Joy of Care melayani seluruh kawasan DKI Jakarta (Jakarta Selatan, Pusat, Barat,
 
 Berikan perlindungan terbaik bagi kesehatan orang tua Anda tanpa harus mengorbankan waktu kerja dan kenyamanan fisik mereka. Hubungi konsultan medis Joy of Care sekarang untuk reservasi jadwal kunjungan dokter atau perawat.
 
-Hubungi WhatsApp kami di [https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?) sekarang juga!
+Hubungi WhatsApp kami di [https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter) sekarang juga!
+
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)

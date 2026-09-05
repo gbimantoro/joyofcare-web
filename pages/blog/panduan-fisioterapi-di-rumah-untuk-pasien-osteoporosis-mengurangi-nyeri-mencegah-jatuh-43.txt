@@ -46,7 +46,7 @@ internal_links:
   url: /blog/healthy-aging-3/layanan-terapi-infus-injeksi-osteoporosis-di-rumah-pasien-homecare-42
 - anchor: Layanan Fisioterapi Homecare Joy of Care
   url: /layanan/fisioterapi
-cta_text: Konsultasikan kebutuhan perawatan kesehatan tulang keluarga Anda langsung
+cta_text: Konsultasi Dokter Gratis via WhatsApp
   bersama dokter dan tim medis Joy of Care via WhatsApp di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -135,4 +135,4 @@ Total waktu yang direkomendasikan adalah 150 menit per minggu, yang dapat dibagi
 ### Pulihkan Mobilitas dan Percaya Diri Bersama Joy of Care
 Jangan biarkan ketakutan akan patah tulang membatasi hari tua Anda. Fisioterapis berlisensi resmi Dinas Kesehatan dari Joy of Care siap mendampingi Anda dan orang tua tercinta di rumah dengan program rehabilitasi yang aman, terukur, dan penuh kehangatan.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Chat WhatsApp 08811-118-911](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?)
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)

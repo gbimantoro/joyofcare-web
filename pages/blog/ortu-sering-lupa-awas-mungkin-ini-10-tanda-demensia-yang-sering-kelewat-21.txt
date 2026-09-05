@@ -42,7 +42,7 @@ internal_links:
   url: /layanan/perawat-homecare
 - anchor: Panduan Nutrisi Otak Lansia
   url: /blog/healthy-aging-3/panduan-nutrisi-untuk-lansia-makanan-wajib-untuk-tulang-kuat-energi-22
-cta_text: Konsultasikan kebutuhan perawatan kesehatan geriatri dan lansia keluarga
+cta_text: Konsultasi Dokter Gratis via WhatsApp
   Anda langsung bersama dokter dan tim medis Joy of Care via WhatsApp di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -137,4 +137,4 @@ Demensia degeneratif seperti Alzheimer tidak dapat disembuhkan total, namun dete
 ### Pendampingan Medis dan Perawat Geriatri Bersama Joy of Care
 Merawat orang tua dengan penurunan kognitif membutuhkan kesabaran luar biasa dan teknik komunikasi terapeutik yang tepat. Perawat homecare terlatih dari Joy of Care siap mendampingi aktivitas harian, stimulasi memori, dan memastikan keselamatan orang tua Anda di rumah dengan penuh kasih sayang.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Chat WhatsApp 08811-118-911](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?)
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)

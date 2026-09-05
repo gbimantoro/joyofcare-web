@@ -39,7 +39,7 @@ internal_links:
   url: /layanan/perawat-homecare
 - anchor: Layanan Cek Lab Darah di Rumah
   url: /layanan/cek-lab-di-rumah
-cta_text: Konsultasikan kebutuhan kunjungan dokter ke rumah Anda di Jakarta dan sekitarnya
+cta_text: Konsultasi Dokter Gratis via WhatsApp
   langsung via WhatsApp Joy of Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -125,4 +125,4 @@ Sangat bisa. Dokter menangani evaluasi penyakit kronis, penggantian selang NGT a
 ### Konsultasikan Kesehatan Keluarga Anda Bersama Joy of Care
 Percayakan perawatan kesehatan primer orang tua dan keluarga Anda kepada dokter Joy of Care. Dapatkan penanganan medis yang cermat, bersertifikasi resmi Dinas Kesehatan, dan berdedikasi melayani hunian Anda di Jakarta.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Chat WhatsApp 08811-118-911](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?)
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)

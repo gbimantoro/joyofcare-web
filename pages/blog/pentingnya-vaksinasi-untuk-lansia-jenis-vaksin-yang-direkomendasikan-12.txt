@@ -41,7 +41,7 @@ internal_links:
   url: /blog/healthy-aging-3/vaksinasi-pneumonia-lindungi-opa-oma-39
 - anchor: Layanan Dokter Kunjungan ke Rumah
   url: /layanan/panggil-dokter
-cta_text: Konsultasikan kebutuhan vaksinasi lansia dan keluarga Anda langsung bersama
+cta_text: Konsultasi Dokter Gratis via WhatsApp
   dokter Joy of Care via WhatsApp di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -127,4 +127,4 @@ Boleh (diberikan secara co-administration), asalkan disuntikkan pada lengan yang
 ### Layanan Vaksinasi Lansia di Rumah Bersama Joy of Care
 Membawa orang tua yang rentan ke rumah sakit hanya untuk disuntik vaksin justru meningkatkan risiko mereka tertular virus lain di ruang tunggu. Layanan Vaksinasi Homecare Joy of Care menghadirkan dokter berizin resmi ke rumah Anda lengkap dengan sistem penyimpanan rantai dingin (*cold-chain*) berstandar internasional.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Chat WhatsApp 08811-118-911](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?)
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)

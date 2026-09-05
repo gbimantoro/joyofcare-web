@@ -43,7 +43,7 @@ internal_links:
   url: /layanan/perawat-homecare
 - anchor: Layanan Terapi Infus Vitamin di Rumah
   url: /layanan/infus-vitamin-di-rumah
-cta_text: Konsultasikan tarif dan jadwalkan kunjungan dokter ke rumah Anda di Jakarta
+cta_text: Hubungi WhatsApp JoC untuk informasi harga
   dan sekitarnya langsung via WhatsApp Joy of Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -72,7 +72,7 @@ Berikut adalah ulasan mendalam atas pertanyaan administratif dan finansial yang 
 
 ### 1. Seputar Cakupan dan Besaran Biaya Kunjungan
 * **Tanya: Apa saja yang sudah termasuk ke dalam tarif visit dokter dasar Joy of Care?**
-  * *Jawab*: Tarif visit dasar dokter Joy of Care (Rp 275.000 – Rp 400.000) bersifat komprehensif, mencakup: jasa konsultasi medis mendalam selama 45–60 menit, pemeriksaan fisik lengkap (tensi darah, stetoskop paru dan jantung, saturasi SpO2, termometer), pemeriksaan gula darah atau asam urat sewaktu sederhana jika diperlukan, evaluasi interaksi obat rutin, penerbitan surat rujukan resmi berstempel SIP dokter, serta surat izin istirahat sakit resmi bagi pekerja kantoran.
+  * *Jawab*: Tarif visit dasar dokter Joy of Care bersifat transparan dan komprehensif, mencakup: jasa konsultasi medis mendalam selama 45–60 menit, pemeriksaan fisik lengkap (tensi darah, stetoskop paru dan jantung, saturasi SpO2, termometer), pemeriksaan gula darah atau asam urat sewaktu sederhana jika diperlukan, evaluasi interaksi obat rutin, penerbitan surat rujukan resmi berstempel SIP dokter, serta surat izin istirahat sakit resmi bagi pekerja kantoran.
 * **Tanya: Apakah tarif dokter ke rumah di Joy of Care lebih mahal jika dipanggil pada hari Sabtu, Minggu, atau hari libur nasional?**
   * *Jawab*: Tidak ada perbedaan tarif untuk kunjungan akhir pekan reguler (Sabtu dan Minggu) di siang hari. Joy of Care berkomitmen menjaga aksesibilitas kesehatan keluarga tetap terjangkau setiap hari. Penyesuaian tarif (*modest emergency surcharge*) hanya berlaku untuk panggilan darurat larut malam (antara pukul 21.00 malam hingga 06.00 pagi).
 
@@ -84,7 +84,7 @@ Berikut adalah ulasan mendalam atas pertanyaan administratif dan finansial yang 
 
 ### 3. Seputar Biaya Tindakan Prosedural dan Obat-obatan
 * **Tanya: Berapa biaya jika dokter harus melakukan tindakan penggantian selang kateter atau NGT saat kunjungan?**
-  * *Jawab*: Biaya tindakan medis tambahan berkisar antara Rp 200.000 hingga Rp 400.000, sudah mencakup bahan medis habis pakai (BMHP) berkualitas steril seperti selang silikon, pelumas antiseptik, spuit irigasi, dan kantong penampung urin steril. Dokter akan selalu meminta persetujuan keluarga (*informed consent*) dan menjelaskan rincian biaya sebelum tindakan medis dimulai.
+  * *Jawab*: Biaya tindakan medis tambahan bersifat transparan dan sudah mencakup bahan medis habis pakai (BMHP) berkualitas steril. Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care? Dokter akan selalu meminta persetujuan keluarga (*informed consent*) dan menjelaskan rincian biaya sebelum tindakan medis dimulai.
 * **Tanya: Apakah keluarga wajib membeli obat dari apotek rekanan Joy of Care?**
   * *Jawab*: Sama sekali tidak wajib. Dokter Joy of Care akan menuliskan resep obat resmi yang bebas ditebus di apotek mana pun yang Anda kehendaki. Jika keluarga menghendaki kepraktisan, apotek mitra Joy of Care siap mengantarkan obat resmi bersegel langsung ke kediaman Anda dengan kurir medis kilat.
 
@@ -103,8 +103,8 @@ Berikut adalah ulasan mendalam atas pertanyaan administratif dan finansial yang 
 | **Penerbitan Resep Obat Resmi** | **Ya (Termasuk Penuh)** | Surat resep dokter ber-SIP aktif |
 | **Penerbitan Surat Keterangan Sakit** | **Ya (Termasuk Penuh)** | Surat resmi untuk izin kantor/sekolah |
 | **Pengisian Formulir Klaim Asuransi** | **Ya (Termasuk Penuh)** | Ditandatangani langsung dokter ber-SIP |
-| **Tindakan Ganti Selang NGT/Kateter** | Tambahan Tindakan Medis | Rp 200.000 – Rp 400.000 (Konfirmasi awal) |
-| **Terapi Uap Nebulizer di Rumah** | Tambahan Tindakan Medis | Rp 150.000 – Rp 250.000 (Konfirmasi awal) |
+| **Tindakan Ganti Selang NGT/Kateter** | Tambahan Tindakan Medis | Transparan (Konfirmasi Awal via WA) |
+| **Terapi Uap Nebulizer di Rumah** | Tambahan Tindakan Medis | Transparan (Konfirmasi Awal via WA) |
 | **Biaya Obat-obatan Farmasi** | Tagihan Farmasi Mandiri | Sesuai resep dokter & HET resmi apotek |
 
 ---
@@ -137,4 +137,4 @@ Pembatalan pesanan bebas biaya jika dilakukan minimal 2 jam sebelum jadwal kedat
 ### Konsultasikan Kebutuhan Dokter ke Rumah Anda Sekarang
 Jangan biarkan pertanyaan mengenai biaya menunda penanganan medis anggota keluarga tercinta. Tim Joy of Care siap memberikan estimasi biaya yang transparan, jujur, dan terjangkau langsung di smartphone Anda.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Chat WhatsApp 08811-118-911](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?)
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Hubungi WhatsApp JoC untuk informasi harga](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?)

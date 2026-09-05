@@ -15,10 +15,7 @@ variation_type: panduan-lengkap
 faq:
 - question: Berapa kisaran harga layanan infus vitamin di rumah di Jakarta pada tahun
     2026?
-  answer: Harga terapi infus vitamin di rumah Joy of Care berkisar antara Rp 475.000
-    untuk suntik vitamin C murni (injeksi IV langsung), Rp 635.000 hingga Rp 850.000
-    untuk paket infus drip multivitamin B Kompleks + Vitamin C 1.000 mg, dan Rp 1.200.000
-    hingga Rp 1.800.000 untuk paket premium Immune Booster / Anti-Fatigue Cocktail.
+  answer: Tarif terapi infus vitamin di rumah Joy of Care ditentukan transparan berdasarkan formulasi multivitamin yang dibutuhkan (Vitamin C murni, Neurotropik B Kompleks, hingga Immune Booster Cocktail), sudah all-in dengan jasa perawat profesional. Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
 - question: Apa keunggulan terapi vitamin lewat infus (IV drip) dibandingkan minum
     suplemen tablet oral?
   answer: Melalui infus intravena, bioavailabilitas vitamin mencapai 100% karena langsung
@@ -43,7 +40,7 @@ internal_links:
   url: /layanan/perawat-homecare
 - anchor: Layanan Cek Lab Darah di Rumah
   url: /layanan/cek-lab-di-rumah
-cta_text: Konsultasikan kebutuhan terapi infus vitamin dan immune booster di rumah
+cta_text: Hubungi WhatsApp JoC untuk informasi harga
   Anda di Jakarta langsung via WhatsApp Joy of Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -62,7 +59,7 @@ clinical_references:
 
 > ### 💡 Poin Kunci (Key Takeaways)
 > * **Penyerapan Maksimal 100%**: Vitamin intravena langsung diserap sel-sel tubuh tanpa terbuang di lambung, memberikan pemulihan kebugaran yang cepat.
-> * **Transparansi Tarif Resmi 2026**: Paket suntik vitamin C mulai Rp 475.000-an, paket infus drip B+C Rp 635.000-an, hingga formula immune booster lengkap tanpa biaya tersembunyi.
+> * **Transparansi Tarif Resmi**: Paket suntik vitamin C, infus drip multivitamin B+C, hingga formula immune booster lengkap disajikan dengan sistem tarif all-in tanpa biaya tersembunyi. Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
 > * **Skrining Medis Pra-Tindakan**: Wajib pemeriksaan tekanan darah, nadi, saturasi oksigen, dan penapisan riwayat alergi sebelum selang infus dipasang.
 > * **Tenaga Medis Berizin Resmi**: Dilakukan secara steril oleh perawat medis D3/S1 Keperawatan ber-STR aktif dengan pengawasan dokter penanggung jawab.
 
@@ -89,11 +86,13 @@ Berikut adalah tabel transparansi biaya resmi layanan terapi infus dan suntik vi
 
 | Nama Paket Terapi Vitamin | Kandungan Formula Medis | Estimasi Biaya Resmi | Indikasi & Manfaat Klinis |
 |---|---|---|---|
-| **Suntik Vitamin C Murni (IV Push)** | Pure Vitamin C 1.000 mg steril | Rp 475.000 / sesi | Imunitas harian, pencerah kulit, antioksidan |
-| **Infus Multivitamin B + C Drip** | Vit C 1.000 mg + B1, B6, B12 Neurotropik | Rp 636.500 / sesi | Atasi badan pegal, lemas, kelelahan kerja |
-| **Paket Immune Booster Platinum** | Vit C Dosis Tinggi + B Kompleks + Zinc + Elektrolit | Rp 850.000 – Rp 1.100.000 | Masa pemulihan pasca-DBD, tifus, atau flu berat |
-| **Paket Anti-Fatigue & Vitalitas** | Formula Myers Cocktail (Magnesium, B-Kompleks, C) | Rp 1.150.000 – Rp 1.450.000 | Mengatasi migrain, insomnia, jet lag, burnout |
-| **Paket Geriatri Wellness Lansia** | Multivitamin B-Kompleks + Hidrasi Cairan Elektrolit | Rp 750.000 – Rp 950.000 | Lansia sulit makan, dehidrasi ringan, lemas |
+| **Suntik Vitamin C Murni (IV Push)** | Pure Vitamin C 1.000 mg steril | Paket Standar (Hubungi WA JoC) | Imunitas harian, pencerah kulit, antioksidan |
+| **Infus Multivitamin B + C Drip** | Vit C 1.000 mg + B1, B6, B12 Neurotropik | Paket Neurotropik (Hubungi WA JoC) | Atasi badan pegal, lemas, kelelahan kerja |
+| **Paket Immune Booster Platinum** | Vit C Dosis Tinggi + B Kompleks + Zinc + Elektrolit | Paket Pemulihan (Hubungi WA JoC) | Masa pemulihan pasca-DBD, tifus, atau flu berat |
+| **Paket Anti-Fatigue & Vitalitas** | Formula Myers Cocktail (Magnesium, B-Kompleks, C) | Paket Vitalitas (Hubungi WA JoC) | Mengatasi migrain, insomnia, jet lag, burnout |
+| **Paket Geriatri Wellness Lansia** | Multivitamin B-Kompleks + Hidrasi Cairan Elektrolit | Paket Lansia (Hubungi WA JoC) | Lansia sulit makan, dehidrasi ringan, lemas |
+
+Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
 
 *Catatan: Seluruh tarif di atas sudah bersifat all-in, mencakup biaya obat ampul vitamin berizin BPOM RI, cairan infus steril, abocath jarum mikro, selang infus makro/mikro, alkohol swab, jasa perawat medis bersertifikasi STR, dan biaya transportasi ke kediaman Anda di Jakarta.*
 
@@ -131,7 +130,7 @@ Kekhawatiran terbesar masyarakat awam adalah apakah infus vitamin C dosis tinggi
 ## Pertanyaan yang Sering Diajukan (FAQ)
 
 ### Berapa kisaran harga layanan infus vitamin di rumah di Jakarta pada tahun 2026?
-Harga terapi infus vitamin di rumah Joy of Care berkisar antara Rp 475.000 untuk suntik vitamin C murni (injeksi IV langsung), Rp 635.000 hingga Rp 850.000 untuk paket infus drip multivitamin B Kompleks + Vitamin C 1.000 mg, dan Rp 1.200.000 hingga Rp 1.800.000 untuk paket premium Immune Booster / Anti-Fatigue Cocktail.
+Harga terapi infus vitamin di rumah Joy of Care disesuaikan dengan formulasi nutrisi yang dipilih, mulai dari injeksi vitamin C murni, multivitamin neurotropik B-kompleks, hingga formula immune booster lengkap dengan jaminan all-in bebas biaya tersembunyi. Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
 
 ### Apa keunggulan terapi vitamin lewat infus (IV drip) dibandingkan minum suplemen tablet oral?
 Melalui infus intravena, bioavailabilitas vitamin mencapai 100% karena langsung masuk ke aliran darah tanpa melewati proses degradasi enzim dan asam lambung di saluran cerna, memberikan efek pemulihan energi dan perbaikan daya tahan tubuh secara instan.
@@ -147,4 +146,4 @@ Satu sesi infus drip kantong 100–500 ml cairan hidrasi elektrolit bervitamin m
 ### Kembalikan Kebugaran Tubuh Anda Hari Ini Bersama Joy of Care
 Jangan biarkan tubuh yang lelah menurunkan kualitas hidup dan kinerja Anda. Rasakan sensasi pemulihan stamina yang segar dan berenergi langsung di kenyamanan kamar tidur atau sofa rumah Anda bersama Joy of Care.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Chat WhatsApp 08811-118-911](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?)
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Hubungi WhatsApp JoC untuk informasi harga](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?)

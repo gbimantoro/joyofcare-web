@@ -44,7 +44,7 @@ internal_links:
   url: /blog/studi-luar-negeri-4/cara-menyiapkan-persyaratan-kesehatan-untuk-studi-di-australia-18
 - anchor: Persyaratan Tambahan Jurusan Kesehatan Australia
   url: /blog/studi-luar-negeri-4/perhatikan-persyaratan-tambahan-bagi-beberapa-jurusan-studi-di-australia-17
-cta_text: Konsultasikan kebutuhan vaksinasi internasional, cek lab, dan surat keterangan
+cta_text: Hubungi WhatsApp JoC untuk informasi harga
   sehat studi luar negeri Anda via WhatsApp Joy of Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -76,7 +76,7 @@ Vaksin di bawah ini hampir selalu menjadi syarat wajib dalam formulir pra-regist
 
 ### 3. Vaksin Hepatitis B (Mutlak untuk Rumpun Kesehatan)
 * **Mengapa Wajib?**: Diwajibkan bagi seluruh mahasiswa Kedokteran, Keperawatan, Fisioterapi, Kedokteran Gigi, dan Farmasi.
-* **Aturan Dosis**: Rangkaian 3 dosis primer (jadwal 0, 1, dan 6 bulan) ditambah bukti hasil tes darah titer **HBsAb kuantitatif $\ge$ 10 mIU/mL**.
+* **Aturan Dosis**: Rangkaian 3 dosis primer (jadwal 0, 1, dan 6 bulan) ditambah bukti hasil tes darah titer **HBsAb kuantitatif ≥ 10 mIU/mL**.
 
 ## Kategori 2: Vaksin yang Sangat DISARANKAN Secara Medis (Recommended)
 
@@ -96,7 +96,7 @@ Meskipun tidak selalu diminta secara hukum untuk semua jurusan, dokter spesialis
 
 ## Mengapa Harus Vaksinasi di Indonesia Sebelum Berangkat?
 
-1. **Penghematan Biaya Hingga 50%**: Biaya satu kali suntik vaksin di klinik Australia (misalnya Bupa Health Services atau GP Clinic) bisa mencapai $150 hingga $300 AUD per dosis di luar biaya konsultasi dokter ($80–$120 AUD). Di Indonesia, biayanya jauh lebih terjangkau.
+1. **Penghematan Biaya Hingga 50%**: Biaya satu kali suntik vaksin di klinik Australia (misalnya Bupa Health Services atau GP Clinic) relatif sangat mahal per dosis di luar biaya konsultasi dokter umum. Di Indonesia melalui layanan vaksinasi Joy of Care, biayanya jauh lebih hemat dan terjangkau.
 2. **Kesiapan Registrasi Kampus**: Anda mendarat di Australia dengan berkas medis yang sudah 100% lengkap, sehingga tidak terhambat saat *enrolment day*.
 3. **Kenyamanan di Rumah**: Bersama Joy of Care, seluruh rangkaian vaksinasi dapat dilakukan di rumah tanpa antre.
 
@@ -139,4 +139,4 @@ Efek samping seperti demam sumeng atau pegal otot di lengan adalah respons imun 
 ### Solusi Vaksinasi Studi Luar Negeri di Rumah Bersama Joy of Care
 Jangan tunda persiapan kesehatan studi Anda hingga mendekati tanggal keberangkatan. Tim dokter berizin resmi Joy of Care siap memberikan paket lengkap vaksinasi studi Australia langsung di rumah Anda di Jabodetabek, lengkap dengan legalisasi formulir medis resmi universitas.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Chat WhatsApp 08811-118-911](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?)
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Hubungi WhatsApp JoC untuk informasi harga](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?)

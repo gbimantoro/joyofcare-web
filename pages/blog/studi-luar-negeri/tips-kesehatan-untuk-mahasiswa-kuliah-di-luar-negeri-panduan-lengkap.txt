@@ -51,7 +51,7 @@ internal_links:
   url: /layanan/panggil-dokter
 - anchor: Layanan Perawat Medis Homecare
   url: /layanan/perawat-homecare
-cta_text: Konsultasikan persiapan medical check-up, cek lab darah, dan vaksinasi studi
+cta_text: Konsultasi Dokter Gratis via WhatsApp
   ke luar negeri langsung via WhatsApp Joy of Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -152,7 +152,7 @@ Bagi keluarga di Jakarta yang ingin memastikan anak mereka dalam kondisi fisik 1
 Jika buku imunisasi masa kecil hilang, calon mahasiswa dapat melakukan tes darah titer antibodi (seperti Titer IgG Campak, Rubela, dan Anti-HBs) melalui [Layanan Cek Lab Darah di Rumah Joy of Care](/layanan/cek-lab-di-rumah). Hasil laboratorium yang menunjukkan titer antibodi positif diakui secara sah oleh universitas internasional sebagai bukti kekebalan tubuh tanpa harus mengulang suntikan dari awal.
 
 ### 2. Apakah asuransi mahasiswa OSHC di Australia atau IHS di Inggris menanggung biaya perawatan gigi?
-Mayoritas asuransi standar pelajar internasional **TIDAK** menanggung perawatan gigi (*dental care*) dan kacamata (*optometry*). Biaya penambalan atau pencabutan gigi bungsu di luar negeri dapat mencapai Rp 5.000.000 hingga Rp 15.000.000 per gigi. Oleh sebab itu, periksakan dan tuntaskan seluruh masalah gigi Anda ke dokter gigi di Indonesia sebelum tanggal keberangkatan.
+Mayoritas asuransi standar pelajar internasional **TIDAK** menanggung perawatan gigi (*dental care*) dan kacamata (*optometry*). Biaya penambalan atau pencabutan gigi bungsu di luar negeri dapat sangat mahal mencapai jutaan hingga belasan juta rupiah per gigi. Oleh sebab itu, periksakan dan tuntaskan seluruh masalah gigi Anda ke dokter gigi di Indonesia sebelum tanggal keberangkatan.
 
 ### 3. Berapa lama masa berlaku sertifikat vaksinasi internasional (Buku Kuning / ICV)?
 Masa berlaku sertifikat internasional bergantung pada jenis vaksin: vaksin Meningitis MenACWY berlaku selama 3 hingga 5 tahun, vaksin Tdap berlaku 10 tahun, sedangkan vaksin demam kuning (*yellow fever*) kini berlaku seumur hidup.
@@ -163,4 +163,6 @@ Masa berlaku sertifikat internasional bergantung pada jenis vaksin: vaksin Menin
 
 Raih cita-cita akademik Anda di kancah internasional dengan tubuh yang sehat, bugar, dan persiapan dokumen medis yang lengkap. Hubungi tim Joy of Care untuk paket pemeriksaan MCU dan vaksinasi pelajar di rumah Anda.
 
-Hubungi WhatsApp kami di [https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?) sekarang juga!
+Hubungi WhatsApp kami di [https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter) sekarang juga!
+
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)

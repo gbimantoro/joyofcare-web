@@ -27,9 +27,7 @@ faq:
     dimulai.
 - question: Berapa perbandingan biaya riil antara fisioterapi di rumah versus datang
     ke klinik?
-  answer: Biaya sesi terapi per visit adalah setara (Rp 250.000 – Rp 350.000). Namun
-    pergi ke klinik menambah beban biaya transportasi taksi khusus/kursi roda (Rp
-    150.000 – Rp 300.000 PP) serta waktu kerja keluarga yang hilang hingga 3 jam per
+  answer: Biaya sesi fisioterapi per visit sangat kompetitif dan transparan. Melakukan terapi di rumah menghapus total biaya sewa taksi kursi roda dan menghemat waktu produktif keluarga hingga berjam-jam. Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
     kedatangan.
 - question: Apakah fisioterapis yang datang ke rumah membawa peralatan modalitas pereda
     nyeri?
@@ -45,7 +43,7 @@ internal_links:
   url: /layanan/panggil-dokter
 - anchor: Layanan Perawat Lansia Homecare
   url: /layanan/perawat-homecare
-cta_text: Konsultasikan kebutuhan fisioterapi lansia di rumah Anda di Jakarta dan
+cta_text: Konsultasi Dokter Gratis via WhatsApp
   Jabodetabek langsung via WhatsApp Joy of Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -87,8 +85,8 @@ Ruang tunggu klinik rumah sakit mempertemukan lansia dengan berbagai pasien infe
 
 | Parameter Evaluasi | Datang ke Klinik Fisioterapi / RS | Fisioterapi di Rumah (Joy of Care) |
 |---|---|---|
-| **Tarif Jasa Terapis Dasar** | Rp 250.000 – Rp 400.000 / sesi | **Rp 275.000 – Rp 350.000 / sesi (Setara)** |
-| **Biaya Tambahan Transportasi** | Rp 150.000 – Rp 300.000 (Taksi/Ambulans PP) | **Rp 0 – Rp 50.000 (Biaya transport terapis flat)** |
+| **Tarif Jasa Fisioterapis Dasar** | Tarif standar klinik atau rumah sakit | **Kompetitif & Transparan (Hubungi WA JoC)** |
+| **Biaya Tambahan Transportasi** | Biaya tinggi sewa taksi khusus kursi roda PP | **Bebas Biaya Transportasi (Terapis datang ke rumah)** |
 | **Waktu yang Terbuang** | 3 hingga 4 jam (perjalanan + antre kasir) | **Hanya 60 menit tepat waktu di rumah** |
 | **Kondisi Fisik Pra-Latihan** | Lelah, sendi kaku akibat duduk di mobil | **Bugar, segar, rileks di kamar pribadi** |
 | **Relevansi Lingkungan Latihan** | Simulasi di alat gym statis klinik | **Latihan nyata di tangga, kasur, & toilet rumah** |
@@ -119,7 +117,7 @@ Penelitian menunjukkan fisioterapi di rumah bahkan lebih efektif untuk pasien ge
 Guncangan kendaraan di jalanan macet Jakarta, proses transfer naik-turun mobil, dan duduk berlama-lama di ruang tunggu klinik dapat memicu kekakuan sendi akut (joint stiffness), kelelahan otot, dan lonjakan tekanan darah sebelum latihan dimulai.
 
 ### Berapa perbandingan biaya riil antara fisioterapi di rumah versus datang ke klinik?
-Biaya sesi terapi per visit adalah setara (Rp 250.000 – Rp 350.000). Namun pergi ke klinik menambah beban biaya transportasi taksi khusus/kursi roda (Rp 150.000 – Rp 300.000 PP) serta waktu kerja keluarga yang hilang hingga 3 jam per kedatangan.
+Biaya sesi terapi per visit Joy of Care sangat terjangkau dan transparan. Keunggulan terbesar homecare adalah menghapus seluruh biaya sewa transportasi khusus, bebas macet, dan tidak menyita jam kerja anggota keluarga. Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
 
 ### Apakah fisioterapis yang datang ke rumah membawa peralatan modalitas pereda nyeri?
 Ya, fisioterapis Joy of Care membawa peralatan modalitas portabel berstandar medis lengkap seperti alat stimulasi saraf listrik (TENS), ultrasound therapy, dan resistance band elastis.
@@ -129,4 +127,4 @@ Ya, fisioterapis Joy of Care membawa peralatan modalitas portabel berstandar med
 ### Berikan Pengalaman Fisioterapi yang Paling Nyaman untuk Orang Tua
 Mengapa harus memaksakan orang tua berjuang menembus kemacetan jika pelayanan fisioterapi bintang lima dapat hadir langsung di ruang keluarga Anda? Hubungi Joy of Care hari ini untuk menjadwalkan kunjungan fisioterapis lansia terpercaya di Jakarta.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Chat WhatsApp 08811-118-911](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?)
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)

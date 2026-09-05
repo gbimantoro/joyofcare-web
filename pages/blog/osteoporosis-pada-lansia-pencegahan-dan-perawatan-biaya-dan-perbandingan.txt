@@ -43,7 +43,7 @@ internal_links:
   url: /layanan/cek-lab-di-rumah
 - anchor: Layanan Perawat Medis Homecare
   url: /layanan/perawat-homecare
-cta_text: Konsultasikan program pencegahan dan perawatan osteoporosis lansia di rumah
+cta_text: Hubungi WhatsApp JoC untuk informasi harga
   langsung via WhatsApp Joy of Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -103,18 +103,18 @@ Dunia farmakologi medis geriatri memiliki beberapa lini pengobatan utama yang di
 Banyak keluarga enggan memulai terapi obat medis osteoporosis karena menganggap biayanya mahal. Mari kita lihat perbandingan finansial riil:
 
 ### Rincian Biaya Terapi Terpadu Joy of Care (1 Tahun)
-1. Obat Bisfosfonat Oral Mingguan / Injeksi Denosumab 6 Bulan: Rp 2.500.000 – Rp 6.000.000/tahun
-2. Suplemen Kalsium Sitrat + Vitamin D3 Harian: Rp 1.500.000 – Rp 2.400.000/tahun
-3. Paket Sesi Bersama [Layanan Fisioterapi di Rumah Joy of Care](/layanan/fisioterapi-di-rumah) (2x per bulan): Rp 8.400.000/tahun
-4. Pemeriksaan DEXA Scan & Laboratorium Darah Tahunan: Rp 1.500.000 – Rp 2.500.000
-5. **Total Biaya Terapi Terpadu**: **Rp 13.900.000 – Rp 19.300.000/tahun**.
+1. Obat Bisfosfonat Oral Mingguan / Injeksi Denosumab 6 Bulan: Terapi terarah memperkuat densitas massa tulang.
+2. Suplemen Kalsium Sitrat + Vitamin D3 Harian: Nutrisi optimal penyerapan kalsium ke matriks tulang.
+3. Paket Sesi Bersama [Layanan Fisioterapi di Rumah Joy of Care](/layanan/fisioterapi-di-rumah): Memperkuat otot penyangga sendi dan melatih refleks keseimbangan gerak.
+4. Pemeriksaan DEXA Scan & Laboratorium Darah Tahunan: Pemantauan presisi terhadap kepadatan mineral tulang.
+5. **Hasil Program Terpadu**: Risiko patah tulang dapat ditekan hingga lebih dari 80%, mempertahankan mobilitas lansia mandiri tanpa ketergantungan. Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
 
-### Bandingkan dengan Biaya Fraktur Panggul Akibat Jatuh Tanpa Terapi (1 Kasus)
-1. Operasi Bedah Penggantian Panggul Total (*Total Hip Arthroplasty*) di RS Swasta: Rp 80.000.000 – Rp 140.000.000
-2. Perawatan ICU Pascaoperasi (3–5 hari): Rp 25.000.000 – Rp 50.000.000
-3. Rehabilitasi Rawat Inap & Sewa Kursi Roda: Rp 15.000.000 – Rp 30.000.000
-4. Kebutuhan Perawat Menginap 24 Jam Pasca-Fraktur: Rp 60.000.000 – Rp 90.000.000/tahun
-5. **Total Biaya Fraktur Akut**: **Rp 180.000.000 – Rp 310.000.000+** (belum memperhitungkan risiko kematian 20% dalam 1 tahun pascafraktur).
+### Bandingkan dengan Risiko Bencana Medis Fraktur Panggul Tanpa Terapi
+1. Operasi Bedah Penggantian Panggul Total (*Total Hip Arthroplasty*) di rumah sakit dengan biaya fantastis.
+2. Perawatan intensif ICU pascaoperasi akibat komplikasi anestesi dan pendarahan bedah.
+3. Biaya rehabilitasi rawat inap berbulan-bulan, sewa ranjang medis elektrik, dan kursi roda khusus.
+4. Kebutuhan perawat medis standby 24 jam untuk perawatan luka operasi dan bantuan eliminasi di tempat tidur.
+5. **Dampak Akut**: Pengeluaran membengkak ratusan juta rupiah dan risiko morbiditas jangka panjang yang sangat tinggi.
 
 Mencegah patah tulang melalui kombinasi terapi medis dan alami terbukti ratusan juta rupiah lebih hemat dibandingkan menangani bencana medis setelah tulang patah.
 
@@ -147,4 +147,6 @@ Bisa. Pasien dengan riwayat maag kronis atau GERD berat dianjurkan menghindari b
 
 Berikan penanganan medis yang aman, tepat sasaran, dan menyeluruh bagi orang tua tercinta. Tim dokter dan fisioterapis Joy of Care siap memberikan konsultasi terbaik langsung di kediaman Anda.
 
-Hubungi WhatsApp kami di [https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?) sekarang juga!
+Hubungi WhatsApp kami di [https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?) sekarang juga!
+
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Hubungi WhatsApp JoC untuk informasi harga](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?)

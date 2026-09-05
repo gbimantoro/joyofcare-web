@@ -43,7 +43,7 @@ internal_links:
   url: /layanan/perawat-homecare
 - anchor: Layanan Panggil Dokter ke Rumah Jakarta
   url: /layanan/panggil-dokter
-cta_text: Konsultasikan kebutuhan layanan antar jemput pasien ke rumah sakit di Jakarta
+cta_text: Hubungi WhatsApp JoC untuk informasi harga
   dan sekitarnya langsung via WhatsApp Joy of Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -80,7 +80,7 @@ Berikut adalah matriks perbandingan performa ketiga opsi transportasi pasien di 
 | **Kenyamanan Suasana** | Tenang, sejuk, musik relaksasi, tanpa sirine stres. | Bergantung pada kondisi pengemudi & musik mobil umum. | Suasana menegangkan dengan sirine darurat bising. |
 | **Pendampingan di RS** | **Mengawal 100%** proses loket, poliklinik spesialis, hingga apotek. | **Nol**. Pengemudi hanya menurunkan pasien di lobi depan faskes. | **Nol**. Paramedis hanya menyerahkan pasien ke perawat IGD. |
 | **Tingkat Kepastian Pesanan** | **100% Terjadwal & Terjamin** tiba tepat waktu di depan rumah Anda. | Sering dibatalkan sepihak saat sopir melihat pasien pakai kursi roda. | Tergantung antrean armada gawat darurat faskes. |
-| **Struktur Biaya** | Paket PP Rp 750.000 – Rp 950.000 (termasuk tunggu perawat 2–3 jam). | Ongkos argo per km (sering melonjak *surge price* saat jam sibuk/hujan). | Tarif panggilan darurat RS (Rp 1.200.000 – Rp 2.500.000 per trip). |
+| **Struktur Biaya** | Paket transparan all-in termasuk perawat pendamping & waktu tunggu RS. | Ongkos argo berfluktuasi tajam saat jam sibuk atau cuaca hujan. | Tarif panggilan darurat ambulans RS yang relatif sangat mahal. |
 
 ---
 
@@ -106,20 +106,19 @@ Rumah sakit besar di Jakarta memiliki gedung bertingkat dengan lorong yang sanga
 
 Mari kita bedah perbandingan pengeluaran riil untuk satu hari kontrol poliklinik spesialis di Jakarta Pusat:
 
-* **Simulasi Opsi A (Taksi Online + Mandiri)**:
-  * Taksi Online Berangkat (Jam Sibuk Pagi): Rp 180.000
-  * Sewa Kursi Roda Lipat Portabel: Rp 150.000 / hari
-  * Taksi Online Pulang (Hujan Sore / Surge Pricing): Rp 240.000
-  * Biaya Tip Pengemudi Membantu Angkat Pasien: Rp 50.000
-  * Biaya Izin Cuti Kerja 1 Hari Penuh: Tidak ternilai
-  * **Total Biaya**: **Rp 620.000** (ditambah rasa cemas di jalan dan kelelahan fisik keluarga luar biasa).
+* **Simulasi Opsi A (Transportasi Konvensional & Mandiri)**:
+  * Biaya taksi online pulang-pergi yang berfluktuasi tajam akibat kemacetan dan cuaca hujan.
+  * Biaya sewa kursi roda portabel harian dan risiko pengemudi menolak membawa pasien berisiko tinggi.
+  * Kelelahan fisik anggota keluarga yang harus membopong pasien masuk-keluar mobil pribadi.
+  * Kehilangan produktivitas kerja seharian penuh karena harus mengantre dan mengurus administrasi RS sendirian.
+  * **Hasil**: Biaya tak terduga membengkak, pasien rentan mengalami cedera sendi, dan keluarga dilanda stres berat.
 
-* **Simulasi Opsi B (Joy of Care NEMT Transport Medis)**:
-  * Paket Antar Jemput PP All-in: Rp 850.000
-  * Armada Mobil Medis Khusus Brankar / Kursi Roda: Included
-  * Jasa Perawat Ber-STR Mengawal Sepanjang Hari di RS: Included
-  * Fasilitas Oksigen Medis Standby: Included
-  * **Total Biaya**: **Rp 850.000** (Pasien aman nyaman di ranjang mobil, urusan rumah sakit selesai tuntas, keluarga tenang).
+* **Simulasi Opsi B (Joy of Care NEMT Transport Medis Khusus)**:
+  * Paket antar jemput pulang-pergi all-in transparan tanpa lonjakan tarif tersembunyi.
+  * Armada mobil medis berfasilitas ramp kursi roda hidrolik, brankar ambulans, dan suspensi lembut anti-guncangan.
+  * Jasa perawat ber-STR mengawal sepanjang hari di RS: mendampingi dokter poliklinik, membantu transfer pasien, dan mengurus antrean obat di faskes.
+  * Fasilitas tabung oksigen medis dan peralatan darurat siaga penuh di dalam kendaraan.
+  * **Hasil**: Pasien aman dan nyaman di ranjang mobil, urusan rumah sakit selesai tuntas, keluarga tenang tanpa perlu izin cuti kerja. Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
 
 Selisih biaya yang sangat kecil memberikan perlindungan keselamatan medis dan ketenangan pikiran yang tak ternilai harganya bagi orang tua tercinta.
 
@@ -142,4 +141,6 @@ Tentu saja. Joy of Care menyediakan paket langganan transportasi medis khusus pa
 
 Jangan pertaruhkan keselamatan dan kenyamanan orang tua Anda di jok sempit taksi biasa. Hadirkan layanan antar jemput medis profesional dengan pendampingan perawat berlisensi bersama Joy of Care.
 
-Hubungi WhatsApp kami di [https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?) sekarang juga!
+Hubungi WhatsApp kami di [https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?) sekarang juga!
+
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Hubungi WhatsApp JoC untuk informasi harga](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?)

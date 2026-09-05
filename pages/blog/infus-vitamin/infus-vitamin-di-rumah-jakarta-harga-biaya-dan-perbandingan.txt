@@ -15,7 +15,7 @@ variation_type: biaya-dan-perbandingan
 faq:
 - question: Apakah tarif infus vitamin di rumah lebih mahal dibanding datang langsung
     ke klinik kecantikan di Jakarta?
-  answer: Tidak selalu. Tarif paket infus vitamin Joy of Care (Rp 635.000 – Rp 850.000)
+  answer: Tidak selalu. Tarif paket infus vitamin Joy of Care bersifat transparan dan all-in sudah mencakup multivitamin berstandar BPOM, jasa perawat ber-STR, dan transport flat tanpa biaya registrasi tambahan. Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
     bersifat transparan dan all-in sudah termasuk jasa perawat dan transport flat,
     setara atau bahkan lebih hemat dibanding klinik kecantikan yang sering membebankan
     biaya konsultasi dokter klinik dan biaya registrasi tambahan.
@@ -43,7 +43,7 @@ internal_links:
   url: /layanan/panggil-dokter
 - anchor: Layanan Perawat Medis Homecare
   url: /layanan/perawat-homecare
-cta_text: Konsultasikan kebutuhan terapi infus vitamin dan immune booster di rumah
+cta_text: Hubungi WhatsApp JoC untuk informasi harga
   Anda di Jakarta langsung via WhatsApp Joy of Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -90,8 +90,8 @@ Bayangkan Anda sedang merasa demam meriang dan badan pegal linu akibat kelelahan
 
 | Faktor Perbandingan | Datang ke Klinik Estetika / RS | Infus Vitamin di Rumah (Joy of Care) |
 |---|---|---|
-| **Estimasi Biaya Paket Multivitamin** | Rp 750.000 – Rp 1.500.000 / sesi | **Rp 636.500 – Rp 850.000 / sesi (Transparan)** |
-| **Biaya Tambahan Tersembunyi** | Biaya konsultasi dokter, parkir, admin | **Rp 0 (Semua komponen sudah all-in)** |
+| **Paket Multivitamin Berkualitas** | Tarif klinik dengan margin komersial tinggi | **Transparan & Terjangkau (Hubungi WA JoC)** |
+| **Biaya Tambahan Tersembunyi** | Beban karcis registrasi, parkir mall, admin | **Bebas Biaya Tambahan (Semua tindakan all-in)** |
 | **Waktu yang Dihabiskan Pasien** | 2 hingga 3,5 jam (perjalanan + antre) | **Hanya 45 menit santai di rumah sendiri** |
 | **Kenyamanan & Privasi Pasien** | Ruang publik, berbagi kursi lounge | **100% Privat di atas ranjang / sofa sendiri** |
 | **Kondisi Fisik Pasca-Infus** | Harus menyetir pulang menembus macet | **Langsung istirahat tidur malam lelap** |
@@ -105,11 +105,10 @@ Bayangkan Anda sedang merasa demam meriang dan badan pegal linu akibat kelelahan
 
 Banyak orang berasumsi bahwa memanggil perawat ke rumah pasti jauh lebih mahal dibanding datang sendiri ke klinik. Namun jika seluruh biaya logistik dihitung:
 
-* Biaya transportasi taksi online pulang-pergi (atau bensin + tol): **Rp 100.000 – Rp 180.000**.
-* Biaya parkir gedung atau valet mall klinik: **Rp 20.000 – Rp 50.000**.
-* Biaya registrasi pasien baru klinik estetika: **Rp 50.000 – Rp 100.000**.
-* Biaya konsultasi dokter klinik: **Rp 150.000 – Rp 250.000**.
-* **Total Biaya Tersembunyi di Klinik**: **Rp 320.000 – Rp 580.000** di luar harga paket vitamin itu sendiri!
+* Beban transportasi kendaraan pribadi atau taksi online pulang-pergi di jalan macet.
+* Karcis parkir gedung komersial atau biaya valet klinik kecantikan di mall.
+* Biaya administrasi kartu pasien baru dan karcis konsultasi dokter klinik.
+* **Hasil**: Tambahan biaya terselubung di klinik membuat pengeluaran membengkak jauh di atas harga paket vitamin itu sendiri! Pada layanan Joy of Care, seluruh tindakan dilakukan steril di rumah dengan tarif transparan. Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
 
 Pada layanan Joy of Care, seluruh biaya formulasi multivitamin, jarum steril, selang infus, cairan hidrasi, dan jasa perawat telah dibundel dalam satu paket tarif yang pasti. Anda mendapatkan efisiensi finansial yang nyata sekaligus membebaskan tubuh dari kelelahan perjalanan kota Jakarta.
 
@@ -120,7 +119,7 @@ Dukung kesehatan keluarga dengan memadukan terapi hidrasi vitamin bersama [Layan
 ## Pertanyaan yang Sering Diajukan (FAQ)
 
 ### Apakah tarif infus vitamin di rumah lebih mahal dibanding datang langsung ke klinik kecantikan di Jakarta?
-Tidak selalu. Tarif paket infus vitamin Joy of Care (Rp 635.000 – Rp 850.000) bersifat transparan dan all-in sudah termasuk jasa perawat dan transport flat, setara atau bahkan lebih hemat dibanding klinik kecantikan yang sering membebankan biaya konsultasi dokter klinik dan biaya registrasi tambahan.
+Tidak selalu. Tarif paket infus vitamin Joy of Care bersifat transparan dan all-in sudah termasuk jasa perawat profesional dan transport flat, jauh lebih hemat dibanding klinik komersial yang membebankan biaya konsultasi dan registrasi terpisah. Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
 
 ### Mengapa menjalani infus vitamin di rumah dinilai jauh lebih higienis dan aman dari risiko tertular penyakit?
 Di klinik atau rumah sakit, ruang tunggu dan kursi terapi digunakan bergantian oleh ratusan orang yang berpotensi membawa virus pernapasan. Di rumah sendiri, lingkungan privat 100% steril dan alat medis dibuka baru di depan Anda.
@@ -136,4 +135,4 @@ Sama persis. Joy of Care hanya menggunakan obat ampul multivitamin resmi berizin
 ### Rasakan Kemewahan Perawatan Kesehatan di Rumah Anda
 Mengapa harus membuang waktu dan tenaga berharga di jalanan Jakarta jika pelayanan infus vitamin terbaik bisa datang langsung ke ruang keluarga Anda? Hubungi Joy of Care sekarang untuk mendapatkan pengalaman terapi IV yang privat, aman, dan menyegarkan.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Chat WhatsApp 08811-118-911](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?)
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Hubungi WhatsApp JoC untuk informasi harga](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?)

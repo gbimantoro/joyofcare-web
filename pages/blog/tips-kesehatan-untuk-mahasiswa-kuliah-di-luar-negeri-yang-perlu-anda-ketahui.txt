@@ -47,7 +47,7 @@ internal_links:
   url: /layanan/panggil-dokter
 - anchor: Layanan Perawat Medis Homecare
   url: /layanan/perawat-homecare
-cta_text: Konsultasikan persiapan medical check-up, cek lab darah, dan vaksinasi studi
+cta_text: Konsultasi Dokter Gratis via WhatsApp
   ke luar negeri langsung via WhatsApp Joy of Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -132,4 +132,6 @@ Kondisi cuaca dan lingkungan kampus baru membutuhkan antisipasi medis yang tepat
 
 Kesehatan prima adalah modal paling berharga untuk meraih kesuksesan akademik dan membangun jejaring global di luar negeri. Percayakan seluruh persiapan medis, vaksinasi visa, dan legalitas dokumen kesehatan Anda kepada tim profesional Joy of Care.
 
-Hubungi WhatsApp kami di [https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?) sekarang juga!
+Hubungi WhatsApp kami di [https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter) sekarang juga!
+
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)

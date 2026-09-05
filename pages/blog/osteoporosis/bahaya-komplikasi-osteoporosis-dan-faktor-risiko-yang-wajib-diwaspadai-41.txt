@@ -47,7 +47,7 @@ internal_links:
   url: /blog/healthy-aging-3/panduan-fisioterapi-di-rumah-untuk-pasien-osteoporosis-mengurangi-nyeri-mencegah-jatuh-43
 - anchor: Layanan Dokter Kunjungan Rumah
   url: /layanan/panggil-dokter
-cta_text: Konsultasikan kebutuhan perawatan kesehatan tulang keluarga Anda langsung
+cta_text: Konsultasi Dokter Gratis via WhatsApp
   bersama dokter dan tim medis Joy of Care via WhatsApp di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -156,4 +156,4 @@ Ya, pada sebagian besar kasus lansia, terbentuknya punuk bungkuk (kifosis toraka
 ### Konsultasikan Kesehatan Tulang Keluarga Bersama Joy of Care
 Jangan menunggu insiden patah tulang terjadi untuk mulai peduli. Joy of Care menyediakan layanan rujukan terintegrasi dari dokter spesialis ortopedi dan penyakit dalam, layanan kunjungan dokter ke rumah, serta terapi injeksi osteoporosis aman langsung di kenyamanan hunian Anda di wilayah Jabodetabek.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Chat WhatsApp 08811-118-911](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?)
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)

@@ -42,7 +42,7 @@ internal_links:
   url: /layanan/perawat-homecare
 - anchor: Layanan Cek Lab Darah di Rumah
   url: /layanan/cek-lab-di-rumah
-cta_text: Konsultasikan kebutuhan perawatan dan fisioterapi pasien Parkinson di rumah
+cta_text: Konsultasi Dokter Gratis via WhatsApp
   Anda langsung via WhatsApp Joy of Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -168,4 +168,4 @@ Saat penyakit memasuki stadium lanjut (fase Hoehn and Yahr stadium 4 atau 5), di
 ### Dampingi Penderita Parkinson dengan Kasih dan Keahlian Medis
 Parkinson mungkin mengubah kemampuan fisik orang tua Anda, tetapi perawatan yang tepat di rumah dapat mempertahankan senyum dan kemandirian mereka. Hubungi Joy of Care hari ini untuk menjadwalkan program fisioterapi dan pendampingan perawat Parkinson terbaik di Jabodetabek.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Chat WhatsApp 08811-118-911](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?)
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)

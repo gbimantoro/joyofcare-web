@@ -45,7 +45,7 @@ internal_links:
   url: /layanan/panggil-dokter
 - anchor: Layanan Fisioterapi di Rumah
   url: /layanan/fisioterapi
-cta_text: Konsultasikan kebutuhan jasa perawat homecare terpercaya di rumah Anda langsung
+cta_text: Konsultasi Dokter Gratis via WhatsApp
   via WhatsApp Joy of Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -138,4 +138,4 @@ Ya, perawat live-in berhak atas cuti 2 hari setiap bulan sesuai regulasi tenaga 
 ### Dapatkan Ketenangan Pikiran Bersama Perawat Joy of Care
 Keamanan keluarga dan martabat orang tua Anda adalah prioritas tertinggi kami. Diskusikan rencana kebutuhan perawat homecare Anda bersama konsultan resmi Joy of Care hari ini untuk mendapatkan pelayanan yang aman, legal, dan penuh empati.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Chat WhatsApp 08811-118-911](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?)
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)

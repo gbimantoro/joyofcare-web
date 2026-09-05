@@ -29,10 +29,7 @@ faq:
     paru), serta vaksin herpes zoster (mencegah cacar ular dan nyeri saraf pascaherpes).'
 - question: Berapa kisaran biaya layanan vaksin lansia di rumah di Jakarta pada tahun
     2026?
-  answer: Tarif layanan vaksinasi lansia di rumah Joy of Care berkisar antara Rp 520.000
-    hingga Rp 680.000 untuk vaksin influenza kuadrivalen, Rp 1.150.000 hingga Rp 1.650.000
-    untuk vaksin pneumonia terkonjugasi (PCV13/15), dan Rp 2.400.000 hingga Rp 2.800.000
-    per dosis untuk vaksin herpes zoster rekombinan.
+  answer: Tarif layanan vaksinasi lansia di rumah Joy of Care ditentukan secara transparan sesuai jenis vaksin resmi (Influenza Kuadrivalen, Pneumonia PCV13/15, PPSV23, atau Herpes Zoster Rekombinan), sudah mencakup jasa visit tenaga medis, alat suntik steril, dan pemeliharaan cold chain steril. Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
 - question: Bagaimana Joy of Care memastikan kualitas dan suhu penyimpanan vaksin
     tetap aman selama perjalanan ke rumah?
   answer: Seluruh vaksin Joy of Care dibawa menggunakan vaccine cool box medis berstandar
@@ -48,7 +45,7 @@ internal_links:
   url: /layanan/perawat-homecare
 - anchor: Layanan Cek Lab Darah di Rumah
   url: /layanan/cek-lab-di-rumah
-cta_text: Konsultasikan kebutuhan vaksinasi lansia di rumah Anda di Jakarta langsung
+cta_text: Konsultasi Dokter Gratis via WhatsApp
   via WhatsApp Joy of Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -113,11 +110,13 @@ Berikut adalah estimasi biaya resmi paket imunisasi lansia di rumah yang disedia
 
 | Jenis Vaksin Lansia | Target Perlindungan Penyakit | Estimasi Biaya Home Service | Jadwal & Frekuensi Medis |
 |---|---|---|---|
-| **Vaksin Influenza Kuadrivalen** | Virus Flu A & B Musiman | Rp 550.000 – Rp 675.000 | 1 dosis setiap 1 tahun sekali |
-| **Vaksin Pneumonia PCV13/15** | Bakteri Radang Paru Pneumokokus | Rp 1.150.000 – Rp 1.450.000 | 1 dosis primer seumur hidup |
-| **Vaksin Pneumonia PPSV23** | 23 Serotipe Pneumokokus | Rp 1.050.000 – Rp 1.350.000 | 1 dosis penguat (1 tahun paska PCV) |
-| **Vaksin Herpes Zoster Rekombinan** | Cacar Ular & Nyeri Saraf PHN | Rp 2.450.000 – Rp 2.750.000 / dosis | 2 dosis (jarak interval 2–6 bulan) |
-| **Paket Imunisasi Komprehensif Geriatri** | Flu Kuadrivalen + Pneumonia PCV | Rp 1.650.000 – Rp 1.950.000 | Bundling lengkap hemat homecare |
+| **Vaksin Influenza Kuadrivalen** | Virus Flu A & B Musiman | Paket Imunisasi Flu (Hubungi WA JoC) | 1 dosis setiap 1 tahun sekali |
+| **Vaksin Pneumonia PCV13/15** | Bakteri Radang Paru Pneumokokus | Paket Imunisasi Pneumonia (Hubungi WA JoC) | 1 dosis primer seumur hidup |
+| **Vaksin Pneumonia PPSV23** | 23 Serotipe Pneumokokus | Paket Booster Pneumonia (Hubungi WA JoC) | 1 dosis penguat (1 tahun paska PCV) |
+| **Vaksin Herpes Zoster Rekombinan** | Cacar Ular & Nyeri Saraf PHN | Paket Shingrix Lengkap (Hubungi WA JoC) | 2 dosis (jarak interval 2–6 bulan) |
+| **Paket Imunisasi Komprehensif Geriatri** | Flu Kuadrivalen + Pneumonia PCV | Paket Bundling Geriatri (Hubungi WA JoC) | Bundling lengkap hemat homecare |
+
+Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
 
 *Catatan: Biaya sudah termasuk pengadaan ampul vaksin resmi bersertifikat BPOM, jarum suntik mikro sekali pakai, cold-chain transport, skrining tanda vital oleh perawat, observasi pascapenyuntikan 30 menit, dan kartu sertifikat vaksinasi resmi.*
 
@@ -163,4 +162,6 @@ Bisa. Menurut panduan medis PAPDI dan CDC, vaksin influenza dan vaksin pneumokok
 
 Lindungi orang tua tercinta dari risiko radang paru dan infeksi saluran pernapasan berbahaya tanpa harus repot menempuh kemacetan ibu kota. Hubungi customer care Joy of Care untuk konsultasi gratis dan reservasi jadwal dokter atau perawat ke rumah.
 
-Hubungi WhatsApp kami di [https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?) sekarang juga!
+Hubungi WhatsApp kami di [https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter) sekarang juga!
+
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)

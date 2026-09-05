@@ -15,9 +15,7 @@ variation_type: biaya-dan-perbandingan
 faq:
 - question: Berapa perbandingan biaya antara perawat lansia harian shift dengan perawat
     menginap (live-in) 24 jam?
-  answer: Perawat harian shift (8–12 jam) dikenakan tarif berkisar Rp 180.000 hingga
-    Rp 350.000 per hari, sedangkan perawat menginap 24 jam dikenakan sistem paket
-    bulanan berkisar Rp 3.500.000 hingga Rp 8.500.000 per bulan tergantung kualifikasi
+  answer: Tarif perawat lansia di Jabodetabek disesuaikan transparan berdasarkan sistem penugasan (shift harian atau menginap 24 jam bulanan) serta kualifikasi tenaga pendamping medis atau non-medis. Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
     caregiver atau perawat medis.
 - question: Apakah keluarga wajib menyediakan kamar tidur dan makan untuk perawat
     lansia yang menginap 24 jam?
@@ -42,7 +40,7 @@ internal_links:
   url: /layanan/panggil-dokter
 - anchor: Layanan Fisioterapi di Rumah
   url: /layanan/fisioterapi
-cta_text: Konsultasikan kebutuhan perawat lansia di rumah Anda di Jabodetabek langsung
+cta_text: Konsultasi Dokter Gratis via WhatsApp
   via WhatsApp Joy of Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -98,7 +96,7 @@ Pada sistem ini, perawat tinggal bersama keluarga di rumah pasien sepanjang bula
 
 | Indikator Evaluasi | Perawat Lansia Harian (Shift 8–12 Jam) | Perawat Lansia Menginap (Live-In 24 Jam) |
 |---|---|---|
-| **Estimasi Biaya Bulanan** | Rp 4.500.000 – Rp 8.000.000 (jika full 30 hari) | Rp 3.500.000 – Rp 9.500.000 / bulan paket |
+| **Estimasi Biaya Bulanan** | Tarif harian terakumulasi | **Paket Bulanan Hemat & Terstruktur (Hubungi WA JoC)** |
 | **Biaya per Jam Efektif** | Relatif lebih tinggi per jamnya | **Jauh lebih hemat per jamnya** |
 | **Kebutuhan Kamar Tidur** | **Tidak memerlukan kamar menginap** | Wajib menyediakan kamar layak berpintu |
 | **Kebutuhan Makan Perawat** | Disediakan sendiri / 1 kali makan siang | Wajib ditanggung keluarga (3x sehari) |
@@ -131,7 +129,7 @@ Untuk melengkapi perawatan, baik sistem harian maupun 24 jam dapat dipadukan den
 ## Pertanyaan yang Sering Diajukan (FAQ)
 
 ### Berapa perbandingan biaya antara perawat lansia harian shift dengan perawat menginap (live-in) 24 jam?
-Perawat harian shift (8–12 jam) dikenakan tarif berkisar Rp 180.000 hingga Rp 350.000 per hari, sedangkan perawat menginap 24 jam dikenakan sistem paket bulanan berkisar Rp 3.500.000 hingga Rp 8.500.000 per bulan tergantung kualifikasi caregiver atau perawat medis.
+Perawat lansia homecare Joy of Care dapat dipesan dalam skema shift harian maupun paket menginap bulanan secara transparan. Rincian biaya selalu disesuaikan dengan kondisi ketergantungan fisik dan alat medis lansia. Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
 
 ### Apakah keluarga wajib menyediakan kamar tidur dan makan untuk perawat lansia yang menginap 24 jam?
 Ya, untuk sistem perawat live-in 24 jam, keluarga penyewa wajib menyediakan kamar tidur yang layak, bersih, berpintu, serta konsumsi makan 3 kali sehari yang bergizi.
@@ -147,4 +145,4 @@ Lansia tirah baring penuh (*bedridden*), penderita demensia berat yang sering be
 ### Konsultasikan Kebutuhan Perawat Terbaik Bersama Joy of Care
 Setiap keluarga memiliki situasi hunian dan kebutuhan medis yang unik. Diskusikan rencana perawatan orang tua Anda bersama konsultan klinis Joy of Care untuk mendapatkan skema perawat lansia harian maupun 24 jam yang paling efisien dan tepat sasaran.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Chat WhatsApp 08811-118-911](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?)
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)

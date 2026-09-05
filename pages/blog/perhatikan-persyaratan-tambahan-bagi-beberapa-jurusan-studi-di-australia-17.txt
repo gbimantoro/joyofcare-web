@@ -43,7 +43,7 @@ internal_links:
   url: /blog/studi-luar-negeri-4/cara-menyiapkan-persyaratan-kesehatan-untuk-studi-di-australia-18
 - anchor: Layanan Vaksinasi Internasional di Rumah
   url: /layanan/vaksinasi-di-rumah
-cta_text: Konsultasikan kebutuhan vaksinasi internasional, cek lab, dan surat keterangan
+cta_text: Hubungi WhatsApp JoC untuk informasi harga
   sehat studi luar negeri Anda via WhatsApp Joy of Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -70,7 +70,7 @@ Jika Anda mengambil jurusan kesehatan, bersiaplah untuk menjalani rangkaian tes 
 
 ### 1. Skrining Virus Menular Lewat Darah (Blood-Borne Viruses / BBV)
 Setiap mahasiswa yang akan terlibat dalam prosedur medis invasif (*exposure-prone procedures*) wajib membuktikan status negatif terhadap:
-* **Hepatitis B**: Pemeriksaan HBsAg (Antigen) dan bukti kadar antibodi kuantitatif protektif (**HBsAb $\ge$ 10 mIU/mL**).
+* **Hepatitis B**: Pemeriksaan HBsAg (Antigen) dan bukti kadar antibodi kuantitatif protektif (**HBsAb ≥ 10 mIU/mL**).
 * **Hepatitis C**: Pemeriksaan antibodi Anti-HCV (dan tes HCV RNA jika antibodi reaktif).
 * **HIV**: Pemeriksaan antibodi dan antigen HIV 1 & 2 generasi keempat.
 
@@ -135,4 +135,4 @@ Ya, vaksin influenza musiman formula belahan bumi selatan (Southern Hemisphere) 
 ### Pemeriksaan Laboratorium & Vaksinasi Khusus Mahasiswa Kesehatan
 Memastikan seluruh titer antibodi dan skrining darah lengkap sesuai standar universitas Australia membutuhkan penanganan laboratorium yang teliti. Layanan Home Lab dan Vaksinasi Joy of Care siap melayani pengambilan sampel darah steril dan vaksinasi langsung di rumah Anda.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Chat WhatsApp 08811-118-911](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?)
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Hubungi WhatsApp JoC untuk informasi harga](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?)

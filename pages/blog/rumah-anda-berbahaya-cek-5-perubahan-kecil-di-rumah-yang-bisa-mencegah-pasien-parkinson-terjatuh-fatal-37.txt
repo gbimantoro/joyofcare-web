@@ -44,7 +44,7 @@ internal_links:
   url: /blog/healthy-aging-3/mencegah-jatuh-pada-lansia-7-modifikasi-aman-untuk-rumah-anda-25
 - anchor: Perawat Pendamping Homecare Lansia
   url: /layanan/perawat-homecare
-cta_text: Konsultasikan kebutuhan perawatan kesehatan keluarga Anda langsung bersama
+cta_text: Konsultasi Dokter Gratis via WhatsApp
   dokter dan tim medis Joy of Care via WhatsApp di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -134,4 +134,4 @@ Ajarkan pasien untuk berbalik arah membentuk huruf 'U' melengkung lebar daripada
 ### Audit Keselamatan Rumah Bersama Fisioterapis Joy of Care
 Apakah lingkungan rumah Anda sudah benar-benar aman untuk orang tua tercinta? Tim fisioterapis dan perawat geriatri Joy of Care dapat berkunjung langsung ke rumah Anda untuk melakukan audit risiko jatuh komprehensif dan memberikan rekomendasi modifikasi yang tepat guna.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Chat WhatsApp 08811-118-911](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?)
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)

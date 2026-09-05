@@ -42,7 +42,7 @@ internal_links:
   url: /layanan/panggil-dokter
 - anchor: Layanan Cek Lab Darah di Rumah
   url: /layanan/cek-lab-di-rumah
-cta_text: Konsultasikan kebutuhan terapi infus vitamin dan immune booster di rumah
+cta_text: Konsultasi Dokter Gratis via WhatsApp
   Anda di Jakarta langsung via WhatsApp Joy of Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -136,4 +136,4 @@ Cairan elektrolit kristaloid memulihkan volume intravaskular yang bocor akibat p
 ### Rebut Kembali Energi dan Produktivitas Terbaik Anda
 Jangan biarkan kelelahan menahan langkah sukses Anda. Rasakan keajaiban pemulihan tubuh yang instan, aman, dan nyaman di kamar tidur atau ruang kerja Anda bersama tim perawat profesional Joy of Care.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Chat WhatsApp 08811-118-911](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?)
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)

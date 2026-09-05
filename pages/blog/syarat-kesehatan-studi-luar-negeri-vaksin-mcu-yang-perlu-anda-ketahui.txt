@@ -48,7 +48,7 @@ internal_links:
   url: /layanan/panggil-dokter
 - anchor: Layanan Perawat Medis Homecare
   url: /layanan/perawat-homecare
-cta_text: Konsultasikan pemenuhan syarat vaksinasi dan medical check-up studi luar
+cta_text: Hubungi WhatsApp JoC untuk informasi harga
   negeri langsung via WhatsApp Joy of Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -128,4 +128,6 @@ Aspek kelengkapan buku vaksinasi masa lampau sering kali menjadi kendala praktis
 
 Menyiapkan berkas medis studi internasional tidak perlu membuat Anda stres atau mengorbankan waktu berharga Anda. Percayakan seluruh kebutuhan tes darah laboratorium, vaksinasi wajib internasional, dan legalitas dokumen medis kepada tim profesional Joy of Care di Jakarta.
 
-Hubungi WhatsApp kami di [https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?) sekarang juga!
+Hubungi WhatsApp kami di [https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?) sekarang juga!
+
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Hubungi WhatsApp JoC untuk informasi harga](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?)

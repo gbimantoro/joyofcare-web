@@ -21,10 +21,7 @@ faq:
     Tangerang seperti Gading Serpong, Alam Sutera, dan Lippo Karawaci.
 - question: Berapa kisaran biaya panggil dokter umum ke rumah di Tangerang pada tahun
     2026?
-  answer: Biaya resmi layanan kunjungan dokter umum ke rumah Joy of Care di kawasan
-    Tangerang dan Tangsel berkisar antara Rp 450.000 hingga Rp 650.000 per kunjungan,
-    sudah mencakup jasa pemeriksaan fisik lengkap oleh dokter ber-STR aktif, penegakan
-    diagnosis, resep obat resmi, dan biaya transportasi ke hunian Anda.
+  answer: Biaya resmi kunjungan dokter umum ke rumah Joy of Care di kawasan Tangerang dan Tangsel dirancang transparan, terjangkau, dan disesuaikan dengan kebutuhan klinis pasien tanpa biaya transportasi tersembunyi. Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
 - question: Apa saja jenis penyakit atau kondisi medis yang dapat ditangani oleh dokter
     umum di rumah?
   answer: Dokter umum dapat menangani demam akut (skrining DBD, tifus, flu), infeksi
@@ -45,7 +42,7 @@ internal_links:
   url: /layanan/cek-lab-di-rumah
 - anchor: Layanan Fisioterapi di Rumah
   url: /layanan/fisioterapi-di-rumah
-cta_text: Konsultasikan kebutuhan visit dokter umum ke rumah Anda di Tangerang dan
+cta_text: Hubungi WhatsApp JoC untuk informasi harga
   Tangsel langsung via WhatsApp Joy of Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -66,7 +63,7 @@ clinical_references:
 > * **Cakupan Wilayah Komprehensif**: Melayani BSD City, Gading Serpong, Alam Sutera, Bintaro Jaya, Lippo Karawaci, Ciputat, Pamulang, dan sekitarnya.
 > * **Respon Cepat 45–75 Menit**: Berbasis operasional lokal di kawasan BSD Tangerang Selatan untuk kecepatan respon medis di rumah Anda.
 > * **Peralatan Medis Diagnostik Lengkap**: Dokter dibekali stetoskop, tensimeter digital, pulse oximeter, glukometer darah instan, otoskop, dan perlengkapan minor surgery.
-> * **Transparansi Tarif 2026**: Biaya kunjungan terjangkau mulai Rp 450.000 all-in tanpa biaya tersembunyi yang memberatkan keluarga.
+> * **Transparansi Layanan Dokter**: Biaya kunjungan dokter ke rumah dirancang terjangkau dan transparan all-in tanpa biaya tersembunyi yang memberatkan keluarga. Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
 
 ---
 
@@ -105,10 +102,12 @@ Berikut adalah tabel transparansi biaya visit dokter umum Joy of Care untuk wila
 
 | Jenis Pelayanan Dokter di Rumah | Rincian Tindakan Klinis | Estimasi Biaya Resmi |
 |---|---|---|
-| **Kunjungan Dokter Umum Standar** | Anamnesis, TTV lengkap, pemeriksaan fisik, diagnosis, resep obat | Rp 450.000 – Rp 550.000 |
-| **Kunjungan Dokter + Cek Darah Instan** | Visit dokter + tes glukosa sewaktu, asam urat, atau kolesterol strip | Rp 550.000 – Rp 680.000 |
-| **Kunjungan Dokter + Tindakan Khusus** | Visit dokter + perawatan luka jahitan / debridement luka ringan | Rp 650.000 – Rp 850.000 |
-| **Paket Evaluasi Geriatri Komprehensif** | Visit dokter + skrining kognitif geriatri + evaluasi polifarmasi obat | Rp 600.000 – Rp 750.000 |
+| **Kunjungan Dokter Umum Standar** | Anamnesis, TTV lengkap, pemeriksaan fisik, diagnosis, resep obat | Paket Visit Dokter (Hubungi WA JoC) |
+| **Kunjungan Dokter + Cek Darah Instan** | Visit dokter + tes glukosa sewaktu, asam urat, atau kolesterol strip | Paket Cek Darah Terpadu (Hubungi WA JoC) |
+| **Kunjungan Dokter + Tindakan Khusus** | Visit dokter + perawatan luka jahitan / debridement luka ringan | Paket Tindakan Klinis (Hubungi WA JoC) |
+| **Paket Evaluasi Geriatri Komprehensif** | Visit dokter + skrining kognitif geriatri + evaluasi polifarmasi obat | Paket Geriatri Lengkap (Hubungi WA JoC) |
+
+Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
 
 *Catatan: Biaya sudah mencakup visit fee dokter ber-STR/SIP, transportasi ke rumah, pemakaian alat diagnostik standar, dan pembuatan surat rujukan medis bila diperlukan. Biaya obat resep farmasi dihitung terpisah sesuai kebutuhan terapi.*
 
@@ -148,4 +147,6 @@ Tentu saja. Layanan dokter umum ke rumah Joy of Care beroperasi 7 hari seminggu,
 
 Jangan biarkan kemacetan jalan raya dan antrean faskes menambah beban rasa sakit anggota keluarga Anda. Hubungi tim Joy of Care sekarang untuk mendapatkan penanganan medis profesional, ramah, dan cepat di kediaman Anda.
 
-Hubungi WhatsApp kami di [https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?) sekarang juga!
+Hubungi WhatsApp kami di [https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?) sekarang juga!
+
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Hubungi WhatsApp JoC untuk informasi harga](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?)

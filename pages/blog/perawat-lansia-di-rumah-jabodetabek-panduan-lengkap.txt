@@ -16,10 +16,7 @@ variation_type: panduan-lengkap
 faq:
 - question: Berapa estimasi biaya jasa perawat lansia di rumah wilayah Jabodetabek
     pada tahun 2026?
-  answer: Biaya jasa perawat lansia di Jabodetabek berkisar antara Rp 2.500.000 hingga
-    Rp 4.500.000 per bulan untuk caregiver non-medis, dan Rp 5.000.000 hingga Rp 9.500.000
-    per bulan untuk perawat medis berijazah D3/S1 Keperawatan dengan Surat Tanda Registrasi
-    (STR) aktif.
+  answer: Biaya jasa perawat lansia di Jabodetabek ditentukan secara transparan berdasarkan kompetensi tenaga kesehatan (caregiver pendamping harian atau perawat medis berijazah resmi D3/S1 Keperawatan ber-STR aktif). Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
 - question: Apa perbedaan mendasar antara caregiver lansia dengan perawat medis homecare?
   answer: Caregiver bertugas mendampingi aktivitas harian (ADL) seperti memandikan,
     menyiapkan makan, dan mobilitas. Sementara perawat medis berwenang melakukan intervensi
@@ -42,7 +39,7 @@ internal_links:
   url: /layanan/fisioterapi
 - anchor: Panduan Lengkap Merawat Orang Tua di Rumah
   url: /blog/merawat-orang-tua-di-rumah-panduan-lengkap
-cta_text: Konsultasikan kebutuhan perawat lansia di rumah Anda di Jabodetabek langsung
+cta_text: Konsultasi Dokter Gratis via WhatsApp
   via WhatsApp Joy of Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -106,11 +103,13 @@ Transparansi biaya adalah hak setiap keluarga. Berikut adalah tabel komparasi es
 
 | Jenis Tenaga Perawat | Skema Waktu Kerja | Kisaran Biaya Jabodetabek | Rekomendasi Kondisi Pasien |
 |---|---|---|---|
-| **Caregiver Lansia** | Shift Harian (8–12 Jam) | Rp 150.000 – Rp 250.000 / hari | Lansia demensia ringan, butuh teman mobilitas |
-| **Caregiver Lansia** | Menginap (*Live-In* Bulanan) | Rp 2.500.000 – Rp 4.500.000 / bulan | Lansia mandiri parsial, butuh bantuan ADL 24 jam |
-| **Perawat Medis D3/S1** | Kunjungan Visit Tindakan | Rp 200.000 – Rp 350.000 / visit | Ganti selang kateter/NGT, rawat luka steril |
-| **Perawat Medis D3/S1** | Shift 12 Jam Kerja | Rp 250.000 – Rp 400.000 / shift | Pascastroke fase akut, tirah baring, monitor oksigen |
-| **Perawat Medis D3/S1** | Menginap (*Live-In* 24 Jam) | Rp 5.000.000 – Rp 9.500.000 / bulan | Pasien ICU pulang, ventilator/trakeostomi, kanker stadium akhir |
+| **Caregiver Lansia** | Shift Harian (8–12 Jam) | Paket Harian Terjadwal (Hubungi WA JoC) | Lansia demensia ringan, butuh teman mobilitas |
+| **Caregiver Lansia** | Menginap (*Live-In* Bulanan) | Paket Live-In Caregiver (Hubungi WA JoC) | Lansia mandiri parsial, butuh bantuan ADL 24 jam |
+| **Perawat Medis D3/S1** | Kunjungan Visit Tindakan | Paket Visit Prosedural (Hubungi WA JoC) | Ganti selang kateter/NGT, rawat luka steril |
+| **Perawat Medis D3/S1** | Shift 12 Jam Kerja | Paket Shift Medis Intensif (Hubungi WA JoC) | Pascastroke fase akut, tirah baring, monitor oksigen |
+| **Perawat Medis D3/S1** | Menginap (*Live-In* 24 Jam) | Paket Live-In Medis 24 Jam (Hubungi WA JoC) | Pasien ICU pulang, ventilator/trakeostomi, kanker stadium akhir |
+
+Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
 
 *Catatan: Biaya di atas merupakan estimasi standar pasar profesional dan dapat bervariasi bergantung pada tingkat keparahan penyakit pasien, peralatan medis khusus yang dibutuhkan, serta lokasi geografis kediaman pasien di Jabodetabek.*
 
@@ -140,7 +139,7 @@ Perawat wajib mengisi lembar observasi harian: catatan jam dan dosis obat, hasil
 ## Pertanyaan yang Sering Diajukan (FAQ)
 
 ### Berapa estimasi biaya jasa perawat lansia di rumah wilayah Jabodetabek pada tahun 2026?
-Biaya jasa perawat lansia di Jabodetabek berkisar antara Rp 2.500.000 hingga Rp 4.500.000 per bulan untuk caregiver non-medis, dan Rp 5.000.000 hingga Rp 9.500.000 per bulan untuk perawat medis berijazah D3/S1 Keperawatan dengan Surat Tanda Registrasi (STR) aktif.
+Biaya jasa perawat lansia di Jabodetabek ditentukan secara transparan berdasarkan kualifikasi keahlian, mulai dari caregiver pendamping harian hingga perawat medis profesional berijazah resmi D3/S1 Keperawatan dengan STR aktif. Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
 
 ### Apa perbedaan mendasar antara caregiver lansia dengan perawat medis homecare?
 Caregiver bertugas mendampingi aktivitas harian (ADL) seperti memandikan, menyiapkan makan, dan mobilitas. Sementara perawat medis berwenang melakukan intervensi klinis seperti perawatan luka steril, pemasangan NGT, kateter urin, suction lendir, dan injeksi terapi.
@@ -156,4 +155,4 @@ Joy of Care memberikan garansi penggantian tenaga perawat tanpa biaya administra
 ### Berikan Perawatan Terbaik untuk Orang Tua Anda Hari Ini
 Orang tua Anda layak mendapatkan hari-hari tua yang tenang, aman, dan penuh senyuman di rumahnya sendiri. Hubungi tim konsultan medis Joy of Care sekarang untuk mendapatkan pendampingan perawat lansia terbaik di Jabodetabek.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Chat WhatsApp 08811-118-911](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?)
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)

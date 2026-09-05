@@ -40,7 +40,7 @@ internal_links:
   url: /blog/healthy-aging-3/pentingnya-vaksinasi-untuk-lansia-jenis-vaksin-yang-direkomendasikan-12
 - anchor: Layanan Dokter Kunjungan Rumah
   url: /layanan/panggil-dokter
-cta_text: Konsultasikan kebutuhan vaksinasi lansia dan keluarga Anda langsung bersama
+cta_text: Hubungi WhatsApp JoC untuk informasi harga
   dokter Joy of Care via WhatsApp di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -122,4 +122,4 @@ Sesi vaksinasi umumnya memakan waktu sekitar 30 hingga 45 menit, mencakup skrini
 ### Lindungi Keluarga Anda Hari Ini Bersama Joy of Care
 Kekebalan keluarga adalah investasi terpenting bagi masa depan bersama. Nikmati kemudahan layanan vaksinasi profesional langsung di kenyamanan hunian Anda di Jakarta, Tangerang, Depok, dan Bogor.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Chat WhatsApp 08811-118-911](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?)
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Hubungi WhatsApp JoC untuk informasi harga](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?)

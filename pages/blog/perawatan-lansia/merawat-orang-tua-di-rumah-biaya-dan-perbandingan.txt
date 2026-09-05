@@ -15,9 +15,7 @@ variation_type: biaya-dan-perbandingan
 faq:
 - question: Berapa kisaran biaya menyewa perawat lansia di rumah wilayah Jabodetabek
     pada tahun 2026?
-  answer: Biaya jasa perawat lansia di Jabodetabek berkisar antara Rp 2.500.000 hingga
-    Rp 4.500.000 per bulan untuk perawat non-medis (caregiver pendamping harian),
-    dan Rp 5.000.000 hingga Rp 9.000.000 per bulan untuk perawat medis bersertifikasi
+  answer: Biaya jasa perawat lansia di Jabodetabek ditentukan secara transparan berdasarkan kualifikasi (caregiver pendamping harian atau perawat medis bersertifikasi STR aktif) serta sistem kerja bulanan atau shift. Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
     D3/S1 Keperawatan dengan STR aktif.
 - question: Apa perbedaan utama antara perawat medis (nurse) dengan caregiver pendamping?
   answer: Perawat medis berwenang melakukan tindakan medis invasif seperti pemasangan
@@ -44,7 +42,7 @@ internal_links:
   url: /layanan/panggil-dokter
 - anchor: Layanan Fisioterapi di Rumah
   url: /layanan/fisioterapi
-cta_text: Konsultasikan kebutuhan perawatan dan pendampingan orang tua Anda di rumah
+cta_text: Hubungi WhatsApp JoC untuk informasi harga
   langsung via WhatsApp Joy of Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -86,7 +84,7 @@ Banyak anak merasa memiliki kewajiban moral untuk merawat orang tua yang sakit s
 
 | Aspek Pertimbangan | Merawat Orang Tua Sendiri | Menyewa Perawat Lansia (Joy of Care) |
 |---|---|---|
-| **Biaya Jasa Bulanan** | Rp 0 (Gratis) | Rp 3.500.000 – Rp 7.500.000 / bulan |
+| **Biaya Jasa Bulanan** | Bebas Biaya (Tenaga Sendiri) | **Transparan & Terukur (Hubungi WA JoC)** |
 | **Dampak Karier & Pendapatan** | Kehilangan jam kerja / resign | **Karier & pendapatan anak tetap aman** |
 | **Keterampilan Tindakan Medis** | Awam (Risiko salah tindakan) | **Bersertifikasi STR & terlatih resmi** |
 | **Kondisi Fisik Anak** | Sangat lelah, rentan sakit | **Sehat, bugar, cukup tidur malam** |
@@ -114,7 +112,7 @@ Pelajari panduan perawatan mandiri selengkapnya di [Panduan Lengkap Merawat Oran
 ## Pertanyaan yang Sering Diajukan (FAQ)
 
 ### Berapa kisaran biaya menyewa perawat lansia di rumah wilayah Jabodetabek pada tahun 2026?
-Biaya jasa perawat lansia di Jabodetabek berkisar antara Rp 2.500.000 hingga Rp 4.500.000 per bulan untuk perawat non-medis (caregiver pendamping harian), dan Rp 5.000.000 hingga Rp 9.000.000 per bulan untuk perawat medis bersertifikasi D3/S1 Keperawatan dengan STR aktif.
+Biaya jasa perawat lansia di Jabodetabek dirancang fleksibel dan transparan sesuai kebutuhan pendampingan lansia, baik untuk bantuan aktivitas dasar harian maupun perawatan medis klinis pascarawat RS. Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
 
 ### Apa perbedaan utama antara perawat medis (nurse) dengan caregiver pendamping?
 Perawat medis berwenang melakukan tindakan medis invasif seperti pemasangan selang makan NGT, kateter urin, terapi infus/injeksi, dan perawatan luka steril. Sedangkan caregiver berfokus pada pendampingan aktivitas sehari-hari seperti memandikan, menyuapi makan, dan mobilitas.
@@ -130,4 +128,4 @@ Bisa. Keluarga dapat memilih sistem shift harian (8 atau 12 jam kerja) sesuai ja
 ### Berikan Perawatan Terbaik Tanpa Mengorbankan Keluarga
 Sayangi orang tua Anda dan sayangi diri Anda sendiri. Dapatkan tenaga perawat lansia yang ramah, berizin resmi, dan berdedikasi tinggi bersama Joy of Care sekarang juga.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Chat WhatsApp 08811-118-911](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?)
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Hubungi WhatsApp JoC untuk informasi harga](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?)

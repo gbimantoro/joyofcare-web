@@ -45,7 +45,7 @@ internal_links:
   url: /layanan/panggil-dokter
 - anchor: Layanan Cek Lab Darah di Rumah
   url: /layanan/cek-lab-di-rumah
-cta_text: Konsultasikan kebutuhan terapi infus vitamin dan immune booster di rumah
+cta_text: Hubungi WhatsApp JoC untuk informasi harga
   Anda di Jakarta langsung via WhatsApp Joy of Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -134,4 +134,4 @@ Perawat Joy of Care selalu menunjukkan kotak kemasan ampul obat yang masih terse
 ### Dapatkan Asupan Nutrisi Terbaik di Kediaman Anda
 Jangan biarkan kelelahan kronis menghambat aktivitas dan kebahagiaan Anda. Dapatkan terapi infus multivitamin berstandar medis tinggi yang aman, steril, dan menyegarkan langsung di rumah Anda bersama tim Joy of Care.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Chat WhatsApp 08811-118-911](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?)
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Hubungi WhatsApp JoC untuk informasi harga](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?)

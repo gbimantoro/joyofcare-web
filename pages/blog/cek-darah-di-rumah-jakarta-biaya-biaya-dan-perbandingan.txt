@@ -47,7 +47,7 @@ internal_links:
   url: /layanan/panggil-dokter
 - anchor: Layanan Perawat Medis Homecare
   url: /layanan/perawat-homecare
-cta_text: Konsultasikan kebutuhan cek laboratorium darah di rumah Anda di Jakarta
+cta_text: Konsultasi Dokter Gratis via WhatsApp
   dan Jabodetabek langsung via WhatsApp Joy of Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -98,8 +98,8 @@ Bayangkan Anda harus membawa ayah Anda yang berusia 72 tahun dan menderita pasca
 
 | Faktor Perbandingan | Datang ke Laboratorium Klinik / RS | Cek Darah di Rumah (Joy of Care) |
 |---|---|---|
-| **Tarif Dasar Uji Parameter Lab** | Standar klinik resmi (Rp 300rb – Rp 1,5jt) | **Sama dengan standar resmi klinik terakreditasi** |
-| **Biaya Transportasi & Tol** | Rp 80.000 – Rp 200.000 (Taksi/Bensin/Tol) | **Rp 0 – Rp 75.000 (Biaya transport flebotomis minimal)** |
+| **Tarif Dasar Uji Parameter Lab** | Standar laboratorium klinik resmi | **Sama dengan standar resmi laboratorium terakreditasi** |
+| **Biaya Transportasi & Tol** | Ongkos taksi, bensin, dan tol pulang-pergi | **Bebas Macet (Transport flebotomis flat & terjangkau)** |
 | **Waktu Produktif yang Terkuras** | 3 hingga 5 jam (perjalanan + antre) | **Hanya 10–15 menit di rumah sendiri** |
 | **Kondisi Pasien Saat Puasa** | Menahan lapar & lemas di tengah macet | **Rileks dan tenang di tempat tidur pribadi** |
 | **Risiko Infeksi Nosokomial** | **Tinggi (ruang tunggu campur orang sakit)** | **Nol (lingkungan rumah bersih dan privat)** |
@@ -113,13 +113,13 @@ Bayangkan Anda harus membawa ayah Anda yang berusia 72 tahun dan menderita pasca
 
 Banyak orang terkecoh mengira bahwa tarif home service lebih mahal karena ada komponen biaya kunjungan petugas. Namun mari kita hitung secara matematis pengeluaran riil keluarga di Jakarta:
 
-* Biaya taksi online pulang-pergi (atau bensin + tol kendaraan pribadi): rata-rata **Rp 120.000**.
-* Biaya parkir rumah sakit/klinik selama 2–3 jam: **Rp 20.000**.
-* Biaya makan sarapan darurat di kantin rumah sakit: **Rp 75.000**.
-* Nilai waktu produktif kerja Anda yang hilang (setengah hari cuti kerja): minimal setara **Rp 200.000 – Rp 400.000**.
-* Total biaya tersembunyi (*hidden costs*) pergi ke klinik: **Rp 415.000 – Rp 615.000**!
+* Biaya taksi online atau bensin kendaraan pribadi ditambah karcis tol pulang-pergi.
+* Biaya karcis parkir rumah sakit/laboratorium dan biaya logistik pendamping.
+* Kehilangan waktu produktif kerja berharga karena harus mengambil cuti setengah hari.
+* Risiko kelelahan fisik lansia akibat harus berpuasa dalam perjalanan macet.
+* **Hasil**: Total pengeluaran tersembunyi (*hidden costs*) berobat ke klinik membengkak tinggi tanpa disadari!
 
-Pada layanan home lab Joy of Care, biaya transport flebotomis hanya berkisar antara Rp 50.000 hingga Rp 100.000 (bahkan gratis pada paket-paket pemeriksaan geriatri berkala). Dengan demikian, memilih layanan cek darah di rumah sejatinya **menghemat uang keluarga hingga ratusan ribu rupiah**, sekaligus menyelamatkan kondisi emosional orang tua dari keletihan yang sia-sia.
+Pada layanan home lab Joy of Care, flebotomis tersertifikasi datang langsung ke rumah dengan peralatan tabung vakum steril dan rantai dingin terstandar. Biaya layanan transparan tanpa biaya tersembunyi. Memilih cek darah di rumah terbukti jauh lebih efisien, nyaman, dan melindungi lansia dari risiko kelelahan. Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
 
 Dukung pemulihan kesehatan anggota keluarga dengan memadukan hasil laboratorium bersama [Layanan Perawat Medis Homecare](/layanan/perawat-homecare) dan [Layanan Panggil Dokter ke Rumah](/layanan/panggil-dokter). Pelajari rincian paket tes di [Panduan Lengkap Cek Darah di Rumah Jakarta Biaya](/blog/cek-darah-di-rumah-jakarta-biaya-panduan-lengkap).
 
@@ -144,4 +144,4 @@ Hampir 95% jenis pemeriksaan laboratorium darah (darah lengkap, gula darah, kole
 ### Beralihlah ke Cara Cek Darah yang Lebih Cerdas dan Nyaman
 Kesehatan Anda dan keluarga terlalu berharga untuk dipertaruhkan di ruang tunggu yang penuh kuman dan kemacetan jalanan. Rasakan kemewahan layanan laboratorium profesional di ruang keluarga Anda bersama Joy of Care.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Chat WhatsApp 08811-118-911](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?)
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)

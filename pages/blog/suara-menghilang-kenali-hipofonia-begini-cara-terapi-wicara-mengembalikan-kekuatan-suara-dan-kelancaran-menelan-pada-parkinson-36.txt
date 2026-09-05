@@ -42,7 +42,7 @@ internal_links:
   url: /blog/healthy-aging-3/vaksinasi-pneumonia-lindungi-opa-oma-39
 - anchor: Layanan Perawat Homecare Medis
   url: /layanan/perawat-homecare
-cta_text: Konsultasikan kebutuhan perawatan kesehatan keluarga Anda langsung bersama
+cta_text: Hubungi WhatsApp JoC untuk informasi harga
   dokter dan tim medis Joy of Care via WhatsApp di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -131,4 +131,4 @@ Sangat bermanfaat. Membaca koran dengan suara lantang selama 15 menit setiap har
 ### Dampingi Lansia Parkinson Bersama Terapis Joy of Care
 Jangan biarkan orang tua Anda terisolasi dari interaksi sosial hanya karena suara yang mengecil. Tim medis dan fisioterapis Joy of Care siap mendampingi latihan pernapasan, postur menelan, dan stimulasi motorik langsung di rumah Anda dengan penuh kesabaran.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Chat WhatsApp 08811-118-911](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?)
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Hubungi WhatsApp JoC untuk informasi harga](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?)

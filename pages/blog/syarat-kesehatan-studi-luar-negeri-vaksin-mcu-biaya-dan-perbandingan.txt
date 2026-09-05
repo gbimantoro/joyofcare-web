@@ -24,11 +24,7 @@ faq:
     Meningitis dan MMR.
 - question: Berapa rata-rata estimasi biaya pemeriksaan MCU visa pelajar resmi antar-negara
     pada tahun 2026?
-  answer: Biaya MCU visa Australia di panel resmi berkisar antara Rp 1.800.000 hingga
-    Rp 2.500.000; tes TBC visa UK di IOM berkisar antara Rp 850.000 hingga Rp 1.100.000;
-    MCU studi Jepang/Korea berkisar antara Rp 1.200.000 hingga Rp 1.900.000; sedangkan
-    pemenuhan paket imunisasi universitas di Amerika Serikat berkisar antara Rp 1.500.000
-    hingga Rp 3.500.000.
+  answer: Biaya pemeriksaan MCU dan vaksinasi studi ke luar negeri bervariasi sesuai regulasi visa negara tujuan (Australia, UK, Jepang, Korea, atau USA) serta daftar imunisasi wajib yang disyaratkan universitas. Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
 - question: Apakah tes narkoba (drug test 5-6 parameter) selalu diwajibkan untuk semua
     negara tujuan studi?
   answer: Tidak semua negara. Uji skrining bebas narkoba (amphetamines, cannabis/THC,
@@ -43,7 +39,7 @@ internal_links:
   url: /layanan/vaksinasi-di-rumah
 - anchor: Layanan Panggil Dokter ke Rumah Jakarta
   url: /layanan/panggil-dokter
-cta_text: Konsultasikan pemenuhan syarat vaksinasi dan medical check-up studi luar
+cta_text: Hubungi WhatsApp JoC untuk informasi harga
   negeri langsung via WhatsApp Joy of Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -63,7 +59,7 @@ clinical_references:
 > ### 💡 Poin Kunci (Key Takeaways)
 > * **Fokus Spesifik Negara Barat (Australia/UK)**: Skrining ketat Tuberkulosis paru via rontgen digital di klinik panel resmi kedutaan (*Panel Physician*).
 > * **Fokus Spesifik Negara Asia Timur (Jepang/Korea)**: Skrining TBC, uji bebas penyakit menular lepra/sifilis, fungsi organ hati, dan tes bebas narkotika urin (*drug test*).
-> * **Variasi Struktur Biaya**: Estimasi biaya MCU berkisar dari Rp 850.000 (skrining TB UK) hingga Rp 3.500.000+ (MCU komprehensif visa + vaksin lengkap USA).
+> * **Variasi Struktur Layanan**: Pemeriksaan kesehatan studi luar negeri mencakup skrining TBC visa kedutaan hingga vaksinasi wajib kampus terpadu. Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
 > * **Efisiensi Persiapan di Rumah**: Sebagian besar uji laboratorium darah, tes urin, dan vaksinasi dapat diselesaikan terlebih dahulu di rumah sebelum janji temu klinik kedutaan.
 
 ---
@@ -117,10 +113,12 @@ Berikut adalah rincian kalkulasi biaya medis riil per negara yang harus dialokas
 
 | Komponen Biaya Medis | Estimasi Biaya Australia | Estimasi Biaya UK | Estimasi Biaya Jepang | Estimasi Biaya Korea Selatan |
 |---|---|---|---|---|
-| **Pemeriksaan Visa Kedutaan (RS Panel)** | Rp 1.800.000 – Rp 2.400.000 | Rp 850.000 – Rp 1.100.000 | Rp 1.200.000 – Rp 1.800.000 | Rp 1.300.000 – Rp 1.900.000 |
-| **Paket Vaksinasi Wajib Universitas** | Rp 1.200.000 – Rp 1.800.000 | Rp 850.000 – Rp 1.500.000 | Rp 550.000 – Rp 850.000 | Rp 550.000 – Rp 1.100.000 |
-| **Tes Titer Darah & Skrining Urin Lab** | Rp 650.000 – Rp 1.100.000 | Opsional (sesuai kampus) | Sudah termasuk dalam paket | Rp 450.000 – Rp 750.000 |
-| **Total Estimasi Anggaran Medis** | **Rp 3.650.000 – Rp 5.300.000** | **Rp 1.700.000 – Rp 2.600.000** | **Rp 2.300.000 – Rp 3.200.000** | **Rp 2.300.000 – Rp 3.750.000** |
+| **Pemeriksaan Visa Kedutaan (RS Panel)** | Tarif resmi RS panel terakreditasi | Tarif resmi klinik IOM Jakarta | Standar formulir visa kedutaan | Standar formulir visa kedutaan |
+| **Paket Vaksinasi Wajib Universitas** | Paket vaksin MMR & Meningitis | Paket vaksin MenACWY & booster | Vaksin MMR & Hepatitis B | Paket vaksin influenza & Tdap |
+| **Tes Titer Darah & Skrining Urin Lab** | Uji titer antibodi serologi lab | Uji laboratorium sesuai kampus | Panel skrining urin & darah | Uji laboratorium titer serologi |
+| **Estimasi Skema Pemeriksaan** | **Paket Lengkap Mahasiswa Australia** | **Paket Terpadu Mahasiswa UK** | **Paket Terpadu Jepang / Korea** | **Paket Mahasiswa Amerika Serikat** |
+
+Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
 
 ---
 
@@ -141,4 +139,6 @@ Masa berlaku hasil pemeriksaan medis visa imigrasi internasional umumnya berkisa
 
 Setiap negara memiliki aturan main medis yang unik dan tidak boleh ada kesalahan data. Percayakan persiapan laboratorium darah, vaksinasi internasional, dan konsultasi dokter pra-studi Anda kepada tim profesional Joy of Care.
 
-Hubungi WhatsApp kami di [https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?) sekarang juga!
+Hubungi WhatsApp kami di [https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?) sekarang juga!
+
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Hubungi WhatsApp JoC untuk informasi harga](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?)

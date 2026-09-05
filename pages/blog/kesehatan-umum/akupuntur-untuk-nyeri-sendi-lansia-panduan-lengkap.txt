@@ -36,8 +36,7 @@ faq:
     terapi yang terdiri dari 8 hingga 10 sesi (dilakukan 1–2 kali seminggu).
 - question: Berapa kisaran biaya layanan akupuntur medis di rumah di kawasan Jabodetabek
     pada tahun 2026?
-  answer: Biaya resmi layanan akupuntur medis home visit Joy of Care berkisar antara
-    Rp 375.000 hingga Rp 550.000 per sesi, sudah mencakup jasa tindakan medis oleh
+  answer: Biaya layanan akupuntur medis home visit Joy of Care ditentukan secara transparan berdasarkan kebutuhan klinis pasien, sudah mencakup jasa tindakan dokter/terapis berlisensi, jarum steril sekali pakai, dan modalitas elektroakupunktur. Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
     dokter/terapis berlisensi, jarum steril sekali pakai, modalitas elektroakupunktur
     atau moxibustion bila diperlukan, dan biaya transportasi ke hunian Anda.
 internal_links:
@@ -49,7 +48,7 @@ internal_links:
   url: /layanan/panggil-dokter
 - anchor: Layanan Perawat Medis Homecare
   url: /layanan/perawat-homecare
-cta_text: Konsultasikan terapi akupuntur medis untuk nyeri sendi lansia di rumah Anda
+cta_text: Konsultasi Dokter Gratis via WhatsApp
   langsung via WhatsApp Joy of Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -112,10 +111,12 @@ Berikut adalah struktur tarif resmi layanan terapi akupuntur di rumah untuk wila
 
 | Paket Layanan Akupuntur | Cakupan Tindakan Medis | Tarif Resmi Per Sesi | Indikasi Klinis |
 |---|---|---|---|
-| **Sesi Tunggal Akupuntur Manual** | Anamnesis, desinfeksi aseptik, tusuk 12–16 jarum mikro, retensi 25 menit | Rp 375.000 – Rp 450.000 | Nyeri sendi ringan, pegal linu, pemeliharaan |
-| **Akupuntur Medik + Elektroakupunktur** | Akupuntur manual + stimulasi arus listrik mikro TENS frekuensi rendah | Rp 475.000 – Rp 550.000 | Osteoartritis derajat sedang-berat, kaku sendi pagi |
-| **Paket Pemulihan Sendi (5 Sesi)** | 5 sesi elektroakupunktur + evaluasi mobilitas berkala (hemat 10%) | Rp 2.150.000 / paket | Pasien dengan kesulitan jalan mandiri |
-| **Paket Intensif Kuratif (10 Sesi)** | 10 sesi komprehensif + konsultasi dokter (hemat 15%) | Rp 3.950.000 / paket | Nyeri sendi kronis menahun, pasca-jatuh |
+| **Sesi Tunggal Akupuntur Manual** | Anamnesis, desinfeksi aseptik, tusuk 12–16 jarum mikro, retensi 25 menit | Transparan (Hubungi WA JoC) | Nyeri sendi ringan, pegal linu, pemeliharaan |
+| **Akupuntur Medik + Elektroakupunktur** | Akupuntur manual + stimulasi arus listrik mikro TENS frekuensi rendah | Sesi Lengkap (Hubungi WA JoC) | Osteoartritis derajat sedang-berat, kaku sendi pagi |
+| **Paket Pemulihan Sendi (5 Sesi)** | 5 sesi elektroakupunktur + evaluasi mobilitas berkala | Paket Hemat (Hubungi WA JoC) | Pasien dengan kesulitan jalan mandiri |
+| **Paket Intensif Kuratif (10 Sesi)** | 10 sesi komprehensif + konsultasi dokter terpadu | Paket Intensif (Hubungi WA JoC) | Nyeri sendi kronis menahun, pasca-jatuh |
+
+Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
 
 *Catatan: Tarif sudah bersifat all-in, mencakup jarum akupunktur steril baja nirkarat sekali pakai (disposable sterile needles), alkohol swab antiseptik, alat stimulasi listrik medis, dan biaya transport ke rumah Anda.*
 
@@ -150,4 +151,6 @@ Pada osteoartritis derajat 1 hingga 3 (derajat ringan hingga sedang), akupuntur 
 
 Jangan biarkan orang tua Anda terus-menerus mengonsumsi obat kimia yang membebani lambung dan ginjal mereka. Hadirkan terapi akupuntur medis yang aman, nyaman, dan ilmiah langsung di hunian Anda.
 
-Hubungi WhatsApp kami di [https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?) sekarang juga!
+Hubungi WhatsApp kami di [https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter) sekarang juga!
+
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)

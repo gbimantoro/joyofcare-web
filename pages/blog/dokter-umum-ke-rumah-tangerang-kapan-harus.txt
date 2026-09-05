@@ -42,7 +42,7 @@ internal_links:
   url: /layanan/perawat-homecare
 - anchor: Layanan Fisioterapi di Rumah
   url: /layanan/fisioterapi-di-rumah
-cta_text: Konsultasikan kebutuhan visit dokter umum ke rumah Anda di Tangerang dan
+cta_text: Konsultasi Dokter Gratis via WhatsApp
   Tangsel langsung via WhatsApp Joy of Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -140,4 +140,6 @@ Ya. Pasien dan keluarga mendapatkan fasilitas telekonsultasi pascakunjungan mela
 
 Dapatkan penanganan medis yang cepat, tepat, dan penuh perhatian langsung di kenyamanan hunian Anda. Percayakan kesehatan keluarga kepada tim dokter tepercaya Joy of Care.
 
-Hubungi WhatsApp kami di [https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?) sekarang juga!
+Hubungi WhatsApp kami di [https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter) sekarang juga!
+
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)

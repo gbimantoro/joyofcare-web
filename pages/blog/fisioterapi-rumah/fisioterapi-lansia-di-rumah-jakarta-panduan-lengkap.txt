@@ -15,8 +15,7 @@ variation_type: panduan-lengkap
 faq:
 - question: Berapa kisaran biaya fisioterapi lansia di rumah wilayah Jakarta pada
     tahun 2026?
-  answer: Biaya fisioterapi lansia kunjungan ke rumah di Jakarta berkisar antara Rp
-    250.000 hingga Rp 400.000 per sesi latihan berdurasi 45–60 menit. Tersedia pula
+  answer: Biaya fisioterapi lansia kunjungan ke rumah di Jakarta dirancang terjangkau dan transparan per sesi berdurasi 45–60 menit. Tersedia pula paket rehabilitasi berkala bulanan yang lebih hemat untuk pemulihan jangka panjang. Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
     paket terapi berkala (8 hingga 12 sesi per bulan) dengan potongan harga khusus
     untuk program rehabilitasi jangka panjang.
 - question: Kondisi apa saja pada lansia yang sangat membutuhkan penanganan fisioterapi
@@ -45,7 +44,7 @@ internal_links:
   url: /layanan/perawat-homecare
 - anchor: Panduan Lengkap Merawat Orang Tua di Rumah
   url: /blog/merawat-orang-tua-di-rumah-panduan-lengkap
-cta_text: Konsultasikan kebutuhan fisioterapi lansia di rumah Anda di Jakarta dan
+cta_text: Konsultasi Dokter Gratis via WhatsApp
   Jabodetabek langsung via WhatsApp Joy of Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -106,10 +105,12 @@ Berikut adalah tabel transparansi tarif resmi layanan fisioterapi lansia home vi
 
 | Jenis Program Fisioterapi | Cakupan Tindakan & Modalitas | Tarif Resmi Jakarta 2026 | Durasi Sesi Terapi |
 |---|---|---|---|
-| **Fisioterapi Kunjungan Tunggal (Per Visit)** | Asesmen fisik, latihan motorik, edukasi keluarga | Rp 275.000 – Rp 350.000 | 45 – 60 Menit |
-| **Paket Pemulihan Aktif (8 Sesi / Bulan)** | Asesmen berkala, latihan kekuatan, modalitas TENS | Rp 2.000.000 – Rp 2.400.000 | 60 Menit per sesi |
-| **Paket Rehabilitasi Intensif (12 Sesi / Bulan)** | Program pascastroke / pascaoperasi panggul | Rp 2.850.000 – Rp 3.450.000 | 60 Menit per sesi |
-| **Paket Khusus Tirah Baring (Passive ROM)** | Mobilisasi sendi kaku, alih baring, latihan napas | Rp 2.200.000 – Rp 2.600.000 | 45 – 60 Menit (8 sesi) |
+| **Fisioterapi Kunjungan Tunggal (Per Visit)** | Asesmen fisik, latihan motorik, edukasi keluarga | Tarif Transparan (Hubungi WA JoC) | 45 – 60 Menit |
+| **Paket Pemulihan Aktif (8 Sesi / Bulan)** | Asesmen berkala, latihan kekuatan, modalitas TENS | Paket Berkala (Hubungi WA JoC) | 60 Menit per sesi |
+| **Paket Rehabilitasi Intensif (12 Sesi / Bulan)** | Program pascastroke / pascaoperasi panggul | Paket Intensif (Hubungi WA JoC) | 60 Menit per sesi |
+| **Paket Khusus Tirah Baring (Passive ROM)** | Mobilisasi sendi kaku, alih baring, latihan napas | Paket Pasien Tirah Baring (Hubungi WA JoC) | 45 – 60 Menit (8 sesi) |
+
+Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
 
 *Catatan: Seluruh tarif di atas sudah mencakup biaya transportasi fisioterapis ke rumah, penggunaan peralatan terapi portabel, serta lembar evaluasi kemajuan fungsional berkala (*progress report*).*
 
@@ -144,7 +145,7 @@ Sinergikan program latihan dengan pemeriksaan kesehatan berkala melalui [Layanan
 ## Pertanyaan yang Sering Diajukan (FAQ)
 
 ### Berapa kisaran biaya fisioterapi lansia di rumah wilayah Jakarta pada tahun 2026?
-Biaya fisioterapi lansia kunjungan ke rumah di Jakarta berkisar antara Rp 250.000 hingga Rp 400.000 per sesi latihan berdurasi 45–60 menit. Tersedia pula paket terapi berkala (8 hingga 12 sesi per bulan) dengan potongan harga khusus untuk program rehabilitasi jangka panjang.
+Biaya fisioterapi lansia kunjungan ke rumah di Jakarta dirancang terjangkau dan transparan per sesi berdurasi 45–60 menit. Tersedia pula paket program pemulihan intensif bulanan yang sangat terukur untuk memastikan lansia kembali mandiri. Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
 
 ### Kondisi apa saja pada lansia yang sangat membutuhkan penanganan fisioterapi di rumah?
 Kelemahan otot ekstremitas akibat tirah baring lama, pemulihan mobilitas pascastroke, rehabilitasi pascaoperasi penggantian panggul/lutut (THR/TKR), penyakit Parkinson, pengapuran sendi lutut (osteoarthritis berat), serta lansia yang sering mengalami episode jatuh akibat gangguan keseimbangan.
@@ -160,4 +161,4 @@ Untuk fase pemulihan aktif (misalnya pascaoperasi atau pascastroke), frekuensi i
 ### Pulihkan Langkah Tegap dan Kemandirian Orang Tua Anda
 Melihat orang tua kembali mampu berjalan dan tersenyum tanpa rasa takut terjatuh adalah kebahagiaan tak ternilai bagi keluarga. Percayakan rehabilitasi fisik orang tua Anda kepada tim fisioterapis geriatri profesional Joy of Care hari ini.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Chat WhatsApp 08811-118-911](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?)
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)

@@ -43,7 +43,7 @@ internal_links:
   url: /blog/healthy-aging-3/vaksinasi-pneumonia-lindungi-opa-oma-39
 - anchor: Layanan Dokter Kunjungan ke Rumah
   url: /layanan/panggil-dokter
-cta_text: Konsultasikan kebutuhan vaksinasi lansia dan keluarga Anda langsung bersama
+cta_text: Hubungi WhatsApp JoC untuk informasi harga
   dokter Joy of Care via WhatsApp di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -128,4 +128,4 @@ Lakukan kompres dingin pada area bekas suntikan selama 10-15 menit beberapa kali
 ### Jadwalkan Vaksinasi Lansia di Rumah Bersama Joy of Care
 Lindungi orang tua tercinta dari bahaya infeksi saluran napas dan cacar api tanpa repot mengantre di rumah sakit. Dokter Joy of Care siap datang ke rumah Anda di wilayah Jakarta, Tangerang, Depok, dan Bogor dengan vaksin asli berizin BPOM dan pelayanan penuh kehangatan.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Chat WhatsApp 08811-118-911](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?)
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Hubungi WhatsApp JoC untuk informasi harga](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?)

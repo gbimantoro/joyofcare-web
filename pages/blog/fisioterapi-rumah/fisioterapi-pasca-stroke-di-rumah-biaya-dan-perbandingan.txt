@@ -15,8 +15,7 @@ secondary_keywords:
 variation_type: biaya-dan-perbandingan
 faq:
 - question: Berapa kisaran biaya fisioterapi pasca stroke ke rumah di wilayah Jakarta?
-  answer: Biaya satu sesi kunjungan fisioterapi pasca stroke ke rumah di Jakarta umumnya
-    berkisar antara Rp 250.000 hingga Rp 450.000 per sesi, tergantung paket kunjungan
+  answer: Biaya fisioterapi pasca stroke ke rumah di Jakarta dirancang terjangkau dan transparan per sesi, disesuaikan dengan fase rehabilitasi dan modalitas stimulasi neuromuskular yang diperlukan pasien. Konsultasi Dokter Gratis via WhatsApp: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter
     dan modalitas stimulasi yang digunakan.
 - question: Apakah hasil fisioterapi stroke di rumah seefektif fisioterapi di rumah
     sakit besar?
@@ -39,7 +38,7 @@ internal_links:
   url: /layanan/panggil-dokter
 - anchor: Layanan Perawat Medis Homecare
   url: /layanan/perawat-homecare
-cta_text: Konsultasikan kebutuhan rehabilitasi fisioterapi pasca stroke di rumah Anda
+cta_text: Hubungi WhatsApp JoC untuk informasi harga
   langsung via WhatsApp Joy of Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -80,9 +79,11 @@ Membawa pasien stroke dengan hemiplegia atau penurunan keseimbangan ke rumah sak
 | **Lingkungan Latihan** | Alat gym klinik yang tidak ada di rumah | **Fasilitas asli rumah (Ranjang, Tangga, Toilet)** |
 | **Kelelahan Fisik Pasien** | Tinggi akibat macet & transfer mobil | **Sangat Rendah (Segar & Rileks di Kamar)** |
 | **Keterlibatan Keluarga** | Terbatas di ruang tunggu | **Keluarga diajarkan teknik transfer langsung** |
-| **Biaya Jasa Terapi** | Rp 200.000 – Rp 400.000 / sesi | **Rp 275.000 – Rp 400.000 / sesi** |
-| **Biaya Transport Khusus PP** | Rp 300.000 – Rp 700.000 / hari | **Rp 0 (Bebas Biaya Kendaraan Sewa)** |
-| **Estimasi Total Pengeluaran** | **Rp 500.000 – Rp 1.100.000 / visit** | **Rp 275.000 – Rp 400.000 / visit** |
+| **Biaya Jasa Terapi Sesi** | Tarif standar fisioterapi klinik | **Transparan & Terjangkau (Hubungi WA JoC)** |
+| **Biaya Transport Khusus PP** | Sewa ambulans / taksi kursi roda PP mahal | **Bebas Biaya Sewa (Terapis datang ke rumah)** |
+| **Efisiensi Total Biaya** | **Beban Pengeluaran Tinggi per Sesi** | **Hemat Signifikan Tanpa Biaya Tersembunyi** |
+
+Konsultasi Dokter Gratis via WhatsApp: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter
 
 ---
 
@@ -105,7 +106,7 @@ Pelajari kurikulum pemulihannya pada [Panduan Lengkap Fisioterapi Pasca Stroke d
 ## Pertanyaan yang Sering Diajukan (FAQ)
 
 ### Berapa kisaran biaya fisioterapi pasca stroke ke rumah di wilayah Jakarta?
-Biaya satu sesi kunjungan fisioterapi pasca stroke ke rumah di Jakarta umumnya berkisar antara Rp 250.000 hingga Rp 450.000 per sesi, tergantung paket kunjungan dan modalitas stimulasi yang digunakan.
+Biaya satu sesi kunjungan fisioterapi pasca stroke ke rumah di Jakarta dirancang kompetitif dan transparan, disesuaikan dengan kebutuhan modalitas pemulihan gerak fungsional dan paket pendampingan yang dipilih. Konsultasi Dokter Gratis via WhatsApp: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter
 
 ### Apakah hasil fisioterapi stroke di rumah seefektif fisioterapi di rumah sakit besar?
 Penelitian internasional membuktikan hasil pemulihan fungsional home-based rehabilitation setara atau bahkan lebih unggul dalam aspek kemandirian aktivitas sehari-hari, karena pasien berlatih langsung pada fasilitas rumah aslinya.
@@ -121,4 +122,4 @@ Sebagian besar asuransi swasta dengan fasilitas reimbursement rawat jalan menang
 ### Dapatkan Program Fisioterapi Stroke di Rumah Terbaik
 Efisiensikan anggaran dan tenaga keluarga Anda tanpa mengorbankan mutu pemulihan medis orang tua tercinta. Hubungi Joy of Care untuk mendapatkan jadwal kunjungan fisioterapis stroke berpengalaman langsung ke kediaman Anda di Jakarta.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Chat WhatsApp 08811-118-911](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?)
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Hubungi WhatsApp JoC untuk informasi harga](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?)

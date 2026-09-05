@@ -40,7 +40,7 @@ internal_links:
   url: /layanan/vaksinasi-di-rumah
 - anchor: Layanan Panggil Dokter ke Rumah Jakarta
   url: /layanan/panggil-dokter
-cta_text: Konsultasikan persiapan medical check-up, cek lab darah, dan vaksinasi studi
+cta_text: Konsultasi Dokter Gratis via WhatsApp
   ke luar negeri langsung via WhatsApp Joy of Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -73,9 +73,9 @@ Berikut adalah matriks perbandingan regulasi asuransi kesehatan pelajar di tiga 
 |---|---|---|---|
 | **Nama Skema Asuransi** | **OSHC** (*Overseas Student Health Cover*) | **IHS** (*Immigration Health Surcharge*) | **Student Health Insurance Plan (SHIP)** |
 | **Penyedia Layanan** | Asuransi swasta terakreditasi (Allianz, Bupa, Medibank) | Dikelola langsung oleh sistem kesehatan publik (NHS) | Polis asuransi swasta yang dipilih oleh pihak universitas |
-| **Estimasi Biaya Tahunan** | AUD $600 – $800 per tahun (~Rp 6–8 juta) | GBP £776 per tahun (~Rp 15–16 juta) | USD $2.000 – $4.000 per tahun (~Rp 32–64 juta) |
+| **Estimasi Biaya Tahunan** | Sesuai regulasi resmi premi OSHC Australia | Sesuai tarif wajib retribusi IHS visa UK | Premi tahunan student health plan universitas |
 | **Akses Pelayanan Medis** | Bebas memilih dokter umum (GP) jaringan OSHC | Wajib mendaftar pada GP practice lokal di area tempat tinggal | Wajib berobat di klinik kampus (*Student Health Center*) lebih dulu |
-| **Sistem Klaim Biaya** | *Direct billing* di klinik rekanan atau klaim online | Sebagian besar gratis di faskes NHS (kecuali resep obat) | Pembayaran *copayment* (USD $20–50) + *deductible* tahunan |
+| **Sistem Klaim Biaya** | *Direct billing* di klinik rekanan atau klaim online | Sebagian besar gratis di faskes NHS (kecuali resep obat) | Pembayaran *copayment* terjangkau + pemenuhan *deductible* tahunan |
 | **Cakupan Perawatan Gigi** | **TIDAK DITANGGUNG** (Kecuali beli paket ekstra mahal) | **Hanya tindakan darurat berat** (dikenakan tarif NHS band) | **TIDAK DITANGGUNG** (Harus membeli polis dental terpisah) |
 | **Cakupan Rawat Inap RS** | 100% tarif rumah sakit publik (kamar bersama) | 100% gratis di seluruh rumah sakit publik NHS | Ditanggung 80–90% setelah batas deductible terpenuhi |
 
@@ -86,12 +86,12 @@ Berikut adalah matriks perbandingan regulasi asuransi kesehatan pelajar di tiga 
 Agar tidak terkejut saat berobat di luar negeri, mahasiswa wajib memahami terminologi asuransi berikut:
 
 ### 1. Sistem *Gap Fee* (Selisih Biaya)
-Di Australia, pemerintah menetapkan tarif standar konsultasi medis yang disebut *Medicare Benefits Schedule* (MBS). Asuransi OSHC menanggung 100% tarif MBS tersebut. Namun, banyak dokter swasta mematok tarif konsultasi di atas tarif MBS (misalnya tarif MBS AUD $40, namun dokter mematok AUD $75). Selisih AUD $35 inilah yang disebut *gap fee* dan wajib dibayar langsung oleh mahasiswa dari kantong pribadi. Carilah klinik yang menerapkan sistem *bulk billing* untuk mahasiswa agar bebas dari gap fee.
+Di Australia, pemerintah menetapkan tarif standar konsultasi medis yang disebut *Medicare Benefits Schedule* (MBS). Asuransi OSHC menanggung 100% tarif MBS tersebut. Namun, beberapa dokter swasta mematok tarif konsultasi di atas batas standar MBS. Selisih biaya inilah yang disebut *gap fee* dan wajib dibayar langsung oleh mahasiswa dari kantong pribadi. Carilah klinik yang menerapkan sistem *bulk billing* khusus mahasiswa agar bebas dari biaya selisih tersebut. Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
 
 ### 2. *Copayment* dan *Deductible* (Khusus Studi di Amerika Serikat)
 Sistem asuransi di AS sangat kompleks:
-* **Deductible**: Jumlah biaya pengobatan yang wajib Anda bayar sendiri sebelum perusahaan asuransi mulai menanggung biaya. Misalnya deductible USD $500: Anda harus membayar USD $500 pertama dari biaya perawatan Anda dalam setahun.
-* **Copayment (Copay)**: Biaya tetap yang wajib Anda bayar setiap kali berkunjung ke dokter (biasanya USD $20 hingga $40 per kunjungan), sementara sisa tagihan ditanggung oleh asuransi.
+* **Deductible**: Batas akumulasi nominal pengobatan yang wajib Anda bayar mandiri sebelum perusahaan asuransi mulai menanggung biaya tanggungan medis dalam satu periode tahunan polis asuransi.
+* **Copayment (Copay)**: Biaya partisipasi bernominal tetap yang wajib dibayar pasien setiap kali berkonsultasi dengan dokter faskes, sementara sisa porsi tagihan medis ditanggung oleh pihak asuransi.
 
 ### 3. *Prescription Fee* (Biaya Penebusan Obat)
 Di Inggris, meskipun konsultasi dengan dokter umum NHS bersifat 100% gratis, setiap lembar resep obat yang ditebus di apotek dikenakan biaya standar flat per item obat (sekitar GBP £9,65 di Inggris). Di Australia, OSHC hanya menanggung selisih obat yang terdaftar dalam *Pharmaceutical Benefits Scheme* (PBS) dengan batas maksimal tanggungan tertentu per tahun.
@@ -125,4 +125,6 @@ Tidak. Asuransi OSHC, IHS, maupun asuransi AS baru aktif berlaku terhitung sejak
 
 Jangan biarkan kendala kesehatan merusak fokus belajar dan mimpi masa depan Anda di luar negeri. Percayakan persiapan medical check-up, cek laboratorium darah, dan vaksinasi internasional Anda kepada tim profesional Joy of Care di Jakarta.
 
-Hubungi WhatsApp kami di [https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?) sekarang juga!
+Hubungi WhatsApp kami di [https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter) sekarang juga!
+
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)

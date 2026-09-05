@@ -40,7 +40,7 @@ internal_links:
   url: /layanan/panggil-dokter
 - anchor: Layanan Perawat Medis Homecare
   url: /layanan/perawat-homecare
-cta_text: Konsultasikan kebutuhan terapi infus vitamin dan immune booster di rumah
+cta_text: Konsultasi Dokter Gratis via WhatsApp
   Anda di Jakarta langsung via WhatsApp Joy of Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -135,4 +135,4 @@ Boleh langsung beraktivitas normal. Tubuh umumnya akan terasa jauh lebih segar, 
 ### Pesan Sesi Infus Vitamin Anda Hari Ini
 Tak perlu biarkan rasa lelah mengganggu produktivitas Anda. Chat dengan tim customer care Joy of Care sekarang untuk memilih formula vitamin terbaik dan nikmati kesegaran tubuh instan di kediaman Anda di Jakarta.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Chat WhatsApp 08811-118-911](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?)
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)

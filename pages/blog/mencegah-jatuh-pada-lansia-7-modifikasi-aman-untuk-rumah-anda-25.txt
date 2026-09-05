@@ -44,7 +44,7 @@ internal_links:
   url: /blog/healthy-aging-3/bahaya-komplikasi-osteoporosis-dan-faktor-risiko-yang-wajib-diwaspadai-41
 - anchor: Layanan Perawat Pendamping Lansia Medis
   url: /layanan/perawat-homecare
-cta_text: Konsultasikan kebutuhan perawatan kesehatan geriatri dan lansia keluarga
+cta_text: Konsultasi Dokter Gratis via WhatsApp
   Anda langsung bersama dokter dan tim medis Joy of Care via WhatsApp di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -134,4 +134,4 @@ Tidak selalu. Sandal rumah yang terlalu tebal dan empuk justru dapat mengurangi 
 ### Audit Keselamatan Rumah dan Fisioterapi Keseimbangan Joy of Care
 Jangan menunggu orang tua terpeleset untuk mulai melakukan perubahan. Tim fisioterapis profesional Joy of Care siap berkunjung ke rumah Anda untuk melakukan audit risiko jatuh komprehensif serta melatih refleks keseimbangan lansia agar tetap mandiri dan aman.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Chat WhatsApp 08811-118-911](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?)
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)

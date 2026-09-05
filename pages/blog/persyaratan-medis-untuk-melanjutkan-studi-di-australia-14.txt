@@ -13,7 +13,7 @@ secondary_keywords:
 faq:
 - question: Berapa biaya rata-rata pemeriksaan kesehatan visa pelajar Australia di
     panel physician Indonesia?
-  answer: Biaya pemeriksaan bervariasi antara Rp 1.200.000 hingga Rp 2.500.000 tergantung
+  answer: Biaya pemeriksaan visa pelajar ditentukan oleh panel physician resmi sesuai regulasi kedutaan dan kebutuhan tes tambahan. Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
     usia pemohon dan jenis tes tambahan yang diwajibkan dalam Referral Letter HAP
     ID Anda.
 - question: Apakah penderita asma atau alergi bisa lolos tes kesehatan visa Australia?
@@ -42,7 +42,7 @@ internal_links:
   url: /blog/studi-luar-negeri-4/cara-menyiapkan-persyaratan-kesehatan-untuk-studi-di-australia-18
 - anchor: Layanan Cek Laboratorium Lengkap Homecare
   url: /layanan/cek-lab-di-rumah
-cta_text: Konsultasikan kebutuhan vaksinasi internasional, cek lab, dan surat keterangan
+cta_text: Konsultasi Dokter Gratis via WhatsApp
   sehat studi luar negeri Anda via WhatsApp Joy of Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -115,7 +115,7 @@ Setiap tindakan medis dan rehabilitasi yang diselenggarakan oleh Joy of Care dij
 ## Pertanyaan yang Sering Diajukan (FAQ)
 
 ### Berapa biaya rata-rata pemeriksaan kesehatan visa pelajar Australia di panel physician Indonesia?
-Biaya pemeriksaan bervariasi antara Rp 1.200.000 hingga Rp 2.500.000 tergantung usia pemohon dan jenis tes tambahan yang diwajibkan dalam Referral Letter HAP ID Anda.
+Biaya pemeriksaan visa pelajar ditentukan oleh panel physician resmi sesuai regulasi kedutaan dan kebutuhan tes tambahan. Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
 
 ### Apakah penderita asma atau alergi bisa lolos tes kesehatan visa Australia?
 Bisa dan umumnya lolos tanpa masalah. Asma atau alergi ringan tidak dianggap sebagai ancaman kesehatan masyarakat Australia. Anda cukup menyatakan riwayat tersebut secara jujur dan membawa obat inhaler yang biasa digunakan.
@@ -134,4 +134,4 @@ Darah menstruasi dapat mengontaminasi sampel urin sehingga tes menunjukkan hasil
 ### Siapkan Kesehatan Pra-Studi Australia Bersama Joy of Care
 Sambil menunggu proses visa Australia Anda rampung, pastikan kondisi kebugaran dan kelengkapan vaksinasi internasional Anda terpenuhi dengan baik. Layanan Dokter Kunjungan Rumah dan Vaksinasi Joy of Care siap mendampingi persiapan kesehatan Anda di Jabodetabek.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Chat WhatsApp 08811-118-911](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?)
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)

@@ -15,9 +15,7 @@ variation_type: biaya-dan-perbandingan
 faq:
 - question: Apakah merawat pasien Parkinson di rumah lebih murah dibanding bolak-balik
     rumah sakit?
-  answer: Jauh lebih ekonomis. Biaya rawat inap rumah sakit berkisar Rp 1.500.000
-    hingga Rp 4.000.000 per hari, belum termasuk biaya obat dan dokter. Dengan layanan
-    homecare terpadu, anggaran bulanan menjadi terukur dan stabil tanpa risiko biaya
+  answer: Jauh lebih ekonomis dan terukur. Merawat pasien Parkinson di rumah menghindarkan keluarga dari tagihan rawat inap rumah sakit harian yang sangat mahal, sekaligus memberikan kenyamanan emosional bagi pasien. Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
     tak terduga.
 - question: Mengapa lingkungan rumah sakit sering memicu kebingungan mendadak (delirium)
     pada pasien Parkinson?
@@ -43,7 +41,7 @@ internal_links:
   url: /layanan/panggil-dokter
 - anchor: Layanan Perawat Lansia Homecare
   url: /layanan/perawat-homecare
-cta_text: Konsultasikan kebutuhan perawatan dan fisioterapi pasien Parkinson di rumah
+cta_text: Konsultasi Dokter Gratis via WhatsApp
   Anda langsung via WhatsApp Joy of Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
@@ -91,7 +89,7 @@ Berikut adalah matriks perbandingan komprehensif antara perawatan rumah sakit ko
 
 | Indikator Perbandingan | Rawat Inap Rumah Sakit Berkala | Perawatan di Rumah (Joy of Care) |
 |---|---|---|
-| **Estimasi Biaya Rutin** | Rp 1.500.000 – Rp 4.000.000 / hari rawat | **Rp 3.500.000 – Rp 8.500.000 / bulan paket terpadu** |
+| **Estimasi Biaya Rutin** | Tarif rawat inap harian RS sangat mahal | **Paket Bulanan Terukur & Hemat (Hubungi WA JoC)** |
 | **Beban Biaya Tersembunyi** | Biaya kamar, administrasi, transport darurat | **Biaya transparan, all-in tanpa biaya kaget** |
 | **Kondisi Psikologis Pasien** | Cemas, disorientasi, risiko delirium tinggi | **Tenang, bahagia, dekat dengan keluarga & cucu** |
 | **Kustomisasi Latihan Fisik** | Terbatas pada gym fisioterapi klinik | **Latihan langsung di tangga & ranjang rumah sendiri** |
@@ -117,7 +115,7 @@ Di luar situasi darurat akut di atas, seluruh perawatan pemeliharaan, latihan re
 ## Pertanyaan yang Sering Diajukan (FAQ)
 
 ### Apakah merawat pasien Parkinson di rumah lebih murah dibanding bolak-balik rumah sakit?
-Jauh lebih ekonomis. Biaya rawat inap rumah sakit berkisar Rp 1.500.000 hingga Rp 4.000.000 per hari, belum termasuk biaya obat dan dokter. Dengan layanan homecare terpadu, anggaran bulanan menjadi terukur dan stabil tanpa risiko biaya tak terduga.
+Jauh lebih ekonomis dan terkontrol. Menghadirkan pendampingan homecare medis di rumah membebaskan keluarga dari risiko lonjakan biaya rawat inap rumah sakit yang tidak terduga, seraya memastikan kepatuhan obat Levodopa dan terapi fisik berjalan disiplin. Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
 
 ### Mengapa lingkungan rumah sakit sering memicu kebingungan mendadak (delirium) pada pasien Parkinson?
 Pasien Parkinson sangat sensitif terhadap perubahan lingkungan. Ruang rawat inap yang asing, bunyi mesin medis berisik, dan pencahayaan rumah sakit dapat memicu stres sensorik akut yang memicu halusinasi dan disorientasi delirium.
@@ -133,4 +131,4 @@ Bahkan lebih efektif dalam konteks fungsional harian. Fisioterapis homecare mela
 ### Berikan Martabat dan Kenyamanan Terbaik di Rumah Sendiri
 Beri orang tua Anda kesempatan untuk menikmati hari-hari tuanya dengan bahagia di tengah pelukan keluarga. Percayakan perawatan Parkinson di rumah kepada tim fisioterapis dan perawat profesional Joy of Care.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Chat WhatsApp 08811-118-911](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?)
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)
