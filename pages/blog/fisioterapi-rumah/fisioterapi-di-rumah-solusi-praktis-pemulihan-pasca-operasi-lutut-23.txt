@@ -41,7 +41,7 @@ internal_links:
 - anchor: Layanan Fisioterapi Ortopedi Homecare
   url: /layanan/fisioterapi
 - anchor: Perawatan Pasca Operasi Penggantian Panggul (THR)
-  url: /blog/healthy-aging-3/perawatan-pasca-operasi-penggantian-panggul-total-total-hip-replacement-thr-pada-lansia-panduan-lengkap-untuk-pemulihan-optimal-di-rumah-19
+  url: /blog/healthy-aging/perawatan-pasca-operasi-penggantian-panggul-total-total-hip-replacement-thr-pada-lansia-panduan-lengkap-untuk-pemulihan-optimal-di-rumah-19
 - anchor: Layanan Perawat Medis untuk Perawatan Luka Operasi
   url: /layanan/perawat-homecare
 cta_text: Konsultasi Dokter Gratis via WhatsApp

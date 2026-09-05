@@ -41,7 +41,7 @@ internal_links:
 - anchor: Layanan Fisioterapi Pemulihan Gerak
   url: /layanan/fisioterapi
 - anchor: Modifikasi Rumah Aman untuk Lansia
-  url: /blog/healthy-aging-3/mencegah-jatuh-pada-lansia-7-modifikasi-aman-untuk-rumah-anda-25
+  url: /blog/healthy-aging/mencegah-jatuh-pada-lansia-7-modifikasi-aman-untuk-rumah-anda-25
 - anchor: Perawat Pendamping Homecare Lansia
   url: /layanan/perawat-homecare
 cta_text: Konsultasi Dokter Gratis via WhatsApp

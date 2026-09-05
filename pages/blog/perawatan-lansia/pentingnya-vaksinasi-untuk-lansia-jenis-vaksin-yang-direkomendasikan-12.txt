@@ -38,7 +38,7 @@ internal_links:
 - anchor: Layanan Vaksinasi di Rumah Joy of Care
   url: /layanan/vaksinasi-di-rumah
 - anchor: Vaksinasi Pneumonia untuk Paru-Paru Lansia
-  url: /blog/healthy-aging-3/vaksinasi-pneumonia-lindungi-opa-oma-39
+  url: /blog/healthy-aging/vaksinasi-pneumonia-lindungi-opa-oma-39
 - anchor: Layanan Dokter Kunjungan ke Rumah
   url: /layanan/panggil-dokter
 cta_text: Konsultasi Dokter Gratis via WhatsApp

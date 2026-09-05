@@ -40,7 +40,7 @@ internal_links:
 - anchor: Layanan Fisioterapi Lansia Joy of Care
   url: /layanan/fisioterapi
 - anchor: Mencegah Jatuh pada Lansia di Rumah
-  url: /blog/healthy-aging-3/mencegah-jatuh-pada-lansia-7-modifikasi-aman-untuk-rumah-anda-25
+  url: /blog/healthy-aging/mencegah-jatuh-pada-lansia-7-modifikasi-aman-untuk-rumah-anda-25
 - anchor: Layanan Perawat Pendamping Lansia Homecare
   url: /layanan/perawat-homecare
 cta_text: Konsultasi Dokter Gratis via WhatsApp

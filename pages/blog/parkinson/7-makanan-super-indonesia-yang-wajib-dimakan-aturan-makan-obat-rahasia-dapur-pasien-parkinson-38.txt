@@ -40,9 +40,9 @@ internal_links:
 - anchor: Layanan Kunjungan Dokter ke Rumah
   url: /layanan/panggil-dokter
 - anchor: Panduan Nutrisi Lansia
-  url: /blog/healthy-aging-3/panduan-nutrisi-untuk-lansia-makanan-wajib-untuk-tulang-kuat-energi-22
+  url: /blog/healthy-aging/panduan-nutrisi-untuk-lansia-makanan-wajib-untuk-tulang-kuat-energi-22
 - anchor: Aturan Minum Levodopa
-  url: /blog/healthy-aging-3/pil-ajaib-parkinson-kenapa-obat-levodopa-jadi-pahlawan-utama-panduan-cerdas-mengelola-dosis-agar-gerakan-tetap-normal-34
+  url: /blog/healthy-aging/pil-ajaib-parkinson-kenapa-obat-levodopa-jadi-pahlawan-utama-panduan-cerdas-mengelola-dosis-agar-gerakan-tetap-normal-34
 cta_text: Hubungi WhatsApp JoC untuk informasi harga
   dokter dan tim medis Joy of Care via WhatsApp di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin

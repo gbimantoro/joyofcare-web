@@ -41,11 +41,11 @@ faq:
     seperti osteonekrosis rahang atau fraktur femur atipikal.
 internal_links:
 - anchor: Bahaya Komplikasi Osteoporosis pada Lansia
-  url: /blog/healthy-aging-3/bahaya-komplikasi-osteoporosis-dan-faktor-risiko-yang-wajib-diwaspadai-41
+  url: /blog/healthy-aging/bahaya-komplikasi-osteoporosis-dan-faktor-risiko-yang-wajib-diwaspadai-41
 - anchor: Layanan Injeksi & Infus Osteoporosis di Rumah
-  url: /blog/healthy-aging-3/layanan-terapi-infus-injeksi-osteoporosis-di-rumah-pasien-homecare-42
+  url: /blog/healthy-aging/layanan-terapi-infus-injeksi-osteoporosis-di-rumah-pasien-homecare-42
 - anchor: Panduan Fisioterapi Osteoporosis di Rumah
-  url: /blog/healthy-aging-3/panduan-fisioterapi-di-rumah-untuk-pasien-osteoporosis-mengurangi-nyeri-mencegah-jatuh-43
+  url: /blog/healthy-aging/panduan-fisioterapi-di-rumah-untuk-pasien-osteoporosis-mengurangi-nyeri-mencegah-jatuh-43
 - anchor: Layanan Dokter Kunjungan ke Rumah
   url: /layanan/panggil-dokter
 cta_text: Hubungi WhatsApp JoC untuk informasi harga

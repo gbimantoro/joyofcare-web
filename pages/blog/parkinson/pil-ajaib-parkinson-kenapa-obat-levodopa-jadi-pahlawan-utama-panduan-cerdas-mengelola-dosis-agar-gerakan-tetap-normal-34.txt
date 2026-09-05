@@ -39,9 +39,9 @@ internal_links:
 - anchor: Layanan Perawat Homecare Terpercaya
   url: /layanan/perawat-homecare
 - anchor: Makanan untuk Pasien Parkinson
-  url: /blog/healthy-aging-3/7-makanan-super-indonesia-yang-wajib-dimakan-aturan-makan-obat-rahasia-dapur-pasien-parkinson-38
+  url: /blog/healthy-aging/7-makanan-super-indonesia-yang-wajib-dimakan-aturan-makan-obat-rahasia-dapur-pasien-parkinson-38
 - anchor: Fisioterapi Parkinson di Rumah
-  url: /blog/healthy-aging-3/3-jenis-latihan-fisik-yang-terbukti-mampu-melawan-kekakuan-parkinson-panduan-fisioterapi-rumahan-35
+  url: /blog/healthy-aging/3-jenis-latihan-fisik-yang-terbukti-mampu-melawan-kekakuan-parkinson-panduan-fisioterapi-rumahan-35
 cta_text: Hubungi WhatsApp JoC untuk informasi harga
   dokter dan tim medis Joy of Care via WhatsApp di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin

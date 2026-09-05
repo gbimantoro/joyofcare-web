@@ -264,3 +264,19 @@
     padding-bottom: 8px;
   }
 }
+
+/* --- Tablet Blog (768px - 1024px) --- */
+@media (max-width: 1024px) {
+  .blog-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+  }
+}
+
+/* --- Accessibility: Reduced Motion --- */
+@media (prefers-reduced-motion: reduce) {
+  .faq-answer { transition: none; }
+  .category-filter a { transition: none; }
+  .whatsapp-cta a { transition: none; }
+  .whatsapp-cta a:hover { transform: none; }
+}

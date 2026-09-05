@@ -24,7 +24,7 @@
   <meta name="twitter:image" content="/images/joc_long.png">
 
   <!-- Favicon -->
-  <link rel="icon" href="https://www.joyofcare.net/web/image/website/1/favicon" type="image/png">
+  <link rel="icon" href="/images/joc_long.png" type="image/png">
 
   <!-- CSS -->
   <link rel="stylesheet" href="../css/style.css">
@@ -91,8 +91,9 @@
       "bestRating": "5"
     },
     "sameAs": [
-      "https://www.instagram.com/joyofcare",
-      "https://api.whatsapp.com/send/?phone=628811118911"
+      "https://www.instagram.com/joyof.care",
+      "https://www.facebook.com/joyof.care",
+      "https://wa.me/628811118911"
     ]
   }
   </script>
@@ -169,17 +170,17 @@
   <nav class="nav" role="navigation" aria-label="Navigasi utama">
     <div class="nav-inner">
       <a href="/" class="nav-logo" aria-label="Joy of Care — Beranda">
-        <img src="/images/joc_long.png" alt="Joy of Care" width="160" height="40">
+        <img src="/images/joc_long.png" alt="Joy of Care" width="40" height="40">
         <span class="logo-text-mobile">Joy of Care</span>
       </a>
       <div class="nav-links">
-        <a href="#layanan">Layanan</a>
+        <a href="/layanan-lengkap">Layanan</a>
         <a href="#testimoni">Testimoni</a>
         <a href="/blog/">Artikel</a>
         <a href="#faq">FAQ</a>
-        <a href="https://api.whatsapp.com/send/?phone=628811118911&text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20tanya%20layanan%20Joy%20of%20Care" class="nav-cta">Chat WhatsApp</a>
+        <a href="https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20tanya%20layanan%20Joy%20of%20Care" class="nav-cta">Chat WhatsApp</a>
       </div>
-      <button class="nav-mobile" aria-label="Buka menu"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg></button>
+      <button class="nav-mobile" aria-label="Buka menu" aria-expanded="false" aria-label="Buka menu"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg></button>
     </div>
   </nav>
 
@@ -195,7 +196,7 @@
           <h1>Sehat Mudah<br><span>di Rumah</span></h1>
           <p>Layanan kesehatan profesional ke rumah Anda: panggil dokter, fisioterapi, infus vitamin, home lab, dan antar jemput RS. sudah termasuk transportasi.</p>
           <div class="hero-actions">
-            <a href="https://api.whatsapp.com/send/?phone=628811118911&text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20tanya%20layanan%20Joy%20of%20Care" class="btn btn-primary btn-lg">
+            <a href="https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20tanya%20layanan%20Joy%20of%20Care" class="btn btn-primary btn-lg">
               <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
               Chat Konsultasi
             </a>
@@ -233,42 +234,54 @@
       <div class="services-grid">
 
         <article class="service-card">
-          <div class="icon">🩺</div>
+          <div class="icon" role="img" aria-label="Ikon stetoskop dokter">
+            <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4.8 2.3A.3.3 0 1 0 5 2H4a2 2 0 0 0-2 2v5a6 6 0 0 0 6 6v0a6 6 0 0 0 6-6V4a2 2 0 0 0-2-2h-1a.2.2 0 1 0 .3.3"/><path d="M8 15v1a6 6 0 0 0 6 6v0a6 6 0 0 0 6-6v-4"/><circle cx="20" cy="10" r="2"/></svg>
+          </div>
           <h3>Panggil Dokter</h3>
           <p>Layanan kunjungan dokter ke rumah untuk keluarga Anda (non-emergensi). Dokter umum dan spesialis tersedia.</p>
           <a href="/panggil-dokter-ke-rumah" class="link">Selengkapnya</a>
         </article>
 
         <article class="service-card">
-          <div class="icon">💉</div>
+          <div class="icon" role="img" aria-label="Ikon syringe infus">
+            <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m18 2 4 4"/><path d="m17 7 3-3"/><path d="M19 9 8.7 19.3c-1 1-2.5 1-3.4 0l-.6-.6c-1-1-1-2.5 0-3.4L15 5"/><path d="m9 11 4 4"/><path d="m5 19-3 3"/><path d="m14 4 6 6"/></svg>
+          </div>
           <h3>Infus &amp; Suntik Vitamin</h3>
           <p>Layanan infus dan suntik vitamin untuk perawatan kesehatan di lokasi yang nyaman. Pilihan paket beragam.</p>
           <a href="/infus-suntik-vitamin-di-rumah" class="link">Selengkapnya</a>
         </article>
 
         <article class="service-card">
-          <div class="icon">🦴</div>
+          <div class="icon" role="img" aria-label="Ikon tulang fisioterapi">
+            <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17 10c.7-.7 1.5-1 2.5-1 1 0 1.7.7 2.5 1 .7.7 1 1.5 1 2.5 0 1-.7 1.5-1 2.5-.7.7-1.5 1-2.5 1-1 0-1.7-.7-2.5-1-.7-.7-1-1.5-1-2.5 0-1 .3-1.8 1-2.5Z"/><path d="M7 10c.7-.7 1.5-1 2.5-1 1 0 1.7.7 2.5 1 .7.7 1 1.5 1 2.5 0 1-.7 1.5-1 2.5-.7.7-1.5 1-2.5 1-1 0-1.7-.7-2.5-1-.7-.7-1-1.5-1-2.5 0-1 .3-1.8 1-2.5Z"/><path d="M9.5 14.5 14.5 9.5"/></svg>
+          </div>
           <h3>Fisioterapi di Rumah</h3>
           <p>Membantu pemulihan dan mobilitas tanpa meninggalkan kenyamanan rumah Anda. Cocok untuk pasien pasca operasi.</p>
           <a href="/layanan-fisioterapi-ke-rumah" class="link">Selengkapnya</a>
         </article>
 
         <article class="service-card">
-          <div class="icon">🧪</div>
+          <div class="icon" role="img" aria-label="Ikon lab test tube">
+            <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 2v7.31"/><path d="M14 9.3V1.99"/><path d="M8.5 2h7"/><path d="M14 9.3a6.5 6.5 0 1 1-4 0"/></svg>
+          </div>
           <h3>Home Lab Cek di Rumah</h3>
           <p>Layanan ambil darah dan diagnostik lainnya dengan mudah di rumah. Hasil dikirim via WhatsApp atau email.</p>
           <a href="/homelab" class="link">Selengkapnya</a>
         </article>
 
         <article class="service-card">
-          <div class="icon">🏥</div>
+          <div class="icon" role="img" aria-label="Ikon rumah perawat">
+            <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 9.5 12 3l9 6.5V20a2 2 0 0 1-2 2h-3v-7h-4v7H5a2 2 0 0 1-2-2V9.5Z"/><path d="M9 22v-7h6v7"/></svg>
+          </div>
           <h3>Perawat di Rumah</h3>
           <p>Perawatan medis profesional oleh perawat berlisensi untuk lansia, pasien kronis, atau pasca rawat inap.</p>
           <a href="/layanan-perawat-di-rumah" class="link">Selengkapnya</a>
         </article>
 
         <article class="service-card">
-          <div class="icon">📍</div>
+          <div class="icon" role="img" aria-label="Ikon ambulans antar jemput">
+            <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 17h4V5H2v12h3"/><path d="M20 17h2v-3.34a4 4 0 0 0-1.17-2.83L19 9h-5"/><path d="M14 17h1"/><circle cx="7.5" cy="17.5" r="2.5"/><circle cx="17.5" cy="17.5" r="2.5"/></svg>
+          </div>
           <h3>Antar Jemput RS</h3>
           <p>Layanan transcare antar jemput ke rumah sakit di Jakarta dan Tangerang dengan armada yang aman dan nyaman.</p>
           <a href="/transcare-antar-jemput-ke-rs-jakarta-tangerang" class="link">Selengkapnya</a>
@@ -286,17 +299,23 @@
 
       <div class="why-grid">
         <div class="why-card">
-          <div class="icon-circle">🏠</div>
+          <div class="icon-circle" role="img" aria-label="Ikon rumah nyaman">
+            <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 9.5 12 3l9 6.5V20a2 2 0 0 1-2 2h-3v-7h-4v7H5a2 2 0 0 1-2-2V9.5Z"/></svg>
+          </div>
           <h3>Kenyamanan</h3>
           <p>Dapatkan perawatan kesehatan berkualitas tanpa harus keluar rumah. Tim kami datang ke rumah Anda.</p>
         </div>
         <div class="why-card">
-          <div class="icon-circle">🎯</div>
+          <div class="icon-circle" role="img" aria-label="Ikon target personalisasi">
+            <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><circle cx="12" cy="12" r="6"/><circle cx="12" cy="12" r="2"/></svg>
+          </div>
           <h3>Personalisasi</h3>
           <p>Layanan disesuaikan dengan kebutuhan kesehatan dan preferensi individu. Konsultasi gratis via WhatsApp.</p>
         </div>
         <div class="why-card">
-          <div class="icon-circle">👨‍⚕️</div>
+          <div class="icon-circle" role="img" aria-label="Ikon profesional medis">
+            <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M22 11h-6"/><path d="M19 8v6"/></svg>
+          </div>
           <h3>Profesional</h3>
           <p>Tim kami terdiri dari praktisi kesehatan berlisensi dan berpengalaman. Standar medis terjaga.</p>
         </div>
@@ -312,7 +331,7 @@
           <h2>Help Your Life Better</h2>
           <p>Kami berusaha membantu menjadikan hidup Anda lebih baik. Kami menyadari bahwa setiap individu memiliki kebutuhan kesehatan yang unik, dan kami di sini untuk menyediakan perawatan yang personal, komprehensif, dan nyaman.</p>
           <p>Dengan keahlian profesional, teknologi terkini, dan sentuhan kemanusiaan, kami berupaya memastikan bahwa setiap interaksi dengan Joy of Care memberikan dampak positif pada kesehatan Anda.</p>
-          <a href="https://api.whatsapp.com/send/?phone=628811118911&text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20tanya%20layanan%20Joy%20of%20Care" class="btn btn-primary" style="margin-top: 12px;">Chat Sekarang</a>
+          <a href="https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20tanya%20layanan%20Joy%20of%20Care" class="btn btn-primary" style="margin-top: 12px;">Chat Sekarang</a>
         </div>
         <div class="hero-image">
           <img src="https://www.joyofcare.net/web/image/489-217eabc3/12.webp" alt="Tim Joy of Care" width="480" height="360" loading="lazy">
@@ -362,7 +381,7 @@
           </button>
           <div class="faq-answer" role="region">
             <div class="faq-answer-inner">
-              Anda bisa langsung chat WhatsApp kami di <a href="https://api.whatsapp.com/send/?phone=628811118911&text=Hi,%20saya%20mau%20tanya%20panggil%20dokter">08811-118-911</a>. Tim customer service kami akan membantu menjadwalkan kunjungan dokter sesuai kebutuhan Anda. Konsultasi via WhatsApp gratis dan tanpa komitmen.
+              Anda bisa langsung chat WhatsApp kami di <a href="https://wa.me/628811118911?text=Hi,%20saya%20mau%20tanya%20panggil%20dokter">08811-118-911</a>. Tim customer service kami akan membantu menjadwalkan kunjungan dokter sesuai kebutuhan Anda. Konsultasi via WhatsApp gratis dan tanpa komitmen.
             </div>
           </div>
         </div>
@@ -420,7 +439,7 @@
       <div class="cta-banner">
         <h2>Siap Memulai Perjalanan Kesehatan Anda?</h2>
         <p>Hubungi kami sekarang untuk konsultasi atau informasi lebih lanjut. Tim kami siap membantu Anda setiap langkahnya.</p>
-        <a href="https://api.whatsapp.com/send/?phone=628811118911&text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?" class="btn btn-primary btn-lg">Pesan via WhatsApp</a>
+        <a href="https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?" class="btn btn-primary btn-lg">Pesan via WhatsApp</a>
       </div>
     </div>
   </section>
@@ -435,7 +454,7 @@
           Ruko Greenwich Business Park E-15<br>
           Jl. Bumi Botanika, BSD City<br>
           Tangerang Selatan</p>
-          <p>Chat WhatsApp: <a href="https://api.whatsapp.com/send/?phone=628811118911&text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?" style="font-weight: 600;">08811-118-911</a></p>
+          <p>Chat WhatsApp: <a href="https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?" style="font-weight: 600;">08811-118-911</a></p>
           <p>Email: <a href="mailto:hi@joyofcare.net">hi@joyofcare.net</a></p>
         </div>
         <div>
@@ -443,7 +462,7 @@
             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3965.5!2d106.633!3d-6.277!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f1c0e5a0b0b1%3A0x1234567890abcdef!2sJoy%20of%20Care!5e0!3m2!1sid!2sid!4v1"
             width="100%"
             height="320"
-            style="border:0; border-radius: var(--radius-lg);"
+            style="border:0; border-radius: 12px;"
             allowfullscreen=""
             loading="lazy"
             referrerpolicy="no-referrer-when-downgrade"
@@ -480,14 +499,15 @@
             <a href="/">Beranda</a>
             <a href="/artikel">Artikel Kesehatan</a>
             <a href="/walk-in-promo">Promo Walk-in</a>
-            <a href="https://api.whatsapp.com/send/?phone=628811118911&text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20tanya%20layanan%20Joy%20of%20Care">Hubungi Kami</a>
+            <a href="https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20tanya%20layanan%20Joy%20of%20Care">Hubungi Kami</a>
           </div>
         </div>
         <div>
           <h4>Ikuti Kami</h4>
           <div class="footer-links">
-            <a href="https://api.whatsapp.com/send/?phone=628811118911&text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20tanya%20layanan%20Joy%20of%20Care" target="_blank" rel="noopener">WhatsApp</a>
-            <a href="https://www.instagram.com/joyofcare" target="_blank" rel="noopener">Instagram</a>
+            <a href="https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20tanya%20layanan%20Joy%20of%20Care" target="_blank" rel="noopener">WhatsApp</a>
+            <a href="https://www.instagram.com/joyof.care" target="_blank" rel="noopener">Instagram</a>
+            <a href="https://www.facebook.com/joyof.care" target="_blank" rel="noopener">Facebook</a>
             <a href="https://www.google.com/maps/place/Joy+of+Care/@-6.277,106.633,17z" target="_blank" rel="noopener">Google Maps</a>
           </div>
         </div>
@@ -495,61 +515,15 @@
 
       <div class="footer-bottom">
         <span>© 2026 PT. Joyofcare Network Indonesia. All rights reserved.</span>
-        <span>Terakhir diperbarui: 5 September 2026</span>
       </div>
     </div>
   </footer>
 
   <!-- ========== WHATSAPP FLOATING BUTTON ========== -->
-  <a href="https://api.whatsapp.com/send/?phone=628811118911&text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20tanya%20layanan%20Joy%20of%20Care" class="wa-float" target="_blank" rel="noopener" aria-label="Chat WhatsApp Joy of Care">
+  <a href="https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20tanya%20layanan%20Joy%20of%20Care" class="wa-float" target="_blank" rel="noopener" aria-label="Chat WhatsApp Joy of Care">
     <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
   </a>
 
-  <!-- ========== FAQ ACCORDION JS ========== -->
-  <script>
-    document.querySelectorAll('.faq-question').forEach(function(btn) {
-      btn.addEventListener('click', function() {
-        var item = this.parentElement;
-        var answer = item.querySelector('.faq-answer');
-        var isOpen = item.classList.contains('active');
-
-        // Close all others
-        document.querySelectorAll('.faq-item.active').forEach(function(openItem) {
-          openItem.classList.remove('active');
-          openItem.querySelector('.faq-question').setAttribute('aria-expanded', 'false');
-          openItem.querySelector('.faq-answer').style.maxHeight = '0';
-        });
-
-        // Toggle current
-        if (!isOpen) {
-          item.classList.add('active');
-          this.setAttribute('aria-expanded', 'true');
-          answer.style.maxHeight = answer.scrollHeight + 'px';
-        }
-      });
-    });
-  </script>
-
-<script>
-var menuBtn = document.querySelector(".nav-mobile");
-var navLinks = document.querySelector(".nav-links");
-if (menuBtn && navLinks) {
-  menuBtn.addEventListener("click", function(e) {
-    e.preventDefault();
-    navLinks.classList.toggle("nav-open");
-  });
-  navLinks.querySelectorAll("a").forEach(function(link) {
-    link.addEventListener("click", function() {
-      navLinks.classList.remove("nav-open");
-    });
-  });
-  document.addEventListener("click", function(e) {
-    if (!e.target.closest(".nav") && navLinks.classList.contains("nav-open")) {
-      navLinks.classList.remove("nav-open");
-    }
-  });
-}
-</script>
-
+  <script src="/js/main.js"></script>
 </body>
 </html>

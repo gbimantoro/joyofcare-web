@@ -37,7 +37,7 @@ faq:
     menggunakan kloset duduk dengan peninggi dudukan (toilet seat riser).
 internal_links:
 - anchor: Lanjutan Panduan Perawatan Pasca Operasi THR (Bagian 2)
-  url: /blog/healthy-aging-3/lanjutan-panduan-perawatan-pasca-operasi-untuk-pemulihan-optimal-di-rumah-penggantian-panggul-total-total-hip-replacement-thr-pada-lansia-20
+  url: /blog/healthy-aging/lanjutan-panduan-perawatan-pasca-operasi-untuk-pemulihan-optimal-di-rumah-penggantian-panggul-total-total-hip-replacement-thr-pada-lansia-20
 - anchor: Layanan Fisioterapi Ortopedi Homecare
   url: /layanan/fisioterapi
 - anchor: Layanan Perawat Medis Rawat Luka Operasi

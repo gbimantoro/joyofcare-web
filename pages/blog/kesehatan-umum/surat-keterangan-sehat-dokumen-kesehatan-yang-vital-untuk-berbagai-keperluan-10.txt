@@ -42,7 +42,7 @@ internal_links:
 - anchor: Layanan Cek Laboratorium Lengkap di Rumah
   url: /layanan/cek-lab-di-rumah
 - anchor: Syarat Kesehatan Perjalanan Internasional
-  url: /blog/studi-luar-negeri-4/persyaratan-kesehatan-untuk-perjalanan-internasional-dan-pendidikan-9
+  url: /blog/studi-luar-negeri/persyaratan-kesehatan-untuk-perjalanan-internasional-dan-pendidikan-9
 cta_text: Konsultasi Dokter Gratis via WhatsApp
   sehat studi luar negeri Anda via WhatsApp Joy of Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin

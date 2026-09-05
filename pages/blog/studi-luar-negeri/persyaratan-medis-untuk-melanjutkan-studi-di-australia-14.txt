@@ -39,7 +39,7 @@ internal_links:
 - anchor: Layanan Vaksinasi Internasional di Rumah
   url: /layanan/vaksinasi-di-rumah
 - anchor: Persyaratan Kesehatan Lengkap Studi di Australia
-  url: /blog/studi-luar-negeri-4/cara-menyiapkan-persyaratan-kesehatan-untuk-studi-di-australia-18
+  url: /blog/studi-luar-negeri/cara-menyiapkan-persyaratan-kesehatan-untuk-studi-di-australia-18
 - anchor: Layanan Cek Laboratorium Lengkap Homecare
   url: /layanan/cek-lab-di-rumah
 cta_text: Konsultasi Dokter Gratis via WhatsApp

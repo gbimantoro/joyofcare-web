@@ -41,7 +41,7 @@ internal_links:
 - anchor: Layanan Fisioterapi Keseimbangan Lansia
   url: /layanan/fisioterapi
 - anchor: Bahaya Komplikasi Osteoporosis pada Lansia
-  url: /blog/healthy-aging-3/bahaya-komplikasi-osteoporosis-dan-faktor-risiko-yang-wajib-diwaspadai-41
+  url: /blog/healthy-aging/bahaya-komplikasi-osteoporosis-dan-faktor-risiko-yang-wajib-diwaspadai-41
 - anchor: Layanan Perawat Pendamping Lansia Medis
   url: /layanan/perawat-homecare
 cta_text: Konsultasi Dokter Gratis via WhatsApp

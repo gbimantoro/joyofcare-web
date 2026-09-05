@@ -37,7 +37,7 @@ internal_links:
 - anchor: Layanan Vaksinasi di Rumah Joy of Care
   url: /layanan/vaksinasi-di-rumah
 - anchor: Pentingnya Vaksinasi untuk Lansia
-  url: /blog/healthy-aging-3/pentingnya-vaksinasi-untuk-lansia-jenis-vaksin-yang-direkomendasikan-12
+  url: /blog/healthy-aging/pentingnya-vaksinasi-untuk-lansia-jenis-vaksin-yang-direkomendasikan-12
 - anchor: Layanan Dokter Kunjungan Rumah
   url: /layanan/panggil-dokter
 cta_text: Hubungi WhatsApp JoC untuk informasi harga

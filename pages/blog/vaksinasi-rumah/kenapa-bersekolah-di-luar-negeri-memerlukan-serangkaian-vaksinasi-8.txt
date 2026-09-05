@@ -41,9 +41,9 @@ internal_links:
 - anchor: Layanan Vaksinasi Internasional di Rumah
   url: /layanan/vaksinasi-di-rumah
 - anchor: Persyaratan Kesehatan Studi di Australia
-  url: /blog/studi-luar-negeri-4/cara-menyiapkan-persyaratan-kesehatan-untuk-studi-di-australia-18
+  url: /blog/studi-luar-negeri/cara-menyiapkan-persyaratan-kesehatan-untuk-studi-di-australia-18
 - anchor: Surat Keterangan Sehat Resmi Dokter
-  url: /blog/studi-luar-negeri-4/surat-keterangan-sehat-dokumen-kesehatan-yang-vital-untuk-berbagai-keperluan-10
+  url: /blog/studi-luar-negeri/surat-keterangan-sehat-dokumen-kesehatan-yang-vital-untuk-berbagai-keperluan-10
 cta_text: Konsultasi Dokter Gratis via WhatsApp
   sehat studi luar negeri Anda via WhatsApp Joy of Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin

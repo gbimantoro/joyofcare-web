@@ -41,7 +41,7 @@ internal_links:
 - anchor: Layanan Cek Laboratorium Lengkap
   url: /layanan/cek-lab-di-rumah
 - anchor: Vaksinasi Wajib dan Disarankan untuk Studi di Australia
-  url: /blog/studi-luar-negeri-4/vaksinasi-yang-wajib-dan-disarankan-untuk-studi-di-australia-16
+  url: /blog/studi-luar-negeri/vaksinasi-yang-wajib-dan-disarankan-untuk-studi-di-australia-16
 cta_text: Konsultasi Dokter Gratis via WhatsApp
   sehat studi luar negeri Anda via WhatsApp Joy of Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin

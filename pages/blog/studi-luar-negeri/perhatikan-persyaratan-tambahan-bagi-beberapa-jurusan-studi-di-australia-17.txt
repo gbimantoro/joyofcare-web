@@ -40,7 +40,7 @@ internal_links:
 - anchor: Layanan Cek Laboratorium Darah di Rumah
   url: /layanan/cek-lab-di-rumah
 - anchor: Persyaratan Kesehatan Studi di Australia
-  url: /blog/studi-luar-negeri-4/cara-menyiapkan-persyaratan-kesehatan-untuk-studi-di-australia-18
+  url: /blog/studi-luar-negeri/cara-menyiapkan-persyaratan-kesehatan-untuk-studi-di-australia-18
 - anchor: Layanan Vaksinasi Internasional di Rumah
   url: /layanan/vaksinasi-di-rumah
 cta_text: Hubungi WhatsApp JoC untuk informasi harga

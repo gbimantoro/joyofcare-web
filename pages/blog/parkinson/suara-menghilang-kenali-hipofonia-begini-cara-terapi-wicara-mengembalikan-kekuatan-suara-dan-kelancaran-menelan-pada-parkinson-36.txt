@@ -39,7 +39,7 @@ internal_links:
 - anchor: Layanan Dokter Panggilan Homecare
   url: /layanan/panggil-dokter
 - anchor: Vaksinasi Pneumonia untuk Lansia
-  url: /blog/healthy-aging-3/vaksinasi-pneumonia-lindungi-opa-oma-39
+  url: /blog/healthy-aging/vaksinasi-pneumonia-lindungi-opa-oma-39
 - anchor: Layanan Perawat Homecare Medis
   url: /layanan/perawat-homecare
 cta_text: Hubungi WhatsApp JoC untuk informasi harga

@@ -40,7 +40,7 @@ internal_links:
 - anchor: Layanan Fisioterapi Ortopedi Homecare
   url: /layanan/fisioterapi
 - anchor: Bahaya Komplikasi Osteoporosis pada Lansia
-  url: /blog/healthy-aging-3/bahaya-komplikasi-osteoporosis-dan-faktor-risiko-yang-wajib-diwaspadai-41
+  url: /blog/healthy-aging/bahaya-komplikasi-osteoporosis-dan-faktor-risiko-yang-wajib-diwaspadai-41
 - anchor: Layanan Perawat Homecare Medis Pascaoperasi
   url: /layanan/perawat-homecare
 cta_text: Hubungi WhatsApp JoC untuk informasi harga

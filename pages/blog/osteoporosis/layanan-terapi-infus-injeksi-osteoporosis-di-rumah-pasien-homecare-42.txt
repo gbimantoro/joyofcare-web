@@ -38,11 +38,11 @@ faq:
     menit untuk memastikan kondisi pasien stabil.
 internal_links:
 - anchor: 'Jenis Terapi Osteoporosis: Obat Oral, Injeksi & Infus'
-  url: /blog/healthy-aging-3/jenis-terapi-osteoporosis-lengkap-dari-obat-oral-injeksi-hingga-infus-40
+  url: /blog/healthy-aging/jenis-terapi-osteoporosis-lengkap-dari-obat-oral-injeksi-hingga-infus-40
 - anchor: Bahaya Komplikasi Osteoporosis pada Lansia
-  url: /blog/healthy-aging-3/bahaya-komplikasi-osteoporosis-dan-faktor-risiko-yang-wajib-diwaspadai-41
+  url: /blog/healthy-aging/bahaya-komplikasi-osteoporosis-dan-faktor-risiko-yang-wajib-diwaspadai-41
 - anchor: Panduan Fisioterapi Osteoporosis di Rumah
-  url: /blog/healthy-aging-3/panduan-fisioterapi-di-rumah-untuk-pasien-osteoporosis-mengurangi-nyeri-mencegah-jatuh-43
+  url: /blog/healthy-aging/panduan-fisioterapi-di-rumah-untuk-pasien-osteoporosis-mengurangi-nyeri-mencegah-jatuh-43
 - anchor: Layanan Perawat Homecare Medis Joy of Care
   url: /layanan/perawat-homecare
 cta_text: Hubungi WhatsApp JoC untuk informasi harga

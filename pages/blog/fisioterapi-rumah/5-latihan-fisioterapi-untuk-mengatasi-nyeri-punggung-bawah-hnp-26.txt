@@ -42,7 +42,7 @@ internal_links:
 - anchor: Panggil Dokter ke Rumah untuk Skrining Saraf
   url: /layanan/panggil-dokter
 - anchor: Fisioterapi Tulang Belakang Lansia
-  url: /blog/healthy-aging-3/fisioterapi-di-rumah-untuk-lansia-dengan-masalah-tulang-belakang-4
+  url: /blog/healthy-aging/fisioterapi-di-rumah-untuk-lansia-dengan-masalah-tulang-belakang-4
 cta_text: Konsultasi Dokter Gratis via WhatsApp
   langsung bersama dokter dan tim fisioterapis Joy of Care via WhatsApp di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin

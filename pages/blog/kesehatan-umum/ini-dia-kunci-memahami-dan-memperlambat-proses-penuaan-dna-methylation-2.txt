@@ -36,7 +36,7 @@ internal_links:
 - anchor: Layanan Cek Laboratorium Lengkap di Rumah
   url: /layanan/cek-lab-di-rumah
 - anchor: Panduan Nutrisi Lansia untuk Energi & Tulang
-  url: /blog/healthy-aging-3/panduan-nutrisi-untuk-lansia-makanan-wajib-untuk-tulang-kuat-energi-22
+  url: /blog/healthy-aging/panduan-nutrisi-untuk-lansia-makanan-wajib-untuk-tulang-kuat-energi-22
 - anchor: Layanan Dokter Kunjungan ke Rumah
   url: /layanan/panggil-dokter
 cta_text: Konsultasi Dokter Gratis via WhatsApp

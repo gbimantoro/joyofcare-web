@@ -38,7 +38,7 @@ faq:
     antara kedua paha untuk mencegah kedua kaki bersilangan.
 internal_links:
 - anchor: 'Panduan Bagian 1: Perawatan Pasca Operasi THR Lansia'
-  url: /blog/healthy-aging-3/perawatan-pasca-operasi-penggantian-panggul-total-total-hip-replacement-thr-pada-lansia-panduan-lengkap-untuk-pemulihan-optimal-di-rumah-19
+  url: /blog/healthy-aging/perawatan-pasca-operasi-penggantian-panggul-total-total-hip-replacement-thr-pada-lansia-panduan-lengkap-untuk-pemulihan-optimal-di-rumah-19
 - anchor: Layanan Fisioterapi Ortopedi Homecare
   url: /layanan/fisioterapi
 - anchor: Layanan Kunjungan Dokter ke Rumah

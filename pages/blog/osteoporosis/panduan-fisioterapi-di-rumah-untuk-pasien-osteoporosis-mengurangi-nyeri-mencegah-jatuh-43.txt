@@ -39,11 +39,11 @@ faq:
     beban ringan, peregangan postur, dan latihan keseimbangan statis.
 internal_links:
 - anchor: Bahaya Komplikasi Osteoporosis pada Lansia
-  url: /blog/healthy-aging-3/bahaya-komplikasi-osteoporosis-dan-faktor-risiko-yang-wajib-diwaspadai-41
+  url: /blog/healthy-aging/bahaya-komplikasi-osteoporosis-dan-faktor-risiko-yang-wajib-diwaspadai-41
 - anchor: 'Jenis Terapi Osteoporosis: Oral, Injeksi & Infus'
-  url: /blog/healthy-aging-3/jenis-terapi-osteoporosis-lengkap-dari-obat-oral-injeksi-hingga-infus-40
+  url: /blog/healthy-aging/jenis-terapi-osteoporosis-lengkap-dari-obat-oral-injeksi-hingga-infus-40
 - anchor: Layanan Homecare Injeksi Osteoporosis
-  url: /blog/healthy-aging-3/layanan-terapi-infus-injeksi-osteoporosis-di-rumah-pasien-homecare-42
+  url: /blog/healthy-aging/layanan-terapi-infus-injeksi-osteoporosis-di-rumah-pasien-homecare-42
 - anchor: Layanan Fisioterapi Homecare Joy of Care
   url: /layanan/fisioterapi
 cta_text: Konsultasi Dokter Gratis via WhatsApp

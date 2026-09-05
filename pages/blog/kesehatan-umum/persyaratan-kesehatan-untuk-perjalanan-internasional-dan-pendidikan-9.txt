@@ -39,7 +39,7 @@ internal_links:
 - anchor: Layanan Vaksinasi Perjalanan Internasional di Rumah
   url: /layanan/vaksinasi-di-rumah
 - anchor: Surat Keterangan Sehat Resmi Dokter
-  url: /blog/studi-luar-negeri-4/surat-keterangan-sehat-dokumen-kesehatan-yang-vital-untuk-berbagai-keperluan-10
+  url: /blog/studi-luar-negeri/surat-keterangan-sehat-dokumen-kesehatan-yang-vital-untuk-berbagai-keperluan-10
 - anchor: Layanan Dokter Panggilan Homecare
   url: /layanan/panggil-dokter
 cta_text: Hubungi WhatsApp JoC untuk informasi harga

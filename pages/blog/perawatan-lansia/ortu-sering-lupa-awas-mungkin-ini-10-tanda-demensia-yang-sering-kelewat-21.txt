@@ -41,7 +41,7 @@ internal_links:
 - anchor: Layanan Perawat Homecare Pendamping Geriatri
   url: /layanan/perawat-homecare
 - anchor: Panduan Nutrisi Otak Lansia
-  url: /blog/healthy-aging-3/panduan-nutrisi-untuk-lansia-makanan-wajib-untuk-tulang-kuat-energi-22
+  url: /blog/healthy-aging/panduan-nutrisi-untuk-lansia-makanan-wajib-untuk-tulang-kuat-energi-22
 cta_text: Konsultasi Dokter Gratis via WhatsApp
   Anda langsung bersama dokter dan tim medis Joy of Care via WhatsApp di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin

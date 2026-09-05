@@ -40,7 +40,7 @@ internal_links:
 - anchor: Layanan Vaksinasi Homecare Joy of Care
   url: /layanan/vaksinasi-di-rumah
 - anchor: Panduan Vaksinasi Pneumonia Lansia
-  url: /blog/healthy-aging-3/vaksinasi-pneumonia-lindungi-opa-oma-39
+  url: /blog/healthy-aging/vaksinasi-pneumonia-lindungi-opa-oma-39
 - anchor: Layanan Dokter Kunjungan ke Rumah
   url: /layanan/panggil-dokter
 cta_text: Hubungi WhatsApp JoC untuk informasi harga

@@ -39,7 +39,7 @@ internal_links:
 - anchor: Layanan Dokter Kunjungan Rumah Joy of Care
   url: /layanan/panggil-dokter
 - anchor: Bahaya Komplikasi Osteoporosis pada Lansia
-  url: /blog/healthy-aging-3/bahaya-komplikasi-osteoporosis-dan-faktor-risiko-yang-wajib-diwaspadai-41
+  url: /blog/healthy-aging/bahaya-komplikasi-osteoporosis-dan-faktor-risiko-yang-wajib-diwaspadai-41
 - anchor: Layanan Fisioterapi Pemeliharaan Otot Lansia
   url: /layanan/fisioterapi
 cta_text: Hubungi WhatsApp JoC untuk informasi harga
