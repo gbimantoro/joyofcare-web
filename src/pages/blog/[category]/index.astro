@@ -1,0 +1,193 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const categories = [
+    { slug: 'perawatan-lansia', name: 'Perawatan Lansia' },
+    { slug: 'fisioterapi-rumah', name: 'Fisioterapi Rumah' },
+    { slug: 'panggil-dokter', name: 'Panggil Dokter' },
+    { slug: 'parkinson', name: 'Parkinson' },
+    { slug: 'osteoporosis', name: 'Osteoporosis' },
+    { slug: 'studi-luar-negeri', name: 'Studi Luar Negeri' },
+    { slug: 'vaksinasi', name: 'Vaksinasi' },
+    { slug: 'home-lab', name: 'Home Lab' },
+    { slug: 'infus-vitamin', name: 'Infus Vitamin' },
+    { slug: 'perawat-homecare', name: 'Perawat Homecare' },
+    { slug: 'antar-jemput-rs', name: 'Antar Jemput RS' },
+    { slug: 'kesehatan-umum', name: 'Kesehatan Umum' },
+  ];
+
+  return categories.map(cat => ({
+    params: { category: cat.slug },
+    props: { category: cat },
+  }));
+}
+
+const { category } = Astro.props;
+const articles = await getCollection('articles', ({ data }) => data.category === category.slug);
+const sortedArticles = articles.sort((a, b) => 
+  new Date(b.data.date).getTime() - new Date(a.data.date).getTime()
+);
+---
+
+<BaseLayout 
+  title={`${category.name} — Artikel Kesehatan | Joy of Care`}
+  description={`Artikel dan panduan kesehatan tentang ${category.name} dari tim medis Joy of Care.`}
+  canonicalURL={`https://www.joyofcare.net/blog/${category.slug}/`}
+>
+  <section class="category-header">
+    <div class="container">
+      <nav class="breadcrumbs" aria-label="Breadcrumb">
+        <a href="/">Beranda</a> <span>›</span>
+        <a href="/blog/">Artikel</a> <span>›</span>
+        <span>{category.name}</span>
+      </nav>
+      <h1>{category.name}</h1>
+      <p>Artikel dan panduan kesehatan tentang {category.name}</p>
+    </div>
+  </section>
+
+  <section class="category-content">
+    <div class="container">
+      <div class="articles-grid">
+        {sortedArticles.map((article) => (
+          <article class="article-card">
+            {article.data.featuredImage && (
+              <img src={article.data.featuredImage} alt={article.data.title} class="article-image" />
+            )}
+            <div class="article-card-content">
+              <h2>
+                <a href={`/blog/${article.data.category}/${article.data.slug}/`}>
+                  {article.data.title}
+                </a>
+              </h2>
+              <div class="article-meta">
+                <time>{new Date(article.data.date).toLocaleDateString('id-ID', { day: 'numeric', month: 'long', year: 'numeric' })}</time>
+              </div>
+            </div>
+          </article>
+        ))}
+      </div>
+
+      {sortedArticles.length === 0 && (
+        <div class="no-articles">
+          <p>Belum ada artikel di kategori ini.</p>
+          <a href="/blog/" class="btn btn-primary">Lihat Semua Artikel</a>
+        </div>
+      )}
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .category-header {
+    background: linear-gradient(135deg, #f8fafc 0%, #edf2f7 100%);
+    padding: 48px 0 32px;
+  }
+
+  .breadcrumbs {
+    font-size: 0.875rem;
+    color: var(--color-text-secondary);
+    margin-bottom: 16px;
+  }
+
+  .breadcrumbs a {
+    color: var(--color-primary);
+    text-decoration: none;
+  }
+
+  h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.25rem;
+    font-weight: 800;
+    margin-bottom: 12px;
+  }
+
+  .category-header p {
+    color: var(--color-text-secondary);
+  }
+
+  .category-content {
+    padding: 48px 0;
+  }
+
+  .articles-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 24px;
+  }
+
+  .article-card {
+    background: white;
+    border-radius: var(--radius-lg);
+    overflow: hidden;
+    box-shadow: var(--shadow-sm);
+    transition: all 0.3s;
+  }
+
+  .article-card:hover {
+    transform: translateY(-4px);
+    box-shadow: var(--shadow-md);
+  }
+
+  .article-image {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+  }
+
+  .article-card-content {
+    padding: 24px;
+  }
+
+  h2 {
+    font-size: 1.125rem;
+    font-weight: 600;
+    margin-bottom: 12px;
+    line-height: 1.4;
+  }
+
+  h2 a {
+    color: var(--color-text);
+    text-decoration: none;
+  }
+
+  h2 a:hover {
+    color: var(--color-primary);
+  }
+
+  .article-meta {
+    font-size: 0.875rem;
+    color: var(--color-text-secondary);
+  }
+
+  .no-articles {
+    text-align: center;
+    padding: 64px 0;
+    color: var(--color-text-secondary);
+  }
+
+  .btn {
+    display: inline-block;
+    padding: 12px 24px;
+    background: var(--color-primary);
+    color: white;
+    text-decoration: none;
+    border-radius: var(--radius-sm);
+    font-weight: 600;
+    margin-top: 16px;
+  }
+
+  @media (max-width: 1024px) {
+    .articles-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
+  @media (max-width: 768px) {
+    .articles-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

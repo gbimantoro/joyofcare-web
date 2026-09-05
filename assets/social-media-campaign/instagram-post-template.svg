@@ -4,8 +4,8 @@
 
   <defs>
     <linearGradient id="heroGreen" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#2D9C4A"/>
-      <stop offset="100%" stop-color="#1A6B30"/>
+      <stop offset="0%" stop-color="#00bf63"/>
+      <stop offset="100%" stop-color="#007A3D"/>
     </linearGradient>
     <linearGradient id="warmOrange" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#FC9000"/>
@@ -34,7 +34,7 @@
   <!-- HEADER: Logo + Brand -->
   <g transform="translate(60, 60)">
     <rect x="0" y="0" width="48" height="48" rx="24" fill="#FFFFFF"/>
-    <path d="M 24 14 C 19 8, 9 8, 9 16 C 9 22, 24 33, 24 33 C 24 33, 39 22, 39 16 C 39 8, 29 8, 24 14 Z" fill="#2D9C4A"/>
+    <path d="M 24 14 C 19 8, 9 8, 9 16 C 9 22, 24 33, 24 33 C 24 33, 39 22, 39 16 C 39 8, 29 8, 24 14 Z" fill="#00bf63"/>
     <text x="68" y="22" font-family="Montserrat, sans-serif" font-size="22" font-weight="800" fill="#FFFFFF">Joy</text>
     <text x="119" y="22" font-family="Montserrat, sans-serif" font-size="22" font-weight="400" fill="#E8F5EC">of Care</text>
     <text x="68" y="42" font-family="Inter, sans-serif" font-size="13" fill="#A7E5BC">joyofcare.net</text>
@@ -43,7 +43,7 @@
   <!-- Category badge (editable) -->
   <g transform="translate(60, 145)">
     <rect x="0" y="0" width="240" height="36" rx="18" fill="#FFFFFF"/>
-    <text x="120" y="24" font-family="Inter, sans-serif" font-size="12" font-weight="700" fill="#1A6B30" text-anchor="middle" letter-spacing="3">KATEGORI / TAG</text>
+    <text x="120" y="24" font-family="Inter, sans-serif" font-size="12" font-weight="700" fill="#007A3D" text-anchor="middle" letter-spacing="3">KATEGORI / TAG</text>
   </g>
 
   <!-- MAIN CONTENT CARD - editable text overlay area -->
@@ -59,34 +59,34 @@
 
     <!-- EDITABLE HEADLINE - 2 lines max -->
     <text x="60" y="310" font-family="Montserrat, sans-serif" font-size="48" font-weight="800" fill="#1A1A2E">Headline Utama</text>
-    <text x="60" y="365" font-family="Montserrat, sans-serif" font-size="48" font-weight="800" fill="#1A6B30">Disini (Maks 2 Baris)</text>
+    <text x="60" y="365" font-family="Montserrat, sans-serif" font-size="48" font-weight="800" fill="#007A3D">Disini (Maks 2 Baris)</text>
 
     <!-- EDITABLE Subtitle -->
     <text x="60" y="415" font-family="Inter, sans-serif" font-size="20" fill="#475569">Subtitle pendek yang menjelaskan konten</text>
 
     <!-- EDITABLE Bullet points -->
     <g transform="translate(60, 460)">
-      <circle cx="8" cy="8" r="6" fill="#2D9C4A"/>
+      <circle cx="8" cy="8" r="6" fill="#00bf63"/>
       <text x="28" y="13" font-family="Inter, sans-serif" font-size="17" fill="#1A1A2E">Point penting pertama</text>
     </g>
     <g transform="translate(60, 495)">
-      <circle cx="8" cy="8" r="6" fill="#2D9C4A"/>
+      <circle cx="8" cy="8" r="6" fill="#00bf63"/>
       <text x="28" y="13" font-family="Inter, sans-serif" font-size="17" fill="#1A1A2E">Point penting kedua</text>
     </g>
     <g transform="translate(60, 530)">
-      <circle cx="8" cy="8" r="6" fill="#2D9C4A"/>
+      <circle cx="8" cy="8" r="6" fill="#00bf63"/>
       <text x="28" y="13" font-family="Inter, sans-serif" font-size="17" fill="#1A1A2E">Point penting ketiga</text>
     </g>
     <g transform="translate(560, 460)">
-      <circle cx="8" cy="8" r="6" fill="#2D9C4A"/>
+      <circle cx="8" cy="8" r="6" fill="#00bf63"/>
       <text x="28" y="13" font-family="Inter, sans-serif" font-size="17" fill="#1A1A2E">Point penting keempat</text>
     </g>
     <g transform="translate(560, 495)">
-      <circle cx="8" cy="8" r="6" fill="#2D9C4A"/>
+      <circle cx="8" cy="8" r="6" fill="#00bf63"/>
       <text x="28" y="13" font-family="Inter, sans-serif" font-size="17" fill="#1A1A2E">Point penting kelima</text>
     </g>
     <g transform="translate(560, 530)">
-      <circle cx="8" cy="8" r="6" fill="#2D9C4A"/>
+      <circle cx="8" cy="8" r="6" fill="#00bf63"/>
       <text x="28" y="13" font-family="Inter, sans-serif" font-size="17" fill="#1A1A2E">Point penting keenam</text>
     </g>
   </g>
@@ -107,7 +107,7 @@
 
   <!-- Footer hashtags -->
   <g transform="translate(60, 1010)">
-    <text x="0" y="13" font-family="Inter, sans-serif" font-size="14" fill="#A7E5BC">#JoyOfCare #KesehatanDiRumah #LansiaSehat</text>
+    <text x="0" y="13" font-family="Inter, sans-serif" font-size="14" fill="#A7E5BC">#JoyOfCare #KesehatanDiRumah @joyof.care #LansiaSehat</text>
     <text x="960" y="13" font-family="Inter, sans-serif" font-size="13" fill="#A7E5BC" text-anchor="end">Swipe →</text>
   </g>
 </svg>

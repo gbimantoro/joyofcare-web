@@ -4,8 +4,8 @@
 
   <defs>
     <linearGradient id="heroGreenReel" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#2D9C4A"/>
-      <stop offset="100%" stop-color="#1A6B30"/>
+      <stop offset="0%" stop-color="#00bf63"/>
+      <stop offset="100%" stop-color="#007A3D"/>
     </linearGradient>
     <linearGradient id="warmOrangeReel" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#FC9000"/>
@@ -32,7 +32,7 @@
   <!-- Brand top -->
   <g transform="translate(60, 80)">
     <rect x="0" y="0" width="60" height="60" rx="30" fill="#FFFFFF"/>
-    <path d="M 30 18 C 24 11, 11 11, 11 20 C 11 28, 30 42, 30 42 C 30 42, 49 28, 49 20 C 49 11, 36 11, 30 18 Z" fill="#2D9C4A"/>
+    <path d="M 30 18 C 24 11, 11 11, 11 20 C 11 28, 30 42, 30 42 C 30 42, 49 28, 49 20 C 49 11, 36 11, 30 18 Z" fill="#00bf63"/>
     <text x="85" y="28" font-family="Montserrat, sans-serif" font-size="28" font-weight="800" fill="#FFFFFF">Joy</text>
     <text x="148" y="28" font-family="Montserrat, sans-serif" font-size="28" font-weight="400" fill="#E8F5EC">of Care</text>
     <text x="85" y="52" font-family="Inter, sans-serif" font-size="15" fill="#A7E5BC">joyofcare.net</text>
@@ -43,11 +43,11 @@
     <rect x="0" y="0" width="220" height="60" rx="30" fill="#FFFFFF"/>
     <!-- Reel icon -->
     <g transform="translate(20, 15)">
-      <circle cx="15" cy="15" r="13" fill="none" stroke="#1A6B30" stroke-width="2.5"/>
-      <circle cx="15" cy="15" r="5" fill="#1A6B30"/>
-      <rect x="27" y="13" width="8" height="4" fill="#1A6B30"/>
+      <circle cx="15" cy="15" r="13" fill="none" stroke="#007A3D" stroke-width="2.5"/>
+      <circle cx="15" cy="15" r="5" fill="#007A3D"/>
+      <rect x="27" y="13" width="8" height="4" fill="#007A3D"/>
     </g>
-    <text x="140" y="38" font-family="Inter, sans-serif" font-size="16" font-weight="700" fill="#1A6B30" text-anchor="middle">REEL 30s</text>
+    <text x="140" y="38" font-family="Inter, sans-serif" font-size="16" font-weight="700" fill="#007A3D" text-anchor="middle">REEL 30s</text>
   </g>
 
   <!-- Big hook headline -->
@@ -60,8 +60,8 @@
   <!-- Subtitle / hook -->
   <g transform="translate(60, 720)">
     <rect x="0" y="0" width="960" height="200" rx="20" fill="#FFFFFF" opacity="0.95"/>
-    <text x="40" y="60" font-family="Inter, sans-serif" font-size="32" font-weight="800" fill="#1A6B30">5 Cara Merawat</text>
-    <text x="40" y="105" font-family="Inter, sans-serif" font-size="32" font-weight="800" fill="#1A6B30">Orang Tua di Rumah</text>
+    <text x="40" y="60" font-family="Inter, sans-serif" font-size="32" font-weight="800" fill="#007A3D">5 Cara Merawat</text>
+    <text x="40" y="105" font-family="Inter, sans-serif" font-size="32" font-weight="800" fill="#007A3D">Orang Tua di Rumah</text>
     <text x="40" y="145" font-family="Inter, sans-serif" font-size="18" fill="#475569">Panduan praktis untuk keluarga Indonesia</text>
     <text x="40" y="175" font-family="Inter, sans-serif" font-size="14" font-weight="700" fill="#B85800" letter-spacing="2">SWIPE UNTUK LEBIH →</text>
   </g>
@@ -107,6 +107,6 @@
 
   <!-- Footer hashtags -->
   <g transform="translate(60, 1820)">
-    <text x="0" y="13" font-family="Inter, sans-serif" font-size="16" fill="#A7E5BC">#JoyOfCare #LansiaSehat #FisioterapiRumah</text>
+    <text x="0" y="13" font-family="Inter, sans-serif" font-size="16" fill="#A7E5BC">#JoyOfCare #LansiaSehat @joyof.care #FisioterapiRumah</text>
   </g>
 </svg>

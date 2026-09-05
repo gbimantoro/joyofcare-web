@@ -4,8 +4,8 @@
 
   <defs>
     <linearGradient id="heroGreenFb2" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#2D9C4A"/>
-      <stop offset="100%" stop-color="#1A6B30"/>
+      <stop offset="0%" stop-color="#00bf63"/>
+      <stop offset="100%" stop-color="#007A3D"/>
     </linearGradient>
     <linearGradient id="warmOrangeFb2" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#FC9000"/>
@@ -24,42 +24,42 @@
   </defs>
 
   <rect width="1200" height="630" fill="#F8F9FA"/>
-  <circle cx="1100" cy="100" r="180" fill="#2D9C4A" opacity="0.08"/>
+  <circle cx="1100" cy="100" r="180" fill="#00bf63" opacity="0.08"/>
   <circle cx="100" cy="530" r="160" fill="#FC9000" opacity="0.08"/>
 
   <!-- Brand left -->
   <g transform="translate(60, 60)">
-    <rect x="0" y="0" width="44" height="44" rx="22" fill="#2D9C4A"/>
+    <rect x="0" y="0" width="44" height="44" rx="22" fill="#00bf63"/>
     <path d="M 22 12 C 17 6, 7 6, 7 14 C 7 20, 22 32, 22 32 C 22 32, 37 20, 37 14 C 37 6, 27 6, 22 12 Z" fill="#FFFFFF"/>
-    <text x="62" y="20" font-family="Montserrat, sans-serif" font-size="20" font-weight="800" fill="#1A6B30">Joy</text>
+    <text x="62" y="20" font-family="Montserrat, sans-serif" font-size="20" font-weight="800" fill="#007A3D">Joy</text>
     <text x="108" y="20" font-family="Montserrat, sans-serif" font-size="20" font-weight="400" fill="#1A1A2E">of Care</text>
     <text x="62" y="38" font-family="Inter, sans-serif" font-size="12" fill="#64748B">joyofcare.net</text>
   </g>
 
   <!-- Category badge -->
   <g transform="translate(60, 130)">
-    <rect x="0" y="0" width="200" height="36" rx="18" fill="#1A6B30"/>
+    <rect x="0" y="0" width="200" height="36" rx="18" fill="#007A3D"/>
     <text x="100" y="24" font-family="Inter, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="3">KATEGORI</text>
   </g>
 
   <!-- EDITABLE Title -->
   <text x="60" y="240" font-family="Montserrat, sans-serif" font-size="44" font-weight="800" fill="#1A1A2E">Headline Post Facebook</text>
-  <text x="60" y="290" font-family="Montserrat, sans-serif" font-size="44" font-weight="800" fill="#1A6B30">Yang Menarik Perhatian</text>
+  <text x="60" y="290" font-family="Montserrat, sans-serif" font-size="44" font-weight="800" fill="#007A3D">Yang Menarik Perhatian</text>
 
   <!-- Subtitle -->
   <text x="60" y="335" font-family="Inter, sans-serif" font-size="18" fill="#475569">Penjelasan singkat tentang topik ini, 1-2 kalimat.</text>
 
   <!-- Bullet points -->
   <g transform="translate(60, 380)">
-    <circle cx="8" cy="8" r="5" fill="#2D9C4A"/>
+    <circle cx="8" cy="8" r="5" fill="#00bf63"/>
     <text x="25" y="13" font-family="Inter, sans-serif" font-size="15" fill="#1A1A2E">Poin singkat 1</text>
   </g>
   <g transform="translate(60, 410)">
-    <circle cx="8" cy="8" r="5" fill="#2D9C4A"/>
+    <circle cx="8" cy="8" r="5" fill="#00bf63"/>
     <text x="25" y="13" font-family="Inter, sans-serif" font-size="15" fill="#1A1A2E">Poin singkat 2</text>
   </g>
   <g transform="translate(60, 440)">
-    <circle cx="8" cy="8" r="5" fill="#2D9C4A"/>
+    <circle cx="8" cy="8" r="5" fill="#00bf63"/>
     <text x="25" y="13" font-family="Inter, sans-serif" font-size="15" fill="#1A1A2E">Poin singkat 3</text>
   </g>
 
@@ -76,15 +76,15 @@
     </g>
 
     <text x="200" y="320" font-family="Montserrat, sans-serif" font-size="24" font-weight="800" fill="#1A1A2E" text-anchor="middle">Layanan ke</text>
-    <text x="200" y="352" font-family="Montserrat, sans-serif" font-size="24" font-weight="800" fill="#1A6B30" text-anchor="middle">Rumah Anda</text>
+    <text x="200" y="352" font-family="Montserrat, sans-serif" font-size="24" font-weight="800" fill="#007A3D" text-anchor="middle">Rumah Anda</text>
 
     <!-- Stats -->
     <g transform="translate(40, 390)">
-      <text x="0" y="0" font-family="Montserrat, sans-serif" font-size="28" font-weight="800" fill="#2D9C4A">100+</text>
+      <text x="0" y="0" font-family="Montserrat, sans-serif" font-size="28" font-weight="800" fill="#00bf63">100+</text>
       <text x="0" y="22" font-family="Inter, sans-serif" font-size="11" fill="#475569">Pasien</text>
     </g>
     <g transform="translate(180, 390)">
-      <text x="0" y="0" font-family="Montserrat, sans-serif" font-size="28" font-weight="800" fill="#2D9C4A">24/7</text>
+      <text x="0" y="0" font-family="Montserrat, sans-serif" font-size="28" font-weight="800" fill="#00bf63">24/7</text>
       <text x="0" y="22" font-family="Inter, sans-serif" font-size="11" fill="#475569">Layanan</text>
     </g>
   </g>

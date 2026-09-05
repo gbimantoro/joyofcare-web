@@ -1,1 +1,21 @@
-cms/node_modules/
+# Build output
+dist/
+.build/
+
+# Dependencies
+node_modules/
+
+# Environment
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Astro
+.astro/

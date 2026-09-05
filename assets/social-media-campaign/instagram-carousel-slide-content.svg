@@ -4,8 +4,8 @@
 
   <defs>
     <linearGradient id="heroGreenC2" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#2D9C4A"/>
-      <stop offset="100%" stop-color="#1A6B30"/>
+      <stop offset="0%" stop-color="#00bf63"/>
+      <stop offset="100%" stop-color="#007A3D"/>
     </linearGradient>
     <linearGradient id="warmOrangeC2" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#FC9000"/>
@@ -27,7 +27,7 @@
   <!-- Brand header -->
   <g transform="translate(60, 60)">
     <rect x="0" y="0" width="48" height="48" rx="24" fill="#FFFFFF"/>
-    <path d="M 24 14 C 19 8, 9 8, 9 16 C 9 22, 24 33, 24 33 C 24 33, 39 22, 39 16 C 39 8, 29 8, 24 14 Z" fill="#2D9C4A"/>
+    <path d="M 24 14 C 19 8, 9 8, 9 16 C 9 22, 24 33, 24 33 C 24 33, 39 22, 39 16 C 39 8, 29 8, 24 14 Z" fill="#00bf63"/>
     <text x="68" y="22" font-family="Montserrat, sans-serif" font-size="22" font-weight="800" fill="#FFFFFF">Joy</text>
     <text x="119" y="22" font-family="Montserrat, sans-serif" font-size="22" font-weight="400" fill="#E8F5EC">of Care</text>
     <text x="68" y="42" font-family="Inter, sans-serif" font-size="13" fill="#A7E5BC">joyofcare.net</text>
@@ -36,7 +36,7 @@
   <!-- Slide indicator -->
   <g transform="translate(900, 70)">
     <rect x="0" y="0" width="120" height="44" rx="22" fill="#FFFFFF"/>
-    <text x="60" y="29" font-family="Inter, sans-serif" font-size="14" font-weight="700" fill="#1A6B30" text-anchor="middle">SLIDE 02</text>
+    <text x="60" y="29" font-family="Inter, sans-serif" font-size="14" font-weight="700" fill="#007A3D" text-anchor="middle">SLIDE 02</text>
   </g>
 
   <!-- Big number -->
@@ -54,7 +54,7 @@
     <g transform="translate(380, 30)">
       <circle cx="100" cy="100" r="85" fill="#E8F5EC"/>
       <!-- Editable icon placeholder -->
-      <circle cx="100" cy="100" r="45" fill="#2D9C4A"/>
+      <circle cx="100" cy="100" r="45" fill="#00bf63"/>
     </g>
 
     <!-- EDITABLE Title -->
@@ -63,15 +63,15 @@
 
     <!-- EDITABLE bullet list -->
     <g transform="translate(60, 380)">
-      <circle cx="10" cy="10" r="8" fill="#2D9C4A"/>
+      <circle cx="10" cy="10" r="8" fill="#00bf63"/>
       <text x="40" y="16" font-family="Inter, sans-serif" font-size="19" fill="#1A1A2E">Poin pertama yang edukatif</text>
     </g>
     <g transform="translate(60, 420)">
-      <circle cx="10" cy="10" r="8" fill="#2D9C4A"/>
+      <circle cx="10" cy="10" r="8" fill="#00bf63"/>
       <text x="40" y="16" font-family="Inter, sans-serif" font-size="19" fill="#1A1A2E">Poin kedua yang edukatif</text>
     </g>
     <g transform="translate(60, 460)">
-      <circle cx="10" cy="10" r="8" fill="#2D9C4A"/>
+      <circle cx="10" cy="10" r="8" fill="#00bf63"/>
       <text x="40" y="16" font-family="Inter, sans-serif" font-size="19" fill="#1A1A2E">Poin ketiga yang edukatif</text>
     </g>
 
@@ -86,14 +86,14 @@
     <!-- EDITABLE content blocks -->
     <g transform="translate(60, 660)">
       <rect x="0" y="0" width="400" height="150" rx="14" fill="#F0FDF4"/>
-      <text x="200" y="40" font-family="Inter, sans-serif" font-size="16" font-weight="700" fill="#1A6B30" text-anchor="middle">Stat 1</text>
-      <text x="200" y="100" font-family="Montserrat, sans-serif" font-size="44" font-weight="800" fill="#1A6B30" text-anchor="middle">85%</text>
+      <text x="200" y="40" font-family="Inter, sans-serif" font-size="16" font-weight="700" fill="#007A3D" text-anchor="middle">Stat 1</text>
+      <text x="200" y="100" font-family="Montserrat, sans-serif" font-size="44" font-weight="800" fill="#007A3D" text-anchor="middle">85%</text>
       <text x="200" y="130" font-family="Inter, sans-serif" font-size="13" fill="#475569" text-anchor="middle">Caption singkat</text>
     </g>
     <g transform="translate(500, 660)">
       <rect x="0" y="0" width="400" height="150" rx="14" fill="#F0FDF4"/>
-      <text x="200" y="40" font-family="Inter, sans-serif" font-size="16" font-weight="700" fill="#1A6B30" text-anchor="middle">Stat 2</text>
-      <text x="200" y="100" font-family="Montserrat, sans-serif" font-size="44" font-weight="800" fill="#1A6B30" text-anchor="middle">24/7</text>
+      <text x="200" y="40" font-family="Inter, sans-serif" font-size="16" font-weight="700" fill="#007A3D" text-anchor="middle">Stat 2</text>
+      <text x="200" y="100" font-family="Montserrat, sans-serif" font-size="44" font-weight="800" fill="#007A3D" text-anchor="middle">24/7</text>
       <text x="200" y="130" font-family="Inter, sans-serif" font-size="13" fill="#475569" text-anchor="middle">Caption singkat</text>
     </g>
   </g>

@@ -53,7 +53,7 @@
   <!-- Main headline -->
   <g transform="translate(60, 460)" filter="url(#textShadow2)">
     <text x="0" y="100" font-family="Montserrat, sans-serif" font-size="92" font-weight="900" fill="#FFFFFF">5 TIPS</text>
-    <text x="0" y="200" font-family="Montserrat, sans-serif" font-size="92" font-weight="900" fill="#1A6B30">SEHAT</text>
+    <text x="0" y="200" font-family="Montserrat, sans-serif" font-size="92" font-weight="900" fill="#007A3D">SEHAT</text>
     <text x="0" y="300" font-family="Montserrat, sans-serif" font-size="92" font-weight="900" fill="#FFFFFF">LANSIA</text>
     <text x="0" y="400" font-family="Montserrat, sans-serif" font-size="92" font-weight="900" fill="#FFFFFF">DI RUMAH</text>
   </g>
@@ -67,27 +67,27 @@
 
     <!-- Bullet list -->
     <g transform="translate(40, 150)">
-      <rect x="0" y="0" width="42" height="42" rx="21" fill="#2D9C4A"/>
+      <rect x="0" y="0" width="42" height="42" rx="21" fill="#00bf63"/>
       <text x="21" y="29" font-family="Montserrat, sans-serif" font-size="20" font-weight="800" fill="#FFFFFF" text-anchor="middle">1</text>
       <text x="62" y="29" font-family="Inter, sans-serif" font-size="20" font-weight="700" fill="#1A1A2E">Nutrisi seimbang untuk lansia</text>
     </g>
     <g transform="translate(40, 210)">
-      <rect x="0" y="0" width="42" height="42" rx="21" fill="#2D9C4A"/>
+      <rect x="0" y="0" width="42" height="42" rx="21" fill="#00bf63"/>
       <text x="21" y="29" font-family="Montserrat, sans-serif" font-size="20" font-weight="800" fill="#FFFFFF" text-anchor="middle">2</text>
       <text x="62" y="29" font-family="Inter, sans-serif" font-size="20" font-weight="700" fill="#1A1A2E">Aktivitas fisik ringan</text>
     </g>
     <g transform="translate(40, 270)">
-      <rect x="0" y="0" width="42" height="42" rx="21" fill="#2D9C4A"/>
+      <rect x="0" y="0" width="42" height="42" rx="21" fill="#00bf63"/>
       <text x="21" y="29" font-family="Montserrat, sans-serif" font-size="20" font-weight="800" fill="#FFFFFF" text-anchor="middle">3</text>
       <text x="62" y="29" font-family="Inter, sans-serif" font-size="20" font-weight="700" fill="#1A1A2E">Cara pencegahan jatuh</text>
     </g>
     <g transform="translate(40, 330)">
-      <rect x="0" y="0" width="42" height="42" rx="21" fill="#2D9C4A"/>
+      <rect x="0" y="0" width="42" height="42" rx="21" fill="#00bf63"/>
       <text x="21" y="29" font-family="Montserrat, sans-serif" font-size="20" font-weight="800" fill="#FFFFFF" text-anchor="middle">4</text>
       <text x="62" y="29" font-family="Inter, sans-serif" font-size="20" font-weight="700" fill="#1A1A2E">Vaksinasi yang tepat</text>
     </g>
     <g transform="translate(40, 390)">
-      <rect x="0" y="0" width="42" height="42" rx="21" fill="#2D9C4A"/>
+      <rect x="0" y="0" width="42" height="42" rx="21" fill="#00bf63"/>
       <text x="21" y="29" font-family="Montserrat, sans-serif" font-size="20" font-weight="800" fill="#FFFFFF" text-anchor="middle">5</text>
       <text x="62" y="29" font-family="Inter, sans-serif" font-size="20" font-weight="700" fill="#1A1A2E">Cek kesehatan berkala</text>
     </g>
@@ -99,11 +99,11 @@
 
     <!-- Logo -->
     <g transform="translate(40, 50)">
-      <rect x="0" y="0" width="80" height="80" rx="40" fill="#2D9C4A"/>
+      <rect x="0" y="0" width="80" height="80" rx="40" fill="#00bf63"/>
       <path d="M 40 24 C 32 14, 14 14, 14 26 C 14 36, 40 60, 40 60 C 40 60, 66 36, 66 26 C 66 14, 48 14, 40 24 Z" fill="#FFFFFF"/>
     </g>
 
-    <text x="150" y="80" font-family="Montserrat, sans-serif" font-size="32" font-weight="800" fill="#1A6B30">Joy of Care</text>
+    <text x="150" y="80" font-family="Montserrat, sans-serif" font-size="32" font-weight="800" fill="#007A3D">Joy of Care</text>
     <text x="150" y="115" font-family="Inter, sans-serif" font-size="20" font-weight="700" fill="#B85800">Chat: 08811-118-911</text>
     <text x="150" y="145" font-family="Inter, sans-serif" font-size="14" fill="#64748B">Layanan kesehatan ke rumah Jabodetabek</text>
 
@@ -113,7 +113,7 @@
 
   <!-- Footer hashtags -->
   <g transform="translate(60, 1830)">
-    <text x="0" y="13" font-family="Inter, sans-serif" font-size="14" fill="#FFFFFF" opacity="0.85">#JoyOfCare #Shorts #Kesehatan #Lansia</text>
+    <text x="0" y="13" font-family="Inter, sans-serif" font-size="14" fill="#FFFFFF" opacity="0.85">#JoyOfCare #Shorts @joyof.care #Kesehatan #Lansia</text>
     <text x="960" y="13" font-family="Inter, sans-serif" font-size="14" fill="#FFFFFF" opacity="0.85" text-anchor="end">▶ TAP TO PLAY</text>
   </g>
 </svg>

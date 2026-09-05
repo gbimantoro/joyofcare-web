@@ -6,8 +6,8 @@ Reusable SVG visual templates for the 60-day social media campaign. Each templat
 
 | Token | Hex | Usage |
 |-------|-----|-------|
-| Primary Green | `#2D9C4A` | Headers, primary brand color |
-| Dark Green | `#1A6B30` | Gradient end, footer, dark sections |
+| Primary Green | `#00bf63` | Headers, primary brand color |
+| Dark Green | `#007A3D` | Gradient end, footer, dark sections |
 | Accent Orange | `#FC9000` | CTA buttons, accents, click-bait hooks |
 | Accent Hover | `#E58200` | CTA hover, gradient end |
 | Light Green | `#7ED957` | Highlights, success |

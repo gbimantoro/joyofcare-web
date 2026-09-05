@@ -2,8 +2,8 @@
   "name": "JoyofCare 60-Day Campaign Visual Templates",
   "version": "1.0.0",
   "brand": {
-    "primary_color": "#2D9C4A",
-    "secondary_color": "#1A6B30",
+    "primary_color": "#00bf63",
+    "secondary_color": "#007A3D",
     "accent_color": "#FC9000",
     "font_heading": "Montserrat",
     "font_body": "Inter"
@@ -98,7 +98,7 @@
     "total_templates": 7,
     "platforms_covered": 5,
     "platforms": ["instagram", "facebook", "youtube", "twitter-x"],
-    "primary_brand_color": "#2D9C4A",
+    "primary_brand_color": "#00bf63",
     "cta_color": "#FC9000"
   },
   "campaign_themes": {

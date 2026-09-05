@@ -4,8 +4,8 @@
 
   <defs>
     <linearGradient id="heroGreenCar" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#2D9C4A"/>
-      <stop offset="100%" stop-color="#1A6B30"/>
+      <stop offset="0%" stop-color="#00bf63"/>
+      <stop offset="100%" stop-color="#007A3D"/>
     </linearGradient>
     <linearGradient id="warmOrangeCar" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#FC9000"/>
@@ -29,7 +29,7 @@
   <!-- Brand header -->
   <g transform="translate(60, 60)">
     <rect x="0" y="0" width="48" height="48" rx="24" fill="#FFFFFF"/>
-    <path d="M 24 14 C 19 8, 9 8, 9 16 C 9 22, 24 33, 24 33 C 24 33, 39 22, 39 16 C 39 8, 29 8, 24 14 Z" fill="#2D9C4A"/>
+    <path d="M 24 14 C 19 8, 9 8, 9 16 C 9 22, 24 33, 24 33 C 24 33, 39 22, 39 16 C 39 8, 29 8, 24 14 Z" fill="#00bf63"/>
     <text x="68" y="22" font-family="Montserrat, sans-serif" font-size="22" font-weight="800" fill="#FFFFFF">Joy</text>
     <text x="119" y="22" font-family="Montserrat, sans-serif" font-size="22" font-weight="400" fill="#E8F5EC">of Care</text>
     <text x="68" y="42" font-family="Inter, sans-serif" font-size="13" fill="#A7E5BC">joyofcare.net</text>
@@ -38,13 +38,13 @@
   <!-- Slide indicator -->
   <g transform="translate(900, 70)">
     <rect x="0" y="0" width="120" height="44" rx="22" fill="#FFFFFF"/>
-    <text x="60" y="29" font-family="Inter, sans-serif" font-size="14" font-weight="700" fill="#1A6B30" text-anchor="middle">SLIDE 01</text>
+    <text x="60" y="29" font-family="Inter, sans-serif" font-size="14" font-weight="700" fill="#007A3D" text-anchor="middle">SLIDE 01</text>
   </g>
 
   <!-- Number badge (large, branded) -->
   <g transform="translate(60, 200)">
     <rect x="0" y="0" width="280" height="80" rx="40" fill="#FFFFFF"/>
-    <text x="140" y="56" font-family="Montserrat, sans-serif" font-size="44" font-weight="800" fill="#1A6B30" text-anchor="middle">1 / 5</text>
+    <text x="140" y="56" font-family="Montserrat, sans-serif" font-size="44" font-weight="800" fill="#007A3D" text-anchor="middle">1 / 5</text>
   </g>
 
   <!-- Cover card -->
@@ -61,7 +61,7 @@
 
     <!-- EDITABLE Title -->
     <text x="60" y="320" font-family="Montserrat, sans-serif" font-size="54" font-weight="800" fill="#1A1A2E">Judul Carousel</text>
-    <text x="60" y="380" font-family="Montserrat, sans-serif" font-size="54" font-weight="800" fill="#1A6B30">Yang Menarik</text>
+    <text x="60" y="380" font-family="Montserrat, sans-serif" font-size="54" font-weight="800" fill="#007A3D">Yang Menarik</text>
 
     <!-- EDITABLE Description -->
     <text x="60" y="430" font-family="Inter, sans-serif" font-size="22" fill="#475569">Penjelasan singkat tentang isi carousel</text>
@@ -69,15 +69,15 @@
     <!-- Promise / bullet benefits -->
     <g transform="translate(60, 480)">
       <rect x="0" y="0" width="840" height="60" rx="14" fill="#F0FDF4"/>
-      <text x="30" y="38" font-family="Inter, sans-serif" font-size="18" font-weight="700" fill="#1A6B30">✓ Kamu akan belajar tentang [topik utama]</text>
+      <text x="30" y="38" font-family="Inter, sans-serif" font-size="18" font-weight="700" fill="#007A3D">✓ Kamu akan belajar tentang [topik utama]</text>
     </g>
     <g transform="translate(60, 555)">
       <rect x="0" y="0" width="840" height="60" rx="14" fill="#F0FDF4"/>
-      <text x="30" y="38" font-family="Inter, sans-serif" font-size="18" font-weight="700" fill="#1A6B30">✓ Dapat tips praktis untuk [tujuan]</text>
+      <text x="30" y="38" font-family="Inter, sans-serif" font-size="18" font-weight="700" fill="#007A3D">✓ Dapat tips praktis untuk [tujuan]</text>
     </g>
     <g transform="translate(60, 630)">
       <rect x="0" y="0" width="840" height="60" rx="14" fill="#F0FDF4"/>
-      <text x="30" y="38" font-family="Inter, sans-serif" font-size="18" font-weight="700" fill="#1A6B30">✓ Panduan dari ahli kesehatan profesional</text>
+      <text x="30" y="38" font-family="Inter, sans-serif" font-size="18" font-weight="700" fill="#007A3D">✓ Panduan dari ahli kesehatan profesional</text>
     </g>
   </g>
 
@@ -91,6 +91,6 @@
 
   <!-- Footer hashtags -->
   <g transform="translate(60, 1310)">
-    <text x="0" y="13" font-family="Inter, sans-serif" font-size="13" fill="#A7E5BC">#JoyOfCare #KesehatanDiRumah</text>
+    <text x="0" y="13" font-family="Inter, sans-serif" font-size="13" fill="#A7E5BC">#JoyOfCare #KesehatanDiRumah @joyof.care</text>
   </g>
 </svg>
