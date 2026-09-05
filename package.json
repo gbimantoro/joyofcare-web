@@ -1,0 +1,27 @@
+{
+  "name": "joyofcare-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gbimantoro: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@github.com/gbimantoro/joyofcare-web.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/gbimantoro/joyofcare-web/issues"
+  },
+  "homepage": "https://github.com/gbimantoro/joyofcare-web#readme",
+  "dependencies": {
+    "@astrojs/mdx": "^8.0.0",
+    "@keystatic/astro": "^6.0.0",
+    "@keystatic/core": "^0.6.9",
+    "astro": "^7.3.1"
+  }
+}

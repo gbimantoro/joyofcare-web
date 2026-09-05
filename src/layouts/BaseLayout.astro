@@ -1,0 +1,344 @@
+---
+interface Props {
+  title: string;
+  description?: string;
+  canonicalURL?: string;
+  ogImage?: string;
+}
+
+const { 
+  title, 
+  description = 'Joy of Care menyediakan layanan kesehatan di rumah profesional: panggil dokter, fisioterapi, infus vitamin, home lab, dan antar jemput RS.',
+  canonicalURL = 'https://www.joyofcare.net/',
+  ogImage = '/images/joc_long.png'
+} = Astro.props;
+
+const currentPath = Astro.url.pathname;
+---
+
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{title}</title>
+  <meta name="description" content={description}>
+  <link rel="canonical" href={canonicalURL}>
+  
+  <!-- Open Graph -->
+  <meta property="og:type" content="website">
+  <meta property="og:title" content={title}>
+  <meta property="og:description" content={description}>
+  <meta property="og:url" content={canonicalURL}>
+  <meta property="og:image" content={ogImage}>
+  <meta property="og:locale" content="id_ID">
+  <meta property="og:site_name" content="Joy of Care">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content={title}>
+  <meta name="twitter:description" content={description}>
+  <meta name="twitter:image" content={ogImage}>
+  
+  <!-- Favicon -->
+  <link rel="icon" href="https://www.joyofcare.net/web/image/website/1/favicon" type="image/png">
+  
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Montserrat:wght@600;700;800&display=swap" rel="stylesheet">
+  
+  <!-- JSON-LD: LocalBusiness -->
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "MedicalBusiness",
+    "name": "Joy of Care",
+    "url": "https://www.joyofcare.net/",
+    "logo": "/images/joc_long.png",
+    "telephone": "+628811118911",
+    "email": "hi@joyofcare.net",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Ruko Greenwich Business Park E-15, Jl. Bumi Botanika",
+      "addressLocality": "BSD City",
+      "addressRegion": "Tangerang Selatan",
+      "addressCountry": "ID"
+    },
+    "areaServed": [
+      { "@type": "City", "name": "BSD City" },
+      { "@type": "City", "name": "Tangerang Selatan" },
+      { "@type": "City", "name": "Jakarta" },
+      { "@type": "City", "name": "Depok" },
+      { "@type": "City", "name": "Bogor" }
+    ]
+  })} />
+</head>
+<body>
+  <!-- Navigation -->
+  <nav class="nav">
+    <div class="nav-inner">
+      <a href="/" class="nav-logo" aria-label="Joy of Care — Beranda">
+        <img src="/images/joc_long.png" alt="Joy of Care" width="160" height="40">
+      </a>
+      
+      <div class="nav-links">
+        <a href="/#layanan">Layanan</a>
+        <a href="/blog/" class={currentPath.startsWith('/blog') ? 'active' : ''}>Artikel</a>
+        <a href="/#faq">FAQ</a>
+        <a href="https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20tanya%20layanan%20Joy%20of%20Care" class="nav-cta">Chat WhatsApp</a>
+      </div>
+      
+      <button class="nav-mobile" aria-label="Menu">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <line x1="3" y1="6" x2="21" y2="6"/>
+          <line x1="3" y1="12" x2="21" y2="12"/>
+          <line x1="3" y1="18" x2="21" y2="18"/>
+        </svg>
+      </button>
+    </div>
+  </nav>
+
+  <!-- Main Content -->
+  <main>
+    <slot />
+  </main>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div>
+          <h4>Joy of Care</h4>
+          <p>Layanan kesehatan di rumah profesional untuk BSD City, Tangerang Selatan, Jakarta, Depok &amp; Bogor.</p>
+        </div>
+        <div>
+          <h4>Layanan</h4>
+          <div class="footer-links">
+            <a href="/panggil-dokter-ke-rumah">Panggil Dokter</a>
+            <a href="/layanan-fisioterapi-ke-rumah">Fisioterapi</a>
+            <a href="/infus-suntik-vitamin-di-rumah">Infus Vitamin</a>
+            <a href="/homelab">Home Lab</a>
+            <a href="/layanan-perawat-di-rumah">Perawat</a>
+          </div>
+        </div>
+        <div>
+          <h4>Kontak</h4>
+          <div class="footer-links">
+            <a href="https://wa.me/628811118911">WhatsApp: 08811-118-911</a>
+            <a href="https://maps.app.goo.gl/JwkLdvc11hQYs8ts6">Google Maps</a>
+          </div>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <span>© 2026 PT. Joyofcare Network Indonesia. All rights reserved.</span>
+      </div>
+    </div>
+  </footer>
+
+  <!-- WhatsApp Floating Button -->
+  <a href="https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web" class="wa-float" aria-label="Chat WhatsApp">
+    <svg viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
+  </a>
+
+  <style>
+    :root {
+      --color-primary: #2D9C4A;
+      --color-primary-dark: #247A3B;
+      --color-cta: #FC9000;
+      --color-text: #1A1A2E;
+      --color-text-secondary: #4A5568;
+      --color-bg: #FFFFFF;
+      --color-neutral: #F7FAFC;
+      --color-border: #E2E8F0;
+      --radius-sm: 6px;
+      --radius-md: 12px;
+      --radius-lg: 16px;
+      --shadow-sm: 0 1px 3px rgba(0,0,0,0.1);
+      --shadow-md: 0 4px 12px rgba(0,0,0,0.1);
+      --shadow-lg: 0 10px 30px rgba(0,0,0,0.12);
+    }
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    
+    body {
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+      color: var(--color-text);
+      line-height: 1.6;
+      background: var(--color-bg);
+    }
+
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 24px;
+    }
+
+    /* Navigation */
+    .nav {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      background: rgba(255,255,255,0.95);
+      backdrop-filter: blur(10px);
+      border-bottom: 1px solid var(--color-border);
+    }
+
+    .nav-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 24px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      height: 72px;
+    }
+
+    .nav-logo img {
+      height: 40px;
+      width: auto;
+    }
+
+    .nav-links {
+      display: flex;
+      align-items: center;
+      gap: 32px;
+    }
+
+    .nav-links a {
+      text-decoration: none;
+      color: var(--color-text);
+      font-weight: 500;
+      transition: color 0.2s;
+    }
+
+    .nav-links a:hover,
+    .nav-links a.active {
+      color: var(--color-primary);
+    }
+
+    .nav-cta {
+      background: var(--color-primary) !important;
+      color: white !important;
+      padding: 10px 20px;
+      border-radius: var(--radius-sm);
+      font-weight: 600 !important;
+    }
+
+    .nav-cta:hover {
+      background: var(--color-primary-dark) !important;
+    }
+
+    .nav-mobile {
+      display: none;
+      background: none;
+      border: none;
+      cursor: pointer;
+    }
+
+    /* Footer */
+    .footer {
+      background: var(--color-text);
+      color: white;
+      padding: 60px 0 30px;
+      margin-top: 80px;
+    }
+
+    .footer-grid {
+      display: grid;
+      grid-template-columns: 2fr 1fr 1fr;
+      gap: 48px;
+    }
+
+    .footer h4 {
+      font-size: 1.1rem;
+      margin-bottom: 16px;
+    }
+
+    .footer p {
+      color: #A0AEC0;
+      font-size: 0.9rem;
+    }
+
+    .footer-links {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+
+    .footer-links a {
+      color: #A0AEC0;
+      text-decoration: none;
+      font-size: 0.9rem;
+      transition: color 0.2s;
+    }
+
+    .footer-links a:hover {
+      color: white;
+    }
+
+    .footer-bottom {
+      margin-top: 40px;
+      padding-top: 20px;
+      border-top: 1px solid #2D3748;
+      text-align: center;
+      color: #718096;
+      font-size: 0.85rem;
+    }
+
+    /* WhatsApp Float */
+    .wa-float {
+      position: fixed;
+      bottom: 24px;
+      right: 24px;
+      width: 60px;
+      height: 60px;
+      background: #25D366;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      box-shadow: var(--shadow-lg);
+      z-index: 1000;
+      transition: transform 0.2s;
+    }
+
+    .wa-float:hover {
+      transform: scale(1.1);
+    }
+
+    .wa-float svg {
+      width: 32px;
+      height: 32px;
+      fill: white;
+    }
+
+    /* Responsive */
+    @media (max-width: 768px) {
+      .nav-links {
+        display: none;
+        position: absolute;
+        top: 72px;
+        left: 0;
+        right: 0;
+        background: white;
+        flex-direction: column;
+        padding: 24px;
+        border-bottom: 1px solid var(--color-border);
+      }
+
+      .nav-links.open {
+        display: flex;
+      }
+
+      .nav-mobile {
+        display: block;
+      }
+
+      .footer-grid {
+        grid-template-columns: 1fr;
+        gap: 32px;
+      }
+    }
+  </style>
+</body>
+</html>

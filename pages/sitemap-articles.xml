@@ -3,7 +3,7 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
-  <!-- Blog Hub & Category Listing Pages -->
+  <!-- Artikel Hub & Category Listing Pages -->
   <url>
     <loc>https://www.joyofcare.net/blog/</loc>
     <lastmod>2026-09-05</lastmod>
@@ -35,7 +35,7 @@
     <priority>0.80</priority>
   </url>
 
-  <!-- Blog Articles -->
+  <!-- Artikel Articles -->
   <url>
     <loc>https://www.joyofcare.net/blog/healthy-aging/3-jenis-latihan-fisik-yang-terbukti-mampu-melawan-kekakuan-parkinson-panduan-fisioterapi-rumahan-35</loc>
     <lastmod>2026-09-05</lastmod>
