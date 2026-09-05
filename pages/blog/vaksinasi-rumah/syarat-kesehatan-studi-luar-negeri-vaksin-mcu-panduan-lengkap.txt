@@ -66,7 +66,7 @@ clinical_references:
 
 Bagi calon mahasiswa Indonesia yang berhasil meraih <em>Letter of Acceptance</em> (LoA) dari perguruan tinggi ternama di luar negeri atau dinyatakan lolos beasiswa bergengsi seperti LPDP, Chevening, Fulbright, atau AAS, tahapan berikutnya yang paling menentukan kelancaran keberangkatan adalah pemenuhan persyaratan medis (<em>Medical Clearance</em>). Kegagalan melengkapi bukti imunisasi wajib atau adanya kejanggalan pada hasil rontgen dada dapat mengakibatkan penolakan visa pelajar, tertahannya pendaftaran asrama kampus, hingga pembatalan beasiswa. Melalui ekosistem [Layanan Cek Lab Darah di Rumah Joy of Care](/layanan/cek-lab-di-rumah) dan [Layanan Vaksinasi di Rumah](/layanan/vaksinasi-di-rumah), seluruh kebutuhan pemeriksaan kesehatan pra-studi dapat dilaksanakan secara efisien tanpa harus mengantre panjang di rumah sakit. Artikel komprehensif ini mengupas tuntas daftar vaksinasi wajib global, rincian uji laboratorium kedutaan, panduan membaca formulir imunisasi kampus asing, serta estimasi biaya resmi 2026.
 
-<blockquote>### 💡 Penting dipahami</blockquote>
+<blockquote>###  Penting dipahami</blockquote>
 <blockquote><em> <strong>2 Lapisan Regulasi Medis</strong>: Skrining imigrasi visa (fokus utama tuberkulosis/TBC) dan </em>Immunization Clearance* universitas (fokus wabah asrama kampus).</blockquote>
 <blockquote>* <strong>Kuartet Vaksin Wajib Global</strong>: Vaksin MMR (2 dosis), Meningitis MenACWY, Hepatitis B (3 dosis), dan Tdap (Tetanus-Difteri-Pertusis).</blockquote>
 <blockquote>* <strong>Solusi Titer Antibodi Darah</strong>: Tes serologi IgG diakui secara sah menggantikan catatan buku vaksinasi masa kecil yang hilang.</blockquote>
@@ -126,7 +126,7 @@ Berikut adalah estimasi biaya resmi penyiapan berkas medis pelajar di rumah yang
 | <strong>Vaksin Tdap Booster</strong> | Injeksi 1 dosis tetanus-difteri-pertusis dewasa | Vaksin Resmi (Hubungi WA JoC) |
 | <strong>Paket Verifikasi Form & Konsultasi Dokter</strong> | Visit dokter ke rumah, cek tanda vital, pengisian form kampus berbahasa Inggris | Layanan Dokter (Hubungi WA JoC) |
 
-Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
+📲 Hubungi WhatsApp Resmi Joy of Care
 
 <em>Catatan: Seluruh tarif sudah mencakup kunjungan tenaga medis ke rumah, spuit jarum steril, transport medis, dan penerbitan sertifikat resmi.</em>
 

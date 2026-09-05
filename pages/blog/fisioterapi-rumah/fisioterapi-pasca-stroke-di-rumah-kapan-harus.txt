@@ -53,7 +53,7 @@ clinical_references:
 
 Waktu dimulainya rehabilitasi fisik pasca stroke adalah penentu utama tingkat kemandirian fungsional pasien di masa depan. Menunda fisioterapi karena menunggu pasien pulih sendiri di rumah sering kali berujung pada kekakuan sendi permanen (<em>kontraktur</em>), pengecilan massa otot (<em>sarkopenia</em>), dan hilangnya refleks jalan alami. Artikel ini mengulas tanda-tanda klinis kapan pasien harus segera mendapatkan fisioterapi rumahan terpadu, dilengkapi studi kasus nyata pemulihan pasien stroke di Jakarta.
 
-<blockquote>### 💡 Penting dipahami</blockquote>
+<blockquote>###  Penting dipahami</blockquote>
 <blockquote>* <strong>Kecepatan Adalah Kunci</strong>: Setiap hari tanpa mobilisasi terarah memperlambat reorganisasi kortikal otak dan meningkatkan risiko kekakuan spastik.</blockquote>
 <blockquote>* <strong>Tanda Krusial Butuh Fisioterapis</strong>: Pasien tidak mampu miring sendiri di ranjang, tangan mulai menggenggam kaku, pusing saat didudukkan, atau kaki lemas tak mampu menumpu.</blockquote>
 <blockquote>* <strong>Studi Kasus Nyata</strong>: Pasien stroke iskemik usia 68 tahun di Jakarta Selatan berhasil berjalan mandiri dengan tongkat dalam 12 minggu berkat fisioterapi homecare intensif 3 kali seminggu.</blockquote>

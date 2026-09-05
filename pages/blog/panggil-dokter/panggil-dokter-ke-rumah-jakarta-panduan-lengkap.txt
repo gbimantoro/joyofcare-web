@@ -56,7 +56,7 @@ clinical_references:
 
 Layanan panggil dokter ke rumah Jakarta (<em>doctor home visit</em>) adalah solusi pelayanan medis primer modern di mana dokter berizin resmi Dinas Kesehatan datang langsung ke kediaman pasien. Layanan ini dirancang khusus bagi pasien lansia, penderita penyakit kronis, individu pascaoperasi, atau keluarga sibuk yang membutuhkan diagnosis akurat, peresepan obat resmi, dan tindakan medis tanpa harus menghadapi kemacetan lalu lintas dan antrean panjang rumah sakit di Jakarta.
 
-<blockquote>### 💡 Penting dipahami</blockquote>
+<blockquote>###  Penting dipahami</blockquote>
 <blockquote>* <strong>Kemudahan Akses</strong>: Pasien diperiksa di ranjangnya sendiri tanpa stres perjalanan dan risiko terpapar infeksi silang nosokomial di rumah sakit.</blockquote>
 <blockquote>* <strong>Kredibilitas Medis</strong>: Seluruh dokter Joy of Care memiliki Surat Tanda Registrasi (STR) aktif dari Konsil Kedokteran Indonesia dan Surat Izin Praktik (SIP) resmi Dinas Kesehatan.</blockquote>
 <blockquote>* <strong>Peralatan Lengkap</strong>: Dokter membawa perlengkapan diagnostik portabel, kit sterilisasi, serta alat tindakan medis darurat dasar.</blockquote>

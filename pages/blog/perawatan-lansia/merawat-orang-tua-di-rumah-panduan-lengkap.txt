@@ -55,7 +55,7 @@ clinical_references:
 
 Merawat orang tua di rumah (<em>aging in place</em>) adalah bentuk bakti keluarga yang mulia sekaligus tanggung jawab perawatan yang kompleks. Seiring bertambahnya usia, penurunan fungsi organ, kerapuhan fisik (<em>frailty</em>), dan penyakit kronis degeneratif menuntut pendekatan perawatan yang holistik. Panduan komprehensif ini menguraikan langkah-langkah praktis bagi keluarga—mulai dari strategi pemenuhan nutrisi geriatri, audit keamanan rumah pencegah jatuh, pengelolaan obat polifarmasi, hingga integrasi layanan medis profesional di hunian pribadi.
 
-<blockquote>### 💡 Penting dipahami</blockquote>
+<blockquote>###  Penting dipahami</blockquote>
 <blockquote>* <strong>Konsep Aging in Place</strong>: Tinggal di rumah sendiri memberikan kenyamanan psikologis mendalam bagi lansia, mempertahankan kualitas hidup, dan memperlambat laju demensia.</blockquote>
 <blockquote>* <strong>Tiga Titik Rawan Perawatan</strong>: Kegagalan asupan cairan (dehidrasi subklinis), kesalahan jam minum obat jamak, dan insiden terpeleset di kamar mandi.</blockquote>
 <blockquote>* <strong>Pencegahan Tirah Baring Fatal</strong>: Miringkan posisi badan lansia tirah baring setiap 2 jam untuk mencegah pembentukan luka tekan dekubitus.</blockquote>

@@ -64,7 +64,7 @@ clinical_references:
 
 Tulang adalah organ hidup yang senantiasa mengalami siklus perombakan alami sepanjang hayat. Namun pada kelompok lanjut usia, keseimbangan metabolisme tulang terganggu secara dramatis: laju penyerapan tulang oleh sel osteoklas melampaui laju pembentukan tulang baru oleh sel osteoblas, memicu kondisi pengeroposan tulang sistemik yang dikenal sebagai osteoporosis. Sifatnya yang tanpa gejala klinis di awal (<em>silent epidemic</em>) membuat jutaan keluarga di Indonesia terlambat menyadarinya hingga terjadi insiden fatal: patah tulang panggul (<em>hip fracture</em>) atau remuk tulang punggung (<em>vertebral compression fracture</em>) akibat jatuh ringan di rumah. Melalui integrasi [Layanan Fisioterapi di Rumah Joy of Care](/layanan/fisioterapi-di-rumah), perawatan geriatri modern kini mampu memperlambat pengeroposan matriks tulang, memulihkan kekuatan otot penyangga, dan mencegah komplikasi fraktur yang melumpuhkan. Artikel ini mengupas mekanisme patofisiologi, faktor risiko, panduan nutrisi kalsium-D3, serta strategi perawatan terpadu di rumah untuk keluarga di Jakarta dan sekitarnya.
 
-<blockquote>### 💡 Penting dipahami</blockquote>
+<blockquote>###  Penting dipahami</blockquote>
 <blockquote>* <strong>Bahaya Tersembunyi Tanpa Gejala</strong>: Kepadatan tulang berkurang tanpa rasa sakit sampai terjadi patah tulang akibat benturan ringan.</blockquote>
 <blockquote>* <strong>Komplikasi Fraktur Panggul Kritis</strong>: 20% lansia yang mengalami patah tulang panggul meninggal dalam 1 tahun pertama akibat komplikasi tirah baring (pneumonia/sepsis).</blockquote>
 <blockquote>* <strong>Standar Emas Diagnostik DEXA Scan</strong>: T-score ≤ -2,5 menandakan osteoporosis aktif yang membutuhkan terapi medis dan latihan beban.</blockquote>

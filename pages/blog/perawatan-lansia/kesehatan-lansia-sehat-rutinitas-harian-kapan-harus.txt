@@ -53,7 +53,7 @@ clinical_references:
 
 Bagi banyak anak yang sudah beranjak dewasa dan berkeluarga di kawasan metropolitan Jakarta, mengamati proses penuaan orang tua sering kali menimbulkan pergulatan batin yang rumit. Di satu sisi, keluarga ingin menghormati privasi dan kemandirian orang tua yang terbiasa hidup mandiri. Namun di sisi lain, tanda-tanda kelemahan fisik, lupa mematikan kompor gas, kesulitan mandi sendiri, atau obat resep dokter yang menumpuk tak terminum menjadi alarm bahaya yang tidak boleh diabaikan. Melalui instrumen klinis <em>Activities of Daily Living</em> (ADL) yang diterapkan oleh dokter [Layanan Panggil Dokter ke Rumah Jakarta](/layanan/panggil-dokter) Joy of Care, keluarga dapat mengenali secara objektif saat yang tepat untuk menghadirkan bantuan pendampingan profesional. Artikel ini membahas tanda-tanda penurunan fungsi fisik orang tua, metodologi penilaian geriatri, serta alur pemulihan terpadu dan protokol pemantauan klinis lansia di rumah.
 
-<blockquote>### 💡 Penting dipahami</blockquote>
+<blockquote>###  Penting dipahami</blockquote>
 <blockquote>* <strong>Tanda Penurunan Kemandirian (ADL)</strong>: Kesulitan memakai baju, mandi tidak bersih, inkontinensia urin, atau lupa jadwal minum obat harian.</blockquote>
 <blockquote>* <strong>Pencegahan Risiko Kritis di Rumah</strong>: Pendampingan perawat mengeliminasi risiko jatuh di kamar mandi, keracunan overdosis obat, dan malnutrisi kronis.</blockquote>
 <blockquote>* <strong>Pendekatan Komunikasi Empatik</strong>: Memperkenalkan pendamping sebagai "asisten kebugaran" menjaga martabat dan rasa hormat orang tua.</blockquote>

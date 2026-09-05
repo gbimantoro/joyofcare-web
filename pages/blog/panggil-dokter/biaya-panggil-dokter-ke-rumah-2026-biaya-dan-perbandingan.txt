@@ -57,7 +57,7 @@ clinical_references:
 
 Menjamurnya layanan medis berbasis panggilan ke rumah (<em>doctor home visit</em>) di Jakarta memudahkan masyarakat mendapatkan penanganan kesehatan tanpa harus keluar rumah. Namun dari segi biaya dan transparansi, masyarakat kerap dihadapkan pada variasi harga yang sangat lebar. Sebagian platform berbasis aplikasi teknologi membebankan biaya tinggi karena adanya margin komisi perantara aplikasi (<em>marketplace fee</em>), sementara sebagian agensi lain memiliki tarif visit murah namun membebankan biaya tersembunyi (<em>hidden charges</em>) pada alat medis dan transportasi. Artikel analisis pasar ini membandingkan secara transparan struktur biaya, kualitas dokter, durasi pemeriksaan, dan ekosistem penunjang antara [Layanan Panggil Dokter ke Rumah Jakarta Joy of Care](/layanan/panggil-dokter), Kavacare, dan Halodoc Homecare pada tahun 2026.
 
-<blockquote>### 💡 Penting dipahami</blockquote>
+<blockquote>###  Penting dipahami</blockquote>
 <blockquote>* <strong>Model Layanan Langsung vs Marketplace</strong>: Joy of Care beroperasi sebagai penyedia layanan klinis terintegrasi langsung, memangkas biaya perantara aplikasi bagi pasien.</blockquote>
 <blockquote>* <strong>Durasi Konsultasi Lebih Personal</strong>: Dokter Joy of Care meluangkan waktu 45 hingga 60 menit di samping ranjang pasien untuk edukasi mendalam, bukan kunjungan kilat terburu-buru.</blockquote>
 <blockquote><em> <strong>Transparansi Tarif Flat</strong>: Tidak ada lonjakan tarif dinamis (</em>surge pricing*) pada jam sibuk atau cuaca hujan, menjaga kepastian anggaran keluarga.</blockquote>
@@ -116,7 +116,7 @@ Pelajari panduan rincian biaya di [Panduan Lengkap Biaya Panggil Dokter ke Rumah
 Joy of Care menerapkan struktur biaya langsung (<em>direct clinic model</em>) tanpa potongan komisi perantara aplikasi yang mahal, sehingga tarif visit dokter lebih terjangkau, durasi konsultasi fisik lebih panjang (45–60 menit), dan memiliki ekosistem perawat serta fisioterapis sendiri.
 
 <h3>Berapa perbandingan rata-rata tarif visit dokter umum di Jakarta antara Joy of Care dan penyedia lain pada tahun 2026?</h3>
-Tarif visit dokter umum Joy of Care dirancang sangat transparan dan kompetitif tanpa biaya perantara aplikasi atau beban administrasi rumah sakit. Rincian biaya tindakan medis dan obat selalu dikomunikasikan secara terbuka kepada keluarga. Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
+Tarif visit dokter umum Joy of Care dirancang sangat transparan dan kompetitif tanpa biaya perantara aplikasi atau beban administrasi rumah sakit. Rincian biaya tindakan medis dan obat selalu dikomunikasikan secara terbuka kepada keluarga. 📲 Hubungi WhatsApp Resmi Joy of Care
 
 <h3>Apakah kualitas dokter Joy of Care setara dengan dokter rumah sakit besar?</h3>
 Sama persis. Seluruh dokter Joy of Care adalah lulusan fakultas kedokteran terakreditasi, mengantongi Surat Tanda Registrasi (STR) aktif dari Konsil Kedokteran Indonesia (KKI), Surat Izin Praktik (SIP) resmi, dan tersertifikasi dalam penanganan gawat darurat (ACLS/ATLS).

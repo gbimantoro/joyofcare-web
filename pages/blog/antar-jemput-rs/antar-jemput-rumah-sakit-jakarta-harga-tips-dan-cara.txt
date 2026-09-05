@@ -54,7 +54,7 @@ clinical_references:
 
 Menyiapkan jadwal kunjungan kontrol medis orang tua ke rumah sakit di tengah hiruk-pikuk kesibukan kerja di kawasan ibu kota Jakarta membutuhkan perencanaan matang. Membawa pasien yang memiliki keterbatasan fisik berat—seperti pasca-stroke, patah tulang, atau pasien tirah baring—membutuhkan penanganan transportasi khusus yang tidak bisa disamakan dengan memesan taksi biasa. Ketidaktahuan akan prosedur reservasi transportasi medis kerap membuat jadwal dokter terlewatkan atau pasien mengalami kelelahan ekstrem sebelum tiba di poliklinik. Melalui integrasi hotline reservasi digital [Layanan Antar Jemput ke Rumah Sakit Joy of Care](/layanan/antar-jemput-rs), keluarga dapat memesan mobil medis berfasilitas brankar dan perawat pendamping hanya melalui beberapa langkah mudah di WhatsApp. Panduan praktis ini menyajikan alur pemesanan langkah demi langkah, checklist dokumen yang wajib dibawa ke rumah sakit, serta kiat mempersiapkan kondisi fisik pasien agar perjalanan berlangsung mulus dan nyaman.
 
-<blockquote>### 💡 Penting dipahami</blockquote>
+<blockquote>###  Penting dipahami</blockquote>
 <blockquote>* <strong>Pemesanan Mudah via WhatsApp</strong>: Cukup kirimkan detail pasien dan jadwal janji temu faskes ke nomor hotline 08811-118-911.</blockquote>
 <blockquote><em> <strong>Identifikasi Kebutuhan Armada</strong>: Tentukan apakah pasien membutuhkan armada kursi roda (</em>wheelchair van<em>) atau brankar tandu (</em>stretcher ambulance*).</blockquote>
 <blockquote>* <strong>Checklist Dokumen Rumah Sakit</strong>: Siapkan surat kontrol, kartu asuransi/BPJS, hasil tes laboratorium terdahulu, dan obat rutin.</blockquote>

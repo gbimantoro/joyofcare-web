@@ -60,7 +60,7 @@ clinical_references:
 
 Menentukan apakah harus membawa orang tua lanjut usia ke klinik rehabilitasi medik rumah sakit atau menggunakan jasa [Layanan Fisioterapi Lansia di Rumah Joy of Care](/layanan/fisioterapi) adalah dilema rutin yang dihadapi keluarga di Jakarta. Di satu sisi, klinik rumah sakit memiliki mesin-mesin statis berukuran besar; di sisi lain, proses memobilisasi lansia yang sedang nyeri sendi atau pasca-operasi melewati kemacetan kota Jakarta sering kali menjadi siksaan fisik tersendiri. Studi geriatri modern menunjukkan bahwa keberhasilan rehabilitasi pada lansia bukan ditentukan oleh kemewahan mesin, melainkan oleh kepatuhan latihan fungsional harian dan adaptasi lingkungan tempat tinggalnya. Artikel komparasi ini mengupas perbandingan objektif antara fisioterapi di klinik versus di rumah pada tahun 2026, ditinjau dari parameter efektivitas klinis, total pengeluaran biaya finansial, serta kesejahteraan emosional orang tua.
 
-<blockquote>### 💡 Penting dipahami</blockquote>
+<blockquote>###  Penting dipahami</blockquote>
 <blockquote>* <strong>Keunggulan Kontekstual di Rumah</strong>: Latihan di rumah mengatasi rintangan riil yang dihadapi pasien setiap hari (ketinggian ranjang tidur, lantai licin kamar mandi, anak tangga teras).</blockquote>
 <blockquote>* <strong>Tingkat Kepatuhan Terapi Mencapai 95%</strong>: Menghilangkan hambatan transportasi dan kemacetan jalanan Jakarta memastikan program terapi berjalan tuntas tanpa jadwal yang terlewat.</blockquote>
 <blockquote><em> </em><em>Nol Kelelahan di Perjalanan (</em>Zero Travel Fatigue<em>)</em>*: Lansia memulai sesi terapi dalam kondisi stamina prima dan rileks, memaksimalkan penyerapan latihan motorik.</blockquote>
@@ -118,7 +118,7 @@ Penelitian menunjukkan fisioterapi di rumah bahkan lebih efektif untuk pasien ge
 Guncangan kendaraan di jalanan macet Jakarta, proses transfer naik-turun mobil, dan duduk berlama-lama di ruang tunggu klinik dapat memicu kekakuan sendi akut (joint stiffness), kelelahan otot, dan lonjakan tekanan darah sebelum latihan dimulai.
 
 <h3>Berapa perbandingan biaya riil antara fisioterapi di rumah versus datang ke klinik?</h3>
-Biaya sesi terapi per visit Joy of Care sangat terjangkau dan transparan. Keunggulan terbesar homecare adalah menghapus seluruh biaya sewa transportasi khusus, bebas macet, dan tidak menyita jam kerja anggota keluarga. Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
+Biaya sesi terapi per visit Joy of Care sangat terjangkau dan transparan. Keunggulan terbesar homecare adalah menghapus seluruh biaya sewa transportasi khusus, bebas macet, dan tidak menyita jam kerja anggota keluarga. 📲 Hubungi WhatsApp Resmi Joy of Care
 
 <h3>Apakah fisioterapis yang datang ke rumah membawa peralatan modalitas pereda nyeri?</h3>
 Ya, fisioterapis Joy of Care membawa peralatan modalitas portabel berstandar medis lengkap seperti alat stimulasi saraf listrik (TENS), ultrasound therapy, dan resistance band elastis.

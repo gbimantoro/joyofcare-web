@@ -56,7 +56,7 @@ clinical_references:
 
 Biaya pelayanan kesehatan di negara maju merupakan salah satu komponen pengeluaran paling mahal di dunia yang dapat dengan mudah memicu kebangkrutan finansial bagi keluarga mahasiswa internasional bila tidak diantisipasi sejak dini. Satu kali kunjungan singkat ke dokter umum di Sydney atau Melbourne dapat memakan biaya 80 hingga 120 Dolar Australia, sementara satu hari perawatan rawat inap di rumah sakit Amerika Serikat rata-rata menelan biaya fantastis antara 3.000 hingga 10.000 Dolar AS. Oleh karena itu, hampir seluruh negara tujuan studi mewajibkan kepemilikan asuransi kesehatan sebagai prasyarat mutlak penerbitan visa pelajar. Namun, banyak mahasiswa Indonesia yang keliru mengira bahwa asuransi tersebut menanggung semua penyakit secara gratis tanpa celah biaya. Melalui pengalaman klinis memfasilitasi persiapan pra-studi ratusan pelajar bersama [Layanan Cek Lab Darah di Rumah Joy of Care](/layanan/cek-lab-di-rumah) dan [Layanan Vaksinasi di Rumah](/layanan/vaksinasi-di-rumah), Joy of Care menyajikan panduan perbandingan sistem asuransi kesehatan pelajar di tiga destinasi studi terpopuler: Australia (OSHC), Inggris (NHS/IHS), dan Amerika Serikat.
 
-<blockquote>### 💡 Penting dipahami</blockquote>
+<blockquote>###  Penting dipahami</blockquote>
 <blockquote>* <strong>Kewajiban Mutlak Visa</strong>: OSHC (Australia) dan IHS (Inggris) merupakan pungutan wajib sebelum visa pelajar diterbitkan oleh kedutaan.</blockquote>
 <blockquote><em> <strong>Waspadai Celah 'Gap Fee'</strong>: Asuransi menanggung tarif standar pemerintah, namun jika dokter mematok tarif lebih tinggi, mahasiswa wajib membayar selisihnya (</em>out-of-pocket*).</blockquote>
 <blockquote>* <strong>Pengecualian Gigi & Mata</strong>: Perawatan kacamata dan penambalan gigi hampir tidak pernah ditanggung oleh asuransi pelajar standar.</blockquote>
@@ -85,7 +85,7 @@ Berikut adalah matriks perbandingan regulasi asuransi kesehatan pelajar di tiga 
 Agar tidak terkejut saat berobat di luar negeri, mahasiswa wajib memahami terminologi asuransi berikut:
 
 <h3>1. Sistem <em>Gap Fee</em> (Selisih Biaya)</h3>
-Di Australia, pemerintah menetapkan tarif standar konsultasi medis yang disebut <em>Medicare Benefits Schedule</em> (MBS). Asuransi OSHC menanggung 100% tarif MBS tersebut. Namun, beberapa dokter swasta mematok tarif konsultasi di atas batas standar MBS. Selisih biaya inilah yang disebut <em>gap fee</em> dan wajib dibayar langsung oleh mahasiswa dari kantong pribadi. Carilah klinik yang menerapkan sistem <em>bulk billing</em> khusus mahasiswa agar bebas dari biaya selisih tersebut. Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
+Di Australia, pemerintah menetapkan tarif standar konsultasi medis yang disebut <em>Medicare Benefits Schedule</em> (MBS). Asuransi OSHC menanggung 100% tarif MBS tersebut. Namun, beberapa dokter swasta mematok tarif konsultasi di atas batas standar MBS. Selisih biaya inilah yang disebut <em>gap fee</em> dan wajib dibayar langsung oleh mahasiswa dari kantong pribadi. Carilah klinik yang menerapkan sistem <em>bulk billing</em> khusus mahasiswa agar bebas dari biaya selisih tersebut. 📲 Hubungi WhatsApp Resmi Joy of Care
 
 <h3>2. <em>Copayment</em> dan <em>Deductible</em> (Khusus Studi di Amerika Serikat)</h3>
 Sistem asuransi di AS sangat kompleks:

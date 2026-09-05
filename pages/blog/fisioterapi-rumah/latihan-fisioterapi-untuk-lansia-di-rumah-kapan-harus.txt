@@ -55,7 +55,7 @@ clinical_references:
 <h1>Kapan Lansia Harus Menjalani Latihan Fisioterapi di Rumah? 4 Indikasi Klinis dan Protokol Penguatan Otot Geriatri</h1>
 
 Kehilangan kemampuan berjalan mandiri merupakan pukulan fungsional berat yang rentan memicu kemunduran kesehatan fisik dan mental pada populasi lanjut usia. Gangguan muskuloskeletal kronis seperti osteoartritis lutut derajat lanjut, kelemahan otot kuadrisep paha, dan kekakuan sendi kerap membuat lansia enggan bergerak dan membatasi diri di kursi roda. Namun, tirah baring berkepanjangan justru mempercepat penyusutan massa otot (<em>sarkopenia disuse</em>) dan memperburuk instabilitas sendi. Melalui intervensi bertahap [Layanan Fisioterapi Lansia di Rumah Joy of Care](/layanan/fisioterapi), fungsi kinetik tungkai dapat dibangun kembali secara terstruktur. Panduan ini menyajikan protokol latihan gerak fungsional, manajemen nyeri berbasis bukti, dan strategi pemulihan mobilitas lansia di kediaman sendiri.
-<blockquote>### 💡 Penting dipahami</blockquote>
+<blockquote>###  Penting dipahami</blockquote>
 <blockquote>* <strong>Pencegahan Lingkaran Imobilitas</strong>: Membiarkan lansia berdiam diri memperlemah tonus otot penyangga sendi dan mempercepat kekakuan ligamen.</blockquote>
 <blockquote>* <strong>Peredaan Nyeri Berkelanjutan</strong>: Terapi modalitas fisik seperti stimulasi saraf TENS meredakan peradangan sendi sebelum latihan penguatan dimulai.</blockquote>
 <blockquote>* <strong>Penguatan Otot Anti-Gravitasi</strong>: Latihan kontraksi isometrik dan latihan bangkit dari kursi melatih stabilitas dinamis lutut dan panggul.</blockquote>

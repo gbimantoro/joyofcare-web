@@ -57,7 +57,7 @@ clinical_references:
 <h1>Kapan Lansia Harus Mendapatkan Fisioterapi di Rumah? 5 Tanda Kritis dan Protokol Rehabilitasi Medik Geriatri</h1>
 
 Patah tulang panggul (<em>fraktur leher femur</em>) pada usia lanjut merupakan kegawatdaruratan ortopedi geriatri yang berdampak langsung terhadap kemandirian fisik pasien. Data klinis menunjukkan bahwa sebagian besar lansia yang mengalami patah panggul berisiko kehilangan mobilitas permanen jika program rehabilitasi fungsional pascaoperasi tidak dimulai tepat waktu. Periode 3 bulan pertama pasca-pembedahan merupakan jendela pemulihan (<em>golden window</em>) untuk mencegah pengecilan otot (<em>sarkopenia disuse</em>) dan kekakuan sendi. Melalui panduan berbasis bukti [Layanan Fisioterapi Lansia di Rumah Joy of Care](/layanan/fisioterapi), artikel ini membedah tahapan rehabilitasi geriatri terpadu, manajemen nyeri non-farmakologis, serta protokol latihan mobilitas bertahap guna mengembalikan fungsi berjalan mandiri di rumah.
-<blockquote>### 💡 Penting dipahami</blockquote>
+<blockquote>###  Penting dipahami</blockquote>
 <blockquote>* <strong>Urgensi Rehabilitasi Dini</strong>: Memulai mobilisasi terukur sejak minggu pertama pascaoperasi memangkas risiko komplikasi imobilitas tirah baring.</blockquote>
 <blockquote>* <strong>Modalitas Manajemen Nyeri</strong>: Kombinasi stimulasi elektrik TENS dan termoterapi meredakan peradangan jaringan di sekitar implan ortopedi.</blockquote>
 <blockquote><em> <strong>Re-edukasi Pola Jalan Bertahap</strong>: Transisi terarah dari latihan ranjang ke alat bantu jalan (</em>walker*) memulihkan kepercayaan diri dan pola langkah alami.</blockquote>

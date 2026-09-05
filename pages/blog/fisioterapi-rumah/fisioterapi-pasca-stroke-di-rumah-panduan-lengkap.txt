@@ -56,7 +56,7 @@ clinical_references:
 
 Stroke adalah penyebab utama kecacatan jangka panjang di Indonesia, namun potensi pemulihan otak manusia sangat luar biasa berkat mekanisme neuroplastisitas. Layanan fisioterapi pasca stroke di rumah (<em>home-based stroke neurorehabilitation</em>) memberikan pendekatan terapi intensif, personal, dan aman langsung di lingkungan tinggal pasien. Terapi rumahan ini meminimalkan stres perjalanan, mencegah kelelahan fisik lansia, serta melatih kemandirian fungsional nyata—mulai dari memiringkan badan di tempat tidur, duduk mandiri, berdiri tegak, hingga berjalan kembali.
 
-<blockquote>### 💡 Penting dipahami</blockquote>
+<blockquote>###  Penting dipahami</blockquote>
 <blockquote>* <strong>Golden Period 3–6 Bulan Pertama</strong>: Waktu paling krusial di mana koneksi sinaps saraf otak baru terbentuk paling pesat untuk mengambil alih fungsi jaringan yang rusak.</blockquote>
 <blockquote><em> <strong>Konsep Neuroplastisitas</strong>: Latihan repetitif fungsional memicu otak membentuk sirkuit saraf alternatif (</em>cortical reorganization*).</blockquote>
 <blockquote>* <strong>Keunggulan di Rumah</strong>: Pasien dilatih langsung pada perabot rumah aslinya (ranjang, kursi makan, undakan tangga, toilet), sehingga hasil latihan langsung terpakai.</blockquote>

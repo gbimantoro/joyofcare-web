@@ -55,7 +55,7 @@ clinical_references:
 
 Mengakui bahwa keluarga membutuhkan bantuan perawat profesional untuk merawat orang tua di rumah bukanlah tanda kegagalan atau hilangnya rasa bakti, melainkan keputusan medis yang bertanggung jawab demi keselamatan dan kualitas hidup orang tua tercinta. Ketika beban perawatan fisik melampaui kemampuan anak, risiko kesalahan pemberian obat, insiden jatuh fatal, dan luka baring dekubitus meningkat drastis. Artikel ini membedah tanda-tanda kritis kapan keluarga harus mengambil langkah menyewa perawat homecare, dilengkapi studi kasus nyata keberhasilan perawatan keluarga di Jakarta.
 
-<blockquote>### 💡 Penting dipahami</blockquote>
+<blockquote>###  Penting dipahami</blockquote>
 <blockquote>* <strong>Tanda Bahaya Fisik Lansia</strong>: Mengalami penurunan berat badan drastis, bau urine menyengat tanda dehidrasi, atau terdapat kemerahan di tulang ekor tanda awal dekubitus.</blockquote>
 <blockquote>* <strong>Tanda Burnout Keluarga</strong>: Anak merasa kewalahan, cemas berlebihan saat jam pulang kerja, atau mulai berselisih paham antar-saudara mengenai jadwal giliran jaga.</blockquote>
 <blockquote>* <strong>Keselamatan Medis Terjamin</strong>: Perawat profesional memiliki kompetensi klinis untuk memposisikan pasien, memantau tensi dan gula darah, serta memberikan pertolongan pertama.</blockquote>

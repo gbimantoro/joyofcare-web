@@ -54,7 +54,7 @@ clinical_references:
 
 Memanggil dokter ke rumah di Jakarta kini semakin mudah berkat kemajuan integrasi telekomunikasi medis. Agar kunjungan dokter berjalan efektif, aman, dan menghasilkan diagnosis yang akurat, keluarga pasien perlu mengetahui langkah-langkah persiapan praktis—mulai dari cara mengomunikasikan gejala awal, menyiapkan riwayat obat-obatan, memverifikasi izin praktik dokter, hingga menciptakan ruangan pemeriksaan yang kondusif di rumah.
 
-<blockquote>### 💡 Penting dipahami</blockquote>
+<blockquote>###  Penting dipahami</blockquote>
 <blockquote>* <strong>Persiapan Riwayat Obat</strong>: Dokumentasikan seluruh obat yang sedang dikonsumsi lansia untuk mencegah interaksi obat yang berbahaya.</blockquote>
 <blockquote>* <strong>Komunikasi Gejala yang Jelas</strong>: Catat onset waktu dimulainya demam atau nyeri, frekuensi buang air, serta perubahan perilaku pasien.</blockquote>
 <blockquote>* <strong>Pencahayaan Ruangan</strong>: Sediakan ruangan tidur dengan ventilasi dan penerangan yang cukup untuk memudahkan pemeriksaan fisik dokter.</blockquote>

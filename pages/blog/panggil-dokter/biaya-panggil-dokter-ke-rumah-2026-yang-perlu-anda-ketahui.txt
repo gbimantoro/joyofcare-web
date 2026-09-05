@@ -57,7 +57,7 @@ clinical_references:
 
 Menghadapi situasi darurat kesehatan di rumah sering kali memicu kepanikan, dan ketidakpastian seputar biaya pelayanan medis dapat menambah beban stres anggota keluarga. Banyak orang bertanya-tanya apakah dokter yang datang ke rumah bisa dibayar menggunakan asuransi kantor, apakah ada perbedaan tarif di akhir pekan, hingga bagaimana prosedur pembatalan jika kondisi pasien mendadak membaik. Transparansi informasi finansial adalah pilar integritas [Layanan Panggil Dokter ke Rumah Jakarta Joy of Care](/layanan/panggil-dokter). Artikel tanya jawab (FAQ) ini menyajikan kompilasi lengkap jawaban resmi seputar struktur tarif, jaminan mutu dokter, tata cara klaim asuransi, dan kebijakan pembayaran pada tahun 2026.
 
-<blockquote>### 💡 Penting dipahami</blockquote>
+<blockquote>###  Penting dipahami</blockquote>
 <blockquote>* <strong>Kejelasan Tarif Tanpa Kejutan</strong>: Rincian biaya visit dokter, transportasi, dan tindakan medis selalu dikomunikasikan di awal pemesanan via WhatsApp resmi.</blockquote>
 <blockquote><em> <strong>Kemudahan Asuransi Swasta</strong>: Seluruh kunjungan dokter dapat diajukan proses klaim penggantian (</em>reimbursement*) asuransi dengan dokumen medis legal.</blockquote>
 <blockquote>* <strong>Fleksibilitas Pembayaran Digital</strong>: Tersedia opsi transfer bank, QRIS, dan kartu kredit yang aman langsung setelah pemeriksaan selesai.</blockquote>
@@ -83,7 +83,7 @@ Berikut adalah ulasan mendalam atas pertanyaan administratif dan finansial yang 
 
 <h3>3. Seputar Biaya Tindakan Prosedural dan Obat-obatan</h3>
 <li><strong>Tanya: Berapa biaya jika dokter harus melakukan tindakan penggantian selang kateter atau NGT saat kunjungan?</strong></li>
-  <em> </em>Jawab<em>: Biaya tindakan medis tambahan bersifat transparan dan sudah mencakup bahan medis habis pakai (BMHP) berkualitas steril. Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care? Dokter akan selalu meminta persetujuan keluarga (</em>informed consent*) dan menjelaskan rincian biaya sebelum tindakan medis dimulai.
+  <em> </em>Jawab<em>: Biaya tindakan medis tambahan bersifat transparan dan sudah mencakup bahan medis habis pakai (BMHP) berkualitas steril. 📲 Hubungi WhatsApp Resmi Joy of Care
 <li><strong>Tanya: Apakah keluarga wajib membeli obat dari apotek rekanan Joy of Care?</strong></li>
   <em> </em>Jawab*: Sama sekali tidak wajib. Dokter Joy of Care akan menuliskan resep obat resmi yang bebas ditebus di apotek mana pun yang Anda kehendaki. Jika keluarga menghendaki kepraktisan, apotek mitra Joy of Care siap mengantarkan obat resmi bersegel langsung ke kediaman Anda dengan kurir medis kilat.
 

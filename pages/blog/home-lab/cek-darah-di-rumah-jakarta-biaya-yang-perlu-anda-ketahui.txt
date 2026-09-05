@@ -54,7 +54,7 @@ clinical_references:
 
 Layanan pengambilan darah di rumah (<em>home lab service</em>) kini berkembang pesat sebagai tren baru pelayanan kesehatan preventif di Jakarta dan kota-kota sekitarnya. Meskipun menawarkan kepraktisan tingkat tinggi, banyak masyarakat yang masih memiliki keraguan seputar aspek legalitas medis, jaminan sterilitas jarum suntik, ketepatan penanganan spesimen di jalan, hingga keabsahan hasil tes di mata dokter spesialis. Kurangnya pemahaman ini kerap membuat keluarga ragu untuk beralih dari cara-cara konvensional. Artikel tanya jawab (FAQ) ini mengupas secara tuntas segala hal penting yang perlu Anda ketahui mengenai [Layanan Cek Lab Darah di Rumah Joy of Care](/layanan/cek-lab-di-rumah), memberikan kepastian klinis dan ketenangan pikiran sebelum Anda menjadwalkan pemeriksaan.
 
-<blockquote>### 💡 Penting dipahami</blockquote>
+<blockquote>###  Penting dipahami</blockquote>
 <blockquote>* <strong>Jaminan Akreditasi Resmi</strong>: Laboratorium rujukan Joy of Care memiliki izin resmi operasional dari Kementerian Kesehatan RI dan berstandar ISO 15189.</blockquote>
 <blockquote>* <strong>Keamanan Steril 100%</strong>: Jarum suntik, tabung vakum, dan kapas alkohol dibuka langsung di depan mata pasien dari segel pabrik baru, menjamin bebas kontaminasi.</blockquote>
 <blockquote>* <strong>Stabilitas Rantai Dingin</strong>: Transportasi sampel darah menggunakan boks berinsulasi khusus bersuhu 2–8°C yang termonitor ketat guna mencegah kerusakan sel dan enzim.</blockquote>

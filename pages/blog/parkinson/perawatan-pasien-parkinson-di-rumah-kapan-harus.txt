@@ -55,7 +55,7 @@ clinical_references:
 <h1>Kapan Pasien Penyakit Parkinson Harus Mendapatkan Perawatan Medis di Rumah? 5 Tanda Progresivitas dan Protokol Tata Laksana</h1>
 
 Bagi penderita penyakit Parkinson, diagnosis kelainan neurodegeneratif progresif sering kali membawa dampak besar terhadap kemandirian fisik dan stabilitas emosional. Kekakuan otot (<em>rigiditas</em>), perlambatan gerakan (<em>bradikinesia</em>), gemetar istirahat (<em>resting tremor</em>), dan episode kaki membeku di tempat (<em>freezing of gait</em>) menimbulkan ketakutan tinggi akan insiden jatuh. Kendati demikian, dengan pendekatan tata laksana rehabilitasi medis terstruktur, sinkronisasi waktu konsumsi obat, dan stimulasi sensorik lingkungan, pasien Parkinson dapat mempertahankan kemandirian mobilitas secara optimal. Didukung oleh [Layanan Fisioterapi Parkinson di Rumah Joy of Care](/layanan/fisioterapi), panduan ini mengupas tuntas protokol terapi gerak, modifikasi spasial rumah, dan strategi menghadapi fluktuasi motorik harian.
-<blockquote>### 💡 Penting dipahami</blockquote>
+<blockquote>###  Penting dipahami</blockquote>
 <blockquote>* <strong>Siklus Ketakutan Berjalan</strong>: Hambatan motorik yang tidak ditangani memicu keengganan beraktivitas, mempercepat atrofi otot dan kekakuan sendi.</blockquote>
 <blockquote>* <strong>Sinkronisasi Waktu Latihan dengan Periode On</strong>: Fisioterapi dilakukan saat obat dopaminergik bekerja optimal di sistem saraf untuk pembentukan memori motorik terbaik.</blockquote>
 <blockquote><em> </em><em>Stimulasi Isyarat Sensorik (</em>Sensory Cueing<em>)</em><em>: Pemanfaatan garis visual kontras di lantai dan irama auditori membantu otak mengatasi episode kaki membeku (</em>freezing*).</blockquote>

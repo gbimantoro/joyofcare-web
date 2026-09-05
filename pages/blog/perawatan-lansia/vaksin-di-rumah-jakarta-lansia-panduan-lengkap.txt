@@ -64,7 +64,7 @@ clinical_references:
 
 Sistem kekebalan tubuh manusia mengalami penurunan alami seiring bertambahnya usia, suatu fenomena klinis yang dikenal di dunia geriatri sebagai <em>immunosenescence</em>. Pada lansia berusia 60 tahun ke atas, paparan patogen bakteri atau virus musiman yang bagi orang muda hanya menyebabkan batuk-pilek biasa dapat berkembang cepat menjadi pneumonia berat, bronkitis akut, hingga sepsis yang mengancam nyawa. [Layanan Vaksinasi Lansia di Rumah Joy of Care](/layanan/vaksinasi-di-rumah) menghadirkan solusi imunisasi dewasa dan lansia langsung ke kediaman Anda di seluruh wilayah Jakarta dan Jabodetabek. Tanpa perlu antre di rumah sakit atau terpapar droplet infeksius di ruang tunggu klinik, orang tua Anda dapat menerima vaksin influenza kuadrivalen, pneumonia konjugat, dan herpes zoster dari dokter atau perawat ber-STR dengan rantai dingin (<em>cold chain</em>) berstandar WHO. Artikel ini menyajikan jadwal medis resmi, rekomendasi PAPDI, rincian biaya 2026, serta prosedur keamanan skrining sebelum penyuntikan.
 
-<blockquote>### 💡 Penting dipahami</blockquote>
+<blockquote>###  Penting dipahami</blockquote>
 <blockquote>* <strong>Perlindungan Terhadap Infeksi Fatal</strong>: Vaksinasi geriatri terbukti menurunkan angka rawat inap akibat pneumonia hingga 65% dan menurunkan komplikasi jantung pasca-influenza hingga 50%.</blockquote>
 <blockquote>* <strong>Rekomendasi Utama PAPDI</strong>: Tiga pilar vaksin wajib geriatri mencakup vaksin influenza (tahunan), vaksin pneumonia konjugat & polisakarida, serta vaksin herpes zoster rekombinan.</blockquote>
 <blockquote>* <strong>Keamanan Rantai Dingin Terjamin (Cold Chain 2–8°C)</strong>: Vaksin dibawa dalam kotak pendingin medis terisolasi dengan sensor temperatur digital real-time untuk menjamin potensi antigen.</blockquote>
@@ -118,7 +118,7 @@ Berikut adalah estimasi biaya resmi paket imunisasi lansia di rumah yang disedia
 | <strong>Vaksin Herpes Zoster Rekombinan</strong> | Cacar Ular & Nyeri Saraf PHN | Paket Shingrix Lengkap (Hubungi WA JoC) | 2 dosis (jarak interval 2–6 bulan) |
 | <strong>Paket Imunisasi Komprehensif Geriatri</strong> | Flu Kuadrivalen + Pneumonia PCV | Paket Bundling Geriatri (Hubungi WA JoC) | Bundling lengkap hemat homecare |
 
-Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
+📲 Hubungi WhatsApp Resmi Joy of Care
 
 <em>Catatan: Biaya sudah termasuk pengadaan ampul vaksin resmi bersertifikat BPOM, jarum suntik mikro sekali pakai, cold-chain transport, skrining tanda vital oleh perawat, observasi pascapenyuntikan 30 menit, dan kartu sertifikat vaksinasi resmi.</em>
 

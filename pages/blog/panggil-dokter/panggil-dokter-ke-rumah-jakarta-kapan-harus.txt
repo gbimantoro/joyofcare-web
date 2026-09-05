@@ -55,7 +55,7 @@ clinical_references:
 
 Mengetahui kapan harus memanggil dokter ke rumah versus kapan harus segera membawa pasien ke Instalasi Gawat Darurat (IGD) rumah sakit adalah keputusan kritis yang dapat menyelamatkan nyawa. Layanan dokter panggilan ke rumah di Jakarta sangat ideal untuk kondisi akut non-darurat, pemeliharaan penyakit kronis, pasien dengan keterbatasan mobilitas, serta perawatan luka dan alat medis, sementara kondisi yang mengancam nyawa (<em>life-threatening emergency</em>) tetap membutuhkan penanganan IGD rumah sakit.
 
-<blockquote>### 💡 Penting dipahami</blockquote>
+<blockquote>###  Penting dipahami</blockquote>
 <blockquote>* <strong>Kapan Tepat Panggil Dokter ke Rumah</strong>: Gejala demam 2–3 hari tanpa sesak, mual muntah ringan, luka pascaoperasi, lansia lemas, atau selang kateter/NGT tersumbat.</blockquote>
 <blockquote>* <strong>Kapan Wajib ke IGD (Tanda Bahaya Merah)</strong>: Nyeri dada menjalar, penurunan kesadaran/koma, gejala stroke mendadak (wajah mencong, bicara pelo, lengan lumpuh), dan sesak napas berat.</blockquote>
 <blockquote>* <strong>Keuntungan Deteksi Dini</strong>: Memanggil dokter lebih awal mencegah komplikasi ringan berkembang menjadi kondisi kritis yang membutuhkan rawat inap intensif (ICU).</blockquote>
