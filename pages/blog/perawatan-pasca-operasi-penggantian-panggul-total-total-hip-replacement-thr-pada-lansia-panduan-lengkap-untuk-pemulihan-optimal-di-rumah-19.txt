@@ -1,101 +1,126 @@
-Title: Perawatan Pasca Operasi Penggantian Panggul Total / Total Hip Replacement (THR) pada Lansia: Panduan Lengkap untuk Pemulihan Optimal di Rumah
-URL: http://www.joyofcare.net/blog/healthy-aging-3/perawatan-pasca-operasi-penggantian-panggul-total-total-hip-replacement-thr-pada-lansia-panduan-lengkap-untuk-pemulihan-optimal-di-rumah-19
-Category: healthy-aging-3
-Slug: perawatan-pasca-operasi-penggantian-panggul-total-total-hip-replacement-thr-pada-lansia-panduan-lengkap-untuk-pemulihan-optimal-di-rumah-19
+---
+title: Perawatan Pasca Operasi THR Panggul Lansia | Joy of Care
+slug: perawatan-pasca-operasi-penggantian-panggul-total-total-hip-replacement-thr-pada-lansia-panduan-lengkap-untuk-pemulihan-optimal-di-rumah-19
+meta_description: Panduan lengkap perawatan pasca operasi penggantian panggul total
+  THR lansia di rumah. Jadwalkan homecare via WhatsApp Joy of Care 08811-118-911 hari
+  ini!
+primary_keyword: perawatan pasca operasi thr panggul lansia
+secondary_keywords:
+- pantangan gerakan operasi panggul dislokasi
+- posisi tidur pasca operasi thr
+- fisioterapi ganti panggul total lansia
+- perawat luka pasca operasi homecare
+faq:
+- question: Gerakan apa yang paling dilarang setelah operasi penggantian panggul total
+    (THR)?
+  answer: 'Tiga pantangan utama untuk mencegah dislokasi implan panggul adalah: tidak
+    menekuk panggul lebih dari 90 derajat, tidak menyilangkan kaki atau pergelangan
+    kaki, dan tidak memutar jari kaki ke arah dalam.'
+- question: Bagaimana posisi tidur yang benar dan aman setelah operasi THR?
+  answer: Tidur telentang adalah posisi paling aman, dengan bantal khusus (abductor
+    pillow) di antara kedua paha untuk mencegah kaki menyilang tanpa sadar saat tidur.
+    Hindari tidur menyamping tanpa izin dokter.
+- question: Kapan pasien operasi panggul boleh mulai belajar berjalan mandiri?
+  answer: Pasien biasanya mulai belajar berdiri dan melangkah dengan walker dalam
+    24 jam pertama pascaoperasi didampingi fisioterapis, dan bertahap beralih ke tongkat
+    setelah 2 hingga 4 minggu.
+- question: Apa saja tanda-tanda darurat terjadinya dislokasi sendi panggul tiruan
+    pada lansia?
+  answer: Tanda bahaya dislokasi meliputi timbulnya nyeri tajam mendadak di area panggul/selangkangan,
+    terdengar bunyi letupan 'pop', tungkai kaki di sisi yang dioperasi mendadak tampak
+    lebih pendek dan berputar keluar, serta ketidakmampuan menopang berat badan sama
+    sekali.
+- question: Bolehkah pasien pascaoperasi THR menggunakan kloset jongkok di rumah?
+  answer: Sangat dilarang keras. Kloset jongkok menekuk sendi panggul hingga lebih
+    dari 120 derajat dan hampir pasti memicu dislokasi sendi tiruan. Pasien wajib
+    menggunakan kloset duduk dengan peninggi dudukan (toilet seat riser).
+internal_links:
+- anchor: Lanjutan Panduan Perawatan Pasca Operasi THR (Bagian 2)
+  url: /blog/healthy-aging-3/lanjutan-panduan-perawatan-pasca-operasi-untuk-pemulihan-optimal-di-rumah-penggantian-panggul-total-total-hip-replacement-thr-pada-lansia-20
+- anchor: Layanan Fisioterapi Ortopedi Homecare
+  url: /layanan/fisioterapi
+- anchor: Layanan Perawat Medis Rawat Luka Operasi
+  url: /layanan/perawat-homecare
+cta_text: Konsultasikan kebutuhan rehabilitasi medik dan fisioterapi keluarga Anda
+  langsung bersama dokter dan tim fisioterapis Joy of Care via WhatsApp di 08811-118-911.
+medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
+  Dinkes)
+clinical_references:
+- American Academy of Orthopaedic Surgeons (AAOS) - Total Hip Replacement Recovery
+  Guidelines
+- Perhimpunan Dokter Spesialis Orthopaedi & Traumatologi Indonesia (PABOI)
+- National Health Service (NHS) UK - Hip Replacement Recovery Guide
 ---
 
-[Skip to Content](https://www.joyofcare.net/blog/healthy-aging-3/perawatan-pasca-operasi-penggantian-panggul-total-total-hip-replacement-thr-pada-lansia-panduan-lengkap-untuk-pemulihan-optimal-di-rumah-19#wrap)
+# Perawatan Pasca Operasi Penggantian Panggul Total (THR) pada Lansia di Rumah: Bagian 1
 
-# Perawatan Pasca Operasi Penggantian Panggul Total / Total Hip Replacement (THR) pada Lansia: Panduan Lengkap untuk Pemulihan Optimal di Rumah
+Operasi penggantian sendi panggul total (*Total Hip Replacement* / THR) adalah prosedur bedah rekonstruksi besar yang dilakukan untuk mengganti sendi panggul yang rusak—biasanya akibat patah tulang leher femur (*femoral neck fracture*) pada penderita osteoporosis atau radang sendi degeneratif stadium lanjut (*osteoarthritis*). Prosedur ini mengganti kepala tulang paha dan mangkok sendi panggul dengan implan prostetik logam dan keramik berkualitas tinggi.
 
-Operasi Total Hip Replacement (THR) adalah prosedur bedah yang sangat efektif untuk mengembalikan kualitas hidup lansia dengan mengatasi nyeri panggul dan meningkatkan mobilitas
+Bagi keluarga, kepulangan orang tua dari rumah sakit pascaoperasi sering kali memicu kepanikan tersendiri: *"Bagaimana cara memandikannya? Bagaimana jika implan barunya bergeser atau copot? Apa tanda-tanda lukanya infeksi?"*
 
-August 12, 2025by
+Kunci sukses pemulihan panggul di rumah bertumpu pada **kepatuhan mutlak terhadap aturan pencegahan dislokasi panggul** dan **program fisioterapi terstruktur**. Artikel bagian pertama ini membahas tuntas aturan posisi, perawatan luka, dan pencegahan komplikasi fatal di rumah.
+
+## 3 Pantangan Gerakan Utama untuk Mencegah Dislokasi Implan Panggul
+
+Jaringan kapsul sendi dan otot di sekitar panggul membutuhkan waktu 6 hingga 12 minggu untuk pulih rapat membungkus implan prostetik baru. Selama fase kritis ini, pasien wajib mematuhi **Hip Precautions** (khususnya untuk teknik operasi pendekatan posterior standar):
+1. **Jangan Menekuk Panggul Melebihi 90 Derajat**: Hindari membungkuk untuk mengambil barang di lantai, jangan mengangkat lutut lebih tinggi dari pinggang, dan jangan duduk di kursi atau toilet yang terlalu rendah.
+2. **Jangan Menyilangkan Kaki (Crossing Legs)**: Dilarang menyilangkan kaki pada posisi duduk, dan dilarang menyilangkan pergelangan kaki saat berbaring.
+3. **Jangan Memutar Kaki ke Arah Dalam (Internal Rotation)**: Selalu jaga jari-jari kaki menghadap lurus ke depan atau sedikit membuka ke arah luar saat berdiri, melangkah, maupun duduk.
+
+## Posisi Duduk, Tidur, dan Berpakaian yang Benar di Rumah
+
+* **Posisi Tidur Aman**: Tidur telentang adalah posisi paling aman. Tempatkan **bantal tebal di antara kedua paha** (*abduction pillow*) agar kaki tetap terbuka selebar bahu dan tidak menyilang saat tertidur lelap.
+* **Penggunaan Kloset Duduk Adaptif**: Kloset jongkok mutlak dilarang. Bahkan untuk kloset duduk biasa, gunakan peninggi dudukan kloset (*raised toilet seat*) dan pasang pegangan tangan kokoh di dinding toilet agar sudut panggul tetap tumpul (>90 derajat).
+* **Alat Bantu Memakai Baju dan Sepatu**: Jangan membungkuk untuk memakai celana atau kaus kaki. Gunakan alat penjepit bertangkai panjang (*reacher/grabber*) atau mintalah bantuan perawat/keluarga.
+
+## Perawatan Luka Operasi dan Pengenalan Tanda Infeksi
+
+Luka bekas jahitan bedah ortopedi harus dirawat dengan teknik aseptik steril standar rumah sakit:
+* Jaga perban penutup luka tetap kering dan bersih. Jangan biarkan luka terkena air mandi sebelum diizinkan oleh dokter spesialis ortopedi.
+* Waspadai **Tanda Bahaya Infeksi**: Keluarnya nanah atau cairan keruh berbau dari celah perban, kemerahan yang meluas di sekitar sayatan, pembengkakan hebat pada paha, dan demam di atas 38 derajat Celsius. Segera hubungi dokter jika tanda ini muncul.
+
+## Tiga Pantangan Gerakan Mutlak Pasca-Operasi Penggantian Sendi Panggul
+
+Setelah menjalani operasi Total Hip Replacement (THR), prostesis panggul baru memerlukan waktu beberapa minggu untuk berintegrasi kokoh dengan tulang femur dan mangkuk pelvis. Tiga aturan mekanik mutlak (*hip precautions*) yang wajib dipatuhi:
+* **Jangan Menekuk Panggul Melebihi 90 Derajat**: Hindari membungkuk mengambil barang di lantai atau duduk di sofa pendek yang membuat lutut lebih tinggi dari pinggang.
+* **Jangan Menyilangkan Kaki (*No Crossing Legs*)**: Hindari posisi duduk menyilangkan pergelangan kaki atau paha, baik saat duduk di kursi maupun saat berbaring di tempat tidur.
+* **Jangan Memutar Jari Kaki ke Arah Dalam (*No Internal Rotation*)**: Jaga kedua ujung jari kaki selalu menghadap lurus ke depan atau sedikit membuka ke arah luar.
+
+Rehabilitasi pasca-THR di rumah dapat berjalan mulus dan minim risiko dislokasi prostesis berkat bimbingan [Layanan Fisioterapi Homecare Joy of Care](/layanan/fisioterapi). Untuk perawatan balutan luka operasi agar tetap kering dan steril, keluarga dapat mempercayakannya kepada [layanan perawat medis homecare](/layanan/perawat-homecare). Evaluasi medikamentosa dan pelepasan jahitan dapat dilakukan langsung oleh [layanan panggil dokter ke rumah](/layanan/panggil-dokter).
 
 
-JoyofCare
 
-Merawat orang yang baru menjalani operasi THR membutuhkan pemahaman yang mendalam mengenai berbagai aspek pemulihan. Panduan ini dirancang untuk memberikan Anda informasi detail dan langkah-langkah praktis, memastikan setiap fase pemulihan berjalan aman dan optimal. JoyofCare.net hadir sebagai mitra terpercaya, dengan tim profesional yang akan mendampingi Anda di setiap langkah.
+### Checklist Harian Manajemen Pemulihan Gerak & Sendi di Rumah
+Pencegahan komplikasi pasca-cedera atau pascaoperasi membutuhkan kedisiplinan pemantauan setiap hari:
+* **Pemeriksaan Suhu & Tanda Infeksi Lokal**: Raba area di sekitar sendi; bila teraba panas membara, sangat merah, atau keluar nanah, segera laporkan ke tim medis.
+* **Protokol Elevasi Kaki saat Berbaring**: Sangga tungkai dengan 1–2 bantal empuk agar posisinya lebih tinggi dari dada guna melancarkan aliran balik vena.
+* **Latihan Pompa Ankle (Ankle Pumps)**: Gerakkan pergelangan kaki ke atas dan bawah sebanyak 20 kali setiap jam untuk mencegah penggumpalan darah vena dalam (*DVT*).
 
-### Perawatan Luka Post-Operasi THR: Mencegah Infeksi, Mempercepat Penyembuhan
 
-Luka operasi adalah fokus utama dalam beberapa minggu pertama. Perawatan yang tidak tepat dapat menyebabkan infeksi, yang merupakan komplikasi serius.
 
-Proses Perawatan Luka:
+### Komitmen Keamanan & Standar Pelayanan Klinis Joy of Care
+Setiap tindakan medis dan rehabilitasi yang diselenggarakan oleh Joy of Care dijalankan di bawah pengawasan ketat dokter penanggung jawab klinis berizin resmi Dinas Kesehatan. Kami menerapkan prinsip keselamatan pasien (*patient safety*) berstandar internasional, penggunaan instrumen steril sekali pakai, serta pencatatan rekam medis digital terintegrasi untuk memastikan setiap anggota keluarga Anda mendapatkan penanganan yang akurat, manusiawi, dan terpercaya langsung di kenyamanan hunian pribadi.
 
-1. Pembersihan: Selama di rumah, ikuti petunjuk dokter tentang kapan perban boleh dilepas. Umumnya, luka dibersihkan dengan kain kasa steril yang dibasahi saline atau air steril, diseka secara lembut dari satu ujung luka ke ujung lainnya, tanpa menggosoknya bolak-balik. Ini penting untuk mencegah kontaminasi dari area kulit di sekitarnya.
-2. Pergantian Perban: Ganti perban segera jika basah atau kotor. Basah biasanya karena pasien geriatri menggunakan diapers, Dan terjadi rembesan urine yang membasahi kasa. Sebaiknya langsung diganti. Kotor bila ada rembesan darah di kasa. Gunakan sarung tangan steril, dressing Luka steril untuk mencegah infeksi pada jahitan.
-3. Perhatikan Tanda-tanda Bahaya dan  tanda-tanda infeksi seperti:
+## Pertanyaan yang Sering Diajukan (FAQ)
 
-- Kemerahan dan Pembengkakan Berlebih: Normal jika ada sedikit kemerahan, tetapi jika menyebar atau bengkaknya terus meningkat, segera hubungi dokter.
-- Cairan dari Luka: Normal jika ada sedikit rembesan cairan bening, tetapi jika cairan berwarna kuning, kehijauan, atau berbau tidak sedap, ini adalah tanda infeksi.
-- Nyeri Hebat: Nyeri yang tidak berkurang dengan obat atau terasa jauh lebih parah dari hari sebelumnya.
-- Demam atau Menggigil: Tanda infeksi sistemik yang membutuhkan penanganan medis segera.
+### Gerakan apa yang paling dilarang setelah operasi penggantian panggul total (THR)?
+Tiga pantangan utama untuk mencegah dislokasi implan panggul adalah: tidak menekuk panggul lebih dari 90 derajat, tidak menyilangkan kaki atau pergelangan kaki, dan tidak memutar jari kaki ke arah dalam.
 
-![](https://www.joyofcare.net/web/image/1672-75541702/2.webp?access_token=7d16d3e4-d03b-4259-bb62-e1fc93ed19a4)
+### Bagaimana posisi tidur yang benar dan aman setelah operasi THR?
+Tidur telentang adalah posisi paling aman, dengan bantal khusus (abductor pillow) di antara kedua paha untuk mencegah kaki menyilang tanpa sadar saat tidur. Hindari tidur menyamping tanpa izin dokter.
 
-##### Perawatan luka pasca operasi
+### Kapan pasien operasi panggul boleh mulai belajar berjalan mandiri?
+Pasien biasanya mulai belajar berdiri dan melangkah dengan walker dalam 24 jam pertama pascaoperasi didampingi fisioterapis, dan bertahap beralih ke tongkat setelah 2 hingga 4 minggu.
 
-Tim Perawat berizin resmi dari JoyofCare.net memiliki keahlian dan peralatan steril untuk melakukan perawatan luka dengan aman di rumah, meminimalkan risiko infeksi dan memastikan pemulihan berjalan lancar.
+### Apa saja tanda-tanda darurat terjadinya dislokasi sendi panggul tiruan pada lansia?
+Tanda bahaya dislokasi meliputi timbulnya nyeri tajam mendadak di area panggul/selangkangan, terdengar bunyi letupan 'pop', tungkai kaki di sisi yang dioperasi mendadak tampak lebih pendek dan berputar keluar, serta ketidakmampuan menopang berat badan sama sekali.
 
-Chat untuk memesan perawatan Luka professional di rumah anda [WhatsApp 08811-118-​​911](https://api.whatsapp.com/send/?phone=628811118911&text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?)
+### Bolehkah pasien pascaoperasi THR menggunakan kloset jongkok di rumah?
+Sangat dilarang keras. Kloset jongkok menekuk sendi panggul hingga lebih dari 120 derajat dan hampir pasti memicu dislokasi sendi tiruan. Pasien wajib menggunakan kloset duduk dengan peninggi dudukan (toilet seat riser).
 
-### Panduan Mobilisasi Awal: Kembali Bergerak dengan Aman
+---
 
-Mobilisasi dini setelah operasi adalah kunci untuk mencegah komplikasi seperti pembekuan darah (DVT) dan mempercepat pemulihan kekuatan. Namun, pasien lansia membutuhkan bimbingan ekstra untuk menghindari gerakan yang bisa memicu dislokasi panggul.
+### Pendampingan Medis Pascaoperasi THR Bersama Joy of Care
+Perawatan pascaoperasi panggul membutuhkan ketelitian tinggi agar implan baru terlindungi sempurna. Perawat medis dan fisioterapis Joy of Care siap hadir mendampingi pembersihan luka steril, pengaturan posisi tidur yang aman, dan latihan pemulihan gerak di rumah Anda.
 
-Tahap Mobilisasi Awal (di Tempat Tidur):
-
-1. Latihan Pergelangan Kaki: Lakukan gerakan memompa pergelangan kaki ke atas dan ke bawah setiap 1-2 jam untuk melancarkan sirkulasi.
-2. Latihan Otot Paha dan Bokong:Lakukan kontraksi otot paha (Quad Sets) dan otot bokong (Glute Sets) sambil berbaring. Tahan selama 5 detik dan ulangi 10 kali.
-
-Panduan Berdiri dan Berjalan:
-
-1. Mempersiapkan Lingkungan: Atur ulang perabot, singkirkan karpet yang licin, dan pastikan benda-benda esensial (telepon, remot TV) mudah dijangkau.
-2. Prosedur Berdiri: Gunakan alat bantu jalan (\*walker\*) atau kruk. Pastikan Anda berdiri dari kursi yang memiliki sandaran tangan untuk memudahkan dorongan. Berdiri dan berputar perlahan, jangan menyentak.
-
-    Aturan "Do's and Don'ts" (Hip Precautions):
-
-- JANGAN menyilangkan kaki.
-- JANGAN membungkuk melebihi 90 derajat (seperti mengambil benda di lantai).
-- JANGAN memutar panggul secara tiba-tiba.
-- GUNAKAN toilet duduk yang ditinggikan dan kursi dengan sandaran lengan
-- KENAKAN celana atau baju longgar agar mudah bergerak. Kenakan pakaian mulai dari kaki yang dioperasi.
-
-![](https://www.joyofcare.net/web/image/1683-7dc1bba5/Blog%20Post%20%277%20Hal%20yang%20Dilakukan%20Saat%20Fisioterapi%20di%20Rumah%20untuk%20Lansia%27%20cover%20image.webp)
-
-##### Fisioterapi ke Rumah
-
-Tim Fisioterapis berizin resmi dari JoyofCare.net akan datang ke rumah untuk memberikan bimbingan langsung, mengajarkan teknik mobilisasi yang benar, dan memastikan pasien melakukan gerakan dengan aman untuk menghindari cedera.
-
-Chat untuk memesan fisioterapis di rumah anda [WhatsApp 08811-​​118-911](https://api.whatsapp.com/send/?phone=628811118911&text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?)
-
-in [**Healthy Aging**](https://www.joyofcare.net/blog/healthy-aging-3)
-
-* * *
-
-Read Next [Pentingnya Vaksinasi untuk Lansia: Jenis Vaksin yang Direkomendasikan\\
-\\
-Proses penuaan alami membuat tubuh lansia menjadi lebih rentan terhadap berbagai penyakit infeksi](https://www.joyofcare.net/blog/healthy-aging-3/pentingnya-vaksinasi-untuk-lansia-jenis-vaksin-yang-direkomendasikan-12 "Read nextPentingnya Vaksinasi untuk Lansia: Jenis Vaksin yang Direkomendasikan")
-
-[Read nextPentingnya Vaksinasi untuk Lansia: Jenis Vaksin yang Direkomendasikan](https://www.joyofcare.net/blog/healthy-aging-3/pentingnya-vaksinasi-untuk-lansia-jenis-vaksin-yang-direkomendasikan-12 "Read nextPentingnya Vaksinasi untuk Lansia: Jenis Vaksin yang Direkomendasikan")
-
-## Siap untuk memulai perjalanan kesehatan Anda bersama [**Joy of Care**](https://www.joyofcare.net/blog/healthy-aging-3/perawatan-pasca-operasi-penggantian-panggul-total-total-hip-replacement-thr-pada-lansia-panduan-lengkap-untuk-pemulihan-optimal-di-rumah-19 "")
-
-Hubungi kami sekarang untuk konsultasi atau informasi lebih lanjut. Tim kami siap membantu Anda setiap langkahnya.
-
-[Pesan What​​sA​​​​pp](https://api.whatsapp.com/send/?phone=628811118911&text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care? "")
-
-#### Artikel Kesehatan
-
-Check out what's new in our company !
-
-[See all](https://www.joyofcare.net/blog "See All")
-
-Your Dynamic Snippet will be displayed here... This message is displayed because you did not provide both a filter and a template to use.
-
-## Membantu Orang Tua Lebih Aktif dan Nyaman dengan Layanan kesehatan di Rumah
-
-Layanan kesehatan di rumah adalah cara yang sangat baik untuk membantu orang tua Anda mengatasi masalah yang dialamai. Dengan perawatan yang nyaman, program yang disesuaikan, dan fokus pada kemampuan beraktivitas, layanan ini bisa sangat meningkatkan kualitas hidup orang tua, mengurangi masalah yang dirasakan, dan membantu mereka kembali mandiri.
-
-Kerja sama yang baik antara Anda sebagai keluarga, dokter, dan tenaga kesehatan terkait adalah kunci agar program pemulihan ini berjalan lancar, aman, dan efektif. Dengan memahami manfaat dan proses layanan kesehatan di rumah, Anda dapat berperan aktif dalam memberikan perawatan terbaik untuk orang tua tercinta.
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Chat WhatsApp 08811-118-911](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?)
