@@ -133,4 +133,4 @@ Segera konsultasikan jika tremor hanya terjadi pada satu sisi tubuh, disertai ge
 ### Konsultasi Dokter Spesialis & Pemeriksaan di Rumah
 Membawa lansia dengan kecurigaan Parkinson mengantre di rumah sakit dapat memicu stres dan memperburuk tremor. Layanan Dokter Kunjungan Rumah dari Joy of Care menghadirkan dokter umum dan konsultasi spesialis langsung ke tempat tinggal Anda dengan pemeriksaan teliti dan penuh empati.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Hubungi WhatsApp JoC untuk informasi harga](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?)
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Hubungi WhatsApp JoC untuk informasi harga](https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?)

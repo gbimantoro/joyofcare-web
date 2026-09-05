@@ -139,4 +139,4 @@ Tidak dianjurkan. Batasi tidur siang maksimal 30 menit agar siklus tidur malam t
 ### Bangun Hari-Hari yang Bermakna untuk Pasien Parkinson
 Merawat orang tua dengan Parkinson adalah bukti cinta yang tulus. Jadikan setiap momen di rumah penuh kenyamanan, martabat, dan semangat hidup bersama tim profesional Joy of Care.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Hubungi WhatsApp JoC untuk informasi harga](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?)
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Hubungi WhatsApp JoC untuk informasi harga](https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?)

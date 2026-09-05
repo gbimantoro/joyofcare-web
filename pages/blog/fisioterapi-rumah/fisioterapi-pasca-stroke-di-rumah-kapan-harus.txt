@@ -133,4 +133,4 @@ Kemajuan dinilai secara berkala menggunakan parameter objektif: peningkatan skor
 ### Jadwalkan Fisioterapi Pasca Stroke untuk Orang Tua Anda
 Waktu adalah faktor penentu masa depan mobilitas keluarga Anda. Hubungi Joy of Care sekarang untuk mendapatkan asesmen awal dan kunjungan fisioterapi pasca stroke langsung ke rumah Anda.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)

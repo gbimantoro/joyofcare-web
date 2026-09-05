@@ -81,7 +81,7 @@ Yayasan penyalur tenaga kerja konvensional pada hakikatnya beroperasi sebagai pe
 Jika pasien mengalami demam mendadak, kejang, atau tensi darah melonjak hingga 200 mmHg di tengah malam, perawat yayasan biasa hanya bisa panik dan menelepon anak pasien yang sedang berada di kantor. Tidak ada dokter penanggung jawab yang dapat segera dihubungi untuk memberikan pertolongan pertama secara klinis.
 
 ### 3. Tingginya Biaya Administrasi Tersembunyi (*Hidden Fees*)
-Banyak agensi konvensional mengenakan biaya administrasi penempatan awal yang sangat mahal tanpa jaminan pasti. Jika perawat berhenti bekerja, uang administrasi sering kali hangus. Sebaliknya, Joy of Care menerapkan sistem transparan dengan jaminan penggantian perawat tanpa biaya tersembunyi. Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
+Banyak agensi konvensional mengenakan biaya administrasi penempatan awal yang sangat mahal tanpa jaminan pasti. Jika perawat berhenti bekerja, uang administrasi sering kali hangus. Sebaliknya, Joy of Care menerapkan sistem transparan dengan jaminan penggantian perawat tanpa biaya tersembunyi. Hubungi WhatsApp JoC untuk informasi harga: https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
 
 ### 4. Tingginya Angka Keluar-Masuk Tenaga Kerja (*Turnover Rate*)
 Tanpa sistem kompensasi yang adil, jaminan keselamatan kerja, dan perlindungan hukum, tenaga perawat di yayasan konvensional sering merasa tidak betah dan mudah mengundurkan diri, memaksa keluarga berulang kali melatih orang baru dari nol.
@@ -142,4 +142,4 @@ Keluarga cukup menghubungi konsultan layanan Joy of Care via WhatsApp. Tim kami 
 ### Pilih Kualitas Medis Terbaik untuk Orang Tua Tercinta
 Jangan kompromikan keselamatan dan kenyamanan orang tua Anda dengan penyedia tenaga yang tidak jelas kredibilitasnya. Bergabunglah bersama ratusan keluarga di Jabodetabek yang telah mempercayakan perawatan rumah tangganya kepada tim profesional Joy of Care.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)

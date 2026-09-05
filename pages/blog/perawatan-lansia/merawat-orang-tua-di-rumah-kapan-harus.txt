@@ -136,4 +136,4 @@ Memantau tanda-tanda vital lengkap, memandikan dan menjaga higiene personal, men
 ### Hadirkan Perawat Terbaik untuk Orang Tua Tercinta
 Jangan biarkan kelelahan merenggut kebahagiaan keluarga Anda. Hubungi Joy of Care hari ini untuk mendapatkan perawat lansia berizin, terlatih, dan penuh empati langsung di kediaman Anda di Jabodetabek.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)

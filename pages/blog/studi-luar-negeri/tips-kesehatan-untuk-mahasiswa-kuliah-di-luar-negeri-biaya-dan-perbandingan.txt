@@ -86,7 +86,7 @@ Berikut adalah matriks perbandingan regulasi asuransi kesehatan pelajar di tiga 
 Agar tidak terkejut saat berobat di luar negeri, mahasiswa wajib memahami terminologi asuransi berikut:
 
 ### 1. Sistem *Gap Fee* (Selisih Biaya)
-Di Australia, pemerintah menetapkan tarif standar konsultasi medis yang disebut *Medicare Benefits Schedule* (MBS). Asuransi OSHC menanggung 100% tarif MBS tersebut. Namun, beberapa dokter swasta mematok tarif konsultasi di atas batas standar MBS. Selisih biaya inilah yang disebut *gap fee* dan wajib dibayar langsung oleh mahasiswa dari kantong pribadi. Carilah klinik yang menerapkan sistem *bulk billing* khusus mahasiswa agar bebas dari biaya selisih tersebut. Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
+Di Australia, pemerintah menetapkan tarif standar konsultasi medis yang disebut *Medicare Benefits Schedule* (MBS). Asuransi OSHC menanggung 100% tarif MBS tersebut. Namun, beberapa dokter swasta mematok tarif konsultasi di atas batas standar MBS. Selisih biaya inilah yang disebut *gap fee* dan wajib dibayar langsung oleh mahasiswa dari kantong pribadi. Carilah klinik yang menerapkan sistem *bulk billing* khusus mahasiswa agar bebas dari biaya selisih tersebut. Hubungi WhatsApp JoC untuk informasi harga: https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
 
 ### 2. *Copayment* dan *Deductible* (Khusus Studi di Amerika Serikat)
 Sistem asuransi di AS sangat kompleks:
@@ -125,6 +125,6 @@ Tidak. Asuransi OSHC, IHS, maupun asuransi AS baru aktif berlaku terhitung sejak
 
 Jangan biarkan kendala kesehatan merusak fokus belajar dan mimpi masa depan Anda di luar negeri. Percayakan persiapan medical check-up, cek laboratorium darah, dan vaksinasi internasional Anda kepada tim profesional Joy of Care di Jakarta.
 
-Hubungi WhatsApp kami di [https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter) sekarang juga!
+Hubungi WhatsApp kami di [https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter](https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter) sekarang juga!
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)

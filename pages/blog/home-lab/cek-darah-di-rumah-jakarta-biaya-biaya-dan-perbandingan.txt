@@ -119,7 +119,7 @@ Banyak orang terkecoh mengira bahwa tarif home service lebih mahal karena ada ko
 * Risiko kelelahan fisik lansia akibat harus berpuasa dalam perjalanan macet.
 * **Hasil**: Total pengeluaran tersembunyi (*hidden costs*) berobat ke klinik membengkak tinggi tanpa disadari!
 
-Pada layanan home lab Joy of Care, flebotomis tersertifikasi datang langsung ke rumah dengan peralatan tabung vakum steril dan rantai dingin terstandar. Biaya layanan transparan tanpa biaya tersembunyi. Memilih cek darah di rumah terbukti jauh lebih efisien, nyaman, dan melindungi lansia dari risiko kelelahan. Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
+Pada layanan home lab Joy of Care, flebotomis tersertifikasi datang langsung ke rumah dengan peralatan tabung vakum steril dan rantai dingin terstandar. Biaya layanan transparan tanpa biaya tersembunyi. Memilih cek darah di rumah terbukti jauh lebih efisien, nyaman, dan melindungi lansia dari risiko kelelahan. Hubungi WhatsApp JoC untuk informasi harga: https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
 
 Dukung pemulihan kesehatan anggota keluarga dengan memadukan hasil laboratorium bersama [Layanan Perawat Medis Homecare](/layanan/perawat-homecare) dan [Layanan Panggil Dokter ke Rumah](/layanan/panggil-dokter). Pelajari rincian paket tes di [Panduan Lengkap Cek Darah di Rumah Jakarta Biaya](/blog/cek-darah-di-rumah-jakarta-biaya-panduan-lengkap).
 
@@ -144,4 +144,4 @@ Hampir 95% jenis pemeriksaan laboratorium darah (darah lengkap, gula darah, kole
 ### Beralihlah ke Cara Cek Darah yang Lebih Cerdas dan Nyaman
 Kesehatan Anda dan keluarga terlalu berharga untuk dipertaruhkan di ruang tunggu yang penuh kuman dan kemacetan jalanan. Rasakan kemewahan layanan laboratorium profesional di ruang keluarga Anda bersama Joy of Care.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)

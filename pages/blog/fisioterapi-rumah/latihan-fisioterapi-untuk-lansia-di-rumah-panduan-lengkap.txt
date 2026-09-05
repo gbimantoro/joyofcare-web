@@ -169,4 +169,4 @@ Saat lansia memiliki riwayat jatuh dalam 6 bulan terakhir, menderita penyakit kr
 ### Hidupkan Kembali Gerak Aktif Orang Tua Anda
 Tubuh yang aktif adalah kunci masa tua yang bahagia dan bermartabat. Dapatkan pendampingan latihan fisioterapi profesional yang sabar dan berpengalaman langsung di ruang keluarga Anda bersama Joy of Care.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)

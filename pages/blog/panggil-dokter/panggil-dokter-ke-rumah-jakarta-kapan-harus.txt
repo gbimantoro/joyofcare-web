@@ -125,4 +125,4 @@ Dokter Joy of Care akan segera melakukan stabilisasi darurat dasar dan mendampin
 ### Konsultasikan Kondisi Pasien Bersama Tim Medis Joy of Care
 Masih ragu apakah kondisi anggota keluarga Anda bisa ditangani di rumah atau butuh rujukan rumah sakit? Hubungi tim medis Joy of Care sekarang. Kami akan melakukan triase awal yang cepat dan memberikan rekomendasi terbaik demi keselamatan keluarga Anda.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Hubungi WhatsApp JoC untuk informasi harga](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?)
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Hubungi WhatsApp JoC untuk informasi harga](https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?)

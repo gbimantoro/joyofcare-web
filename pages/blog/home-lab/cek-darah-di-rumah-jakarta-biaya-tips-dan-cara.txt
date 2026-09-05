@@ -139,4 +139,4 @@ Bisa. Joy of Care menyediakan integrasi layanan telekonsultasi dokter maupun kun
 ### Rasakan Kemudahan Cek Darah di Rumah Bersama Joy of Care
 Tak perlu lagi terjebak macet dan antre panjang dalam kondisi lapar. Pesan layanan cek darah di rumah hari ini dan nikmati pelayanan laboratorium modern, higienis, dan bersahabat langsung di kediaman Anda.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Hubungi WhatsApp JoC untuk informasi harga](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?)
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Hubungi WhatsApp JoC untuk informasi harga](https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?)

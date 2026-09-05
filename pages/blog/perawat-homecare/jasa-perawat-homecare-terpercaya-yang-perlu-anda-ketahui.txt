@@ -138,4 +138,4 @@ Ya, perawat live-in berhak atas cuti 2 hari setiap bulan sesuai regulasi tenaga 
 ### Dapatkan Ketenangan Pikiran Bersama Perawat Joy of Care
 Keamanan keluarga dan martabat orang tua Anda adalah prioritas tertinggi kami. Diskusikan rencana kebutuhan perawat homecare Anda bersama konsultan resmi Joy of Care hari ini untuk mendapatkan pelayanan yang aman, legal, dan penuh empati.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)

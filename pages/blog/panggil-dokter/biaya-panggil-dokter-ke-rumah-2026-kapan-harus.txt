@@ -15,7 +15,7 @@ variation_type: kapan-harus
 faq:
 - question: Berapa total biaya yang berhasil dihemat keluarga dalam studi kasus ini
     dengan memanggil dokter ke rumah?
-  answer: Keluarga berhasil menghemat lebih dari 60% biaya medis dalam satu episode penanganan demam dan dehidrasi lansia dibanding rawat inap RS swasta. Konsultasi Dokter Gratis via WhatsApp: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter
+  answer: Keluarga berhasil menghemat lebih dari 60% biaya medis dalam satu episode penanganan demam dan dehidrasi lansia dibanding rawat inap RS swasta. Konsultasi Dokter Gratis via WhatsApp: https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter
     sakit swasta dan menjalani rawat inap selama 2 malam.
 - question: Kapan momen paling tepat bagi keluarga untuk memutuskan panggil dokter
     ke rumah dibanding ke rumah sakit?
@@ -61,7 +61,7 @@ clinical_references:
 > ### 💡 Poin Kunci (Key Takeaways)
 > * **Fenomena Biaya Membengkak di IGD**: Kasus non-kritis yang dibawa ke IGD rumah sakit swasta sering kali menghasilkan tagihan jutaan rupiah dalam hitungan 48 jam akibat biaya kamar, karcis observasi, dan farmasi RS.
 > * **Pertolongan Medis Presisi di Rumah**: Dokter Joy of Care melakukan rehidrasi infus steril dan terapi antipiretik langsung di ranjang pasien dengan biaya terkontrol.
-> * **Efisiensi Finansial Signifikan**: Perawatan dokter dan infus homecare di rumah memberikan penghematan biaya lebih dari 60% dibanding estimasi rawat inap RS swasta. Konsultasi Dokter Gratis via WhatsApp: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter
+> * **Efisiensi Finansial Signifikan**: Perawatan dokter dan infus homecare di rumah memberikan penghematan biaya lebih dari 60% dibanding estimasi rawat inap RS swasta. Konsultasi Dokter Gratis via WhatsApp: https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter
 > * **Kenyamanan Lansia Tanpa Trauma**: Pasien lansia sembuh dengan tenang di kamarnya sendiri, terbebas dari kebisingan dan risiko infeksi bakteri rumah sakit.
 
 ---
@@ -111,7 +111,7 @@ Berikut adalah rincian perbandingan biaya riil antara penanganan di rumah bersam
 | **Biaya Obat-obatan & BMHP** | Margin harga farmasi instalasi rawat inap RS | **Resep obat apotek resmi transparan & terjangkau** |
 | **Total Beban Pengeluaran** | **Total Biaya RS Sangat Tinggi** | **Penghematan Signifikan Lebih dari 60%** |
 
-Konsultasi Dokter Gratis via WhatsApp: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter
+Konsultasi Dokter Gratis via WhatsApp: https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter
 | **TOTAL UANG YANG BERHASIL DIHEMAT** | — | **MENGHEMAT RP 5.150.000 (80,4%)!** |
 
 ---
@@ -131,7 +131,7 @@ Pelajari panduan tarif resmi selengkapnya di [Panduan Lengkap Biaya Panggil Dokt
 ## Pertanyaan yang Sering Diajukan (FAQ)
 
 ### Berapa total biaya yang berhasil dihemat keluarga dalam studi kasus ini dengan memanggil dokter ke rumah?
-Keluarga berhasil menghemat lebih dari 60% dari total estimasi biaya rawat inap rumah sakit swasta dalam satu episode penanganan demam dan dehidrasi lansia. Selain efisiensi biaya, kenyamanan psikologis pasien dan keluarga terjaga maksimal. Konsultasi Dokter Gratis via WhatsApp: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter
+Keluarga berhasil menghemat lebih dari 60% dari total estimasi biaya rawat inap rumah sakit swasta dalam satu episode penanganan demam dan dehidrasi lansia. Selain efisiensi biaya, kenyamanan psikologis pasien dan keluarga terjaga maksimal. Konsultasi Dokter Gratis via WhatsApp: https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter
 
 ### Kapan momen paling tepat bagi keluarga untuk memutuskan panggil dokter ke rumah dibanding ke rumah sakit?
 Saat pasien lansia mengalami demam atau lemas non-kritis, pasien tirah baring yang sulit dimobilisasi ke dalam mobil, pasien penyakit kronis yang butuh penyesuaian obat rutin, atau saat keluarga ingin menghindari antrean panjang rumah sakit.
@@ -147,4 +147,4 @@ Bisa. Jika saat pemeriksaan ditemukan tanda kegawatan yang memerlukan fasilitas 
 ### Lindungi Kesehatan Keluarga dan Kelola Anggaran dengan Bijak
 Jangan biarkan panik membuat Anda mengeluarkan biaya medis yang membengkak di rumah sakit. Percayakan penanganan kesehatan anggota keluarga tercinta kepada tim dokter kunjungan rumah profesional Joy of Care.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)

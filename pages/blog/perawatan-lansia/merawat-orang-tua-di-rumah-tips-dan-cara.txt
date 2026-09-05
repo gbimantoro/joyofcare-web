@@ -139,4 +139,4 @@ Jangan dipaksakan. Periksa terlebih dahulu tekanan darah dan suhu tubuh; bila le
 ### Hadirkan Perawatan Penuh Kasih untuk Orang Tua Anda
 Merawat orang tua adalah amanah berharga. Jadikan hari-hari tua mereka penuh kenyamanan dan martabat bersama tim medis dan perawat terpercaya Joy of Care.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)

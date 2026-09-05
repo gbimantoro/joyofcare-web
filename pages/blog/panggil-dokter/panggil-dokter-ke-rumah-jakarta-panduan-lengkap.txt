@@ -129,4 +129,4 @@ Dokter membawa tas perlengkapan darurat dasar, vitamin suntik, dan bahan medis s
 ### Jadwalkan Dokter ke Rumah Anda Sekarang
 Kesehatan keluarga Anda adalah prioritas nomor satu. Dapatkan pelayanan medis profesional, hangat, dan tepercaya langsung di rumah Anda tanpa repot bermacet-macetan di jalan raya ibu kota.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)

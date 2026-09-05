@@ -125,4 +125,4 @@ Sangat bisa. Dokter menangani evaluasi penyakit kronis, penggantian selang NGT a
 ### Konsultasikan Kesehatan Keluarga Anda Bersama Joy of Care
 Percayakan perawatan kesehatan primer orang tua dan keluarga Anda kepada dokter Joy of Care. Dapatkan penanganan medis yang cermat, bersertifikasi resmi Dinas Kesehatan, dan berdedikasi melayani hunian Anda di Jakarta.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)

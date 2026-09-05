@@ -84,7 +84,7 @@ Berikut adalah ulasan mendalam atas pertanyaan administratif dan finansial yang 
 
 ### 3. Seputar Biaya Tindakan Prosedural dan Obat-obatan
 * **Tanya: Berapa biaya jika dokter harus melakukan tindakan penggantian selang kateter atau NGT saat kunjungan?**
-  * *Jawab*: Biaya tindakan medis tambahan bersifat transparan dan sudah mencakup bahan medis habis pakai (BMHP) berkualitas steril. Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care? Dokter akan selalu meminta persetujuan keluarga (*informed consent*) dan menjelaskan rincian biaya sebelum tindakan medis dimulai.
+  * *Jawab*: Biaya tindakan medis tambahan bersifat transparan dan sudah mencakup bahan medis habis pakai (BMHP) berkualitas steril. Hubungi WhatsApp JoC untuk informasi harga: https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care? Dokter akan selalu meminta persetujuan keluarga (*informed consent*) dan menjelaskan rincian biaya sebelum tindakan medis dimulai.
 * **Tanya: Apakah keluarga wajib membeli obat dari apotek rekanan Joy of Care?**
   * *Jawab*: Sama sekali tidak wajib. Dokter Joy of Care akan menuliskan resep obat resmi yang bebas ditebus di apotek mana pun yang Anda kehendaki. Jika keluarga menghendaki kepraktisan, apotek mitra Joy of Care siap mengantarkan obat resmi bersegel langsung ke kediaman Anda dengan kurir medis kilat.
 
@@ -137,4 +137,4 @@ Pembatalan pesanan bebas biaya jika dilakukan minimal 2 jam sebelum jadwal kedat
 ### Konsultasikan Kebutuhan Dokter ke Rumah Anda Sekarang
 Jangan biarkan pertanyaan mengenai biaya menunda penanganan medis anggota keluarga tercinta. Tim Joy of Care siap memberikan estimasi biaya yang transparan, jujur, dan terjangkau langsung di smartphone Anda.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Hubungi WhatsApp JoC untuk informasi harga](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?)
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Hubungi WhatsApp JoC untuk informasi harga](https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?)

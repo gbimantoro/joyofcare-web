@@ -118,7 +118,7 @@ Mari kita bedah perbandingan pengeluaran riil untuk satu hari kontrol poliklinik
   * Armada mobil medis berfasilitas ramp kursi roda hidrolik, brankar ambulans, dan suspensi lembut anti-guncangan.
   * Jasa perawat ber-STR mengawal sepanjang hari di RS: mendampingi dokter poliklinik, membantu transfer pasien, dan mengurus antrean obat di faskes.
   * Fasilitas tabung oksigen medis dan peralatan darurat siaga penuh di dalam kendaraan.
-  * **Hasil**: Pasien aman dan nyaman di ranjang mobil, urusan rumah sakit selesai tuntas, keluarga tenang tanpa perlu izin cuti kerja. Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
+  * **Hasil**: Pasien aman dan nyaman di ranjang mobil, urusan rumah sakit selesai tuntas, keluarga tenang tanpa perlu izin cuti kerja. Hubungi WhatsApp JoC untuk informasi harga: https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
 
 Selisih biaya yang sangat kecil memberikan perlindungan keselamatan medis dan ketenangan pikiran yang tak ternilai harganya bagi orang tua tercinta.
 
@@ -141,6 +141,6 @@ Tentu saja. Joy of Care menyediakan paket langganan transportasi medis khusus pa
 
 Jangan pertaruhkan keselamatan dan kenyamanan orang tua Anda di jok sempit taksi biasa. Hadirkan layanan antar jemput medis profesional dengan pendampingan perawat berlisensi bersama Joy of Care.
 
-Hubungi WhatsApp kami di [https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?) sekarang juga!
+Hubungi WhatsApp kami di [https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?](https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?) sekarang juga!
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Hubungi WhatsApp JoC untuk informasi harga](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?)
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Hubungi WhatsApp JoC untuk informasi harga](https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?)

@@ -135,4 +135,4 @@ Mutlak ya. Hasil laboratorium diterbitkan secara resmi dengan kop surat instalas
 ### Dapatkan Layanan Laboratorium Tepercaya di Kediaman Anda
 Jangan biarkan keraguan menunda pemantauan kesehatan keluarga. Tim analis kesehatan berlisensi Joy of Care siap memberikan pelayanan flebotomi yang ramah, higienis, dan berstandar internasional langsung di rumah Anda.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)

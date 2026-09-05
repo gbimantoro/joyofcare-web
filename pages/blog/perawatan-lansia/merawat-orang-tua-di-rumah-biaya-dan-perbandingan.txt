@@ -15,7 +15,7 @@ variation_type: biaya-dan-perbandingan
 faq:
 - question: Berapa kisaran biaya menyewa perawat lansia di rumah wilayah Jabodetabek
     pada tahun 2026?
-  answer: Biaya jasa perawat lansia di Jabodetabek ditentukan secara transparan berdasarkan kualifikasi (caregiver pendamping harian atau perawat medis bersertifikasi STR aktif) serta sistem kerja bulanan atau shift. Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
+  answer: Biaya jasa perawat lansia di Jabodetabek ditentukan secara transparan berdasarkan kualifikasi (caregiver pendamping harian atau perawat medis bersertifikasi STR aktif) serta sistem kerja bulanan atau shift. Hubungi WhatsApp JoC untuk informasi harga: https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
     D3/S1 Keperawatan dengan STR aktif.
 - question: Apa perbedaan utama antara perawat medis (nurse) dengan caregiver pendamping?
   answer: Perawat medis berwenang melakukan tindakan medis invasif seperti pemasangan
@@ -112,7 +112,7 @@ Pelajari panduan perawatan mandiri selengkapnya di [Panduan Lengkap Merawat Oran
 ## Pertanyaan yang Sering Diajukan (FAQ)
 
 ### Berapa kisaran biaya menyewa perawat lansia di rumah wilayah Jabodetabek pada tahun 2026?
-Biaya jasa perawat lansia di Jabodetabek dirancang fleksibel dan transparan sesuai kebutuhan pendampingan lansia, baik untuk bantuan aktivitas dasar harian maupun perawatan medis klinis pascarawat RS. Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
+Biaya jasa perawat lansia di Jabodetabek dirancang fleksibel dan transparan sesuai kebutuhan pendampingan lansia, baik untuk bantuan aktivitas dasar harian maupun perawatan medis klinis pascarawat RS. Hubungi WhatsApp JoC untuk informasi harga: https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
 
 ### Apa perbedaan utama antara perawat medis (nurse) dengan caregiver pendamping?
 Perawat medis berwenang melakukan tindakan medis invasif seperti pemasangan selang makan NGT, kateter urin, terapi infus/injeksi, dan perawatan luka steril. Sedangkan caregiver berfokus pada pendampingan aktivitas sehari-hari seperti memandikan, menyuapi makan, dan mobilitas.
@@ -128,4 +128,4 @@ Bisa. Keluarga dapat memilih sistem shift harian (8 atau 12 jam kerja) sesuai ja
 ### Berikan Perawatan Terbaik Tanpa Mengorbankan Keluarga
 Sayangi orang tua Anda dan sayangi diri Anda sendiri. Dapatkan tenaga perawat lansia yang ramah, berizin resmi, dan berdedikasi tinggi bersama Joy of Care sekarang juga.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Hubungi WhatsApp JoC untuk informasi harga](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?)
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Hubungi WhatsApp JoC untuk informasi harga](https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?)

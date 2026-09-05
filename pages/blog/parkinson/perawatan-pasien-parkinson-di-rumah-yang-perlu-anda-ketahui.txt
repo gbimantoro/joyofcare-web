@@ -131,4 +131,4 @@ Batasi asupan air minum 2 jam sebelum tidur, hindari minuman berkafein di sore h
 ### Raih Kualitas Hidup Lebih Baik Bersama Joy of Care
 Setiap fase perjalanan merawat pasien Parkinson membutuhkan ketabahan dan bimbingan ahli. Konsultasikan kondisi anggota keluarga Anda bersama tim medis Joy of Care sekarang juga untuk mendapatkan rencana perawatan rumahan yang paling tepat sasaran.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)

@@ -123,4 +123,4 @@ Panel physician biasanya akan meminta pemeriksaan lanjutan berupa tes dahak sput
 ### Persiapan Vaksinasi & MCU Studi Australia Bersama Joy of Care
 Sebelum berangkat ke Australia, pastikan Anda juga telah melengkapi vaksinasi internasional (MMR, Hepatitis B, Meningitis) yang diwajibkan oleh universitas tempat Anda belajar. Layanan vaksinasi home visit dan cek lab Joy of Care siap membantu Anda langsung di rumah.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)

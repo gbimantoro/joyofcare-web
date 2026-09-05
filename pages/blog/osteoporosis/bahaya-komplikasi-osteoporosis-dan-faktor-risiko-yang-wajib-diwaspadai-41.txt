@@ -156,4 +156,4 @@ Ya, pada sebagian besar kasus lansia, terbentuknya punuk bungkuk (kifosis toraka
 ### Konsultasikan Kesehatan Tulang Keluarga Bersama Joy of Care
 Jangan menunggu insiden patah tulang terjadi untuk mulai peduli. Joy of Care menyediakan layanan rujukan terintegrasi dari dokter spesialis ortopedi dan penyakit dalam, layanan kunjungan dokter ke rumah, serta terapi injeksi osteoporosis aman langsung di kenyamanan hunian Anda di wilayah Jabodetabek.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)

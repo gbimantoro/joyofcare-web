@@ -21,7 +21,7 @@ faq:
     Tangerang seperti Gading Serpong, Alam Sutera, dan Lippo Karawaci.
 - question: Berapa kisaran biaya panggil dokter umum ke rumah di Tangerang pada tahun
     2026?
-  answer: Biaya resmi kunjungan dokter umum ke rumah Joy of Care di kawasan Tangerang dan Tangsel dirancang transparan, terjangkau, dan disesuaikan dengan kebutuhan klinis pasien tanpa biaya transportasi tersembunyi. Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
+  answer: Biaya resmi kunjungan dokter umum ke rumah Joy of Care di kawasan Tangerang dan Tangsel dirancang transparan, terjangkau, dan disesuaikan dengan kebutuhan klinis pasien tanpa biaya transportasi tersembunyi. Hubungi WhatsApp JoC untuk informasi harga: https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
 - question: Apa saja jenis penyakit atau kondisi medis yang dapat ditangani oleh dokter
     umum di rumah?
   answer: Dokter umum dapat menangani demam akut (skrining DBD, tifus, flu), infeksi
@@ -63,7 +63,7 @@ clinical_references:
 > * **Cakupan Wilayah Komprehensif**: Melayani BSD City, Gading Serpong, Alam Sutera, Bintaro Jaya, Lippo Karawaci, Ciputat, Pamulang, dan sekitarnya.
 > * **Respon Cepat 45–75 Menit**: Berbasis operasional lokal di kawasan BSD Tangerang Selatan untuk kecepatan respon medis di rumah Anda.
 > * **Peralatan Medis Diagnostik Lengkap**: Dokter dibekali stetoskop, tensimeter digital, pulse oximeter, glukometer darah instan, otoskop, dan perlengkapan minor surgery.
-> * **Transparansi Layanan Dokter**: Biaya kunjungan dokter ke rumah dirancang terjangkau dan transparan all-in tanpa biaya tersembunyi yang memberatkan keluarga. Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
+> * **Transparansi Layanan Dokter**: Biaya kunjungan dokter ke rumah dirancang terjangkau dan transparan all-in tanpa biaya tersembunyi yang memberatkan keluarga. Hubungi WhatsApp JoC untuk informasi harga: https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
 
 ---
 
@@ -107,7 +107,7 @@ Berikut adalah tabel transparansi biaya visit dokter umum Joy of Care untuk wila
 | **Kunjungan Dokter + Tindakan Khusus** | Visit dokter + perawatan luka jahitan / debridement luka ringan | Paket Tindakan Klinis (Hubungi WA JoC) |
 | **Paket Evaluasi Geriatri Komprehensif** | Visit dokter + skrining kognitif geriatri + evaluasi polifarmasi obat | Paket Geriatri Lengkap (Hubungi WA JoC) |
 
-Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
+Hubungi WhatsApp JoC untuk informasi harga: https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
 
 *Catatan: Biaya sudah mencakup visit fee dokter ber-STR/SIP, transportasi ke rumah, pemakaian alat diagnostik standar, dan pembuatan surat rujukan medis bila diperlukan. Biaya obat resep farmasi dihitung terpisah sesuai kebutuhan terapi.*
 
@@ -147,6 +147,6 @@ Tentu saja. Layanan dokter umum ke rumah Joy of Care beroperasi 7 hari seminggu,
 
 Jangan biarkan kemacetan jalan raya dan antrean faskes menambah beban rasa sakit anggota keluarga Anda. Hubungi tim Joy of Care sekarang untuk mendapatkan penanganan medis profesional, ramah, dan cepat di kediaman Anda.
 
-Hubungi WhatsApp kami di [https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?) sekarang juga!
+Hubungi WhatsApp kami di [https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?](https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?) sekarang juga!
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Hubungi WhatsApp JoC untuk informasi harga](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?)
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Hubungi WhatsApp JoC untuk informasi harga](https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?)

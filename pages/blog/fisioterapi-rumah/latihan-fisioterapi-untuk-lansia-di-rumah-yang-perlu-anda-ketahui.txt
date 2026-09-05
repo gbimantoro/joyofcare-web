@@ -133,4 +133,4 @@ Untuk keluhan kebugaran umum lansia, Anda dapat langsung memesan sesi fisioterap
 ### Konsultasikan Program Latihan Lansia Anda Hari Ini
 Setiap orang tua memiliki keunikan kondisi tubuh dan riwayat penyakit masing-masing. Jangan biarkan keraguan menghambat kebugaran mereka. Hubungi konsultan medis Joy of Care sekarang via WhatsApp untuk mendapatkan rekomendasi latihan fisioterapi yang paling tepat bagi orang tua tercinta.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)

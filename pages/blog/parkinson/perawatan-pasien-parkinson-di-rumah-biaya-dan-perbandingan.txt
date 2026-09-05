@@ -15,7 +15,7 @@ variation_type: biaya-dan-perbandingan
 faq:
 - question: Apakah merawat pasien Parkinson di rumah lebih murah dibanding bolak-balik
     rumah sakit?
-  answer: Jauh lebih ekonomis dan terukur. Merawat pasien Parkinson di rumah menghindarkan keluarga dari tagihan rawat inap rumah sakit harian yang sangat mahal, sekaligus memberikan kenyamanan emosional bagi pasien. Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
+  answer: Jauh lebih ekonomis dan terukur. Merawat pasien Parkinson di rumah menghindarkan keluarga dari tagihan rawat inap rumah sakit harian yang sangat mahal, sekaligus memberikan kenyamanan emosional bagi pasien. Hubungi WhatsApp JoC untuk informasi harga: https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
     tak terduga.
 - question: Mengapa lingkungan rumah sakit sering memicu kebingungan mendadak (delirium)
     pada pasien Parkinson?
@@ -115,7 +115,7 @@ Di luar situasi darurat akut di atas, seluruh perawatan pemeliharaan, latihan re
 ## Pertanyaan yang Sering Diajukan (FAQ)
 
 ### Apakah merawat pasien Parkinson di rumah lebih murah dibanding bolak-balik rumah sakit?
-Jauh lebih ekonomis dan terkontrol. Menghadirkan pendampingan homecare medis di rumah membebaskan keluarga dari risiko lonjakan biaya rawat inap rumah sakit yang tidak terduga, seraya memastikan kepatuhan obat Levodopa dan terapi fisik berjalan disiplin. Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
+Jauh lebih ekonomis dan terkontrol. Menghadirkan pendampingan homecare medis di rumah membebaskan keluarga dari risiko lonjakan biaya rawat inap rumah sakit yang tidak terduga, seraya memastikan kepatuhan obat Levodopa dan terapi fisik berjalan disiplin. Hubungi WhatsApp JoC untuk informasi harga: https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
 
 ### Mengapa lingkungan rumah sakit sering memicu kebingungan mendadak (delirium) pada pasien Parkinson?
 Pasien Parkinson sangat sensitif terhadap perubahan lingkungan. Ruang rawat inap yang asing, bunyi mesin medis berisik, dan pencahayaan rumah sakit dapat memicu stres sensorik akut yang memicu halusinasi dan disorientasi delirium.
@@ -131,4 +131,4 @@ Bahkan lebih efektif dalam konteks fungsional harian. Fisioterapis homecare mela
 ### Berikan Martabat dan Kenyamanan Terbaik di Rumah Sendiri
 Beri orang tua Anda kesempatan untuk menikmati hari-hari tuanya dengan bahagia di tengah pelukan keluarga. Percayakan perawatan Parkinson di rumah kepada tim fisioterapis dan perawat profesional Joy of Care.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)

@@ -22,7 +22,7 @@ faq:
     ini meningkat menjadi lebih dari 40% pada usia di atas 75 tahun.
 - question: Berapa rata-rata estimasi biaya operasi dan perawatan patah tulang panggul
     akibat jatuh di rumah sakit swasta Jakarta?
-  answer: Biaya tindakan bedah ortopedi panggul di rumah sakit menelan anggaran puluhan hingga ratusan juta rupiah di luar biaya ICU dan rehabilitasi pascabedah. Konsultasi Dokter Gratis via WhatsApp: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter
+  answer: Biaya tindakan bedah ortopedi panggul di rumah sakit menelan anggaran puluhan hingga ratusan juta rupiah di luar biaya ICU dan rehabilitasi pascabedah. Konsultasi Dokter Gratis via WhatsApp: https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter
     termasuk biaya perawatan ruang ICU jika timbul komplikasi sistemik pascabedah.
 - question: Bagaimana studi kasus keluarga Ibu Maryam berhasil memutus rantai jatuh
     berulang di rumah?
@@ -124,7 +124,7 @@ Pelajari kiat praktis pencegahan di [7 Cara Mencegah Jatuh pada Lansia di Rumah]
 | **Kunjungan Dokter Review Polifarmasi** | Bebas Biaya | **Visit dokter evaluasi obat di rumah** |
 | **TOTAL BEBAN KEUANGAN KELUARGA** | **Beban Rumah Sakit Ratusan Juta Rupiah** | **Investasi Preventif Sangat Hemat & Aman** |
 
-Konsultasi Dokter Gratis via WhatsApp: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter
+Konsultasi Dokter Gratis via WhatsApp: https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter
 | **PENGHEMATAN ANGGARAN FINANSIAL** | — | **MENGHEMAT LEBIH DARI RP 100 JUTA!** |
 
 ---
@@ -145,7 +145,7 @@ Jangan menunggu hingga terdengar suara benturan keras di kamar mandi. Ambil lang
 Riset Kesehatan Dasar (Riskesdas) dan data Perhimpunan Gerontologi Medik Indonesia (PERGEMI) mencatat sekitar 28% hingga 35% lansia berusia di atas 65 tahun mengalami setidaknya satu kali insiden jatuh setiap tahunnya, dan angka ini meningkat menjadi lebih dari 40% pada usia di atas 75 tahun.
 
 ### Berapa rata-rata estimasi biaya operasi dan perawatan patah tulang panggul akibat jatuh di rumah sakit swasta Jakarta?
-Biaya tindakan bedah ortopedi panggul di rumah sakit swasta dapat menelan biaya hingga puluhan bahkan ratusan juta rupiah di luar biaya ruang ICU. Melakukan langkah preventif modifikasi rumah dan fisioterapi keseimbangan terbukti menghemat finansial keluarga secara luar biasa. Konsultasi Dokter Gratis via WhatsApp: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter
+Biaya tindakan bedah ortopedi panggul di rumah sakit swasta dapat menelan biaya hingga puluhan bahkan ratusan juta rupiah di luar biaya ruang ICU. Melakukan langkah preventif modifikasi rumah dan fisioterapi keseimbangan terbukti menghemat finansial keluarga secara luar biasa. Konsultasi Dokter Gratis via WhatsApp: https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter
 
 ### Bagaimana studi kasus keluarga Ibu Maryam berhasil memutus rantai jatuh berulang di rumah?
 Melalui intervensi komprehensif 3 pilar: eliminasi bahaya fisik rumah (pemasangan grab bar dan karpet anti-slip), penyesuaian dosis obat antihipertensi oleh dokter homecare, dan latihan fisioterapi keseimbangan 2 kali seminggu.
@@ -158,4 +158,4 @@ Saat orang tua pernah mengalami insiden hampir jatuh (near miss), mulai menunjuk
 ### Lindungi Orang Tua Anda dengan Tindakan Pencegahan Hari Ini
 Statistik membuktikan bahwa pencegahan jatuh bukan hanya menyelamatkan fisik orang tua, tetapi juga melindungi stabilitas finansial keluarga. Hubungi Joy of Care sekarang untuk mendapatkan asesmen risiko jatuh dan program fisioterapi pencegahan terbaik di Jakarta.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)

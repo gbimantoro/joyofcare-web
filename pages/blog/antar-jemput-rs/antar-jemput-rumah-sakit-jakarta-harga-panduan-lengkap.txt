@@ -22,7 +22,7 @@ faq:
     aman, terjadwal, dan didampingi perawat medis tanpa sirene darurat.
 - question: Berapa kisaran tarif resmi layanan antar jemput pasien ke rumah sakit
     di Jakarta pada tahun 2026?
-  answer: Tarif layanan antar-jemput medis non-darurat Joy of Care di Jakarta ditentukan secara transparan berdasarkan paket satu arah maupun pulang-pergi, sudah mencakup armada khusus berfasilitas medis serta pendampingan perawat profesional. Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
+  answer: Tarif layanan antar-jemput medis non-darurat Joy of Care di Jakarta ditentukan secara transparan berdasarkan paket satu arah maupun pulang-pergi, sudah mencakup armada khusus berfasilitas medis serta pendampingan perawat profesional. Hubungi WhatsApp JoC untuk informasi harga: https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
 - question: Fasilitas medis apa saja yang tersedia di dalam armada mobil antar jemput
     Joy of Care?
   answer: Armada kami dilengkapi dengan brankar tandu ambulans (*ambulance stretcher*)
@@ -65,7 +65,7 @@ clinical_references:
 > * **Solusi Medis Non-Darurat Khusus (NEMT)**: Menjembatani kebutuhan perjalanan medis rutin terjadwal (hemodialisis, kemoterapi, fisioterapi faskes) tanpa stres.
 > * **Fasilitas Armada Lengkap**: Brankar tandu hidrolik (*stretcher*), ramp kursi roda landai, tabung oksigen medis darurat, dan suspensi kendaraan ekstra empuk.
 > * **Pendampingan Penuh Perawat Berlisensi**: Perawat mendampingi di mobil, membantu pendaftaran loket RS, hingga mengantre obat resep di apotek faskes.
-> * **Transparansi Layanan Medis Jakarta**: Layanan antar-jemput medis terpadu Joy of Care menyediakan paket transparan dengan perawat pendamping poliklinik tanpa biaya argo tersembunyi. Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
+> * **Transparansi Layanan Medis Jakarta**: Layanan antar-jemput medis terpadu Joy of Care menyediakan paket transparan dengan perawat pendamping poliklinik tanpa biaya argo tersembunyi. Hubungi WhatsApp JoC untuk informasi harga: https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
 
 ---
 
@@ -105,7 +105,7 @@ Berikut adalah daftar tarif resmi layanan transportasi medis non-darurat untuk a
 | **Paket Khusus Hemodialisis / Kemo** | Antar-jemput terjadwal mingguan + tabung oksigen standby + perawat | Paket Berkala (Hubungi WA JoC) | Termasuk waktu tunggu prosedur medis hingga 4 jam |
 | **Paket Lintas Kota (Jabodetabek)** | Perjalanan antar kota (misal: Tangerang ke RS di Jakarta Pusat) | Paket Lintas Wilayah (Hubungi WA JoC) | Menyesuaikan jarak kilometer dan tarif jalan tol |
 
-Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
+Hubungi WhatsApp JoC untuk informasi harga: https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
 
 *Catatan: Seluruh tarif sudah mencakup jasa pengemudi berpengalaman, perawat medis bersertifikat STR, bahan bakar bensin (BBM), serta pemakaian fasilitas kursi roda/brankar tandu. Tarif parkir faskes dan biaya jalan tol diganti secara transparan sesuai struk riil.*
 
@@ -155,6 +155,6 @@ Jangan khawatir. Waktu tunggu dapat diperpanjang secara fleksibel dengan biaya t
 
 Jadikan perjalanan kontrol medis orang tua Anda menjadi pengalaman yang aman, nyaman, dan bermartabat tanpa beban lelah bagi keluarga. Hubungi customer care Joy of Care untuk reservasi armada medis dan perawat pendamping sekarang.
 
-Hubungi WhatsApp kami di [https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?) sekarang juga!
+Hubungi WhatsApp kami di [https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?](https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?) sekarang juga!
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Hubungi WhatsApp JoC untuk informasi harga](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?)
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Hubungi WhatsApp JoC untuk informasi harga](https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?)

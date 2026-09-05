@@ -123,4 +123,4 @@ Rendam tangan dalam air hangat selama 10 menit, lalu buka telapak tangan perlaha
 ### Konsultasikan Latihan Pasca Stroke Keluarga Anda
 Jangan biarkan kebingungan menghambat proses pemulihan stroke orang tua Anda. Hubungi tim fisioterapis Joy of Care untuk mendapatkan panduan latihan mandiri yang terstruktur, aman, dan berorientasi pada kemandirian nyata.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)

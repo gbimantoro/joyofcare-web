@@ -132,4 +132,4 @@ Gunakan pendekatan persuasif yang lembut, mulai latihan dengan durasi singkat (5
 ### Kolaborasi Pemulihan Holistik Bersama Tim Medis Joy of Care
 Joy of Care menghadirkan layanan terintegrasi di mana dokter dan fisioterapis kami berkoordinasi langsung dalam satu rekam medis digital untuk memantau kemajuan orang tua Anda di rumah. Kami bermitra erat dengan keluarga Anda demi mengembalikan senyum dan kemandirian lansia tercinta.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Hubungi WhatsApp JoC untuk informasi harga](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?)
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Hubungi WhatsApp JoC untuk informasi harga](https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?)

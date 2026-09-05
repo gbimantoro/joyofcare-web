@@ -109,7 +109,7 @@ Gunakan checklist praktis berikut untuk melakukan inspeksi menyeluruh di kediama
 | **Peninggi Kloset (Raised Seat)**| Bahan plastik medis antibakteri dengan pengunci samping | Investasi Standar Medis Geriatri | Mempermudah berdiri tanpa nyeri sendi |
 | **Strip Tangga Anti-Slip** | Pita perekat berpasir silika kasar berpendar dalam gelap | Ekonomis & Pemasangan Mudah | Mencegah kaki meluncur di anak tangga |
 
-Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
+Hubungi WhatsApp JoC untuk informasi harga: https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
 
 ---
 
@@ -143,4 +143,4 @@ Gunakan pendekatan kenyamanan bersama, bukan pendekatan keterbatasan usia. Jelas
 ### Jadikan Rumah Anda Tempat Paling Aman bagi Orang Tua
 Cegah petaka insiden jatuh sebelum terlambat. Konsultasikan kebutuhan modifikasi rumah dan asesmen risiko jatuh orang tua Anda bersama tim fisioterapis profesional Joy of Care hari ini.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)

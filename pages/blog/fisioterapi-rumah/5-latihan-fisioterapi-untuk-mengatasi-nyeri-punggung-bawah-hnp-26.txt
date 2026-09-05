@@ -140,4 +140,4 @@ Tindakan operasi biasanya hanya dipertimbangkan jika terapi fisioterapi konserva
 ### Pemulihan Saraf Kejepit Bersama Fisioterapis Joy of Care
 Nyeri pinggang yang menjalar tidak boleh dibiarkan berlarut-larut hingga membatasi aktivitas Anda. Fisioterapis berizin resmi dari Joy of Care siap datang langsung ke rumah Anda dengan modalitas terapi fisik modern, teknik manual terapi, dan program latihan terukur.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)

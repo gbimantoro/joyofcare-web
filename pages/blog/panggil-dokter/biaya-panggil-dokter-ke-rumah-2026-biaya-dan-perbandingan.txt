@@ -22,7 +22,7 @@ faq:
     ekosistem perawat serta fisioterapis sendiri.
 - question: Berapa perbandingan rata-rata tarif visit dokter umum di Jakarta antara
     Joy of Care dan penyedia lain pada tahun 2026?
-  answer: Tarif visit dokter umum Joy of Care dirancang transparan, terjangkau, dan langsung ditangani tim medis tanpa biaya perantara aplikasi atau markup tersembunyi. Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
+  answer: Tarif visit dokter umum Joy of Care dirancang transparan, terjangkau, dan langsung ditangani tim medis tanpa biaya perantara aplikasi atau markup tersembunyi. Hubungi WhatsApp JoC untuk informasi harga: https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
 - question: Apakah kualitas dokter Joy of Care setara dengan dokter rumah sakit besar?
   answer: Sama persis. Seluruh dokter Joy of Care adalah lulusan fakultas kedokteran
     terakreditasi, mengantongi Surat Tanda Registrasi (STR) aktif dari Konsil Kedokteran
@@ -115,7 +115,7 @@ Pelajari panduan rincian biaya di [Panduan Lengkap Biaya Panggil Dokter ke Rumah
 Joy of Care menerapkan struktur biaya langsung (*direct clinic model*) tanpa potongan komisi perantara aplikasi yang mahal, sehingga tarif visit dokter lebih terjangkau, durasi konsultasi fisik lebih panjang (45–60 menit), dan memiliki ekosistem perawat serta fisioterapis sendiri.
 
 ### Berapa perbandingan rata-rata tarif visit dokter umum di Jakarta antara Joy of Care dan penyedia lain pada tahun 2026?
-Tarif visit dokter umum Joy of Care dirancang sangat transparan dan kompetitif tanpa biaya perantara aplikasi atau beban administrasi rumah sakit. Rincian biaya tindakan medis dan obat selalu dikomunikasikan secara terbuka kepada keluarga. Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
+Tarif visit dokter umum Joy of Care dirancang sangat transparan dan kompetitif tanpa biaya perantara aplikasi atau beban administrasi rumah sakit. Rincian biaya tindakan medis dan obat selalu dikomunikasikan secara terbuka kepada keluarga. Hubungi WhatsApp JoC untuk informasi harga: https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
 
 ### Apakah kualitas dokter Joy of Care setara dengan dokter rumah sakit besar?
 Sama persis. Seluruh dokter Joy of Care adalah lulusan fakultas kedokteran terakreditasi, mengantongi Surat Tanda Registrasi (STR) aktif dari Konsil Kedokteran Indonesia (KKI), Surat Izin Praktik (SIP) resmi, dan tersertifikasi dalam penanganan gawat darurat (ACLS/ATLS).
@@ -128,4 +128,4 @@ Joy of Care memiliki jaringan dokter terdesentralisasi di 5 wilayah kota Jakarta
 ### Dapatkan Kualitas Medis Terbaik dengan Biaya Rasional
 Mengapa membayar lebih mahal untuk kunjungan yang terburu-buru? Nikmati pelayanan dokter kunjungan rumah yang hangat, teliti, dan terjangkau bersama Joy of Care di Jakarta dan sekitarnya.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Hubungi WhatsApp JoC untuk informasi harga](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?)
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Hubungi WhatsApp JoC untuk informasi harga](https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?)

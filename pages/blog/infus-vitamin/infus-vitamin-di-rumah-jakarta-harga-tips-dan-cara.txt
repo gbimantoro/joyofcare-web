@@ -135,4 +135,4 @@ Boleh langsung beraktivitas normal. Tubuh umumnya akan terasa jauh lebih segar, 
 ### Pesan Sesi Infus Vitamin Anda Hari Ini
 Tak perlu biarkan rasa lelah mengganggu produktivitas Anda. Chat dengan tim customer care Joy of Care sekarang untuk memilih formula vitamin terbaik dan nikmati kesegaran tubuh instan di kediaman Anda di Jakarta.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)

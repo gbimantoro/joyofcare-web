@@ -15,7 +15,7 @@ secondary_keywords:
 variation_type: biaya-dan-perbandingan
 faq:
 - question: Berapa kisaran biaya fisioterapi pasca stroke ke rumah di wilayah Jakarta?
-  answer: Biaya fisioterapi pasca stroke ke rumah di Jakarta dirancang terjangkau dan transparan per sesi, disesuaikan dengan fase rehabilitasi dan modalitas stimulasi neuromuskular yang diperlukan pasien. Konsultasi Dokter Gratis via WhatsApp: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter
+  answer: Biaya fisioterapi pasca stroke ke rumah di Jakarta dirancang terjangkau dan transparan per sesi, disesuaikan dengan fase rehabilitasi dan modalitas stimulasi neuromuskular yang diperlukan pasien. Konsultasi Dokter Gratis via WhatsApp: https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter
     dan modalitas stimulasi yang digunakan.
 - question: Apakah hasil fisioterapi stroke di rumah seefektif fisioterapi di rumah
     sakit besar?
@@ -83,7 +83,7 @@ Membawa pasien stroke dengan hemiplegia atau penurunan keseimbangan ke rumah sak
 | **Biaya Transport Khusus PP** | Sewa ambulans / taksi kursi roda PP mahal | **Bebas Biaya Sewa (Terapis datang ke rumah)** |
 | **Efisiensi Total Biaya** | **Beban Pengeluaran Tinggi per Sesi** | **Hemat Signifikan Tanpa Biaya Tersembunyi** |
 
-Konsultasi Dokter Gratis via WhatsApp: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter
+Konsultasi Dokter Gratis via WhatsApp: https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter
 
 ---
 
@@ -106,7 +106,7 @@ Pelajari kurikulum pemulihannya pada [Panduan Lengkap Fisioterapi Pasca Stroke d
 ## Pertanyaan yang Sering Diajukan (FAQ)
 
 ### Berapa kisaran biaya fisioterapi pasca stroke ke rumah di wilayah Jakarta?
-Biaya satu sesi kunjungan fisioterapi pasca stroke ke rumah di Jakarta dirancang kompetitif dan transparan, disesuaikan dengan kebutuhan modalitas pemulihan gerak fungsional dan paket pendampingan yang dipilih. Konsultasi Dokter Gratis via WhatsApp: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter
+Biaya satu sesi kunjungan fisioterapi pasca stroke ke rumah di Jakarta dirancang kompetitif dan transparan, disesuaikan dengan kebutuhan modalitas pemulihan gerak fungsional dan paket pendampingan yang dipilih. Konsultasi Dokter Gratis via WhatsApp: https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter
 
 ### Apakah hasil fisioterapi stroke di rumah seefektif fisioterapi di rumah sakit besar?
 Penelitian internasional membuktikan hasil pemulihan fungsional home-based rehabilitation setara atau bahkan lebih unggul dalam aspek kemandirian aktivitas sehari-hari, karena pasien berlatih langsung pada fasilitas rumah aslinya.
@@ -122,4 +122,4 @@ Sebagian besar asuransi swasta dengan fasilitas reimbursement rawat jalan menang
 ### Dapatkan Program Fisioterapi Stroke di Rumah Terbaik
 Efisiensikan anggaran dan tenaga keluarga Anda tanpa mengorbankan mutu pemulihan medis orang tua tercinta. Hubungi Joy of Care untuk mendapatkan jadwal kunjungan fisioterapis stroke berpengalaman langsung ke kediaman Anda di Jakarta.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Hubungi WhatsApp JoC untuk informasi harga](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?)
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Hubungi WhatsApp JoC untuk informasi harga](https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?)

@@ -15,7 +15,7 @@ variation_type: biaya-dan-perbandingan
 faq:
 - question: Berapa perbedaan estimasi pengeluaran biaya medis tahunan antara lansia
     yang aktif mandiri dibandingkan lansia pasif tirah baring?
-  answer: Data ekonomi kesehatan membuktikan bahwa merawat lansia tirah baring membutuhkan biaya medis 4 hingga 7 kali lipat lebih tinggi untuk rawat inap ICU dan perawatan luka dekubitus berat, dibandingkan dengan lansia aktif yang mengutamakan pemeliharaan fisik preventif. Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
+  answer: Data ekonomi kesehatan membuktikan bahwa merawat lansia tirah baring membutuhkan biaya medis 4 hingga 7 kali lipat lebih tinggi untuk rawat inap ICU dan perawatan luka dekubitus berat, dibandingkan dengan lansia aktif yang mengutamakan pemeliharaan fisik preventif. Hubungi WhatsApp JoC untuk informasi harga: https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
 - question: Apa dampak klinis tercepat yang terjadi pada tubuh orang tua jika mereka
     hanya berdiam diri di tempat tidur sepanjang hari?
   answer: Dalam waktu 1 hingga 2 minggu imobilitas total, lansia dapat kehilangan
@@ -92,7 +92,7 @@ Sebaliknya, menjaga orang tua tetap bugar dan aktif mandiri hanya memerlukan pro
 1. **Pemeriksaan Dokter dan Skrining Laboratorium Berkala**: Evaluasi kesehatan berkala melalui [Layanan Panggil Dokter ke Rumah Jakarta](/layanan/panggil-dokter) dan [Layanan Cek Lab Darah di Rumah](/layanan/cek-lab-di-rumah) secara terjadwal.
 2. **Paket Sesi Latihan Bersama Fisioterapis Homecare**: Mempertahankan fungsi motorik, fleksibilitas sendi, dan keseimbangan tubuh lansia di hunian sendiri.
 3. **Suplemen Nutrisi & Hidrasi Terarah**: Pemenuhan mikronutrien kalsium, vitamin D3, serta nutrisi seimbang untuk mencegah osteoporosis dan sarkopenia.
-4. **Hasil Terukur**: Pengeluaran kesehatan jauh lebih efisien, komplikasi berbahaya dicegah sejak dini, dan lansia menikmati masa tua bahagia bersama keluarga tercinta. Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
+4. **Hasil Terukur**: Pengeluaran kesehatan jauh lebih efisien, komplikasi berbahaya dicegah sejak dini, dan lansia menikmati masa tua bahagia bersama keluarga tercinta. Hubungi WhatsApp JoC untuk informasi harga: https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
 
 ---
 
@@ -122,6 +122,6 @@ Tergantung pada derajat keparahan imobilitas dan ada atau tidaknya penyakit peny
 
 Jangan biarkan orang tua Anda terjebak dalam lingkaran pasif yang merugikan kesehatan fisik dan finansial keluarga. Hubungi tim Joy of Care untuk merancang program pendampingan aktif terbaik di rumah Anda.
 
-Hubungi WhatsApp kami di [https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?) sekarang juga!
+Hubungi WhatsApp kami di [https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?](https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?) sekarang juga!
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Hubungi WhatsApp JoC untuk informasi harga](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?)
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Hubungi WhatsApp JoC untuk informasi harga](https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?)

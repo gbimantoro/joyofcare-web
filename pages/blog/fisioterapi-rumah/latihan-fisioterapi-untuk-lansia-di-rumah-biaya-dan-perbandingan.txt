@@ -31,7 +31,7 @@ faq:
     keluarga mendampingi latihan mandiri ringan pada hari-hari jeda di antaranya.'
 - question: Berapa perbandingan biaya antara latihan mandiri dengan menyewa paket
     fisioterapis di rumah?
-  answer: Latihan fisik tanpa pengawasan terapis berisiko memicu cedera jatuh fatal yang menelan biaya medis hingga ratusan juta rupiah. Paket fisioterapi homecare merupakan investasi preventif yang terukur dan aman. Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
+  answer: Latihan fisik tanpa pengawasan terapis berisiko memicu cedera jatuh fatal yang menelan biaya medis hingga ratusan juta rupiah. Paket fisioterapi homecare merupakan investasi preventif yang terukur dan aman. Hubungi WhatsApp JoC untuk informasi harga: https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
     yang sangat hemat dan terukur.
 internal_links:
 - anchor: Layanan Fisioterapi Lansia di Rumah Joy of Care
@@ -105,7 +105,7 @@ Mencoba menghemat biaya dengan menghindari jasa fisioterapis sering kali berujun
   * Biaya rawat inap intensif di ruang ICU/HDU dan perawatan rehabilitasi medik pascabedah.
   * Beban kerugian finansial akibat satu insiden jatuh dapat menguras habis tabungan keluarga!
 
-Sebaliknya, berinvestasi pada paket fisioterapi lansia Joy of Care memberikan proteksi keselamatan maksimal, memastikan biomekanika gerak lansia terkoreksi sempurna, dan menghindarkan keluarga dari bencana medis. Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
+Sebaliknya, berinvestasi pada paket fisioterapi lansia Joy of Care memberikan proteksi keselamatan maksimal, memastikan biomekanika gerak lansia terkoreksi sempurna, dan menghindarkan keluarga dari bencana medis. Hubungi WhatsApp JoC untuk informasi harga: https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
 
 ---
 
@@ -132,11 +132,11 @@ Fisioterapis mampu mengidentifikasi kelainan biomekanika gerak yang tak terlihat
 Model hybrid sangat dianjurkan: fisioterapis berkunjung 1–2 kali seminggu untuk mengukur progres, mengoreksi gerakan, dan meningkatkan dosis latihan, sementara keluarga mendampingi latihan mandiri ringan pada hari-hari jeda di antaranya.
 
 ### Berapa perbandingan biaya antara latihan mandiri dengan menyewa paket fisioterapis di rumah?
-Latihan mandiri berisiko memicu cedera jatuh fatal yang menelan biaya medis hingga ratusan juta rupiah jika tulang patah. Paket pendampingan fisioterapis homecare merupakan investasi preventif yang jauh lebih aman dan terukur bagi lansia. Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
+Latihan mandiri berisiko memicu cedera jatuh fatal yang menelan biaya medis hingga ratusan juta rupiah jika tulang patah. Paket pendampingan fisioterapis homecare merupakan investasi preventif yang jauh lebih aman dan terukur bagi lansia. Hubungi WhatsApp JoC untuk informasi harga: https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?
 
 ---
 
 ### Pilih Keamanan dan Kepastian Medis untuk Orang Tua Anda
 Jangan biarkan coba-coba latihan mandiri membahayakan persendian dan keselamatan orang tua tercinta. Dapatkan pendampingan fisioterapi berlisensi resmi yang aman, terbukti klinis, dan penuh kasih di kediaman Anda bersama Joy of Care.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)
+📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)
