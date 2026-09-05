@@ -1,6 +1,7 @@
 ---
 title: Perawatan Parkinson Rumah vs Rumah Sakit | Joy of Care
 slug: perawatan-pasien-parkinson-di-rumah-biaya-dan-perbandingan
+category: parkinson
 target_url: /blog/perawatan-parkinson-rumah-vs-rs
 meta_description: 'Perbandingan perawatan parkinson di rumah vs rawat inap rumah sakit:
   biaya, kenyamanan, dan kualitas hidup. Chat WhatsApp Joy of Care 08811-118-911 sekarang!'

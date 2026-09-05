@@ -1,6 +1,7 @@
 ---
 title: Vaksin Pneumonia Lindungi Paru Lansia | Joy of Care
 slug: vaksinasi-pneumonia-lindungi-opa-oma-39
+category: perawatan-lansia
 meta_description: Jangan tunggu sesak! Lindungi paru-paru lansia dengan vaksin pneumonia
   PCV13 dan PPSV23. Konsultasi dokter via WhatsApp Joy of Care 08811-118-911 segera!
 primary_keyword: vaksin pneumonia lindungi paru lansia

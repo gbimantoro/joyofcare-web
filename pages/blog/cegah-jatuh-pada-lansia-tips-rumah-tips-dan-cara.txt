@@ -1,6 +1,7 @@
 ---
 title: Checklist Modifikasi Rumah Cegah Jatuh | Joy of Care
 slug: cegah-jatuh-pada-lansia-tips-rumah-tips-dan-cara
+category: perawatan-lansia
 target_url: /blog/checklist-modifikasi-rumah-cegah-jatuh
 meta_description: Checklist praktis modifikasi rumah aman untuk mencegah lansia jatuh
   di kamar mandi dan tangga. Konsultasikan di WhatsApp Joy of Care 08811-118-911 hari

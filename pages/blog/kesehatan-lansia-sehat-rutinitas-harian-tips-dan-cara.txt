@@ -1,6 +1,7 @@
 ---
 title: Rutinitas Pagi untuk Lansia Sehat & Mandiri | Joy of Care
 slug: kesehatan-lansia-sehat-rutinitas-harian-tips-dan-cara
+category: perawatan-lansia
 target_url: /blog/rutinitas-pagi-lansia-sehat
 meta_description: Langkah praktis rutinitas pagi untuk menjaga lansia tetap bugar,
   mandiri, dan terhindar dari risiko cedera. Konsultasi dokter Joy of Care via WA

@@ -1,6 +1,7 @@
 ---
 title: FAQ Rutinitas Sehat Lansia di Rumah Jakarta | Joy of Care
 slug: kesehatan-lansia-sehat-rutinitas-harian-yang-perlu-anda-ketahui
+category: perawatan-lansia
 target_url: /blog/faq-kesehatan-lansia
 meta_description: Tanya jawab lengkap seputar pola hidup sehat lansia, jadwal makan,
   aktivitas fisik, dan pemeriksaan berkala. Hubungi WhatsApp tim Joy of Care di 08811-118-911!

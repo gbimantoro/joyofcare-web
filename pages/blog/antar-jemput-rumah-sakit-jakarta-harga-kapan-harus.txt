@@ -1,6 +1,7 @@
 ---
 title: Kapan Butuh Antar Jemput ke Rumah Sakit? | Joy of Care
 slug: antar-jemput-rumah-sakit-jakarta-harga-kapan-harus
+category: antar-jemput-rs
 target_url: /blog/pengalaman-pasien-antar-jemput-rs-joc
 meta_description: Kenali situasi kapan pasien butuh layanan antar jemput medis ke
   RS di Jakarta, plus studi kasus pemulihan lansia. Hubungi WA Joy of Care 08811-118-911!

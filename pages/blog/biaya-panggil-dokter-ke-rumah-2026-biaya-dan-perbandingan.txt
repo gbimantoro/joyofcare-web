@@ -1,6 +1,7 @@
 ---
 title: Biaya Dokter ke Rumah JOC vs Kavacare | Joy of Care
 slug: biaya-panggil-dokter-ke-rumah-2026-biaya-dan-perbandingan
+category: panggil-dokter
 target_url: /blog/biaya-panggil-dokter-joc-vs-kavacare
 meta_description: 'Perbandingan tarif panggil dokter ke rumah Joy of Care vs Kavacare
   vs Halodoc Jakarta: transparansi. Konsultasi WhatsApp Joy of Care 08811-118-911

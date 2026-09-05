@@ -1,6 +1,7 @@
 ---
 title: Panduan Pesan Cek Darah di Rumah Jakarta | Joy of Care
 slug: cek-darah-di-rumah-jakarta-biaya-tips-dan-cara
+category: home-lab
 target_url: /blog/panduan-pemesanan-home-lab-cek-darah
 meta_description: 'Panduan mudah pesan cek darah di rumah Jakarta tanpa antre: persiapan
   puasa dan pembacaan hasil lab. Hubungi WhatsApp Joy of Care 08811-118-911 sekarang!'

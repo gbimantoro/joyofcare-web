@@ -1,6 +1,7 @@
 ---
 title: Data & Statistik Jatuh Lansia Indonesia | Joy of Care
 slug: cegah-jatuh-pada-lansia-tips-rumah-kapan-harus
+category: perawatan-lansia
 target_url: /blog/statistik-jatuh-lansia-indonesia
 meta_description: Data statistik insiden jatuh lansia di Indonesia dan studi kasus
   keluarga yang berhasil mencegah fraktur. Konsultasi WhatsApp resmi 08811-118-911

@@ -1,6 +1,7 @@
 ---
 title: Cek Darah di Rumah vs Laboratorium Klinik | Joy of Care
 slug: cek-darah-di-rumah-jakarta-biaya-biaya-dan-perbandingan
+category: home-lab
 target_url: /blog/cek-darah-rumah-vs-lab
 meta_description: 'Perbandingan cek darah di rumah vs ke laboratorium klinik Jakarta:
   biaya, kenyamanan, dan waktu hasil. Chat tim Joy of Care di WhatsApp 08811-118-911!'

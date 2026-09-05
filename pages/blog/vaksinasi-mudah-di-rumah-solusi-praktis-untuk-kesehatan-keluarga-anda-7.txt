@@ -1,6 +1,7 @@
 ---
 title: Layanan Vaksinasi Mudah di Rumah Aman | Joy of Care
 slug: vaksinasi-mudah-di-rumah-solusi-praktis-untuk-kesehatan-keluarga-anda-7
+category: vaksinasi-rumah
 meta_description: Layanan vaksinasi mudah di rumah yang praktis dan nyaman untuk seluruh
   keluarga bersama dokter. Hubungi WhatsApp Joy of Care 08811-118-911 sekarang juga!
 primary_keyword: layanan vaksinasi mudah di rumah

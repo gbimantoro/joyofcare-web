@@ -1,6 +1,7 @@
 ---
 title: Studi Kasus Hemat Biaya Dokter Rumah | Joy of Care
 slug: biaya-panggil-dokter-ke-rumah-2026-kapan-harus
+category: panggil-dokter
 target_url: /blog/studi-kasus-hemat-biaya-dokter-rumah
 meta_description: Studi kasus keluarga di Jakarta menghemat jutaan rupiah dengan panggil
   dokter ke rumah vs rawat RS. Hubungi WhatsApp resmi Joy of Care 08811-118-911 sekarang!

@@ -1,6 +1,7 @@
 ---
 title: Kapan Panggil Dokter ke Rumah Jakarta? | Joy of Care
 slug: panggil-dokter-ke-rumah-jakarta-kapan-harus
+category: panggil-dokter
 target_url: /blog/pengalaman-pasien-dokter-ke-rumah-joc
 meta_description: Ketahui tanda dan kapan harus panggil dokter ke rumah Jakarta untuk
   lansia dan keluarga. Konsultasi via WhatsApp Joy of Care 08811-118-911 sekarang

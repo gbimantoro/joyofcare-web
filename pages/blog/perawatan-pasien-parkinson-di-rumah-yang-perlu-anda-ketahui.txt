@@ -1,6 +1,7 @@
 ---
 title: FAQ Perawatan Pasien Parkinson di Rumah | Joy of Care
 slug: perawatan-pasien-parkinson-di-rumah-yang-perlu-anda-ketahui
+category: parkinson
 target_url: /blog/faq-perawatan-parkinson-rumah
 meta_description: Pertanyaan umum perawatan pasien parkinson di rumah, terapi levodopa,
   fenomena freezing, dan komplikasi. Chat WhatsApp Joy of Care 08811-118-911 sekarang!

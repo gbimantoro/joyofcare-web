@@ -1,6 +1,7 @@
 ---
 title: Cegah Jatuh Lansia Indoor vs Outdoor | Joy of Care
 slug: cegah-jatuh-pada-lansia-tips-rumah-biaya-dan-perbandingan
+category: perawatan-lansia
 target_url: /blog/pencegah-jatuh-lansia-indoor-outdoor
 meta_description: 'Perbandingan risiko jatuh lansia di area indoor vs outdoor: faktor
   lingkungan dan strategi pencegahan. Chat WhatsApp Joy of Care 08811-118-911 sekarang!'

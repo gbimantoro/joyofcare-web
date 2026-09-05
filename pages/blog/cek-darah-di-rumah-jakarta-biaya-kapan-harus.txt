@@ -1,6 +1,7 @@
 ---
 title: Studi Kasus Cek Darah di Rumah Jakarta | Joy of Care
 slug: cek-darah-di-rumah-jakarta-biaya-kapan-harus
+category: home-lab
 target_url: /blog/hasil-cek-darah-rumah-studi-kasus
 meta_description: Studi kasus pasien lansia hipertensi & diabetes mengontrol kadar
   gula via cek darah di rumah Jakarta. Konsultasi WhatsApp Joy of Care 08811-118-911

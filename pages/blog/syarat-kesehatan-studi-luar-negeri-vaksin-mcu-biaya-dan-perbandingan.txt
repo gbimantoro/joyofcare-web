@@ -1,6 +1,7 @@
 ---
 title: 'Syarat MCU Studi: Australia vs UK vs Asia | Joy of Care'
 slug: syarat-kesehatan-studi-luar-negeri-vaksin-mcu-biaya-dan-perbandingan
+category: studi-luar-negeri
 target_url: /blog/syarat-kesehatan-studi-negara-comparison
 meta_description: 'Perbandingan syarat kesehatan & biaya MCU studi: Australia vs UK
   vs Jepang vs Korea Selatan. Konsultasi dokter Joy of Care via WhatsApp di 08811-118-911!'

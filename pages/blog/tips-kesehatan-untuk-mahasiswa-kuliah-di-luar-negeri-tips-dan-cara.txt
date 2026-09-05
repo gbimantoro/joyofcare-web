@@ -1,6 +1,7 @@
 ---
 title: Panduan MCU Studi Luar Negeri Lengkap | Joy of Care
 slug: tips-kesehatan-untuk-mahasiswa-kuliah-di-luar-negeri-tips-dan-cara
+category: studi-luar-negeri
 target_url: /blog/panduan-mcu-studi-luar-negeri
 meta_description: Langkah persiapan medical check-up (MCU) dan vaksin wajib sebelum
   berangkat kuliah ke luar negeri. Layanan home lab Joy of Care di nomor WA 08811-118-911!

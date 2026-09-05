@@ -1,6 +1,7 @@
 ---
 title: FAQ Akupuntur Nyeri Sendi pada Lansia | Joy of Care
 slug: akupuntur-untuk-nyeri-sendi-lansia-yang-perlu-anda-ketahui
+category: perawatan-lansia
 target_url: /blog/faq-akupuntur-nyeri-sendi-lansia
 meta_description: 'Tanya jawab lengkap seputar akupuntur medis untuk lansia: rasa
   sakit jarum, frekuensi terapi, & izin praktik resmi. Hubungi WA Joy of Care 08811-118-911!'

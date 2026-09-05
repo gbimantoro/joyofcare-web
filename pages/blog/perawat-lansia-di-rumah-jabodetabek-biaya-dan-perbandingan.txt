@@ -1,6 +1,7 @@
 ---
 title: Perawat Lansia Harian vs 24 Jam di Rumah | Joy of Care
 slug: perawat-lansia-di-rumah-jabodetabek-biaya-dan-perbandingan
+category: perawatan-lansia
 target_url: /blog/perawat-lansia-harian-vs-24-jam
 meta_description: 'Perbandingan perawat lansia harian shift vs live-in 24 jam di Jabodetabek:
   biaya dan kebutuhan. Konsultasikan di WhatsApp Joy of Care 08811-118-911 sekarang!'

@@ -1,6 +1,7 @@
 ---
 title: Pengalaman Fisioterapi Lansia di Rumah | Joy of Care
 slug: fisioterapi-lansia-di-rumah-jakarta-kapan-harus
+category: fisioterapi-rumah
 target_url: /blog/pengalaman-pasien-fisioterapi-lansia-joc
 meta_description: Kisah nyata pemulihan mobilitas lansia pasca patah panggul dengan
   fisioterapi di rumah bersama Joy of Care. Konsultasi WhatsApp resmi 08811-118-911

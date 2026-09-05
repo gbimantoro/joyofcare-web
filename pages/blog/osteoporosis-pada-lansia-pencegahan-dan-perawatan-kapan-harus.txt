@@ -1,6 +1,7 @@
 ---
 title: Data Statistik Osteoporosis Lansia di RI | Joy of Care
 slug: osteoporosis-pada-lansia-pencegahan-dan-perawatan-kapan-harus
+category: osteoporosis
 target_url: /blog/statistik-osteoporosis-indonesia-lansia
 meta_description: Data statistik prevalensi osteoporosis di Indonesia dan studi kasus
   penanganan fraktur panggul lansia di Jakarta. Chat WhatsApp Joy of Care 08811-118-911!

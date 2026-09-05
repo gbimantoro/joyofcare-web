@@ -1,6 +1,7 @@
 ---
 title: Tips Sehat Mahasiswa Studi Luar Negeri | Joy of Care
 slug: tips-kesehatan-untuk-mahasiswa-kuliah-di-luar-negeri-panduan-lengkap
+category: studi-luar-negeri
 target_url: /blog/tips-kesehatan-mahasiswa-luar-negeri
 meta_description: 'Panduan lengkap tips kesehatan mahasiswa kuliah di luar negeri:
   adaptasi cuaca, asuransi, & persiapan MCU di Jakarta. Chat WA Joy of Care 08811-118-911!'

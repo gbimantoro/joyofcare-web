@@ -1,6 +1,7 @@
 ---
 title: Pengalaman Sehat Kuliah di Luar Negeri | Joy of Care
 slug: tips-kesehatan-untuk-mahasiswa-kuliah-di-luar-negeri-kapan-harus
+category: studi-luar-negeri
 target_url: /blog/pengalaman-mahasiswa-sehat-luar-negeri
 meta_description: Kisah nyata mahasiswa Indonesia menjaga kesehatan fisik & mental
   saat studi di Australia & UK, plus tips MCU. Konsultasi Joy of Care via WA 08811-118-911!

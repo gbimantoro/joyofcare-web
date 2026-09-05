@@ -1,6 +1,7 @@
 ---
 title: Kapan Lansia Butuh Pendampingan Rutinitas? | Joy of Care
 slug: kesehatan-lansia-sehat-rutinitas-harian-kapan-harus
+category: perawatan-lansia
 target_url: /blog/survei-kebiasaan-lansia-sehat-jakarta
 meta_description: Kenali tanda kapan lansia membutuhkan pendampingan medis atau perawat
   untuk rutinitas harian di rumah. Chat WhatsApp tim Joy of Care di 08811-118-911

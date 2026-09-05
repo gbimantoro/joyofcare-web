@@ -1,6 +1,7 @@
 ---
 title: Fisioterapi Stroke di Rumah vs Klinik RS | Joy of Care
 slug: fisioterapi-pasca-stroke-di-rumah-biaya-dan-perbandingan
+category: fisioterapi-rumah
 target_url: /blog/fisioterapi-stroke-klinik-vs-rumah
 meta_description: 'Perbandingan fisioterapi stroke di rumah vs klinik rumah sakit:
   biaya, kenyamanan, dan efektivitas. Hubungi WhatsApp Joy of Care 08811-118-911 hari

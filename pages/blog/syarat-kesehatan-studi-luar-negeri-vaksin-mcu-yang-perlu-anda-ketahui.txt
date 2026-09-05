@@ -1,6 +1,7 @@
 ---
 title: FAQ Syarat Medis Studi ke Luar Negeri | Joy of Care
 slug: syarat-kesehatan-studi-luar-negeri-vaksin-mcu-yang-perlu-anda-ketahui
+category: studi-luar-negeri
 target_url: /blog/faq-syarat-kesehatan-studi-luar-negeri
 meta_description: 'Jawaban lengkap pertanyaan syarat kesehatan studi luar negeri:
   visa ditolak, vaksin hilang, & tes TBC. Konsultasi via WhatsApp Joy of Care 08811-118-911!'

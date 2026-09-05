@@ -1,6 +1,7 @@
 ---
 title: Terapi Wicara Pasien Parkinson di Rumah | Joy of Care
 slug: suara-menghilang-kenali-hipofonia-begini-cara-terapi-wicara-mengembalikan-kekuatan-suara-dan-kelancaran-menelan-pada-parkinson-36
+category: parkinson
 meta_description: Mengatasi suara mengecil dan gangguan menelan dengan terapi wicara
   Parkinson di rumah. Jadwalkan sesi terapis via WhatsApp Joy of Care 08811-118-911
   hari ini!

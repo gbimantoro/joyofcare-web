@@ -1,6 +1,7 @@
 ---
 title: Cara Panggil Dokter ke Rumah di BSD Tangsel | Joy of Care
 slug: dokter-umum-ke-rumah-tangerang-tips-dan-cara
+category: panggil-dokter
 target_url: /blog/cara-panggil-dokter-rumah-bsd-tangerang
 meta_description: Panduan mudah cara panggil dokter umum ke rumah di BSD, Gading Serpong,
   & Alam Sutera via WhatsApp. Respon cepat tim Joy of Care di nomor WA 08811-118-911!

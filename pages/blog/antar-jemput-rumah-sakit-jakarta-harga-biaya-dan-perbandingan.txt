@@ -1,6 +1,7 @@
 ---
 title: 'Antar Jemput RS: Joy of Care vs Taksi | Joy of Care'
 slug: antar-jemput-rumah-sakit-jakarta-harga-biaya-dan-perbandingan
+category: antar-jemput-rs
 target_url: /blog/antar-jemput-rs-joc-vs-transport-lain
 meta_description: 'Perbandingan layanan antar jemput pasien ke RS: Joy of Care vs
   taksi online atau ambulans gawat darurat. Konsultasi via WhatsApp Joy of Care 08811-118-911!'

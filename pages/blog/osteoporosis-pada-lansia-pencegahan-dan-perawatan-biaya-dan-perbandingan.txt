@@ -1,6 +1,7 @@
 ---
 title: 'Osteoporosis Lansia: Medis vs Alami Terapi | Joy of Care'
 slug: osteoporosis-pada-lansia-pencegahan-dan-perawatan-biaya-dan-perbandingan
+category: osteoporosis
 target_url: /blog/osteoporosis-pengobatan-medis-vs-alternatif
 meta_description: Perbandingan terapi medis osteoporosis (bisfosfonat/injeksi) vs
   terapi alami suplemen & senam geriatri. Konsultasi tim Joy of Care di nomor WA 08811-118-911!

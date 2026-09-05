@@ -1,6 +1,7 @@
 ---
 title: 'Fisioterapi Pasca Stroke di Rumah: Panduan | Joy of Care'
 slug: fisioterapi-pasca-stroke-di-rumah-panduan-lengkap
+category: fisioterapi-rumah
 target_url: /blog/fisioterapi-pasca-stroke-di-rumah
 meta_description: 'Panduan lengkap fisioterapi pasca stroke di rumah: fase pemulihan,
   neuroplastisitas, dan latihan gerak. Hubungi WhatsApp Joy of Care 08811-118-911

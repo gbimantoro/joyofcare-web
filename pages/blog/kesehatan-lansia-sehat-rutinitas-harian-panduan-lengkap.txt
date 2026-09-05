@@ -1,6 +1,7 @@
 ---
 title: 'Kesehatan Lansia Sehat: Rutinitas Harian | Joy of Care'
 slug: kesehatan-lansia-sehat-rutinitas-harian-panduan-lengkap
+category: perawatan-lansia
 target_url: /blog/panduan-kesehatan-lansia-rutinitas-harian
 meta_description: 'Panduan lengkap kesehatan lansia sehat rutinitas harian di Jakarta:
   nutrisi, hidrasi, mobilitas fisik, & mental. Hubungi WhatsApp Joy of Care 08811-118-911!'

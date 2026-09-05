@@ -1,6 +1,7 @@
 ---
 title: FAQ Osteoporosis pada Lansia di Rumah | Joy of Care
 slug: osteoporosis-pada-lansia-pencegahan-dan-perawatan-yang-perlu-anda-ketahui
+category: osteoporosis
 target_url: /blog/faq-osteoporosis-lansia
 meta_description: 'Tanya jawab lengkap seputar osteoporosis lansia: tes kepadatan
   tulang DEXA, gejala awal, & penanganan di rumah. Hubungi tim Joy of Care di WA 08811-118-911!'

@@ -1,6 +1,7 @@
 ---
 title: Panggil Dokter ke Rumah Jakarta Panduan | Joy of Care
 slug: panggil-dokter-ke-rumah-jakarta-panduan-lengkap
+category: panggil-dokter
 target_url: /blog/panduan-panggil-dokter-ke-rumah-jakarta
 meta_description: 'Panduan lengkap panggil dokter ke rumah Jakarta: alur, layanan,
   dan standar medis Dinkes. Konsultasi via WhatsApp Joy of Care 08811-118-911 sekarang

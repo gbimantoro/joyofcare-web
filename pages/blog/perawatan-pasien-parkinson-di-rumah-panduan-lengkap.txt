@@ -1,6 +1,7 @@
 ---
 title: 'Perawatan Pasien Parkinson di Rumah: Panduan | Joy of Care'
 slug: perawatan-pasien-parkinson-di-rumah-panduan-lengkap
+category: parkinson
 target_url: /blog/perawatan-pasien-parkinson-di-rumah
 meta_description: 'Panduan lengkap perawatan pasien parkinson di rumah: gejala motorik,
   terapi gerak, dan nutrisi harian. Hubungi WhatsApp Joy of Care 08811-118-911 hari

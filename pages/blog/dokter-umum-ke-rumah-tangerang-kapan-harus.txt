@@ -1,6 +1,7 @@
 ---
 title: Kapan Butuh Dokter ke Rumah di Tangerang? | Joy of Care
 slug: dokter-umum-ke-rumah-tangerang-kapan-harus
+category: panggil-dokter
 target_url: /blog/pengalaman-pasien-dokter-joc-tangerang
 meta_description: Kenali situasi darurat non-kritis kapan harus panggil dokter ke
   rumah di BSD Tangerang, plus studi kasus nyata. Hubungi WhatsApp tim Joy of Care

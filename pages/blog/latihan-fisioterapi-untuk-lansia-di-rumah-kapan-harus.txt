@@ -1,6 +1,7 @@
 ---
 title: Studi Kasus Lansia Aktif dengan Fisioterapi | Joy of Care
 slug: latihan-fisioterapi-untuk-lansia-di-rumah-kapan-harus
+category: fisioterapi-rumah
 target_url: /blog/studi-kasus-lansia-aktif-fisioterapi
 meta_description: Studi kasus pasien lansia 75 tahun kembali aktif mandiri setelah
   rutin latihan fisioterapi di rumah. Hubungi WhatsApp resmi Joy of Care 08811-118-911!

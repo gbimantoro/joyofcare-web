@@ -1,6 +1,7 @@
 ---
 title: 'Biaya Panggil Dokter ke Rumah 2026: Tarif | Joy of Care'
 slug: biaya-panggil-dokter-ke-rumah-2026-panduan-lengkap
+category: panggil-dokter
 target_url: /blog/biaya-panggil-dokter-ke-rumah-2026
 meta_description: 'Rincian lengkap biaya panggil dokter ke rumah Jakarta 2026: tarif
   visit, obat, dan tindakan medis. Chat tim dokter via WhatsApp Joy of Care 08811-118-911!'

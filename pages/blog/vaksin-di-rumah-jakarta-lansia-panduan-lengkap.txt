@@ -1,6 +1,7 @@
 ---
 title: 'Vaksin Lansia di Rumah Jakarta: Jadwal & Tarif | Joy of Care'
 slug: vaksin-di-rumah-jakarta-lansia-panduan-lengkap
+category: perawatan-lansia
 target_url: /blog/vaksin-lansia-di-rumah-jakarta
 meta_description: 'Layanan vaksin di rumah Jakarta untuk lansia 2026: influenza, pneumonia,
   herpes zoster, dan harga resmi. Chat WhatsApp Joy of Care 08811-118-911 sekarang

@@ -1,6 +1,7 @@
 ---
 title: Panduan Latihan Keseimbangan Lansia Rumah | Joy of Care
 slug: latihan-fisioterapi-untuk-lansia-di-rumah-tips-dan-cara
+category: fisioterapi-rumah
 target_url: /blog/panduan-latihan-keseimbangan-lansia
 meta_description: Panduan praktis latihan keseimbangan untuk lansia di rumah guna
   mencegah risiko jatuh dan patah tulang. Chat WhatsApp resmi Joy of Care 08811-118-911!

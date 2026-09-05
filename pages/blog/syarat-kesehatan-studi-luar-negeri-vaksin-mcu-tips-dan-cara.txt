@@ -1,6 +1,7 @@
 ---
 title: Panduan Vaksin Studi di Australia, UK & USA | Joy of Care
 slug: syarat-kesehatan-studi-luar-negeri-vaksin-mcu-tips-dan-cara
+category: vaksinasi-rumah
 target_url: /blog/vaksin-wajib-studi-australia-uk-usa
 meta_description: 'Panduan jenis vaksin wajib untuk kuliah di Australia, UK, & USA:
   MMR, Meningitis, Hepatitis, & Tdap. Layanan vaksin ke rumah Joy of Care WA 08811-118-911!'

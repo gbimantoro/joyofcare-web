@@ -1,6 +1,7 @@
 ---
 title: Cara Menghitung Biaya Dokter ke Rumah | Joy of Care
 slug: biaya-panggil-dokter-ke-rumah-2026-tips-dan-cara
+category: panggil-dokter
 target_url: /blog/cara-menghitung-biaya-homecare-dokter
 meta_description: Tips dan cara menghitung estimasi biaya panggil dokter ke rumah
   agar hemat, transparan, dan terukur. Hubungi WhatsApp Joy of Care 08811-118-911

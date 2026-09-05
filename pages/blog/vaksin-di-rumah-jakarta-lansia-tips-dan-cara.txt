@@ -1,6 +1,7 @@
 ---
 title: 'Cara Vaksinasi di Rumah untuk Lansia: SOP | Joy of Care'
 slug: vaksin-di-rumah-jakarta-lansia-tips-dan-cara
+category: perawatan-lansia
 target_url: /blog/cara-vaksinasi-di-rumah-prosedur
 meta_description: 'Panduan langkah persiapan vaksinasi di rumah untuk lansia di Jakarta:
   skrining vital, cold-chain vaksin, & observasi. Chat Joy of Care 08811-118-911 sekarang!'

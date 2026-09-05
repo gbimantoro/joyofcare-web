@@ -1,6 +1,7 @@
 ---
 title: Latihan Fisioterapi Mandiri Pasca Stroke | Joy of Care
 slug: fisioterapi-pasca-stroke-di-rumah-tips-dan-cara
+category: fisioterapi-rumah
 target_url: /blog/latihan-fisioterapi-mandiri-pasca-stroke
 meta_description: Panduan latihan fisioterapi mandiri pasca stroke di rumah yang aman
   untuk melatih tangan dan kaki. Hubungi WhatsApp Joy of Care 08811-118-911 sekarang

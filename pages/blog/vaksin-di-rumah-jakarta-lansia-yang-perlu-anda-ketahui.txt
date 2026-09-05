@@ -1,6 +1,7 @@
 ---
 title: FAQ Vaksinasi Lansia di Rumah Jakarta | Joy of Care
 slug: vaksin-di-rumah-jakarta-lansia-yang-perlu-anda-ketahui
+category: perawatan-lansia
 target_url: /blog/faq-vaksinasi-lansia-rumah
 meta_description: 'Jawaban lengkap pertanyaan seputar vaksinasi lansia di rumah: syarat
   kondisi, KIPI, jenis vaksin, dan tarif resmi. Hubungi WhatsApp Joy of Care 08811-118-911!'

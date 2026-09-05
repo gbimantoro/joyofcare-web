@@ -1,6 +1,7 @@
 ---
 title: Asuransi Kesehatan Pelajar Luar Negeri | Joy of Care
 slug: tips-kesehatan-untuk-mahasiswa-kuliah-di-luar-negeri-biaya-dan-perbandingan
+category: studi-luar-negeri
 target_url: /blog/asuransi-kesehatan-mahasiswa-luar-negeri
 meta_description: Perbandingan asuransi kesehatan mahasiswa di Australia (OSHC), UK
   (IHS), & USA vs asuransi swasta. Konsultasi MCU Joy of Care via WhatsApp 08811-118-911!

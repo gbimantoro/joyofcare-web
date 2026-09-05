@@ -1,6 +1,7 @@
 ---
 title: Kapan Butuh Fisioterapi Pasca Stroke? | Joy of Care
 slug: fisioterapi-pasca-stroke-di-rumah-kapan-harus
+category: fisioterapi-rumah
 target_url: /blog/kisah-pemulihan-pasien-stroke-fisioterapi
 meta_description: Ketahui kapan pasien harus mulai fisioterapi pasca stroke di rumah
   untuk pemulihan motorik optimal. Hubungi WhatsApp Joy of Care 08811-118-911 sekarang

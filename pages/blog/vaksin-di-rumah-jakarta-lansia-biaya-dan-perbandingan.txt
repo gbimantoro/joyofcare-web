@@ -1,6 +1,7 @@
 ---
 title: 'Vaksin Lansia: Rumah vs Klinik Jakarta | Joy of Care'
 slug: vaksin-di-rumah-jakarta-lansia-biaya-dan-perbandingan
+category: perawatan-lansia
 target_url: /blog/vaksin-rumah-vs-klinik-keamanan
 meta_description: 'Perbandingan biaya dan keamanan vaksinasi lansia di rumah vs ke
   klinik di Jakarta: kenyamanan tanpa antrean. Info & pesan WhatsApp Joy of Care 08811-118-911!'

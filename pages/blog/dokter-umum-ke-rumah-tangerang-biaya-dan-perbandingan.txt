@@ -1,6 +1,7 @@
 ---
 title: 'Dokter ke Rumah Tangerang: Biaya & Vendor | Joy of Care'
 slug: dokter-umum-ke-rumah-tangerang-biaya-dan-perbandingan
+category: panggil-dokter
 target_url: /blog/dokter-rumah-tangerang-joc-vs-kompetitor
 meta_description: 'Perbandingan biaya panggil dokter ke rumah di Tangerang: Joy of
   Care vs vendor lain, transparansi tarif medis. Konsultasi via WhatsApp di 08811-118-911!'

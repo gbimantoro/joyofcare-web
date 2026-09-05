@@ -1,6 +1,7 @@
 ---
 title: Dokter Umum ke Rumah Tangerang & Tangsel | Joy of Care
 slug: dokter-umum-ke-rumah-tangerang-panduan-lengkap
+category: panggil-dokter
 target_url: /blog/dokter-panggilan-rumah-tangerang
 meta_description: 'Layanan panggil dokter umum ke rumah di Tangerang & Tangerang Selatan
   2026: BSD, Serpong, Bintaro, & tarif. Chat WhatsApp Joy of Care 08811-118-911 sekarang!'

@@ -1,6 +1,7 @@
 ---
 title: Pengalaman Pasien Infus Vitamin di Rumah | Joy of Care
 slug: infus-vitamin-di-rumah-jakarta-harga-kapan-harus
+category: infus-vitamin
 target_url: /blog/pengalaman-pasien-infus-vitamin-joc
 meta_description: Kisah nyata eksekutif Jakarta memulihkan kebugaran pascasakit dengan
   infus vitamin di rumah Joy of Care. Chat WhatsApp resmi 08811-118-911 sekarang juga!

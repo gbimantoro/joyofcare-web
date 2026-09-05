@@ -1,6 +1,7 @@
 ---
 title: Tips Merawat Pasien Parkinson di Rumah | Joy of Care
 slug: perawatan-pasien-parkinson-di-rumah-tips-dan-cara
+category: parkinson
 target_url: /blog/tips-merawat-pasien-parkinson-aktif
 meta_description: Tips praktis merawat pasien parkinson di rumah agar tetap aktif,
   mandiri, dan bahagia setiap hari. Konsultasi tim via WhatsApp Joy of Care 08811-118-911!

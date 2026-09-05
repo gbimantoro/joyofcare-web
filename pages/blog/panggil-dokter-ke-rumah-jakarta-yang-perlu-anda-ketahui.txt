@@ -1,6 +1,7 @@
 ---
 title: 'Panggil Dokter ke Rumah Jakarta: Fakta | Joy of Care'
 slug: panggil-dokter-ke-rumah-jakarta-yang-perlu-anda-ketahui
+category: panggil-dokter
 target_url: /blog/panggil-dokter-rumah-vs-klinik
 meta_description: Hal penting yang perlu Anda ketahui tentang layanan panggil dokter
   ke rumah Jakarta. Jadwalkan home visit via WhatsApp Joy of Care 08811-118-911 sekarang!

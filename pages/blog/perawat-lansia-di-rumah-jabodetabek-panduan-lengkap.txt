@@ -1,6 +1,7 @@
 ---
 title: 'Perawat Lansia di Rumah Jabodetabek: Panduan | Joy of Care'
 slug: perawat-lansia-di-rumah-jabodetabek-panduan-lengkap
+category: perawatan-lansia
 target_url: /blog/perawat-lansia-di-rumah-jabodetabek
 meta_description: 'Panduan lengkap perawat lansia di rumah Jabodetabek: estimasi biaya,
   jenis layanan, dan kualifikasi medis. Hubungi WhatsApp Joy of Care 08811-118-911

@@ -1,6 +1,7 @@
 ---
 title: Latihan Mandiri vs Fisioterapis Lansia | Joy of Care
 slug: latihan-fisioterapi-untuk-lansia-di-rumah-biaya-dan-perbandingan
+category: fisioterapi-rumah
 target_url: /blog/latihan-fisioterapi-mandiri-vs-terapis
 meta_description: 'Perbandingan latihan fisioterapi mandiri vs didampingi fisioterapis
   di rumah: keamanan dan hasil. Konsultasi tim via WhatsApp Joy of Care 08811-118-911!'

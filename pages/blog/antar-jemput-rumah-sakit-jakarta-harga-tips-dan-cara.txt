@@ -1,6 +1,7 @@
 ---
 title: Cara Pesan Antar Jemput Pasien ke RS | Joy of Care
 slug: antar-jemput-rumah-sakit-jakarta-harga-tips-dan-cara
+category: antar-jemput-rs
 target_url: /blog/cara-pesan-antar-jemput-rumah-sakit
 meta_description: Panduan praktis cara memesan layanan antar jemput pasien ke rumah
   sakit di Jakarta via WhatsApp. Respon cepat tim Joy of Care di nomor WA 08811-118-911!

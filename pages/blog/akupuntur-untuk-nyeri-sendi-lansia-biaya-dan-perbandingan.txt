@@ -1,6 +1,7 @@
 ---
 title: Akupuntur vs Obat Nyeri Sendi Lansia | Joy of Care
 slug: akupuntur-untuk-nyeri-sendi-lansia-biaya-dan-perbandingan
+category: perawatan-lansia
 target_url: /blog/akupuntur-vs-obat-nyeri-sendi
 meta_description: 'Perbandingan akupuntur medis vs obat anti-nyeri NSAID untuk lansia:
   efektivitas, keamanan lambung & ginjal. Konsultasi Joy of Care via WA 08811-118-911!'

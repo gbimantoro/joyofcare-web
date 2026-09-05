@@ -1,6 +1,7 @@
 ---
 title: Kapan Lansia Butuh Vaksinasi di Rumah? | Joy of Care
 slug: vaksin-di-rumah-jakarta-lansia-kapan-harus
+category: perawatan-lansia
 target_url: /blog/studi-kasus-vaksinasi-lansia-joc
 meta_description: 'Kenali tanda kapan lansia membutuhkan layanan vaksinasi datang
   ke rumah: mobilitas terbatas, komorbid, & musim flu. Chat WhatsApp Joy of Care 08811-118-911!'

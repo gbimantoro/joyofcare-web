@@ -1,6 +1,7 @@
 ---
 title: Makanan Penambah Kepadatan Tulang Lansia | Joy of Care
 slug: osteoporosis-pada-lansia-pencegahan-dan-perawatan-tips-dan-cara
+category: osteoporosis
 target_url: /blog/makanan-pencegahan-osteoporosis-lansia
 meta_description: Daftar makanan dan nutrisi terbaik penambah kepadatan tulang lansia
   untuk mencegah osteoporosis di rumah. Konsultasi dokter Joy of Care via WA 08811-118-911!

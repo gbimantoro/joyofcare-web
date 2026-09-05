@@ -1,6 +1,7 @@
 ---
 title: 'Osteoporosis Lansia: Pencegahan & Rawat | Joy of Care'
 slug: osteoporosis-pada-lansia-pencegahan-dan-perawatan-panduan-lengkap
+category: osteoporosis
 target_url: /blog/osteoporosis-lansia-pencegahan-perawatan
 meta_description: 'Panduan lengkap osteoporosis pada lansia: pencegahan pengeroposan
   tulang, asupan kalsium, & fisioterapi di rumah. Hubungi Joy of Care di WA 08811-118-911!'

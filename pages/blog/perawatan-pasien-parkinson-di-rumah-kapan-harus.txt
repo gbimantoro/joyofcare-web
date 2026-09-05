@@ -1,6 +1,7 @@
 ---
 title: Kisah Sukses Pasien Parkinson di Rumah | Joy of Care
 slug: perawatan-pasien-parkinson-di-rumah-kapan-harus
+category: parkinson
 target_url: /blog/kisah-sukses-pasien-parkinson-mandiri
 meta_description: Kisah nyata pemulihan mobilitas pasien parkinson di rumah dengan
   terapi terpadu Joy of Care. Konsultasi dokter via WhatsApp resmi 08811-118-911 sekarang!

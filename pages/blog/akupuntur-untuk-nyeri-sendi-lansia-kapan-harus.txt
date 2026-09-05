@@ -1,6 +1,7 @@
 ---
 title: Kapan Lansia Butuh Terapi Akupuntur? | Joy of Care
 slug: akupuntur-untuk-nyeri-sendi-lansia-kapan-harus
+category: perawatan-lansia
 target_url: /blog/pengalaman-pasien-akupuntur-nyeri-sendi
 meta_description: Kenali kapan lansia butuh terapi akupuntur untuk nyeri sendi kronis,
   plus studi kasus pemulihan mobilitas di Jakarta. Chat WA Joy of Care 08811-118-911!

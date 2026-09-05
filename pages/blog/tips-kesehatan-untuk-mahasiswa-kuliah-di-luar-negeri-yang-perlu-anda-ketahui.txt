@@ -1,6 +1,7 @@
 ---
 title: FAQ Kesehatan Mahasiswa ke Luar Negeri | Joy of Care
 slug: tips-kesehatan-untuk-mahasiswa-kuliah-di-luar-negeri-yang-perlu-anda-ketahui
+category: studi-luar-negeri
 target_url: /blog/faq-kesehatan-mahasiswa-luar-negeri
 meta_description: 'Tanya jawab lengkap seputar persiapan kesehatan mahasiswa kuliah
   di luar negeri: bawa obat resep, vaksin wajib, & MCU. Chat Joy of Care di WA 08811-118-911!'

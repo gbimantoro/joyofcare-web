@@ -1,6 +1,7 @@
 ---
 title: FAQ Layanan Antar Jemput ke Rumah Sakit | Joy of Care
 slug: antar-jemput-rumah-sakit-jakarta-harga-yang-perlu-anda-ketahui
+category: antar-jemput-rs
 target_url: /blog/faq-antar-jemput-rumah-sakit
 meta_description: 'Tanya jawab lengkap seputar layanan antar jemput rumah sakit: fasilitas
   kursi roda, brankar, & tarif resmi. Hubungi WhatsApp Joy of Care 08811-118-911!'

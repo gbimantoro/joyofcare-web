@@ -1,6 +1,7 @@
 ---
 title: Aturan Minum Obat Levodopa Parkinson | Joy of Care
 slug: pil-ajaib-parkinson-kenapa-obat-levodopa-jadi-pahlawan-utama-panduan-cerdas-mengelola-dosis-agar-gerakan-tetap-normal-34
+category: parkinson
 meta_description: Panduan tepat aturan minum obat Levodopa untuk pasien Parkinson
   agar efektivitas optimal. Hubungi tim medis via WhatsApp Joy of Care 08811-118-911
   hari ini!

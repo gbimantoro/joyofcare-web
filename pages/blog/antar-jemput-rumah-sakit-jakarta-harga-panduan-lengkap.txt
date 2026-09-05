@@ -1,6 +1,7 @@
 ---
 title: 'Antar Jemput ke Rumah Sakit Jakarta: Tarif | Joy of Care'
 slug: antar-jemput-rumah-sakit-jakarta-harga-panduan-lengkap
+category: antar-jemput-rs
 target_url: /blog/antar-jemput-rumah-sakit-jakarta
 meta_description: 'Layanan antar jemput pasien ke rumah sakit di Jakarta 2026: tarif,
   armada medis, & pendampingan perawat. Chat WhatsApp Joy of Care 08811-118-911 sekarang!'

@@ -1,6 +1,7 @@
 ---
 title: FAQ Cek Darah di Rumah Jakarta & Biaya | Joy of Care
 slug: cek-darah-di-rumah-jakarta-biaya-yang-perlu-anda-ketahui
+category: panggil-dokter
 target_url: /blog/faq-cek-darah-di-rumah
 meta_description: Pertanyaan umum seputar layanan cek darah di rumah Jakarta, akurasi
   hasil, flebotomis, dan biaya lab. Chat WhatsApp Joy of Care 08811-118-911 sekarang!

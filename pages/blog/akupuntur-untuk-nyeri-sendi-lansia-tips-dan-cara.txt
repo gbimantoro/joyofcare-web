@@ -1,6 +1,7 @@
 ---
 title: Panduan Terapi Akupuntur Nyeri Sendi | Joy of Care
 slug: akupuntur-untuk-nyeri-sendi-lansia-tips-dan-cara
+category: perawatan-lansia
 target_url: /blog/panduan-akupuntur-nyeri-sendi
 meta_description: Langkah persiapan dan proses terapi akupuntur medis untuk meredakan
   nyeri sendi lutut lansia di rumah. Konsultasi terapis Joy of Care di WA 08811-118-911!

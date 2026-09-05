@@ -1,6 +1,7 @@
 ---
 title: FAQ Pencegahan Jatuh pada Lansia Rumah | Joy of Care
 slug: cegah-jatuh-pada-lansia-tips-rumah-yang-perlu-anda-ketahui
+category: perawatan-lansia
 target_url: /blog/faq-cegah-jatuh-lansia
 meta_description: Pertanyaan umum seputar pencegahan jatuh pada lansia di rumah, hipotensi
   ortostatik, dan penerangan. Hubungi WhatsApp Joy of Care 08811-118-911 sekarang!

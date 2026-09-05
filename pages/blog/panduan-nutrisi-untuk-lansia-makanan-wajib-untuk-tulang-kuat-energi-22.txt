@@ -1,6 +1,7 @@
 ---
 title: Panduan Nutrisi Lansia Tulang & Energi | Joy of Care
 slug: panduan-nutrisi-untuk-lansia-makanan-wajib-untuk-tulang-kuat-energi-22
+category: perawatan-lansia
 meta_description: Panduan nutrisi lengkap untuk lansia agar tulang kuat dan berenergi
   setiap hari. Konsultasikan diet lansia via WhatsApp Joy of Care 08811-118-911 sekarang!
 primary_keyword: panduan nutrisi lengkap untuk lansia

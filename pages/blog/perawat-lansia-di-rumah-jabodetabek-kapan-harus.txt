@@ -1,6 +1,7 @@
 ---
 title: Pengalaman Perawat Lansia di Rumah JOC | Joy of Care
 slug: perawat-lansia-di-rumah-jabodetabek-kapan-harus
+category: perawatan-lansia
 target_url: /blog/pengalaman-keluarga-perawat-lansia-joc
 meta_description: Kisah nyata dan pengalaman keluarga merawat lansia di rumah Jabodetabek
   bersama perawat Joy of Care. Konsultasi WhatsApp resmi 08811-118-911 sekarang juga!

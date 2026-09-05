@@ -1,6 +1,7 @@
 ---
 title: Layanan Infus Osteoporosis di Rumah Aman | Joy of Care
 slug: layanan-terapi-infus-injeksi-osteoporosis-di-rumah-pasien-homecare-42
+category: osteoporosis
 meta_description: Layanan terapi infus & injeksi osteoporosis di rumah berizin Dinkes
   untuk lansia. Booking perawat dokter via WhatsApp Joy of Care 08811-118-911 sekarang!
 primary_keyword: layanan infus osteoporosis di rumah aman

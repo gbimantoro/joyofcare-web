@@ -1,6 +1,7 @@
 ---
 title: Biaya Panggil Dokter ke Rumah Jakarta | Joy of Care
 slug: panggil-dokter-ke-rumah-jakarta-biaya-dan-perbandingan
+category: panggil-dokter
 target_url: /blog/biaya-panggil-dokter-rumah-jakarta-faq
 meta_description: Rincian biaya panggil dokter ke rumah Jakarta dan perbandingan dengan
   klinik atau RS. Hubungi tim medis via WhatsApp Joy of Care 08811-118-911 hari ini!

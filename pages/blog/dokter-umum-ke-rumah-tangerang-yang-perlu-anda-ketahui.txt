@@ -1,6 +1,7 @@
 ---
 title: FAQ Dokter Umum ke Rumah Tangerang & BSD | Joy of Care
 slug: dokter-umum-ke-rumah-tangerang-yang-perlu-anda-ketahui
+category: panggil-dokter
 target_url: /blog/faq-dokter-umum-rumah-tangerang
 meta_description: 'Tanya jawab lengkap seputar layanan panggil dokter umum ke rumah
   di Tangerang: wilayah jangkau, resep obat, & tarif. Chat Joy of Care di WA 08811-118-911!'
