@@ -1,0 +1,41 @@
+# robots.txt — Joy of Care
+# https://www.joyofcare.net
+
+User-agent: *
+Allow: /
+Disallow: /web/
+Disallow: /admin/
+Disallow: /webmail/
+Disallow: /*?*
+
+# AI Crawlers — explicitly allow for GEO/AIO
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+# Block spam/scraping bots
+User-agent: CCBot
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: Diffbot
+Disallow: /
+
+# Sitemap (HTTPS!)
+Sitemap: https://www.joyofcare.net/sitemap.xml
