@@ -92,7 +92,7 @@
     },
     "sameAs": [
       "https://www.instagram.com/joyofcare",
-      "https://wa.me/628811118911"
+      "https://api.whatsapp.com/send/?phone=628811118911"
     ]
   }
   </script>
@@ -132,7 +132,7 @@
         "name": "Area layanan Joy of Care mencakup daerah mana saja?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Joy of Care melayani area BSD City, Tangerang Selatan, Tangerang, Jakarta, Depok, dan Bogor serta sekitarnya. Kami menawarkan harga kompetitif yang sudah termasuk transport."
+          "text": "Joy of Care melayani area BSD City, Tangerang Selatan, Tangerang, Jakarta, Depok, dan Bogor serta sekitarnya. Kami menawarkan harga all-in yang sudah termasuk biaya transportasi tenaga medis ke lokasi Anda."
         }
       },
       {
@@ -190,7 +190,7 @@
         <a href="#testimoni">Testimoni</a>
         <a href="/blog/">Artikel</a>
         <a href="#faq">FAQ</a>
-        <a href="https://wa.me/628811118911&text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20tanya%20layanan%20Joy%20of%20Care" class="nav-cta">Chat WhatsApp</a>
+        <a href="https://api.whatsapp.com/send/?phone=628811118911&text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20tanya%20layanan%20Joy%20of%20Care" class="nav-cta">Chat WhatsApp</a>
       </div>
 
       <button class="nav-mobile" aria-label="Buka menu" onclick="document.querySelector('.nav-links').classList.toggle('nav-open')">
@@ -209,9 +209,9 @@
             Homecare Health Service — BSD City
           </div>
           <h1>Sehat Mudah<br><span>di Rumah</span></h1>
-          <p>Layanan kesehatan profesional ke rumah Anda: panggil dokter, fisioterapi, infus vitamin, home lab, dan antar jemput RS. sudah termasuk transportasi.</p>
+          <p>Layanan kesehatan profesional ke rumah Anda: panggil dokter, fisioterapi, infus vitamin, home lab, dan antar jemput RS. Harga all-in, sudah termasuk transportasi.</p>
           <div class="hero-actions">
-            <a href="https://wa.me/628811118911&text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20tanya%20layanan%20Joy%20of%20Care" class="btn btn-primary btn-lg">
+            <a href="https://api.whatsapp.com/send/?phone=628811118911&text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20tanya%20layanan%20Joy%20of%20Care" class="btn btn-primary btn-lg">
               <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
               Chat Konsultasi
             </a>
@@ -328,7 +328,7 @@
           <h2>Help Your Life Better</h2>
           <p>Kami berusaha membantu menjadikan hidup Anda lebih baik. Kami menyadari bahwa setiap individu memiliki kebutuhan kesehatan yang unik, dan kami di sini untuk menyediakan perawatan yang personal, komprehensif, dan nyaman.</p>
           <p>Dengan keahlian profesional, teknologi terkini, dan sentuhan kemanusiaan, kami berupaya memastikan bahwa setiap interaksi dengan Joy of Care memberikan dampak positif pada kesehatan Anda.</p>
-          <a href="https://wa.me/628811118911&text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20tanya%20layanan%20Joy%20of%20Care" class="btn btn-primary" style="margin-top: 12px;">Chat Sekarang</a>
+          <a href="https://api.whatsapp.com/send/?phone=628811118911&text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20tanya%20layanan%20Joy%20of%20Care" class="btn btn-primary" style="margin-top: 12px;">Chat Sekarang</a>
         </div>
         <div class="hero-image">
           <img src="https://www.joyofcare.net/web/image/489-217eabc3/12.webp" alt="Tim Joy of Care" width="480" height="360" loading="lazy">
@@ -378,7 +378,7 @@
           </button>
           <div class="faq-answer" role="region">
             <div class="faq-answer-inner">
-              Anda bisa langsung chat WhatsApp kami di <a href="https://wa.me/628811118911&text=Hi,%20saya%20mau%20tanya%20panggil%20dokter">08811-118-911</a>. Tim customer service kami akan membantu menjadwalkan kunjungan dokter sesuai kebutuhan Anda. Konsultasi via WhatsApp gratis dan tanpa komitmen.
+              Anda bisa langsung chat WhatsApp kami di <a href="https://api.whatsapp.com/send/?phone=628811118911&text=Hi,%20saya%20mau%20tanya%20panggil%20dokter">08811-118-911</a>. Tim customer service kami akan membantu menjadwalkan kunjungan dokter sesuai kebutuhan Anda. Konsultasi via WhatsApp gratis dan tanpa komitmen.
             </div>
           </div>
         </div>
@@ -389,7 +389,7 @@
           </button>
           <div class="faq-answer" role="region">
             <div class="faq-answer-inner">
-              Joy of Care melayani area BSD City, Tangerang Selatan, Tangerang, Jakarta, Depok, dan Bogor serta sekitarnya. Kami menawarkan harga kompetitif yang sudah termasuk transport.
+              Joy of Care melayani area BSD City, Tangerang Selatan, Tangerang, Jakarta, Depok, dan Bogor serta sekitarnya. Kami menawarkan harga all-in yang sudah termasuk biaya transportasi tenaga medis ke lokasi Anda.
             </div>
           </div>
         </div>
@@ -436,7 +436,7 @@
       <div class="cta-banner">
         <h2>Siap Memulai Perjalanan Kesehatan Anda?</h2>
         <p>Hubungi kami sekarang untuk konsultasi atau informasi lebih lanjut. Tim kami siap membantu Anda setiap langkahnya.</p>
-        <a href="https://wa.me/628811118911&text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?" class="btn btn-primary btn-lg">Pesan via WhatsApp</a>
+        <a href="https://api.whatsapp.com/send/?phone=628811118911&text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?" class="btn btn-primary btn-lg">Pesan via WhatsApp</a>
       </div>
     </div>
   </section>
@@ -451,7 +451,7 @@
           Ruko Greenwich Business Park E-15<br>
           Jl. Bumi Botanika, BSD City<br>
           Tangerang Selatan</p>
-          <p>Chat WhatsApp: <a href="https://wa.me/628811118911&text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?" style="font-weight: 600;">08811-118-911</a></p>
+          <p>Chat WhatsApp: <a href="https://api.whatsapp.com/send/?phone=628811118911&text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?" style="font-weight: 600;">08811-118-911</a></p>
           <p>Email: <a href="mailto:hi@joyofcare.net">hi@joyofcare.net</a></p>
         </div>
         <div>
@@ -496,13 +496,13 @@
             <a href="/">Beranda</a>
             <a href="/artikel">Artikel Kesehatan</a>
             <a href="/walk-in-promo">Promo Walk-in</a>
-            <a href="https://wa.me/628811118911&text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20tanya%20layanan%20Joy%20of%20Care">Hubungi Kami</a>
+            <a href="https://api.whatsapp.com/send/?phone=628811118911&text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20tanya%20layanan%20Joy%20of%20Care">Hubungi Kami</a>
           </div>
         </div>
         <div>
           <h4>Ikuti Kami</h4>
           <div class="footer-links">
-            <a href="https://wa.me/628811118911&text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20tanya%20layanan%20Joy%20of%20Care" target="_blank" rel="noopener">WhatsApp</a>
+            <a href="https://api.whatsapp.com/send/?phone=628811118911&text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20tanya%20layanan%20Joy%20of%20Care" target="_blank" rel="noopener">WhatsApp</a>
             <a href="https://www.instagram.com/joyofcare" target="_blank" rel="noopener">Instagram</a>
             <a href="https://www.google.com/maps/place/Joy+of+Care/@-6.277,106.633,17z" target="_blank" rel="noopener">Google Maps</a>
           </div>
@@ -517,7 +517,7 @@
   </footer>
 
   <!-- ========== WHATSAPP FLOATING BUTTON ========== -->
-  <a href="https://wa.me/628811118911&text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20tanya%20layanan%20Joy%20of%20Care" class="wa-float" target="_blank" rel="noopener" aria-label="Chat WhatsApp Joy of Care">
+  <a href="https://api.whatsapp.com/send/?phone=628811118911&text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20tanya%20layanan%20Joy%20of%20Care" class="wa-float" target="_blank" rel="noopener" aria-label="Chat WhatsApp Joy of Care">
     <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
   </a>
 
@@ -545,27 +545,6 @@
       });
     });
   </script>
-
-<script>
-var menuBtn = document.querySelector(".nav-mobile");
-var navLinks = document.querySelector(".nav-links");
-if (menuBtn && navLinks) {
-  menuBtn.addEventListener("click", function(e) {
-    e.preventDefault();
-    navLinks.classList.toggle("nav-open");
-  });
-  navLinks.querySelectorAll("a").forEach(function(link) {
-    link.addEventListener("click", function() {
-      navLinks.classList.remove("nav-open");
-    });
-  });
-  document.addEventListener("click", function(e) {
-    if (!e.target.closest(".nav") && navLinks.classList.contains("nav-open")) {
-      navLinks.classList.remove("nav-open");
-    }
-  });
-}
-</script>
 
 </body>
 </html>
