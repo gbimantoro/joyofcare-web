@@ -8,11 +8,11 @@ Osteoporosis atau pengeroposan tulang adalah kondisi berkurangnya kepadatan dan 
 Secara medis, terapi osteoporosis terbagi ke dalam beberapa pilar utama:
 
 
-1. Terapi Farmakologi (Medis)
+<li>Terapi Farmakologi (Medis)</li>
 Dokter spesialis (Ortopedi, Penyakit Dalam, atau Reumatologi) biasanya meresepkan terapi farmakologi berdasarkan mekanisme kerja berikut:
 
 
-* Antiresorptif (Penghambat Pengikisan Tulang):
+<li>Antiresorptif (Penghambat Pengikisan Tulang):</li>
 
 
 
@@ -50,38 +50,38 @@ Dokter spesialis (Ortopedi, Penyakit Dalam, atau Reumatologi) biasanya meresepka
 
 
 
-* Anabolik (Pembentuk Massa Tulang Baru):
+<li>Anabolik (Pembentuk Massa Tulang Baru):</li>
 
 
 
    * Diberikan pada kasus osteoporosis derajat berat untuk merangsang osteoblas membangun tulang baru (misalnya analog hormon paratiroid/Teriparatide).
 
 
-* Terapi Pengganti Hormon (HRT / SERM):
+<li>Terapi Pengganti Hormon (HRT / SERM):</li>
 
 
 
    * Digunakan pada wanita pascamenopause tertentu di bawah pengawasan ketat dokter.
 
 
-2. Terapi Suplementasi Nutrisi Tulang
+<li>Terapi Suplementasi Nutrisi Tulang</li>
 Sebagai fondasi harian, tubuh membutuhkan asupan esensial:
 
 
-* Kalsium Elemental: Memenuhi kebutuhan harian 1.000–1.200 mg.
+<li>Kalsium Elemental: Memenuhi kebutuhan harian 1.000–1.200 mg.</li>
 
 
-* Vitamin D3: Membantu penyerapan kalsium di usus dan meningkatkan kekuatan otot.
+<li>Vitamin D3: Membantu penyerapan kalsium di usus dan meningkatkan kekuatan otot.</li>
 
 
-* Vitamin K2 & Magnesium: Membantu mengarahkan kalsium langsung ke matriks tulang.
+<li>Vitamin K2 & Magnesium: Membantu mengarahkan kalsium langsung ke matriks tulang.</li>
 
 
-3. Terapi Fisik & Fisioterapi
+<li>Terapi Fisik & Fisioterapi</li>
 Latihan beban terarah (weight-bearing exercise) dan latihan keseimbangan untuk mencegah kekakuan sendi serta melatih koordinasi agar tidak mudah jatuh.
 
 
-4. Modifikasi Gaya Hidup
+<li>Modifikasi Gaya Hidup</li>
 Menghentikan konsumsi rokok dan alkohol berlebih, serta memodifikasi lingkungan rumah agar ramah lansia (fall-prevention setup).
 
 

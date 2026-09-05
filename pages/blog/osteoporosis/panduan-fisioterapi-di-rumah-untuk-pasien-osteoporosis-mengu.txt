@@ -6,7 +6,7 @@ Pengobatan farmakologis (seperti vitamin, kalsium, atau obat injeksi) perlu diim
 
 
 Prinsip Gerakan Fisioterapi yang Aman untuk Osteoporosis
-1. Latihan Beban Sesuai Kapasitas (Weight-Bearing Exercise):
+<li>Latihan Beban Sesuai Kapasitas (Weight-Bearing Exercise):</li>
 
 
 
@@ -16,7 +16,7 @@ Prinsip Gerakan Fisioterapi yang Aman untuk Osteoporosis
    * Manfaat: Memberikan beban aksial pada tulang belakang dan paha untuk merangsang retensi kalsium.
 
 
-2. Penguatan Otot Postural (Postural & Core Strengthening):
+<li>Penguatan Otot Postural (Postural & Core Strengthening):</li>
 
 
 
@@ -26,7 +26,7 @@ Prinsip Gerakan Fisioterapi yang Aman untuk Osteoporosis
    * Tujuan: Mencegah postur bungkuk (kifosis) dan mengurangi kompresi pada ruas tulang belakang.
 
 
-3. Latihan Keseimbangan (Balance Training):
+<li>Latihan Keseimbangan (Balance Training):</li>
 
 
 
@@ -37,26 +37,26 @@ Prinsip Gerakan Fisioterapi yang Aman untuk Osteoporosis
 
 
 ⚠️ Gerakan yang DILARANG (Kontraindikasi) untuk Penderita Tulang Keropos:
-* Membungkuk ekstrem ke depan (Spinal Flexion): Contoh: sit-up, mencium lutut, atau mengangkat barang berat dari lantai dengan punggung melengkung.
+<li>Membungkuk ekstrem ke depan (Spinal Flexion): Contoh: sit-up, mencium lutut, atau mengangkat barang berat dari lantai dengan punggung melengkung.</li>
 
 
-* Memutar pinggang secara mendadak (Spinal Twisting): Gerakan memutar cepat dapat memicu retak mikro pada vertebra yang rapuh.
+<li>Memutar pinggang secara mendadak (Spinal Twisting): Gerakan memutar cepat dapat memicu retak mikro pada vertebra yang rapuh.</li>
 
 
-* Latihan benturan tinggi (High-Impact): Melompat, lari cepat, atau aerobik keras.
+<li>Latihan benturan tinggi (High-Impact): Melompat, lari cepat, atau aerobik keras.</li>
 
 
 Mengapa Fisioterapi di Rumah (Home Visit) Lebih Direkomendasikan?
 Melalui kunjungan fisioterapis ke rumah, terapis dapat:
 
 
-* Mengevaluasi langsung denah lingkungan rumah (pencahayaan, karpet licin, pegangan toilet).
+<li>Mengevaluasi langsung denah lingkungan rumah (pencahayaan, karpet licin, pegangan toilet).</li>
 
 
-* Menyesuaikan program latihan dengan perabotan yang ada.
+<li>Menyesuaikan program latihan dengan perabotan yang ada.</li>
 
 
-* Memberikan pendampingan manual yang aman tanpa risiko cedera di perjalanan.
+<li>Memberikan pendampingan manual yang aman tanpa risiko cedera di perjalanan.</li>
 
 
 Kemitraan Medis & Fisioterapi Profesional Joy of Care

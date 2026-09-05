@@ -1,5 +1,4 @@
----
-title: 'Perawatan Pasien Parkinson di Rumah: Panduan | Joy of Care'
+---title: 'Perawatan Pasien Parkinson di Rumah: Panduan | Joy of Care'
 slug: perawatan-pasien-parkinson-di-rumah-panduan-lengkap
 category: parkinson
 target_url: /blog/perawatan-pasien-parkinson-di-rumah
@@ -8,164 +7,164 @@ meta_description: 'Panduan lengkap perawatan pasien parkinson di rumah: gejala m
   ini!'
 primary_keyword: perawatan pasien parkinson di rumah
 secondary_keywords:
-- panduan merawat penderita parkinson di rumah
-- fisioterapi parkinson homecare jakarta
-- manajemen obat levodopa parkinson
-- modifikasi rumah aman pasien parkinson
+<li>panduan merawat penderita parkinson di rumah</li>
+<li>fisioterapi parkinson homecare jakarta</li>
+<li>manajemen obat levodopa parkinson</li>
+<li>modifikasi rumah aman pasien parkinson</li>
 variation_type: panduan-lengkap
 faq:
-- question: Apa pilar terpenting dalam perawatan pasien Parkinson di rumah?
+<li>question: Apa pilar terpenting dalam perawatan pasien Parkinson di rumah?</li>
   answer: Empat pilar utama meliputi kepatuhan ketat waktu minum obat levodopa, latihan
     fisioterapi gerak aktif untuk menjaga kelenturan sendi, modifikasi lingkungan
     rumah untuk mencegah jatuh saat freezing, serta dukungan nutrisi tinggi serat
     untuk mengatasi sembelit kronis.
-- question: Mengapa jam minum obat Parkinson tidak boleh terlambat sama sekali?
+<li>question: Mengapa jam minum obat Parkinson tidak boleh terlambat sama sekali?</li>
   answer: Obat levodopa memiliki waktu paruh yang pendek di dalam darah. Keterlambatan
     minum obat selama 15–30 menit saja dapat memicu fase 'off' mendadak, di mana tubuh
-    pasien menjadi kaku total (*rigidity*), gemetar hebat, dan tidak mampu melangkah.
-- question: Bagaimana cara mengatasi fenomena membeku (freezing of gait) pada pasien
+    pasien menjadi kaku total (<em>rigidity</em>), gemetar hebat, dan tidak mampu melangkah.
+<li>question: Bagaimana cara mengatasi fenomena membeku (freezing of gait) pada pasien</li>
     Parkinson saat berjalan?
   answer: Gunakan isyarat visual (seperti garis lakban kontras di lantai untuk dilangkahi),
     isyarat pendengaran (menghitung 'satu-dua-satu-dua' dengan suara tegas), atau
     minta pasien mengayunkan berat badan ke kanan dan kiri sebelum melangkah maju.
-- question: Kapan keluarga membutuhkan bantuan perawat medis homecare untuk pasien
+<li>question: Kapan keluarga membutuhkan bantuan perawat medis homecare untuk pasien</li>
     Parkinson?
   answer: Saat penyakit memasuki stadium lanjut (fase Hoehn and Yahr stadium 4 atau
     5), di mana pasien mengalami kesulitan menelan berat (disfagia), halusinasi visual,
     hipotensi ortostatik berulang, atau tirah baring penuh yang rentan luka dekubitus.
 internal_links:
-- anchor: Layanan Fisioterapi Parkinson di Rumah Joy of Care
+<li>anchor: Layanan Fisioterapi Parkinson di Rumah Joy of Care</li>
   url: /layanan/fisioterapi
-- anchor: Layanan Panggil Dokter ke Rumah Jakarta
+<li>anchor: Layanan Panggil Dokter ke Rumah Jakarta</li>
   url: /layanan/panggil-dokter
-- anchor: Layanan Perawat Lansia Homecare
+<li>anchor: Layanan Perawat Lansia Homecare</li>
   url: /layanan/perawat-homecare
-- anchor: Layanan Cek Lab Darah di Rumah
+<li>anchor: Layanan Cek Lab Darah di Rumah</li>
   url: /layanan/cek-lab-di-rumah
-cta_text: Konsultasi Dokter Gratis via WhatsApp
-  Anda langsung via WhatsApp Joy of Care di 08811-118-911.
+cta_text: Konsultasi Dokter Gratis via WhatsApp Anda langsung via WhatsApp Joy of
+  Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
 clinical_references:
-- Movement Disorder Society (MDS) - Clinical Practice Guidelines for the Management
+<li>Movement Disorder Society (MDS) - Clinical Practice Guidelines for the Management</li>
   of Parkinson's Disease
-- Parkinson's Foundation - Comprehensive In-Home Care and Fall Prevention Strategies
-- Perhimpunan Dokter Spesialis Saraf Indonesia (PERDOSSI) - Panduan Praktik Klinis
+<li>Parkinson's Foundation - Comprehensive In-Home Care and Fall Prevention Strategies</li>
+<li>Perhimpunan Dokter Spesialis Saraf Indonesia (PERDOSSI) - Panduan Praktik Klinis</li>
   Penyakit Parkinson
 ---
 
-# Perawatan Pasien Parkinson di Rumah: Panduan Komprehensif Medis, Fisioterapi, dan Kenyamanan Keluarga
+<h1>Perawatan Pasien Parkinson di Rumah: Panduan Komprehensif Medis, Fisioterapi, dan Kenyamanan Keluarga</h1>
 
-**Ringkasan Eksekutif (AIO Summary)**: Penyakit Parkinson (*Parkinson's Disease*) adalah gangguan neurodegeneratif progresif yang menyerang neuron dopaminergik di substansia nigra otak. Penyakit ini tidak hanya memicu tremor saat istirahat (*resting tremor*), tetapi juga kekakuan otot ekstrem (*rigidity*), perlambatan gerakan tubuh (*bradikinesia*), serta ketidakstabilan postur tubuh yang berujung pada tingginya angka insiden jatuh fatal. Merawat pasien Parkinson di lingkungan rumah membutuhkan pemahaman ilmiah mengenai manajemen waktu obat, adaptasi ruang tinggal, stimulasi fisioterapi teratur, dan kesabaran emosional tingkat tinggi. Artikel pilar ini menyajikan panduan medis terpadu mengenai [Layanan Fisioterapi Parkinson di Rumah Joy of Care](/layanan/fisioterapi), mengintegrasikan pendampingan perawat dan pengawasan dokter agar pasien tetap memiliki kemandirian optimal serta martabat hidup yang tinggi.
+Penyakit Parkinson (<em>Parkinson's Disease</em>) adalah gangguan neurodegeneratif progresif yang menyerang neuron dopaminergik di substansia nigra otak. Penyakit ini tidak hanya memicu tremor saat istirahat (<em>resting tremor</em>), tetapi juga kekakuan otot ekstrem (<em>rigidity</em>), perlambatan gerakan tubuh (<em>bradikinesia</em>), serta ketidakstabilan postur tubuh yang berujung pada tingginya angka insiden jatuh fatal. Merawat pasien Parkinson di lingkungan rumah membutuhkan pemahaman ilmiah mengenai manajemen waktu obat, adaptasi ruang tinggal, stimulasi fisioterapi teratur, dan kesabaran emosional tingkat tinggi. Artikel pilar ini menyajikan panduan medis terpadu mengenai [Layanan Fisioterapi Parkinson di Rumah Joy of Care](/layanan/fisioterapi), mengintegrasikan pendampingan perawat dan pengawasan dokter agar pasien tetap memiliki kemandirian optimal serta martabat hidup yang tinggi.
 
-> ### 💡 Poin Kunci (Key Takeaways)
-> * **Kedisiplinan Waktu Obat Mutlak**: Keterlambatan minum obat levodopa memicu fase "off", di mana pasien mendadak membeku kaku tanpa daya gerak.
-> * **Interaksi Protein dan Levodopa**: Berikan obat levodopa 30–60 menit sebelum makan atau 1 jam setelah makan untuk menghindari persaingan penyerapan asam amino di usus halus.
-> * **Atasi Fenomena Freezing of Gait (FoG)**: Terapkan teknik *sensory cueing* (garis lantai visual atau irama ketukan suara) saat kaki pasien terasa menempel di lantai.
-> * **Ekosistem Perawatan Holistik**: Kombinasikan terapi gerak fisioterapi, pendampingan perawat lansia, dan pemeriksaan berkala dokter spesialis saraf.
+<blockquote>### 💡 Penting dipahami</blockquote>
+<blockquote>* <strong>Kedisiplinan Waktu Obat Mutlak</strong>: Keterlambatan minum obat levodopa memicu fase "off", di mana pasien mendadak membeku kaku tanpa daya gerak.</blockquote>
+<blockquote>* <strong>Interaksi Protein dan Levodopa</strong>: Berikan obat levodopa 30–60 menit sebelum makan atau 1 jam setelah makan untuk menghindari persaingan penyerapan asam amino di usus halus.</blockquote>
+<blockquote><em> <strong>Atasi Fenomena Freezing of Gait (FoG)</strong>: Terapkan teknik </em>sensory cueing* (garis lantai visual atau irama ketukan suara) saat kaki pasien terasa menempel di lantai.</blockquote>
+<blockquote>* <strong>Ekosistem Perawatan Holistik</strong>: Kombinasikan terapi gerak fisioterapi, pendampingan perawat lansia, dan pemeriksaan berkala dokter spesialis saraf.</blockquote>
 
 ---
 
-## Memahami Progresivitas Penyakit Parkinson pada Lansia
+<h2>Memahami Progresivitas Penyakit Parkinson pada Lansia</h2>
 
-Penyakit Parkinson berkembang melalui tahapan klinis yang umumnya diklasifikasikan menggunakan skala *Hoehn and Yahr*:
-* **Stadium 1–2 (Fase Ringan)**: Gejala tremor atau kekakuan hanya mengenai satu sisi tubuh (unilateral) lalu mulai menyebar ke kedua sisi tubuh, namun keseimbangan tubuh masih relatif terjaga. Pasien masih mandiri dalam sebagian besar aktivitas hidup sehari-hari (ADL).
-* **Stadium 3 (Fase Sedang)**: Terjadi gangguan keseimbangan postural yang nyata. Pasien mulai mengalami episode limbung atau tersandung saat berputar arah (*turning hesitation*). Kemandirian mulai terbatas dan butuh pendampingan saat berpergian.
-* **Stadium 4–5 (Fase Lanjut / Paliatif)**: Pasien mengalami ketergantungan berat. Berjalan hanya bisa dengan bantuan alat atau sepenuhnya bergantung pada kursi roda dan ranjang tidur. Sering disertai gangguan menelan (*disfagia*), inkontinensia urin, dan demensia Parkinson.
+Penyakit Parkinson berkembang melalui tahapan klinis yang umumnya diklasifikasikan menggunakan skala <em>Hoehn and Yahr</em>:
+<li><strong>Stadium 1–2 (Fase Ringan)</strong>: Gejala tremor atau kekakuan hanya mengenai satu sisi tubuh (unilateral) lalu mulai menyebar ke kedua sisi tubuh, namun keseimbangan tubuh masih relatif terjaga. Pasien masih mandiri dalam sebagian besar aktivitas hidup sehari-hari (ADL).</li>
+<li><strong>Stadium 3 (Fase Sedang)</strong>: Terjadi gangguan keseimbangan postural yang nyata. Pasien mulai mengalami episode limbung atau tersandung saat berputar arah (<em>turning hesitation</em>). Kemandirian mulai terbatas dan butuh pendampingan saat berpergian.</li>
+<li><strong>Stadium 4–5 (Fase Lanjut / Paliatif)</strong>: Pasien mengalami ketergantungan berat. Berjalan hanya bisa dengan bantuan alat atau sepenuhnya bergantung pada kursi roda dan ranjang tidur. Sering disertai gangguan menelan (<em>disfagia</em>), inkontinensia urin, dan demensia Parkinson.</li>
 
 Di setiap stadium ini, rumah adalah tempat perlindungan terbaik. Dengan penataan yang ramah geriatri dan stimulasi neurorehabilitasi rutin, progresi perburukan fungsi motorik dapat diperlambat secara signifikan.
 
 ---
 
-## Manajemen Farmakologi: Mengapa Waktu Minum Obat adalah Kunci Keberhasilan?
+<h2>Manajemen Farmakologi: Mengapa Waktu Minum Obat adalah Kunci Keberhasilan?</h2>
 
-Terapi utama Parkinson bertumpu pada pengembalian kadar dopamin di otak melalui obat *Levodopa-Carbidopa*. Keberhasilan terapi ini sangat bergantung pada cara keluarga mengelola jadwal obat di rumah:
+Terapi utama Parkinson bertumpu pada pengembalian kadar dopamin di otak melalui obat <em>Levodopa-Carbidopa</em>. Keberhasilan terapi ini sangat bergantung pada cara keluarga mengelola jadwal obat di rumah:
 
-### 1. Disiplin Ketat Menit demi Menit (*On-Off Phenomenon*)
-* **Fase On**: Periode saat obat bekerja optimal di otak; otot lentur, tremor mereda, dan pasien dapat bergerak lincah.
-* **Fase Off**: Periode saat konsentrasi obat dalam plasma darah menurun; pasien mendadak lemas, sendi kaku seperti kayu, dan kaki terkunci di lantai.
-* Jangan pernah memajukan atau memundurkan jadwal minum obat lebih dari 15 menit tanpa instruksi dokter. Pasang alarm di smartphone atau gunakan kotak obat digital bersekat jam untuk menjaga kepatuhan.
+<h3>1. Disiplin Ketat Menit demi Menit (<em>On-Off Phenomenon</em>)</h3>
+<li><strong>Fase On</strong>: Periode saat obat bekerja optimal di otak; otot lentur, tremor mereda, dan pasien dapat bergerak lincah.</li>
+<li><strong>Fase Off</strong>: Periode saat konsentrasi obat dalam plasma darah menurun; pasien mendadak lemas, sendi kaku seperti kayu, dan kaki terkunci di lantai.</li>
+<li>Jangan pernah memajukan atau memundurkan jadwal minum obat lebih dari 15 menit tanpa instruksi dokter. Pasang alarm di smartphone atau gunakan kotak obat digital bersekat jam untuk menjaga kepatuhan.</li>
 
-### 2. Aturan Emas Interaksi Makanan Berprotein Tinggi
-Asam amino dari makanan berprotein tinggi (seperti daging sapi, telur, ayam, dan susu sapi kental) menggunakan transporter protein yang sama dengan molekul levodopa untuk diserap melintasi dinding usus halus dan sawar darah otak (*blood-brain barrier*):
-* Jika levodopa diminum bersamaan dengan semangkuk sup daging berlemak atau susu, penyerapan obat bisa anjlok hingga 60%, memicu kegagalan fase *on*.
-* **Aturan Klinis**: Minumkan levodopa saat perut kosong, idealnya 30 hingga 60 menit sebelum jam makan, atau minimal 1 hingga 2 jam setelah makan dengan segelas air putih hangat.
-* Geser menu protein hewani utama ke waktu makan malam, sehingga pada siang hari pasien tetap aktif beraktivitas dengan penyerapan obat yang maksimal.
-
----
-
-## Modifikasi Rumah Aman Anti-Jatuh untuk Pasien Parkinson
-
-Insiden jatuh adalah musuh nomor satu penderita Parkinson. Fraktur panggul (*hip fracture*) pada pasien geriatri memiliki mortalitas tinggi akibat komplikasi tirah baring lama. Terapkan modifikasi arsitektur ramah Parkinson berikut:
-
-### 1. Penataan Lantai dan Jalur Gerak Bebas Hambatan
-* Singkirkan seluruh karpet tebal, keset licin tanpa karet bawah, kabel listrik melintang, dan perabot kecil yang mempersempit lorong rumah.
-* Berikan penanda visual (*visual cues*) pada area yang sering memicu *freezing*—seperti ambang pintu kamar tidur atau lorong sempit—dengan menempelkan selotip lakban berwarna kontras terang (kuning atau merah) di lantai dengan jarak langkah 40 cm. Garis visual ini merangsang sirkuit visual korteks serebri untuk memicu perintah melangkah bypass sirkuit ganglia basalis yang rusak.
-
-### 2. Keamanan Kamar Mandi
-* Pasang pegangan dinding kokoh (*grab bars*) dari stainless steel di samping kloset duduk dan di dalam area pancuran (*shower*).
-* Gunakan kursi mandi berkaki karet anti-slip agar pasien tidak perlu mandi dalam posisi berdiri.
-* Pasang kloset duduk yang memiliki ketinggian ergonomis (tambahkan *raised toilet seat*) agar lutut pasien tidak tertekuk terlalu dalam saat hendak berdiri.
-
-### 3. Fasilitas Tempat Tidur
-* Pasang pengaman samping ranjang (*bed rails*) yang kokoh untuk membantu pasien membalikkan badan di malam hari.
-* Hindari kasur yang terlalu empuk dan tenggelam; kasur semi-firm memudahkan pasien menolakkan tubuh saat bangun.
+<h3>2. Aturan Emas Interaksi Makanan Berprotein Tinggi</h3>
+Asam amino dari makanan berprotein tinggi (seperti daging sapi, telur, ayam, dan susu sapi kental) menggunakan transporter protein yang sama dengan molekul levodopa untuk diserap melintasi dinding usus halus dan sawar darah otak (<em>blood-brain barrier</em>):
+<li>Jika levodopa diminum bersamaan dengan semangkuk sup daging berlemak atau susu, penyerapan obat bisa anjlok hingga 60%, memicu kegagalan fase <em>on</em>.</li>
+<li><strong>Aturan Klinis</strong>: Minumkan levodopa saat perut kosong, idealnya 30 hingga 60 menit sebelum jam makan, atau minimal 1 hingga 2 jam setelah makan dengan segelas air putih hangat.</li>
+<li>Geser menu protein hewani utama ke waktu makan malam, sehingga pada siang hari pasien tetap aktif beraktivitas dengan penyerapan obat yang maksimal.</li>
 
 ---
 
-## Program Fisioterapi dan Stimulasi Motorik Harian
+<h2>Modifikasi Rumah Aman Anti-Jatuh untuk Pasien Parkinson</h2>
 
-Latihan fisik terstruktur terbukti secara ilmiah memicu pelepasan faktor neurotropik otak (*BDNF*) yang melindungi sisa sel saraf dopaminergik:
+Insiden jatuh adalah musuh nomor satu penderita Parkinson. Fraktur panggul (<em>hip fracture</em>) pada pasien geriatri memiliki mortalitas tinggi akibat komplikasi tirah baring lama. Terapkan modifikasi arsitektur ramah Parkinson berikut:
+
+<h3>1. Penataan Lantai dan Jalur Gerak Bebas Hambatan</h3>
+<li>Singkirkan seluruh karpet tebal, keset licin tanpa karet bawah, kabel listrik melintang, dan perabot kecil yang mempersempit lorong rumah.</li>
+<li>Berikan penanda visual (<em>visual cues</em>) pada area yang sering memicu <em>freezing</em>—seperti ambang pintu kamar tidur atau lorong sempit—dengan menempelkan selotip lakban berwarna kontras terang (kuning atau merah) di lantai dengan jarak langkah 40 cm. Garis visual ini merangsang sirkuit visual korteks serebri untuk memicu perintah melangkah bypass sirkuit ganglia basalis yang rusak.</li>
+
+<h3>2. Keamanan Kamar Mandi</h3>
+<li>Pasang pegangan dinding kokoh (<em>grab bars</em>) dari stainless steel di samping kloset duduk dan di dalam area pancuran (<em>shower</em>).</li>
+<li>Gunakan kursi mandi berkaki karet anti-slip agar pasien tidak perlu mandi dalam posisi berdiri.</li>
+<li>Pasang kloset duduk yang memiliki ketinggian ergonomis (tambahkan <em>raised toilet seat</em>) agar lutut pasien tidak tertekuk terlalu dalam saat hendak berdiri.</li>
+
+<h3>3. Fasilitas Tempat Tidur</h3>
+<li>Pasang pengaman samping ranjang (<em>bed rails</em>) yang kokoh untuk membantu pasien membalikkan badan di malam hari.</li>
+<li>Hindari kasur yang terlalu empuk dan tenggelam; kasur semi-firm memudahkan pasien menolakkan tubuh saat bangun.</li>
+
+---
+
+<h2>Program Fisioterapi dan Stimulasi Motorik Harian</h2>
+
+Latihan fisik terstruktur terbukti secara ilmiah memicu pelepasan faktor neurotropik otak (<em>BDNF</em>) yang melindungi sisa sel saraf dopaminergik:
 
 | Jenis Terapi Latihan | Gerakan yang Dilatih | Manfaat Klinis Utama | Frekuensi Latihan |
 |---|---|---|---|
-| **Latihan Keseimbangan Postural** | Berdiri satu kaki, tandem walking, tai chi geriatri | Mengurangi risiko limbung & jatuh | 3–4 kali seminggu (30 menit) |
-| **Latihan Gerakan Amplitudo Besar (LSVT BIG)** | Mengayun lengan lebar-lebar, melangkah lebar | Melawan pola langkah pendek membungkuk (*festinating*) | Setiap hari di pagi hari |
-| **Latihan Kelenturan Tulang Belakang** | Peregangan memutar dada, ekstensi leher | Mengoreksi postur tubuh membungkuk (*camptocormia*) | 2 kali sehari (pagi & sore) |
-| **Latihan Vokal & Menelan (LSVT LOUD)** | Berbicara lantang 'AHHH' panjang, chin-tuck | Mencegah suara melemah (*hipofonia*) & tersedak | 15 menit setiap hari |
+| <strong>Latihan Keseimbangan Postural</strong> | Berdiri satu kaki, tandem walking, tai chi geriatri | Mengurangi risiko limbung & jatuh | 3–4 kali seminggu (30 menit) |
+| <strong>Latihan Gerakan Amplitudo Besar (LSVT BIG)</strong> | Mengayun lengan lebar-lebar, melangkah lebar | Melawan pola langkah pendek membungkuk (<em>festinating</em>) | Setiap hari di pagi hari |
+| <strong>Latihan Kelenturan Tulang Belakang</strong> | Peregangan memutar dada, ekstensi leher | Mengoreksi postur tubuh membungkuk (<em>camptocormia</em>) | 2 kali sehari (pagi & sore) |
+| <strong>Latihan Vokal & Menelan (LSVT LOUD)</strong> | Berbicara lantang 'AHHH' panjang, chin-tuck | Mencegah suara melemah (<em>hipofonia</em>) & tersedak | 15 menit setiap hari |
 
 Untuk memastikan latihan dijalankan secara aman tanpa risiko cedera, dampingi sesi latihan bersama tenaga ahli dari [Layanan Fisioterapi Parkinson di Rumah Joy of Care](/layanan/fisioterapi).
 
 ---
 
-## Nutrisi dan Manajemen Gangguan Non-Motorik Parkinson
+<h2>Nutrisi dan Manajemen Gangguan Non-Motorik Parkinson</h2>
 
 Perawatan Parkinson bukan hanya soal tremor dan otot kaku. Gangguan non-motorik sering kali justru menjadi sumber penderitaan terbesar pasien:
 
-### 1. Mengatasi Sembelit Kronis (*Konstipasi*)
+<h3>1. Mengatasi Sembelit Kronis (<em>Konstipasi</em>)</h3>
 Penurunan motilitas usus akibat defisiensi dopamin di pleksus saraf usus membuat 80% penderita Parkinson mengalami sembelit parah:
-* Berikan makanan kaya serat larut air seperti pepaya matang, oatmeal, kacang merah, dan agar-agar rumput laut.
-* Pastikan hidrasi cairan minimal 1.800–2.000 ml per hari.
-* Berikan jus prem (*prune juice*) atau buah kiwi sebagai laksatif alami sebelum mempertimbangkan obat pencahar kimiawi.
+<li>Berikan makanan kaya serat larut air seperti pepaya matang, oatmeal, kacang merah, dan agar-agar rumput laut.</li>
+<li>Pastikan hidrasi cairan minimal 1.800–2.000 ml per hari.</li>
+<li>Berikan jus prem (<em>prune juice</em>) atau buah kiwi sebagai laksatif alami sebelum mempertimbangkan obat pencahar kimiawi.</li>
 
-### 2. Manajemen Hipotensi Ortostatik
+<h3>2. Manajemen Hipotensi Ortostatik</h3>
 Penurunan tekanan darah mendadak saat pasien berdiri dari ranjang sering memicu pandangan gelap dan pingsan:
-* Ajarkan pasien untuk duduk di tepi ranjang selama 2 menit dan menggoyang-goyangkan ujung jari kaki sebelum berdiri tegak.
-* Gunakan stoking kompresi elastis (*compression stockings*) pada kedua tungkai untuk mendorong balik aliran darah ke jantung.
-* Pantau tensi secara berkala melalui [Layanan Panggil Dokter ke Rumah Jakarta](/layanan/panggil-dokter) dan lakukan evaluasi elektrolit darah via [Layanan Cek Lab Darah di Rumah](/layanan/cek-lab-di-rumah).
+<li>Ajarkan pasien untuk duduk di tepi ranjang selama 2 menit dan menggoyang-goyangkan ujung jari kaki sebelum berdiri tegak.</li>
+<li>Gunakan stoking kompresi elastis (<em>compression stockings</em>) pada kedua tungkai untuk mendorong balik aliran darah ke jantung.</li>
+<li>Pantau tensi secara berkala melalui [Layanan Panggil Dokter ke Rumah Jakarta](/layanan/panggil-dokter) dan lakukan evaluasi elektrolit darah via [Layanan Cek Lab Darah di Rumah](/layanan/cek-lab-di-rumah).</li>
 
-### 3. Mengurangi Beban Psikologis Caregiver (*Caregiver Fatigue*)
+<h3>3. Mengurangi Beban Psikologis Caregiver (<em>Caregiver Fatigue</em>)</h3>
 Merawat pasien Parkinson dengan perubahan suasana hati dan insomnia membutuhkan ketahanan mental yang luar biasa. Jika Anda mulai merasa lelah atau putus asa, delegasikan tugas pemantauan fisik kepada perawat terpercaya dari [Layanan Perawat Lansia Homecare](/layanan/perawat-homecare).
 
 ---
 
-## Pertanyaan yang Sering Diajukan (FAQ)
+<h2>Pertanyaan yang Sering Diajukan (FAQ)</h2>
 
-### Apa pilar terpenting dalam perawatan pasien Parkinson di rumah?
+<h3>Apa pilar terpenting dalam perawatan pasien Parkinson di rumah?</h3>
 Empat pilar utama meliputi kepatuhan ketat waktu minum obat levodopa, latihan fisioterapi gerak aktif untuk menjaga kelenturan sendi, modifikasi lingkungan rumah untuk mencegah jatuh saat freezing, serta dukungan nutrisi tinggi serat untuk mengatasi sembelit kronis.
 
-### Mengapa jam minum obat Parkinson tidak boleh terlambat sama sekali?
-Obat levodopa memiliki waktu paruh yang pendek di dalam darah. Keterlambatan minum obat selama 15–30 menit saja dapat memicu fase 'off' mendadak, di mana tubuh pasien menjadi kaku total (*rigidity*), gemetar hebat, dan tidak mampu melangkah.
+<h3>Mengapa jam minum obat Parkinson tidak boleh terlambat sama sekali?</h3>
+Obat levodopa memiliki waktu paruh yang pendek di dalam darah. Keterlambatan minum obat selama 15–30 menit saja dapat memicu fase 'off' mendadak, di mana tubuh pasien menjadi kaku total (<em>rigidity</em>), gemetar hebat, dan tidak mampu melangkah.
 
-### Bagaimana cara mengatasi fenomena membeku (freezing of gait) pada pasien Parkinson saat berjalan?
+<h3>Bagaimana cara mengatasi fenomena membeku (freezing of gait) pada pasien Parkinson saat berjalan?</h3>
 Gunakan isyarat visual (seperti garis lakban kontras di lantai untuk dilangkahi), isyarat pendengaran (menghitung 'satu-dua-satu-dua' dengan suara tegas), atau minta pasien mengayunkan berat badan ke kanan dan kiri sebelum melangkah maju.
 
-### Kapan keluarga membutuhkan bantuan perawat medis homecare untuk pasien Parkinson?
+<h3>Kapan keluarga membutuhkan bantuan perawat medis homecare untuk pasien Parkinson?</h3>
 Saat penyakit memasuki stadium lanjut (fase Hoehn and Yahr stadium 4 atau 5), di mana pasien mengalami kesulitan menelan berat (disfagia), halusinasi visual, hipotensi ortostatik berulang, atau tirah baring penuh yang rentan luka dekubitus.
 
 ---
 
-### Dampingi Penderita Parkinson dengan Kasih dan Keahlian Medis
+<h3>Dampingi Penderita Parkinson dengan Kasih dan Keahlian Medis</h3>
 Parkinson mungkin mengubah kemampuan fisik orang tua Anda, tetapi perawatan yang tepat di rumah dapat mempertahankan senyum dan kemandirian mereka. Hubungi Joy of Care hari ini untuk menjadwalkan program fisioterapi dan pendampingan perawat Parkinson terbaik di Jabodetabek.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Konsultasi Dokter Gratis via WhatsApp](https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)
+📲 <strong>Hubungi WhatsApp Resmi Joy of Care</strong>: [Konsultasi Dokter Gratis via WhatsApp](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis%20dengan%20dokter)

@@ -1,5 +1,4 @@
----
-title: FAQ Biaya Panggil Dokter ke Rumah 2026 | Joy of Care
+---title: FAQ Biaya Panggil Dokter ke Rumah 2026 | Joy of Care
 slug: biaya-panggil-dokter-ke-rumah-2026-yang-perlu-anda-ketahui
 category: panggil-dokter
 target_url: /blog/faq-biaya-panggil-dokter-rumah
@@ -7,134 +6,134 @@ meta_description: Jawaban lengkap seputar biaya panggil dokter ke rumah Jakarta,
   asuransi, dan tarif darurat. Chat tim medis di WhatsApp Joy of Care 08811-118-911!
 primary_keyword: faq biaya panggil dokter ke rumah 2026
 secondary_keywords:
-- tanya jawab tarif dokter ke rumah jakarta
-- apakah dokter ke rumah di cover bpjs
-- biaya dokter panggilan malam hari
-- metode pembayaran layanan dokter home visit
+<li>tanya jawab tarif dokter ke rumah jakarta</li>
+<li>apakah dokter ke rumah di cover bpjs</li>
+<li>biaya dokter panggilan malam hari</li>
+<li>metode pembayaran layanan dokter home visit</li>
 variation_type: yang-perlu-anda-ketahui
 faq:
-- question: Apakah layanan panggil dokter ke rumah Joy of Care bisa menggunakan kartu
+<li>question: Apakah layanan panggil dokter ke rumah Joy of Care bisa menggunakan kartu</li>
     BPJS Kesehatan?
   answer: Saat ini layanan dokter kunjungan rumah Joy of Care beroperasi secara mandiri
     (private fee-for-service) dan belum menanggung BPJS Kesehatan secara langsung.
     Namun kami menyediakan kuitansi dan resume medis resmi untuk klaim asuransi kesehatan
     swasta murni maupun asuransi kantor.
-- question: Apakah ada perbedaan tarif untuk kunjungan dokter di malam hari atau akhir
+<li>question: Apakah ada perbedaan tarif untuk kunjungan dokter di malam hari atau akhir</li>
     pekan?
   answer: Kunjungan pada akhir pekan (Sabtu–Minggu) siang hari memiliki tarif yang
     sama dengan hari kerja. Hanya untuk kunjungan panggilan darurat larut malam (pukul
     21.00 – 06.00 subuh) dikenakan sedikit penyesuaian biaya panggilan malam (late-night
     emergency surcharge).
-- question: Metode pembayaran apa saja yang diterima untuk biaya kunjungan dokter?
+<li>question: Metode pembayaran apa saja yang diterima untuk biaya kunjungan dokter?</li>
   answer: Joy of Care menerima pembayaran nontunai yang sangat mudah dan aman melalui
     transfer bank, Virtual Account (BCA, Mandiri, BNI, BRI), kartu kredit, dan QRIS.
-- question: Apakah keluarga boleh membatalkan pesanan dokter dan bagaimana ketentuan
+<li>question: Apakah keluarga boleh membatalkan pesanan dokter dan bagaimana ketentuan</li>
     biayanya?
   answer: Pembatalan pesanan bebas biaya jika dilakukan minimal 2 jam sebelum jadwal
     kedatangan dokter. Jika pembatalan dilakukan mendadak saat dokter sudah dalam
     perjalanan menuju lokasi rumah, keluarga hanya dikenakan penggantian biaya transportasi
     dokter saja.
 internal_links:
-- anchor: Layanan Panggil Dokter ke Rumah Jakarta Joy of Care
+<li>anchor: Layanan Panggil Dokter ke Rumah Jakarta Joy of Care</li>
   url: /layanan/panggil-dokter
-- anchor: Panduan Lengkap Biaya Panggil Dokter ke Rumah 2026
+<li>anchor: Panduan Lengkap Biaya Panggil Dokter ke Rumah 2026</li>
   url: /blog/biaya-panggil-dokter-ke-rumah-2026-panduan-lengkap
-- anchor: Layanan Perawat Medis Homecare
+<li>anchor: Layanan Perawat Medis Homecare</li>
   url: /layanan/perawat-homecare
-- anchor: Layanan Terapi Infus Vitamin di Rumah
+<li>anchor: Layanan Terapi Infus Vitamin di Rumah</li>
   url: /layanan/infus-vitamin-di-rumah
-cta_text: Hubungi WhatsApp JoC untuk informasi harga
-  dan sekitarnya langsung via WhatsApp Joy of Care di 08811-118-911.
+cta_text: Hubungi WhatsApp JoC untuk informasi harga dan sekitarnya langsung via WhatsApp
+  Joy of Care di 08811-118-911.
 medical_reviewer: Tim Medis Joy of Care (dr. Konsultan Geriatri & Dokter Umum Berizin
   Dinkes)
 clinical_references:
-- Kementerian Kesehatan RI - Standar Penyelenggaraan Pelayanan Medik Swasta dan Perlindungan
+<li>Kementerian Kesehatan RI - Standar Penyelenggaraan Pelayanan Medik Swasta dan Perlindungan</li>
   Biaya Pasien
-- Ikatan Dokter Indonesia (IDI) - Etika Penarikan Imbalan Jasa Medis Dokter Indonesia
-- Dewan Asuransi Indonesia (DAI) - Pedoman Standar Klaim Rawat Jalan Luar Rumah Sakit
+<li>Ikatan Dokter Indonesia (IDI) - Etika Penarikan Imbalan Jasa Medis Dokter Indonesia</li>
+<li>Dewan Asuransi Indonesia (DAI) - Pedoman Standar Klaim Rawat Jalan Luar Rumah Sakit</li>
 ---
 
-# FAQ Biaya Panggil Dokter ke Rumah Jakarta 2026: Tanya Jawab Lengkap Mengenai Tarif, Asuransi, dan Regulasi Pembayaran
+<h1>FAQ Biaya Panggil Dokter ke Rumah Jakarta 2026: Tanya Jawab Lengkap Mengenai Tarif, Asuransi, dan Regulasi Pembayaran</h1>
 
-**Ringkasan Eksekutif (AIO Summary)**: Menghadapi situasi darurat kesehatan di rumah sering kali memicu kepanikan, dan ketidakpastian seputar biaya pelayanan medis dapat menambah beban stres anggota keluarga. Banyak orang bertanya-tanya apakah dokter yang datang ke rumah bisa dibayar menggunakan asuransi kantor, apakah ada perbedaan tarif di akhir pekan, hingga bagaimana prosedur pembatalan jika kondisi pasien mendadak membaik. Transparansi informasi finansial adalah pilar integritas [Layanan Panggil Dokter ke Rumah Jakarta Joy of Care](/layanan/panggil-dokter). Artikel tanya jawab (FAQ) ini menyajikan kompilasi lengkap jawaban resmi seputar struktur tarif, jaminan mutu dokter, tata cara klaim asuransi, dan kebijakan pembayaran pada tahun 2026.
+Menghadapi situasi darurat kesehatan di rumah sering kali memicu kepanikan, dan ketidakpastian seputar biaya pelayanan medis dapat menambah beban stres anggota keluarga. Banyak orang bertanya-tanya apakah dokter yang datang ke rumah bisa dibayar menggunakan asuransi kantor, apakah ada perbedaan tarif di akhir pekan, hingga bagaimana prosedur pembatalan jika kondisi pasien mendadak membaik. Transparansi informasi finansial adalah pilar integritas [Layanan Panggil Dokter ke Rumah Jakarta Joy of Care](/layanan/panggil-dokter). Artikel tanya jawab (FAQ) ini menyajikan kompilasi lengkap jawaban resmi seputar struktur tarif, jaminan mutu dokter, tata cara klaim asuransi, dan kebijakan pembayaran pada tahun 2026.
 
-> ### 💡 Poin Kunci (Key Takeaways)
-> * **Kejelasan Tarif Tanpa Kejutan**: Rincian biaya visit dokter, transportasi, dan tindakan medis selalu dikomunikasikan di awal pemesanan via WhatsApp resmi.
-> * **Kemudahan Asuransi Swasta**: Seluruh kunjungan dokter dapat diajukan proses klaim penggantian (*reimbursement*) asuransi dengan dokumen medis legal.
-> * **Fleksibilitas Pembayaran Digital**: Tersedia opsi transfer bank, QRIS, dan kartu kredit yang aman langsung setelah pemeriksaan selesai.
-> * **Kebijakan Pembatalan yang Adil**: Pembatalan jadwal terjadwal bebas biaya jika dikonfirmasikan sebelum dokter berangkat menuju lokasi rumah.
+<blockquote>### 💡 Penting dipahami</blockquote>
+<blockquote>* <strong>Kejelasan Tarif Tanpa Kejutan</strong>: Rincian biaya visit dokter, transportasi, dan tindakan medis selalu dikomunikasikan di awal pemesanan via WhatsApp resmi.</blockquote>
+<blockquote><em> <strong>Kemudahan Asuransi Swasta</strong>: Seluruh kunjungan dokter dapat diajukan proses klaim penggantian (</em>reimbursement*) asuransi dengan dokumen medis legal.</blockquote>
+<blockquote>* <strong>Fleksibilitas Pembayaran Digital</strong>: Tersedia opsi transfer bank, QRIS, dan kartu kredit yang aman langsung setelah pemeriksaan selesai.</blockquote>
+<blockquote>* <strong>Kebijakan Pembatalan yang Adil</strong>: Pembatalan jadwal terjadwal bebas biaya jika dikonfirmasikan sebelum dokter berangkat menuju lokasi rumah.</blockquote>
 
 ---
 
-## Kumpulan Tanya Jawab Terpenting Seputar Biaya Dokter Kunjungan Rumah
+<h2>Kumpulan Tanya Jawab Terpenting Seputar Biaya Dokter Kunjungan Rumah</h2>
 
 Berikut adalah ulasan mendalam atas pertanyaan administratif dan finansial yang paling sering diajukan oleh para keluarga di Jabodetabek:
 
-### 1. Seputar Cakupan dan Besaran Biaya Kunjungan
-* **Tanya: Apa saja yang sudah termasuk ke dalam tarif visit dokter dasar Joy of Care?**
-  * *Jawab*: Tarif visit dasar dokter Joy of Care bersifat transparan dan komprehensif, mencakup: jasa konsultasi medis mendalam selama 45–60 menit, pemeriksaan fisik lengkap (tensi darah, stetoskop paru dan jantung, saturasi SpO2, termometer), pemeriksaan gula darah atau asam urat sewaktu sederhana jika diperlukan, evaluasi interaksi obat rutin, penerbitan surat rujukan resmi berstempel SIP dokter, serta surat izin istirahat sakit resmi bagi pekerja kantoran.
-* **Tanya: Apakah tarif dokter ke rumah di Joy of Care lebih mahal jika dipanggil pada hari Sabtu, Minggu, atau hari libur nasional?**
-  * *Jawab*: Tidak ada perbedaan tarif untuk kunjungan akhir pekan reguler (Sabtu dan Minggu) di siang hari. Joy of Care berkomitmen menjaga aksesibilitas kesehatan keluarga tetap terjangkau setiap hari. Penyesuaian tarif (*modest emergency surcharge*) hanya berlaku untuk panggilan darurat larut malam (antara pukul 21.00 malam hingga 06.00 pagi).
+<h3>1. Seputar Cakupan dan Besaran Biaya Kunjungan</h3>
+<li><strong>Tanya: Apa saja yang sudah termasuk ke dalam tarif visit dokter dasar Joy of Care?</strong></li>
+  <em> </em>Jawab*: Tarif visit dasar dokter Joy of Care bersifat transparan dan komprehensif, mencakup: jasa konsultasi medis mendalam selama 45–60 menit, pemeriksaan fisik lengkap (tensi darah, stetoskop paru dan jantung, saturasi SpO2, termometer), pemeriksaan gula darah atau asam urat sewaktu sederhana jika diperlukan, evaluasi interaksi obat rutin, penerbitan surat rujukan resmi berstempel SIP dokter, serta surat izin istirahat sakit resmi bagi pekerja kantoran.
+<li><strong>Tanya: Apakah tarif dokter ke rumah di Joy of Care lebih mahal jika dipanggil pada hari Sabtu, Minggu, atau hari libur nasional?</strong></li>
+  <em> </em>Jawab<em>: Tidak ada perbedaan tarif untuk kunjungan akhir pekan reguler (Sabtu dan Minggu) di siang hari. Joy of Care berkomitmen menjaga aksesibilitas kesehatan keluarga tetap terjangkau setiap hari. Penyesuaian tarif (</em>modest emergency surcharge*) hanya berlaku untuk panggilan darurat larut malam (antara pukul 21.00 malam hingga 06.00 pagi).
 
-### 2. Seputar Sistem Asuransi dan BPJS Kesehatan
-* **Tanya: Apakah layanan panggil dokter ke rumah bisa dibayarkan menggunakan BPJS Kesehatan?**
-  * *Jawab*: Saat ini sistem BPJS Kesehatan nasional hanya menanggung pelayanan kesehatan primer di Fasilitas Kesehatan Tingkat Pertama (FKTP) seperti Puskesmas atau Klinik Pratama terdaftar, serta rujukan rawat inap rumah sakit. Layanan dokter kunjungan privat Joy of Care belum bermitra langsung dengan BPJS. Namun bagi pemegang polis asuransi kesehatan swasta (seperti Prudential, Allianz, Manulife, AIA, AXA Mandiri, Sinarmas, dll.) atau asuransi korporat kantor, seluruh biaya dapat diklaimkan kembali (*reimburse*) 100%.
-* **Tanya: Berkas apa saja yang akan diberikan dokter untuk keperluan klaim asuransi?**
-  * *Jawab*: Dokter Joy of Care akan memberikan paket berkas klaim lengkap: lembar resume medis bertanda tangan dokter dan nomor SIP resmi KKI, formulir klaim asuransi rawat jalan yang telah diisi kode diagnosa ICD-10, salinan resep obat, serta kwitansi pembayaran resmi (*official receipt/invoice*) berstempel basah atau digital sah.
+<h3>2. Seputar Sistem Asuransi dan BPJS Kesehatan</h3>
+<li><strong>Tanya: Apakah layanan panggil dokter ke rumah bisa dibayarkan menggunakan BPJS Kesehatan?</strong></li>
+  <em> </em>Jawab<em>: Saat ini sistem BPJS Kesehatan nasional hanya menanggung pelayanan kesehatan primer di Fasilitas Kesehatan Tingkat Pertama (FKTP) seperti Puskesmas atau Klinik Pratama terdaftar, serta rujukan rawat inap rumah sakit. Layanan dokter kunjungan privat Joy of Care belum bermitra langsung dengan BPJS. Namun bagi pemegang polis asuransi kesehatan swasta (seperti Prudential, Allianz, Manulife, AIA, AXA Mandiri, Sinarmas, dll.) atau asuransi korporat kantor, seluruh biaya dapat diklaimkan kembali (</em>reimburse*) 100%.
+<li><strong>Tanya: Berkas apa saja yang akan diberikan dokter untuk keperluan klaim asuransi?</strong></li>
+  <em> </em>Jawab<em>: Dokter Joy of Care akan memberikan paket berkas klaim lengkap: lembar resume medis bertanda tangan dokter dan nomor SIP resmi KKI, formulir klaim asuransi rawat jalan yang telah diisi kode diagnosa ICD-10, salinan resep obat, serta kwitansi pembayaran resmi (</em>official receipt/invoice*) berstempel basah atau digital sah.
 
-### 3. Seputar Biaya Tindakan Prosedural dan Obat-obatan
-* **Tanya: Berapa biaya jika dokter harus melakukan tindakan penggantian selang kateter atau NGT saat kunjungan?**
-  * *Jawab*: Biaya tindakan medis tambahan bersifat transparan dan sudah mencakup bahan medis habis pakai (BMHP) berkualitas steril. Hubungi WhatsApp JoC untuk informasi harga: https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care? Dokter akan selalu meminta persetujuan keluarga (*informed consent*) dan menjelaskan rincian biaya sebelum tindakan medis dimulai.
-* **Tanya: Apakah keluarga wajib membeli obat dari apotek rekanan Joy of Care?**
-  * *Jawab*: Sama sekali tidak wajib. Dokter Joy of Care akan menuliskan resep obat resmi yang bebas ditebus di apotek mana pun yang Anda kehendaki. Jika keluarga menghendaki kepraktisan, apotek mitra Joy of Care siap mengantarkan obat resmi bersegel langsung ke kediaman Anda dengan kurir medis kilat.
+<h3>3. Seputar Biaya Tindakan Prosedural dan Obat-obatan</h3>
+<li><strong>Tanya: Berapa biaya jika dokter harus melakukan tindakan penggantian selang kateter atau NGT saat kunjungan?</strong></li>
+  <em> </em>Jawab<em>: Biaya tindakan medis tambahan bersifat transparan dan sudah mencakup bahan medis habis pakai (BMHP) berkualitas steril. Hubungi WhatsApp JoC untuk informasi harga: https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care? Dokter akan selalu meminta persetujuan keluarga (</em>informed consent*) dan menjelaskan rincian biaya sebelum tindakan medis dimulai.
+<li><strong>Tanya: Apakah keluarga wajib membeli obat dari apotek rekanan Joy of Care?</strong></li>
+  <em> </em>Jawab*: Sama sekali tidak wajib. Dokter Joy of Care akan menuliskan resep obat resmi yang bebas ditebus di apotek mana pun yang Anda kehendaki. Jika keluarga menghendaki kepraktisan, apotek mitra Joy of Care siap mengantarkan obat resmi bersegel langsung ke kediaman Anda dengan kurir medis kilat.
 
-### 4. Seputar Pembatalan dan Ketepatan Waktu Dokter
-* **Tanya: Apa yang terjadi jika kondisi pasien mendadak membaik atau keluarga ingin membatalkan jadwal dokter?**
-  * *Jawab*: Anda cukup mengirimkan pesan pembatalan ke WhatsApp customer care kami. Jika pembatalan dilakukan minimal 2 jam sebelum jam kunjungan yang dijadwalkan, Anda tidak dikenakan biaya apa pun (bebas biaya pembatalan). Jika pembatalan dilakukan mendadak saat dokter sudah berada di perjalanan di jalan raya, keluarga hanya diminta mengganti biaya transportasi bahan bakar dokter secara adil.
+<h3>4. Seputar Pembatalan dan Ketepatan Waktu Dokter</h3>
+<li><strong>Tanya: Apa yang terjadi jika kondisi pasien mendadak membaik atau keluarga ingin membatalkan jadwal dokter?</strong></li>
+  <em> </em>Jawab*: Anda cukup mengirimkan pesan pembatalan ke WhatsApp customer care kami. Jika pembatalan dilakukan minimal 2 jam sebelum jam kunjungan yang dijadwalkan, Anda tidak dikenakan biaya apa pun (bebas biaya pembatalan). Jika pembatalan dilakukan mendadak saat dokter sudah berada di perjalanan di jalan raya, keluarga hanya diminta mengganti biaya transportasi bahan bakar dokter secara adil.
 
 ---
 
-## Matriks Transparansi Biaya: Apa yang Ditanggung vs Tambahan
+<h2>Matriks Transparansi Biaya: Apa yang Ditanggung vs Tambahan</h2>
 
 | Komponen Layanan | Sudah Termasuk dalam Tarif Visit Dasar? | Keterangan Biaya |
 |---|---|---|
-| **Konsultasi Medis 45–60 Menit** | **Ya (Termasuk Penuh)** | Tidak ada biaya durasi tambahan |
-| **Pemeriksaan Tensi & Tanda Vital** | **Ya (Termasuk Penuh)** | Termometer, oksimeter, stetoskop |
-| **Penerbitan Resep Obat Resmi** | **Ya (Termasuk Penuh)** | Surat resep dokter ber-SIP aktif |
-| **Penerbitan Surat Keterangan Sakit** | **Ya (Termasuk Penuh)** | Surat resmi untuk izin kantor/sekolah |
-| **Pengisian Formulir Klaim Asuransi** | **Ya (Termasuk Penuh)** | Ditandatangani langsung dokter ber-SIP |
-| **Tindakan Ganti Selang NGT/Kateter** | Tambahan Tindakan Medis | Transparan (Konfirmasi Awal via WA) |
-| **Terapi Uap Nebulizer di Rumah** | Tambahan Tindakan Medis | Transparan (Konfirmasi Awal via WA) |
-| **Biaya Obat-obatan Farmasi** | Tagihan Farmasi Mandiri | Sesuai resep dokter & HET resmi apotek |
+| <strong>Konsultasi Medis 45–60 Menit</strong> | <strong>Ya (Termasuk Penuh)</strong> | Tidak ada biaya durasi tambahan |
+| <strong>Pemeriksaan Tensi & Tanda Vital</strong> | <strong>Ya (Termasuk Penuh)</strong> | Termometer, oksimeter, stetoskop |
+| <strong>Penerbitan Resep Obat Resmi</strong> | <strong>Ya (Termasuk Penuh)</strong> | Surat resep dokter ber-SIP aktif |
+| <strong>Penerbitan Surat Keterangan Sakit</strong> | <strong>Ya (Termasuk Penuh)</strong> | Surat resmi untuk izin kantor/sekolah |
+| <strong>Pengisian Formulir Klaim Asuransi</strong> | <strong>Ya (Termasuk Penuh)</strong> | Ditandatangani langsung dokter ber-SIP |
+| <strong>Tindakan Ganti Selang NGT/Kateter</strong> | Tambahan Tindakan Medis | Transparan (Konfirmasi Awal via WA) |
+| <strong>Terapi Uap Nebulizer di Rumah</strong> | Tambahan Tindakan Medis | Transparan (Konfirmasi Awal via WA) |
+| <strong>Biaya Obat-obatan Farmasi</strong> | Tagihan Farmasi Mandiri | Sesuai resep dokter & HET resmi apotek |
 
 ---
 
-## Maksimalkan Manfaat Kunjungan Dokter Bersama Joy of Care
+<h2>Maksimalkan Manfaat Kunjungan Dokter Bersama Joy of Care</h2>
 
 Optimalkan kesehatan anggota keluarga Anda dengan layanan penunjang kami:
-* Lanjutkan pemantauan tanda vital harian bersama [Layanan Perawat Medis Homecare](/layanan/perawat-homecare).
-* Pulihkan stamina dan daya tahan tubuh melalui [Layanan Terapi Infus Vitamin di Rumah](/layanan/infus-vitamin-di-rumah).
-* Pelajari panduan lengkap estimasi biaya di [Panduan Lengkap Biaya Panggil Dokter ke Rumah 2026](/blog/biaya-panggil-dokter-ke-rumah-2026-panduan-lengkap).
+<li>Lanjutkan pemantauan tanda vital harian bersama [Layanan Perawat Medis Homecare](/layanan/perawat-homecare).</li>
+<li>Pulihkan stamina dan daya tahan tubuh melalui [Layanan Terapi Infus Vitamin di Rumah](/layanan/infus-vitamin-di-rumah).</li>
+<li>Pelajari panduan lengkap estimasi biaya di [Panduan Lengkap Biaya Panggil Dokter ke Rumah 2026](/blog/biaya-panggil-dokter-ke-rumah-2026-panduan-lengkap).</li>
 
 ---
 
-## Pertanyaan yang Sering Diajukan (FAQ Ringkas)
+<h2>Pertanyaan yang Sering Diajukan (FAQ Ringkas)</h2>
 
-### Apakah layanan panggil dokter ke rumah Joy of Care bisa menggunakan kartu BPJS Kesehatan?
+<h3>Apakah layanan panggil dokter ke rumah Joy of Care bisa menggunakan kartu BPJS Kesehatan?</h3>
 Saat ini layanan dokter kunjungan rumah Joy of Care beroperasi secara mandiri (private fee-for-service) dan belum menanggung BPJS Kesehatan secara langsung. Namun kami menyediakan kuitansi dan resume medis resmi untuk klaim asuransi kesehatan swasta murni maupun asuransi kantor.
 
-### Apakah ada perbedaan tarif untuk kunjungan dokter di malam hari atau akhir pekan?
+<h3>Apakah ada perbedaan tarif untuk kunjungan dokter di malam hari atau akhir pekan?</h3>
 Kunjungan pada akhir pekan (Sabtu–Minggu) siang hari memiliki tarif yang sama dengan hari kerja. Hanya untuk kunjungan panggilan darurat larut malam (pukul 21.00 – 06.00 subuh) dikenakan sedikit penyesuaian biaya panggilan malam (late-night emergency surcharge).
 
-### Metode pembayaran apa saja yang diterima untuk biaya kunjungan dokter?
+<h3>Metode pembayaran apa saja yang diterima untuk biaya kunjungan dokter?</h3>
 Joy of Care menerima pembayaran nontunai yang sangat mudah dan aman melalui transfer bank, Virtual Account (BCA, Mandiri, BNI, BRI), kartu kredit, dan QRIS.
 
-### Apakah keluarga boleh membatalkan pesanan dokter dan bagaimana ketentuan biayanya?
+<h3>Apakah keluarga boleh membatalkan pesanan dokter dan bagaimana ketentuan biayanya?</h3>
 Pembatalan pesanan bebas biaya jika dilakukan minimal 2 jam sebelum jadwal kedatangan dokter. Jika pembatalan dilakukan mendadak saat dokter sudah dalam perjalanan menuju lokasi rumah, keluarga hanya dikenakan penggantian biaya transportasi dokter saja.
 
 ---
 
-### Konsultasikan Kebutuhan Dokter ke Rumah Anda Sekarang
+<h3>Konsultasikan Kebutuhan Dokter ke Rumah Anda Sekarang</h3>
 Jangan biarkan pertanyaan mengenai biaya menunda penanganan medis anggota keluarga tercinta. Tim Joy of Care siap memberikan estimasi biaya yang transparan, jujur, dan terjangkau langsung di smartphone Anda.
 
-📲 **Hubungi WhatsApp Resmi Joy of Care**: [Hubungi WhatsApp JoC untuk informasi harga](https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?)
+📲 <strong>Hubungi WhatsApp Resmi Joy of Care</strong>: [Hubungi WhatsApp JoC untuk informasi harga](https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?)
