@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Joy of Care — Blog Kesehatan &amp; Homecare Lansia</title>
+    <link>https://www.joyofcare.net/blog/</link>
+    <description>Panduan kesehatan terpercaya, edukasi perawatan lansia (healthy aging), fisioterapi, Parkinson, vaksinasi rumah, dan panduan medis studi luar negeri dari Joy of Care.</description>
+    <language>id-ID</language>
+    <copyright>© 2026 Joy of Care. Hak Cipta Dilindungi Undang-Undang.</copyright>
+    <lastBuildDate>{{BUILD_DATE}}</lastBuildDate>
+    <pubDate>{{PUB_DATE}}</pubDate>
+    <ttl>60</ttl>
+    <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <generator>Joy of Care Publishing Engine v1.0</generator>
+    
+    <atom:link href="https://www.joyofcare.net/blog/feed.xml" rel="self" type="application/rss+xml" />
+    
+    <image>
+      <url>https://www.joyofcare.net/web/image/website/1/logo/Joy%20of%20Care?unique=0f2033a</url>
+      <title>Joy of Care</title>
+      <link>https://www.joyofcare.net/blog/</link>
+      <width>144</width>
+      <height>144</height>
+    </image>
+
+    <!-- Categories Covered -->
+    <category>Healthy Aging</category>
+    <category>Fisioterapi</category>
+    <category>Parkinson</category>
+    <category>Osteoporosis</category>
+    <category>Vaksinasi di Rumah</category>
+    <category>Studi Luar Negeri</category>
+    <category>Pengalaman Pasien</category>
+
+    <!-- Example Item Structure -->
+    {{#ITEMS}}
+    <item>
+      <title><![CDATA[{{TITLE}}]]></title>
+      <link>https://www.joyofcare.net/blog/{{CATEGORY}}/{{SLUG}}</link>
+      <guid isPermaLink="true">https://www.joyofcare.net/blog/{{CATEGORY}}/{{SLUG}}</guid>
+      <description><![CDATA[{{DESCRIPTION}}]]></description>
+      <content:encoded><![CDATA[{{CONTENT_HTML}}]]></content:encoded>
+      <dc:creator><![CDATA[{{AUTHOR}}]]></dc:creator>
+      <category><![CDATA[{{CATEGORY_NAME}}]]></category>
+      <pubDate>{{PUB_DATE}}</pubDate>
+      {{#IMAGE_URL}}
+      <media:content url="{{IMAGE_URL}}" medium="image" type="image/webp" />
+      {{/IMAGE_URL}}
+    </item>
+    {{/ITEMS}}
+
+  </channel>
+</rss>

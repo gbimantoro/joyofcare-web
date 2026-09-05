@@ -1,0 +1,180 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350" width="1080" height="1350" role="img" aria-label="Persyaratan Kesehatan Studi Luar Negeri - Infografis JoyofCare">
+  <title>Persyaratan Kesehatan Studi Luar Negeri - Checklist</title>
+  <desc>Checklist lengkap dokumen dan vaksinasi yang dibutuhkan mahasiswa yang akan studi di luar negeri.</desc>
+
+  <defs>
+    <linearGradient id="headBg4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1A6B30"/>
+      <stop offset="100%" stop-color="#0E7490"/>
+    </linearGradient>
+    <linearGradient id="itemBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#F8F9FA"/>
+    </linearGradient>
+    <linearGradient id="warmGrad3" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FC9000"/>
+      <stop offset="100%" stop-color="#FFA940"/>
+    </linearGradient>
+    <filter id="cardShadow4" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="6"/>
+      <feOffset dx="0" dy="4" result="offsetblur"/>
+      <feComponentTransfer><feFuncA type="linear" slope="0.12"/></feComponentTransfer>
+      <feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1080" height="1350" fill="#F8F9FA"/>
+
+  <rect width="1080" height="320" fill="url(#headBg4)"/>
+  <circle cx="950" cy="80" r="130" fill="#FFFFFF" opacity="0.1"/>
+  <circle cx="120" cy="270" r="80" fill="#FFFFFF" opacity="0.08"/>
+
+  <g transform="translate(60, 60)">
+    <rect x="0" y="0" width="200" height="36" rx="18" fill="#FFFFFF"/>
+    <text x="100" y="24" font-family="Inter, sans-serif" font-size="12" font-weight="700" fill="#1A6B30" text-anchor="middle" letter-spacing="2">CHECKLIST</text>
+  </g>
+
+  <text x="60" y="160" font-family="Montserrat, Inter, sans-serif" font-size="40" font-weight="800" fill="#FFFFFF">Persyaratan Kesehatan</text>
+  <text x="60" y="208" font-family="Montserrat, Inter, sans-serif" font-size="40" font-weight="800" fill="#FFFFFF">Studi Luar Negeri</text>
+  <text x="60" y="252" font-family="Inter, sans-serif" font-size="18" fill="#E8F5EC">Semua yang perlu disiapkan untuk kuliah internasional</text>
+
+  <!-- Destinations -->
+  <g transform="translate(60, 360)">
+    <rect x="0" y="0" width="960" height="80" rx="16" fill="#FFFFFF" filter="url(#cardShadow4)"/>
+    <text x="30" y="50" font-family="Inter, sans-serif" font-size="15" font-weight="700" fill="#475569" letter-spacing="1">POPULER UNTUK:</text>
+
+    <g transform="translate(280, 28)">
+      <rect x="0" y="0" width="80" height="32" rx="16" fill="#E8F5EC"/>
+      <text x="40" y="22" font-family="Inter, sans-serif" font-size="14" font-weight="700" fill="#1A6B30" text-anchor="middle">🇦🇺 AU</text>
+    </g>
+    <g transform="translate(380, 28)">
+      <rect x="0" y="0" width="80" height="32" rx="16" fill="#E8F5EC"/>
+      <text x="40" y="22" font-family="Inter, sans-serif" font-size="14" font-weight="700" fill="#1A6B30" text-anchor="middle">🇬🇧 UK</text>
+    </g>
+    <g transform="translate(480, 28)">
+      <rect x="0" y="0" width="100" height="32" rx="16" fill="#E8F5EC"/>
+      <text x="50" y="22" font-family="Inter, sans-serif" font-size="14" font-weight="700" fill="#1A6B30" text-anchor="middle">🇺🇸 USA</text>
+    </g>
+    <g transform="translate(600, 28)">
+      <rect x="0" y="0" width="100" height="32" rx="16" fill="#E8F5EC"/>
+      <text x="50" y="22" font-family="Inter, sans-serif" font-size="14" font-weight="700" fill="#1A6B30" text-anchor="middle">🇨🇦 CA</text>
+    </g>
+    <g transform="translate(720, 28)">
+      <rect x="0" y="0" width="100" height="32" rx="16" fill="#E8F5EC"/>
+      <text x="50" y="22" font-family="Inter, sans-serif" font-size="14" font-weight="700" fill="#1A6B30" text-anchor="middle">🇩🇪 DE</text>
+    </g>
+  </g>
+
+  <!-- ITEM 1 -->
+  <g transform="translate(60, 470)">
+    <rect x="0" y="0" width="960" height="100" rx="16" fill="url(#itemBg)" filter="url(#cardShadow4)"/>
+    <!-- Checkbox -->
+    <rect x="25" y="25" width="50" height="50" rx="8" fill="#E8F5EC" stroke="#2D9C4A" stroke-width="3"/>
+    <path d="M 35 50 L 47 62 L 65 35" fill="none" stroke="#2D9C4A" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <!-- Icon -->
+    <g transform="translate(100, 25)">
+      <circle cx="25" cy="25" r="22" fill="#EFF6FF"/>
+      <text x="25" y="33" font-family="Inter, sans-serif" font-size="18" font-weight="800" fill="#1E40AF" text-anchor="middle">📋</text>
+    </g>
+
+    <text x="170" y="42" font-family="Inter, sans-serif" font-size="18" font-weight="700" fill="#1A1A2E">Surat Keterangan Sehat</text>
+    <text x="170" y="68" font-family="Inter, sans-serif" font-size="13" fill="#475569">Medical certificate dari dokter, termasuk hasil MCU lengkap</text>
+    <rect x="800" y="35" width="135" height="32" rx="16" fill="#FFF7ED"/>
+    <text x="867" y="56" font-family="Inter, sans-serif" font-size="12" font-weight="700" fill="#B85800" text-anchor="middle">Wajib</text>
+  </g>
+
+  <!-- ITEM 2 -->
+  <g transform="translate(60, 590)">
+    <rect x="0" y="0" width="960" height="100" rx="16" fill="url(#itemBg)" filter="url(#cardShadow4)"/>
+    <rect x="25" y="25" width="50" height="50" rx="8" fill="#E8F5EC" stroke="#2D9C4A" stroke-width="3"/>
+    <path d="M 35 50 L 47 62 L 65 35" fill="none" stroke="#2D9C4A" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <g transform="translate(100, 25)">
+      <circle cx="25" cy="25" r="22" fill="#EFF6FF"/>
+      <text x="25" y="33" font-family="Inter, sans-serif" font-size="18" font-weight="800" fill="#1E40AF" text-anchor="middle">💉</text>
+    </g>
+
+    <text x="170" y="42" font-family="Inter, sans-serif" font-size="18" font-weight="700" fill="#1A1A2E">Bukti Vaksinasi</text>
+    <text x="170" y="68" font-family="Inter, sans-serif" font-size="13" fill="#475569">MR/MMR, COVID-19, DPT, Hepatitis B - sesuai negara tujuan</text>
+    <rect x="800" y="35" width="135" height="32" rx="16" fill="#FFF7ED"/>
+    <text x="867" y="56" font-family="Inter, sans-serif" font-size="12" font-weight="700" fill="#B85800" text-anchor="middle">Wajib</text>
+  </g>
+
+  <!-- ITEM 3 -->
+  <g transform="translate(60, 710)">
+    <rect x="0" y="0" width="960" height="100" rx="16" fill="url(#itemBg)" filter="url(#cardShadow4)"/>
+    <rect x="25" y="25" width="50" height="50" rx="8" fill="#E8F5EC" stroke="#2D9C4A" stroke-width="3"/>
+    <path d="M 35 50 L 47 62 L 65 35" fill="none" stroke="#2D9C4A" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <g transform="translate(100, 25)">
+      <circle cx="25" cy="25" r="22" fill="#EFF6FF"/>
+      <text x="25" y="33" font-family="Inter, sans-serif" font-size="18" font-weight="800" fill="#1E40AF" text-anchor="middle">🩺</text>
+    </g>
+
+    <text x="170" y="42" font-family="Inter, sans-serif" font-size="18" font-weight="700" fill="#1A1A2E">Medical Check-Up Lengkap</text>
+    <text x="170" y="68" font-family="Inter, sans-serif" font-size="13" fill="#475569">Darah, urine, rontgen, EKG, mata, jiwa - tergantung negara</text>
+    <rect x="800" y="35" width="135" height="32" rx="16" fill="#FFF7ED"/>
+    <text x="867" y="56" font-family="Inter, sans-serif" font-size="12" font-weight="700" fill="#B85800" text-anchor="middle">Wajib</text>
+  </g>
+
+  <!-- ITEM 4 -->
+  <g transform="translate(60, 830)">
+    <rect x="0" y="0" width="960" height="100" rx="16" fill="url(#itemBg)" filter="url(#cardShadow4)"/>
+    <rect x="25" y="25" width="50" height="50" rx="8" fill="#E8F5EC" stroke="#2D9C4A" stroke-width="3"/>
+    <path d="M 35 50 L 47 62 L 65 35" fill="none" stroke="#2D9C4A" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <g transform="translate(100, 25)">
+      <circle cx="25" cy="25" r="22" fill="#EFF6FF"/>
+      <text x="25" y="33" font-family="Inter, sans-serif" font-size="18" font-weight="800" fill="#1E40AF" text-anchor="middle">🦠</text>
+    </g>
+
+    <text x="170" y="42" font-family="Inter, sans-serif" font-size="18" font-weight="700" fill="#1A1A2E">Tes HIV &amp; Hepatitis</text>
+    <text x="170" y="68" font-family="Inter, sans-serif" font-size="13" fill="#475569">Sertifikat bebas TBC, hepatitis - wajib di banyak negara tujuan</text>
+    <rect x="800" y="35" width="135" height="32" rx="16" fill="#F0F9FF"/>
+    <text x="867" y="56" font-family="Inter, sans-serif" font-size="12" font-weight="700" fill="#0E7490" text-anchor="middle">Sebagian</text>
+  </g>
+
+  <!-- ITEM 5 -->
+  <g transform="translate(60, 950)">
+    <rect x="0" y="0" width="960" height="100" rx="16" fill="url(#itemBg)" filter="url(#cardShadow4)"/>
+    <rect x="25" y="25" width="50" height="50" rx="8" fill="#E8F5EC" stroke="#2D9C4A" stroke-width="3"/>
+    <path d="M 35 50 L 47 62 L 65 35" fill="none" stroke="#2D9C4A" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <g transform="translate(100, 25)">
+      <circle cx="25" cy="25" r="22" fill="#EFF6FF"/>
+      <text x="25" y="33" font-family="Inter, sans-serif" font-size="18" font-weight="800" fill="#1E40AF" text-anchor="middle">🛡️</text>
+    </g>
+
+    <text x="170" y="42" font-family="Inter, sans-serif" font-size="18" font-weight="700" fill="#1A1A2E">Asuransi Kesehatan Internasional</text>
+    <text x="170" y="68" font-family="Inter, sans-serif" font-size="13" fill="#475569">Cover minimum sesuai regulasi negara - bukti polis wajib ada</text>
+    <rect x="800" y="35" width="135" height="32" rx="16" fill="#F0F9FF"/>
+    <text x="867" y="56" font-family="Inter, sans-serif" font-size="12" font-weight="700" fill="#0E7490" text-anchor="middle">Sebagian</text>
+  </g>
+
+  <!-- ITEM 6 -->
+  <g transform="translate(60, 1070)">
+    <rect x="0" y="0" width="960" height="100" rx="16" fill="#F0FDF4" stroke="#2D9C4A" stroke-width="2" filter="url(#cardShadow4)"/>
+    <rect x="25" y="25" width="50" height="50" rx="8" fill="#2D9C4A"/>
+    <text x="50" y="58" font-family="Inter, sans-serif" font-size="20" font-weight="800" fill="#FFFFFF" text-anchor="middle">✓</text>
+
+    <text x="100" y="42" font-family="Inter, sans-serif" font-size="18" font-weight="700" fill="#1A6B30">Dokumen Diterjemahkan Resmi</text>
+    <text x="100" y="68" font-family="Inter, sans-serif" font-size="13" fill="#475569">Sworn translator untuk semua dokumen medis ke bahasa Inggris</text>
+    <rect x="800" y="35" width="135" height="32" rx="16" fill="#FFF7ED"/>
+    <text x="867" y="56" font-family="Inter, sans-serif" font-size="12" font-weight="700" fill="#B85800" text-anchor="middle">Wajib</text>
+  </g>
+
+  <!-- Tip Box -->
+  <g transform="translate(60, 1190)">
+    <rect x="0" y="0" width="960" height="80" rx="16" fill="#FFF7ED" stroke="#FC9000" stroke-width="2"/>
+    <text x="30" y="35" font-family="Inter, sans-serif" font-size="15" font-weight="700" fill="#B85800">⏰ Siapkan 3-6 Bulan Sebelum Keberangkatan</text>
+    <text x="30" y="60" font-family="Inter, sans-serif" font-size="13" fill="#1A1A2E">Vaksinasi perlu waktu, MCU butuh 2-3 minggu, terjemahan 1-2 minggu</text>
+  </g>
+
+  <!-- CTA Footer -->
+  <g transform="translate(60, 1280)">
+    <rect x="0" y="0" width="960" height="60" rx="30" fill="url(#warmGrad3)"/>
+    <text x="40" y="38" font-family="Inter, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF">Layanan ke rumah - hubungi</text>
+    <text x="920" y="38" font-family="Inter, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="end">08811-118-911 →</text>
+  </g>
+</svg>

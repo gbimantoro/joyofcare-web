@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-label="Kategori Pengalaman Pasien - JoyofCare">
+  <title>Pengalaman Pasien - Patient Stories</title>
+  <desc>Thumbnail kategori blog Pengalaman Pasien dari JoyofCare, kisah nyata pemulihan pasien.</desc>
+
+  <defs>
+    <linearGradient id="bgGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFF7ED"/>
+      <stop offset="100%" stop-color="#FFFBF5"/>
+    </linearGradient>
+    <linearGradient id="warmAccent2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FC9000"/>
+      <stop offset="100%" stop-color="#FFA940"/>
+    </linearGradient>
+    <linearGradient id="heroGreen2" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#2D9C4A"/>
+      <stop offset="100%" stop-color="#1A6B30"/>
+    </linearGradient>
+
+    <filter id="softShadow2" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="8"/>
+      <feOffset dx="0" dy="6" result="offsetblur"/>
+      <feComponentTransfer><feFuncA type="linear" slope="0.18"/></feComponentTransfer>
+      <feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <pattern id="dots2" x="0" y="0" width="40" height="40" patternUnits="userSpaceOnUse">
+      <circle cx="20" cy="20" r="1.5" fill="#FC9000" opacity="0.15"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="630" fill="url(#bgGrad2)"/>
+  <rect width="1200" height="630" fill="url(#dots2)"/>
+
+  <!-- Soft accent -->
+  <circle cx="1080" cy="540" r="180" fill="#2D9C4A" opacity="0.1"/>
+  <circle cx="120" cy="120" r="140" fill="#FC9000" opacity="0.08"/>
+
+  <!-- LEFT CONTENT -->
+  <g transform="translate(70, 90)">
+    <g>
+      <rect x="0" y="0" width="280" height="44" rx="22" fill="#FC9000"/>
+      <text x="140" y="29" font-family="Inter, Montserrat, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="2">KATEGORI BLOG</text>
+    </g>
+
+    <text x="0" y="125" font-family="Montserrat, Inter, sans-serif" font-size="68" font-weight="800" fill="#1A1A2E">Pengalaman</text>
+    <text x="0" y="195" font-family="Montserrat, Inter, sans-serif" font-size="68" font-weight="800" fill="#B85800">Pasien</text>
+
+    <text x="0" y="245" font-family="Inter, sans-serif" font-size="20" font-weight="500" fill="#475569">Kisah nyata pemulihan pasien kami</text>
+    <text x="0" y="272" font-family="Inter, sans-serif" font-size="20" font-weight="500" fill="#475569">Pelayanan yang menyentuh keluarga</text>
+
+    <g transform="translate(0, 310)">
+      <circle cx="10" cy="10" r="5" fill="#FC9000"/>
+      <text x="30" y="16" font-family="Inter, sans-serif" font-size="16" fill="#1A1A2E">Kisah pemulihan pasca patah tulang</text>
+    </g>
+    <g transform="translate(0, 345)">
+      <circle cx="10" cy="10" r="5" fill="#FC9000"/>
+      <text x="30" y="16" font-family="Inter, sans-serif" font-size="16" fill="#1A1A2E">Testimoni keluarga pasien lansia</text>
+    </g>
+    <g transform="translate(0, 380)">
+      <circle cx="10" cy="10" r="5" fill="#FC9000"/>
+      <text x="30" y="16" font-family="Inter, sans-serif" font-size="16" fill="#1A1A2E">Perjalanan menuju sehat di rumah</text>
+    </g>
+  </g>
+
+  <!-- RIGHT ILLUSTRATION -->
+  <g transform="translate(640, 110)">
+    <rect x="0" y="0" width="500" height="410" rx="32" fill="#FFFFFF" filter="url(#softShadow2)"/>
+
+    <!-- Big quote mark -->
+    <text x="40" y="120" font-family="Georgia, serif" font-size="180" font-weight="700" fill="#FFE4B5" font-style="italic">"</text>
+
+    <!-- Testimonial card with star ratings -->
+    <g transform="translate(60, 130)">
+      <!-- 5 stars -->
+      <g transform="translate(0, 0)">
+        <path d="M 12 0 L 15 8 L 24 9 L 17 15 L 19 24 L 12 19 L 5 24 L 7 15 L 0 9 L 9 8 Z" fill="#FC9000"/>
+        <path d="M 36 0 L 39 8 L 48 9 L 41 15 L 43 24 L 36 19 L 29 24 L 31 15 L 24 9 L 33 8 Z" fill="#FC9000"/>
+        <path d="M 60 0 L 63 8 L 72 9 L 65 15 L 67 24 L 60 19 L 53 24 L 55 15 L 48 9 L 57 8 Z" fill="#FC9000"/>
+        <path d="M 84 0 L 87 8 L 96 9 L 89 15 L 91 24 L 84 19 L 77 24 L 79 15 L 72 9 L 81 8 Z" fill="#FC9000"/>
+        <path d="M 108 0 L 111 8 L 120 9 L 113 15 L 115 24 L 108 19 L 101 24 L 103 15 L 96 9 L 105 8 Z" fill="#FC9000"/>
+      </g>
+
+      <!-- Sample testimonial text -->
+      <text x="0" y="60" font-family="Inter, sans-serif" font-size="18" font-style="italic" fill="#1A1A2E" font-weight="500">"Tim JoyofCare sangat profesional.</text>
+      <text x="0" y="88" font-family="Inter, sans-serif" font-size="18" font-style="italic" fill="#1A1A2E" font-weight="500">Ayah saya pulih lebih cepat dengan</text>
+      <text x="0" y="116" font-family="Inter, sans-serif" font-size="18" font-style="italic" fill="#1A1A2E" font-weight="500">fisioterapi di rumah."</text>
+
+      <!-- Person silhouette -->
+      <g transform="translate(0, 145)">
+        <circle cx="30" cy="30" r="28" fill="url(#heroGreen2)"/>
+        <circle cx="30" cy="22" r="11" fill="#FFFFFF"/>
+        <path d="M 8 60 Q 30 40, 52 60 L 52 90 L 8 90 Z" fill="#FFFFFF"/>
+        <text x="78" y="32" font-family="Inter, sans-serif" font-size="15" font-weight="700" fill="#1A1A2E">Keluarga Pasien</text>
+        <text x="78" y="52" font-family="Inter, sans-serif" font-size="13" fill="#64748B">Jakarta, Indonesia</text>
+      </g>
+    </g>
+
+    <!-- Floating tag -->
+    <g transform="translate(320, 30)">
+      <rect x="0" y="0" width="160" height="48" rx="24" fill="url(#heroGreen2)"/>
+      <text x="80" y="31" font-family="Inter, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle">1 Kisah Nyata</text>
+    </g>
+  </g>
+
+  <g transform="translate(70, 555)">
+    <circle cx="14" cy="14" r="14" fill="#2D9C4A"/>
+    <path d="M 14 8 C 11 4, 5 4, 5 9 C 5 13, 14 20, 14 20 C 14 20, 23 13, 23 9 C 23 4, 17 4, 14 8 Z" fill="#FFFFFF"/>
+    <text x="42" y="13" font-family="Montserrat, sans-serif" font-size="20" font-weight="700" fill="#1A6B30">Joy</text>
+    <text x="80" y="13" font-family="Montserrat, sans-serif" font-size="20" font-weight="400" fill="#1A1A2E">of Care</text>
+    <text x="42" y="32" font-family="Inter, sans-serif" font-size="13" fill="#64748B">joyofcare.net/blog/pengalaman</text>
+  </g>
+</svg>

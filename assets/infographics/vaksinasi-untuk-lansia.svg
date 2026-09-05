@@ -1,0 +1,197 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350" width="1080" height="1350" role="img" aria-label="Vaksinasi untuk Lansia - Infografis JoyofCare">
+  <title>Vaksinasi untuk Lansia - Infografis</title>
+  <desc>Jenis-jenis vaksin yang direkomendasikan untuk lansia beserta jadwal vaksinasinya.</desc>
+
+  <defs>
+    <linearGradient id="headBg5" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0E7490"/>
+      <stop offset="100%" stop-color="#1E40AF"/>
+    </linearGradient>
+    <linearGradient id="vacCardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#F8F9FA"/>
+    </linearGradient>
+    <linearGradient id="warmGrad4" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FC9000"/>
+      <stop offset="100%" stop-color="#FFA940"/>
+    </linearGradient>
+    <filter id="cardShadow5" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="6"/>
+      <feOffset dx="0" dy="4" result="offsetblur"/>
+      <feComponentTransfer><feFuncA type="linear" slope="0.12"/></feComponentTransfer>
+      <feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1080" height="1350" fill="#F8F9FA"/>
+
+  <rect width="1080" height="320" fill="url(#headBg5)"/>
+  <circle cx="980" cy="80" r="130" fill="#FFFFFF" opacity="0.1"/>
+  <circle cx="120" cy="270" r="80" fill="#FFFFFF" opacity="0.08"/>
+
+  <g transform="translate(60, 60)">
+    <rect x="0" y="0" width="180" height="36" rx="18" fill="#FFFFFF"/>
+    <text x="90" y="24" font-family="Inter, sans-serif" font-size="12" font-weight="700" fill="#0E7490" text-anchor="middle" letter-spacing="2">VAKSINASI</text>
+  </g>
+
+  <text x="60" y="160" font-family="Montserrat, Inter, sans-serif" font-size="42" font-weight="800" fill="#FFFFFF">Vaksinasi Penting</text>
+  <text x="60" y="210" font-family="Montserrat, Inter, sans-serif" font-size="42" font-weight="800" fill="#FFFFFF">untuk Lansia</text>
+  <text x="60" y="252" font-family="Inter, sans-serif" font-size="18" fill="#E0F2FE">Lindungi orang tua Anda dengan vaksin yang tepat</text>
+
+  <!-- Stat Banner -->
+  <g transform="translate(60, 360)">
+    <rect x="0" y="0" width="960" height="90" rx="16" fill="#FFFFFF" filter="url(#cardShadow5)"/>
+    <g transform="translate(40, 25)">
+      <text x="0" y="0" font-family="Montserrat, sans-serif" font-size="42" font-weight="800" fill="#0E7490">7+</text>
+      <text x="0" y="35" font-family="Inter, sans-serif" font-size="13" fill="#475569">jenis vaksin</text>
+      <text x="0" y="52" font-family="Inter, sans-serif" font-size="13" fill="#475569">direkomendasikan</text>
+    </g>
+    <line x1="220" y1="20" x2="220" y2="70" stroke="#E2E8F0" stroke-width="1"/>
+
+    <g transform="translate(260, 25)">
+      <text x="0" y="0" font-family="Montserrat, sans-serif" font-size="42" font-weight="800" fill="#2D9C4A">1x</text>
+      <text x="0" y="35" font-family="Inter, sans-serif" font-size="13" fill="#475569">kunjungan</text>
+      <text x="0" y="52" font-family="Inter, sans-serif" font-size="13" fill="#475569">datang ke rumah</text>
+    </g>
+    <line x1="430" y1="20" x2="430" y2="70" stroke="#E2E8F0" stroke-width="1"/>
+
+    <g transform="translate(480, 25)">
+      <text x="0" y="0" font-family="Montserrat, sans-serif" font-size="42" font-weight="800" fill="#FC9000">24/7</text>
+      <text x="0" y="35" font-family="Inter, sans-serif" font-size="13" fill="#475569">layanan</text>
+      <text x="0" y="52" font-family="Inter, sans-serif" font-size="13" fill="#475569">konsultasi</text>
+    </g>
+    <line x1="660" y1="20" x2="660" y2="70" stroke="#E2E8F0" stroke-width="1"/>
+
+    <g transform="translate(720, 25)">
+      <text x="0" y="0" font-family="Montserrat, sans-serif" font-size="42" font-weight="800" fill="#1A1A2E">60+</text>
+      <text x="0" y="35" font-family="Inter, sans-serif" font-size="13" fill="#475569">tahun, saat</text>
+      <text x="0" y="52" font-family="Inter, sans-serif" font-size="13" fill="#475569">mulai vaksin</text>
+    </g>
+  </g>
+
+  <!-- Vaccine 1: Influenza -->
+  <g transform="translate(60, 480)">
+    <rect x="0" y="0" width="470" height="170" rx="20" fill="url(#vacCardBg)" filter="url(#cardShadow5)"/>
+    <circle cx="40" cy="40" r="22" fill="#0E7490"/>
+    <text x="40" y="48" font-family="Montserrat, sans-serif" font-size="20" font-weight="800" fill="#FFFFFF" text-anchor="middle">1</text>
+
+    <text x="80" y="35" font-family="Inter, sans-serif" font-size="18" font-weight="700" fill="#1A1A2E">Influenza (Flu)</text>
+    <text x="80" y="55" font-family="Inter, sans-serif" font-size="12" fill="#64748B">SETIAP TAHUN</text>
+
+    <text x="25" y="100" font-family="Inter, sans-serif" font-size="13" fill="#475569">Mencegah flu berat &amp; komplikasi pneumonia.</text>
+    <text x="25" y="120" font-family="Inter, sans-serif" font-size="13" fill="#475569">Vaksin 1x setiap 12 bulan, idealnya</text>
+    <text x="25" y="140" font-family="Inter, sans-serif" font-size="13" fill="#475569">Oktober-November.</text>
+
+    <rect x="350" y="100" width="100" height="36" rx="18" fill="#EFF6FF"/>
+    <text x="400" y="123" font-family="Inter, sans-serif" font-size="12" font-weight="700" fill="#0E7490" text-anchor="middle">Tahunan</text>
+  </g>
+
+  <!-- Vaccine 2: Pneumonia -->
+  <g transform="translate(560, 480)">
+    <rect x="0" y="0" width="460" height="170" rx="20" fill="url(#vacCardBg)" filter="url(#cardShadow5)"/>
+    <circle cx="40" cy="40" r="22" fill="#0E7490"/>
+    <text x="40" y="48" font-family="Montserrat, sans-serif" font-size="20" font-weight="800" fill="#FFFFFF" text-anchor="middle">2</text>
+
+    <text x="80" y="35" font-family="Inter, sans-serif" font-size="18" font-weight="700" fill="#1A1A2E">Pneumonia (PCV)</text>
+    <text x="80" y="55" font-family="Inter, sans-serif" font-size="12" fill="#64748B">SEKALI</text>
+
+    <text x="25" y="100" font-family="Inter, sans-serif" font-size="13" fill="#475569">Lindungi dari radang paru.</text>
+    <text x="25" y="120" font-family="Inter, sans-serif" font-size="13" fill="#475569">PCV13 + PPSV23, booster 5 tahun.</text>
+    <text x="25" y="140" font-family="Inter, sans-serif" font-size="13" fill="#475569">Sangat penting untuk lansia.</text>
+
+    <rect x="340" y="100" width="100" height="36" rx="18" fill="#EFF6FF"/>
+    <text x="390" y="123" font-family="Inter, sans-serif" font-size="12" font-weight="700" fill="#0E7490" text-anchor="middle">Wajib</text>
+  </g>
+
+  <!-- Vaccine 3: COVID-19 -->
+  <g transform="translate(60, 670)">
+    <rect x="0" y="0" width="470" height="170" rx="20" fill="url(#vacCardBg)" filter="url(#cardShadow5)"/>
+    <circle cx="40" cy="40" r="22" fill="#2D9C4A"/>
+    <text x="40" y="48" font-family="Montserrat, sans-serif" font-size="20" font-weight="800" fill="#FFFFFF" text-anchor="middle">3</text>
+
+    <text x="80" y="35" font-family="Inter, sans-serif" font-size="18" font-weight="700" fill="#1A1A2E">COVID-19 Booster</text>
+    <text x="80" y="55" font-family="Inter, sans-serif" font-size="12" fill="#64748B">6-12 BULAN</text>
+
+    <text x="25" y="100" font-family="Inter, sans-serif" font-size="13" fill="#475569">Vaksin COVID-19 &amp; booster sesuai</text>
+    <text x="25" y="120" font-family="Inter, sans-serif" font-size="13" fill="#475569">rekomendasi Kemenkes. Aman untuk</text>
+    <text x="25" y="140" font-family="Inter, sans-serif" font-size="13" fill="#475569">lansia dengan komorbid.</text>
+
+    <rect x="350" y="100" width="100" height="36" rx="18" fill="#E8F5EC"/>
+    <text x="400" y="123" font-family="Inter, sans-serif" font-size="12" font-weight="700" fill="#1A6B30" text-anchor="middle">Rutin</text>
+  </g>
+
+  <!-- Vaccine 4: Herpes Zoster -->
+  <g transform="translate(560, 670)">
+    <rect x="0" y="0" width="460" height="170" rx="20" fill="url(#vacCardBg)" filter="url(#cardShadow5)"/>
+    <circle cx="40" cy="40" r="22" fill="#2D9C4A"/>
+    <text x="40" y="48" font-family="Montserrat, sans-serif" font-size="20" font-weight="800" fill="#FFFFFF" text-anchor="middle">4</text>
+
+    <text x="80" y="35" font-family="Inter, sans-serif" font-size="18" font-weight="700" fill="#1A1A2E">Herpes Zoster</text>
+    <text x="80" y="55" font-family="Inter, sans-serif" font-size="12" fill="#64748B">SEKALI (50+ TAHUN)</text>
+
+    <text x="25" y="100" font-family="Inter, sans-serif" font-size="13" fill="#475569">Cegah cacar api (shingles) yang</text>
+    <text x="25" y="120" font-family="Inter, sans-serif" font-size="13" fill="#475569">sering muncul pada lansia. 2 dosis</text>
+    <text x="25" y="140" font-family="Inter, sans-serif" font-size="13" fill="#475569">dengan jeda 2-6 bulan.</text>
+
+    <rect x="340" y="100" width="100" height="36" rx="18" fill="#E8F5EC"/>
+    <text x="390" y="123" font-family="Inter, sans-serif" font-size="12" font-weight="700" fill="#1A6B30" text-anchor="middle">50+ tahun</text>
+  </g>
+
+  <!-- Vaccine 5: Tdap -->
+  <g transform="translate(60, 860)">
+    <rect x="0" y="0" width="470" height="170" rx="20" fill="url(#vacCardBg)" filter="url(#cardShadow5)"/>
+    <circle cx="40" cy="40" r="22" fill="#FC9000"/>
+    <text x="40" y="48" font-family="Montserrat, sans-serif" font-size="20" font-weight="800" fill="#FFFFFF" text-anchor="middle">5</text>
+
+    <text x="80" y="35" font-family="Inter, sans-serif" font-size="18" font-weight="700" fill="#1A1A2E">Tdap (Tetanus)</text>
+    <text x="80" y="55" font-family="Inter, sans-serif" font-size="12" fill="#64748B">SETIAP 10 TAHUN</text>
+
+    <text x="25" y="100" font-family="Inter, sans-serif" font-size="13" fill="#475569">Tetanus, difteri, pertussis.</text>
+    <text x="25" y="120" font-family="Inter, sans-serif" font-size="13" fill="#475569">Booster setiap 10 tahun sekali.</text>
+    <text x="25" y="140" font-family="Inter, sans-serif" font-size="13" fill="#475569">Penting untuk mencegah batuk rejan.</text>
+
+    <rect x="350" y="100" width="100" height="36" rx="18" fill="#FFF7ED"/>
+    <text x="400" y="123" font-family="Inter, sans-serif" font-size="12" font-weight="700" fill="#B85800" text-anchor="middle">10 tahun</text>
+  </g>
+
+  <!-- Vaccine 6: Hepatitis B -->
+  <g transform="translate(560, 860)">
+    <rect x="0" y="0" width="460" height="170" rx="20" fill="url(#vacCardBg)" filter="url(#cardShadow5)"/>
+    <circle cx="40" cy="40" r="22" fill="#FC9000"/>
+    <text x="40" y="48" font-family="Montserrat, sans-serif" font-size="20" font-weight="800" fill="#FFFFFF" text-anchor="middle">6</text>
+
+    <text x="80" y="35" font-family="Inter, sans-serif" font-size="18" font-weight="700" fill="#1A1A2E">Hepatitis B</text>
+    <text x="80" y="55" font-family="Inter, sans-serif" font-size="12" fill="#64748B">3 DOSIS</text>
+
+    <text x="25" y="100" font-family="Inter, sans-serif" font-size="13" fill="#475569">Lindungi dari hepatitis B.</text>
+    <text x="25" y="120" font-family="Inter, sans-serif" font-size="13" fill="#475569">3 dosis: 0, 1, 6 bulan. Cek dulu</text>
+    <text x="25" y="140" font-family="Inter, sans-serif" font-size="13" fill="#475569">kadar antibodi (anti-HBs).</text>
+
+    <rect x="340" y="100" width="100" height="36" rx="18" fill="#FFF7ED"/>
+    <text x="390" y="123" font-family="Inter, sans-serif" font-size="12" font-weight="700" fill="#B85800" text-anchor="middle">3 dosis</text>
+  </g>
+
+  <!-- Important Box -->
+  <g transform="translate(60, 1060)">
+    <rect x="0" y="0" width="960" height="160" rx="20" fill="#FFF7ED" stroke="#FC9000" stroke-width="2" filter="url(#cardShadow5)"/>
+    <text x="30" y="40" font-family="Inter, sans-serif" font-size="18" font-weight="700" fill="#B85800">⚠ Sebelum Vaksinasi</text>
+
+    <g transform="translate(30, 60)">
+      <text x="0" y="0" font-family="Inter, sans-serif" font-size="13" fill="#1A1A2E">✓ Konsultasi dengan dokter terlebih dahulu</text>
+      <text x="0" y="22" font-family="Inter, sans-serif" font-size="13" fill="#1A1A2E">✓ Informasikan riwayat alergi &amp; komorbid</text>
+      <text x="0" y="44" font-family="Inter, sans-serif" font-size="13" fill="#1A1A2E">✓ Dalam kondisi sehat saat divaksin</text>
+    </g>
+    <g transform="translate(510, 60)">
+      <text x="0" y="0" font-family="Inter, sans-serif" font-size="13" fill="#1A1A2E">✓ Bawa kartu/KIA untuk dokumentasi</text>
+      <text x="0" y="22" font-family="Inter, sans-serif" font-size="13" fill="#1A1A2E">✓ Minum air putih &amp; istirahat cukup</text>
+      <text x="0" y="44" font-family="Inter, sans-serif" font-size="13" fill="#1A1A2E">✓ Tetap di klinik 15 menit setelahnya</text>
+    </g>
+  </g>
+
+  <!-- CTA Footer -->
+  <g transform="translate(60, 1240)">
+    <rect x="0" y="0" width="960" height="80" rx="40" fill="url(#warmGrad4)"/>
+    <text x="60" y="50" font-family="Inter, sans-serif" font-size="20" font-weight="700" fill="#FFFFFF">Vaksinasi ke Rumah?</text>
+    <text x="900" y="50" font-family="Inter, sans-serif" font-size="20" font-weight="700" fill="#FFFFFF" text-anchor="end">08811-118-911 →</text>
+  </g>
+</svg>

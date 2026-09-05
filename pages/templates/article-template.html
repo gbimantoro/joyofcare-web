@@ -1,0 +1,415 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <!-- ============================================
+       PRIMARY SEO METATAGS
+       ============================================ -->
+  <title>{{ARTICLE_TITLE}} | Joy of Care</title>
+  <meta name="description" content="{{META_DESCRIPTION}}">
+  <meta name="keywords" content="{{META_KEYWORDS}}">
+  <meta name="author" content="{{AUTHOR_NAME}}">
+  <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+  <link rel="canonical" href="https://www.joyofcare.net/blog/{{CATEGORY_SLUG}}/{{ARTICLE_SLUG}}">
+
+  <!-- ============================================
+       OPEN GRAPH & TWITTER CARDS
+       ============================================ -->
+  <meta property="og:locale" content="id_ID">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="{{ARTICLE_TITLE}} | Joy of Care">
+  <meta property="og:description" content="{{META_DESCRIPTION}}">
+  <meta property="og:url" content="https://www.joyofcare.net/blog/{{CATEGORY_SLUG}}/{{ARTICLE_SLUG}}">
+  <meta property="og:site_name" content="Joy of Care">
+  <meta property="og:image" content="{{OG_IMAGE_URL}}">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="{{ARTICLE_TITLE}}">
+  <meta property="article:published_time" content="{{DATE_PUBLISHED}}">
+  <meta property="article:modified_time" content="{{DATE_MODIFIED}}">
+  <meta property="article:section" content="{{CATEGORY_NAME}}">
+  <meta property="article:tag" content="{{TAGS_COMMA_SEPARATED}}">
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ARTICLE_TITLE}} | Joy of Care">
+  <meta name="twitter:description" content="{{META_DESCRIPTION}}">
+  <meta name="twitter:image" content="{{OG_IMAGE_URL}}">
+  <meta name="twitter:creator" content="@joyofcare">
+
+  <!-- Favicon & Styles -->
+  <link rel="icon" href="https://www.joyofcare.net/web/image/website/1/favicon" type="image/png">
+  <link rel="stylesheet" href="../../css/style.css">
+  <link rel="stylesheet" href="../../css/blog.css">
+
+  <!-- ============================================
+       STRUCTURED DATA (JSON-LD) - SEO / GEO / AIO
+       ============================================ -->
+  <!-- 1. MedicalWebPage Schema (E-E-A-T) -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "MedicalWebPage",
+    "name": "{{ARTICLE_TITLE}}",
+    "headline": "{{ARTICLE_TITLE}}",
+    "description": "{{META_DESCRIPTION}}",
+    "url": "https://www.joyofcare.net/blog/{{CATEGORY_SLUG}}/{{ARTICLE_SLUG}}",
+    "inLanguage": "id-ID",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.joyofcare.net/blog/{{CATEGORY_SLUG}}/{{ARTICLE_SLUG}}"
+    },
+    "datePublished": "{{DATE_PUBLISHED}}",
+    "dateModified": "{{DATE_MODIFIED}}",
+    "author": {
+      "@type": "Person",
+      "name": "{{AUTHOR_NAME}}",
+      "jobTitle": "{{AUTHOR_ROLE}}",
+      "url": "https://www.joyofcare.net/tim-medis/{{AUTHOR_SLUG}}"
+    },
+    "reviewedBy": {
+      "@type": "Person",
+      "name": "{{REVIEWER_NAME}}",
+      "jobTitle": "{{REVIEWER_TITLE}}",
+      "description": "{{REVIEWER_CREDENTIALS}}"
+    },
+    "publisher": {
+      "@type": "MedicalBusiness",
+      "name": "Joy of Care",
+      "url": "https://www.joyofcare.net",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.joyofcare.net/web/image/website/1/logo/Joy%20of%20Care?unique=0f2033a"
+      },
+      "telephone": "+628811118911",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Tangerang Selatan",
+        "addressRegion": "Banten",
+        "addressCountry": "ID"
+      }
+    },
+    "aspect": "{{MEDICAL_ASPECT}}",
+    "medicalAudience": {
+      "@type": "MedicalAudience",
+      "medicalAudienceType": "Patient & Family Caregivers"
+    }
+  }
+  </script>
+
+  <!-- 2. Article / BlogPosting Schema -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "{{ARTICLE_TITLE}}",
+    "description": "{{META_DESCRIPTION}}",
+    "image": [
+      "{{OG_IMAGE_URL}}"
+    ],
+    "datePublished": "{{DATE_PUBLISHED}}",
+    "dateModified": "{{DATE_MODIFIED}}",
+    "author": {
+      "@type": "Person",
+      "name": "{{AUTHOR_NAME}}"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Joy of Care",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.joyofcare.net/web/image/website/1/logo/Joy%20of%20Care?unique=0f2033a"
+      }
+    },
+    "mainEntityOfPage": "https://www.joyofcare.net/blog/{{CATEGORY_SLUG}}/{{ARTICLE_SLUG}}"
+  }
+  </script>
+
+  <!-- 3. BreadcrumbList Schema -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Beranda",
+        "item": "https://www.joyofcare.net/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Blog",
+        "item": "https://www.joyofcare.net/blog/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "{{CATEGORY_NAME}}",
+        "item": "https://www.joyofcare.net/blog/{{CATEGORY_SLUG}}/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 4,
+        "name": "{{ARTICLE_TITLE}}",
+        "item": "https://www.joyofcare.net/blog/{{CATEGORY_SLUG}}/{{ARTICLE_SLUG}}"
+      }
+    ]
+  }
+  </script>
+
+  <!-- 4. FAQPage Schema (For Google Rich Snippets & AI Overviews) -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {{FAQ_JSON_ITEMS}}
+    ]
+  }
+  </script>
+</head>
+<body>
+
+  <!-- ============================================
+       TOP NAVIGATION BAR
+       ============================================ -->
+  <nav class="nav">
+    <div class="nav-inner">
+      <a href="/" class="nav-logo">
+        <img src="https://www.joyofcare.net/web/image/website/1/logo/Joy%20of%20Care?unique=0f2033a" alt="Joy of Care Logo" width="36" height="36">
+        <span>Joy of Care</span>
+      </a>
+      <div class="nav-links">
+        <a href="/#layanan">Layanan</a>
+        <div class="dropdown">
+          <a href="/#layanan-lengkap">Layanan Lengkap ▾</a>
+          <div class="dropdown-menu">
+            <a href="/panggil-dokter-ke-rumah">Panggil Dokter ke Rumah</a>
+            <a href="/layanan-fisioterapi-ke-rumah">Fisioterapi ke Rumah</a>
+            <a href="/infus-suntik-vitamin-di-rumah">Infus &amp; Suntik Vitamin</a>
+            <a href="/homelab">Home Lab &amp; Medical Check Up</a>
+            <a href="/layanan-perawat-di-rumah">Layanan Perawat Homecare</a>
+            <a href="/layanan-akupuntur-di-rumah">Akupuntur di Rumah</a>
+            <a href="/transcare-antar-jemput-ke-rs-jakarta-tangerang">TransCare Antar Jemput RS</a>
+          </div>
+        </div>
+        <a href="/blog/" style="color:var(--color-primary);font-weight:600">Blog &amp; Edukasi</a>
+        <a href="https://api.whatsapp.com/send/?phone=628811118911&text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20tanya%20layanan%20Joy%20of%20Care" class="btn btn-primary nav-cta">Konsultasi Gratis</a>
+      </div>
+      <button class="nav-mobile" aria-label="Buka Menu">☰</button>
+    </div>
+  </nav>
+
+  <!-- ============================================
+       ARTICLE HEADER & HERO
+       ============================================ -->
+  <header class="article-header">
+    <div class="container">
+      <nav class="breadcrumbs" aria-label="Breadcrumb">
+        <a href="/">Beranda</a> <span>›</span>
+        <a href="/blog/">Blog</a> <span>›</span>
+        <a href="/blog/{{CATEGORY_SLUG}}/">{{CATEGORY_NAME}}</a> <span>›</span>
+        <span class="text-muted">{{BREADCRUMB_SHORT_TITLE}}</span>
+      </nav>
+
+      <a href="/blog/{{CATEGORY_SLUG}}/" class="category-badge">{{CATEGORY_NAME}}</a>
+      <h1 class="article-title">{{ARTICLE_TITLE}}</h1>
+      <p class="article-lead">{{ARTICLE_HOOK_LEAD}}</p>
+
+      <div class="article-meta-bar">
+        <div class="meta-item">
+          <svg viewBox="0 0 24 24"><path d="M19 3h-1V1h-2v2H8V1H6v2H5c-1.11 0-1.99.9-1.99 2L3 19c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm0 16H5V8h14v11zM7 10h5v5H7z"/></svg>
+          <span>Dipublikasikan: <time datetime="{{DATE_PUBLISHED}}">{{FORMATTED_DATE_PUBLISHED}}</time></span>
+        </div>
+        <div class="meta-item">
+          <svg viewBox="0 0 24 24"><path d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8zm.5-13H11v6l5.25 3.15.75-1.23-4.5-2.67z"/></svg>
+          <span>Waktu Baca: {{READING_TIME_MINUTES}} menit</span>
+        </div>
+        <div class="medical-review-badge">
+          <span>✓ Ditinjau Secara Medis oleh {{REVIEWER_NAME_SHORT}}</span>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- ============================================
+       ARTICLE BODY CONTAINER
+       ============================================ -->
+  <main class="article-container">
+
+    <!-- 1. KEY TAKEAWAYS (AIO & GEO Optimized Quick-Answer Box) -->
+    <section class="key-takeaways" aria-labelledby="takeaways-title">
+      <h3 id="takeaways-title">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="#1A6B30"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg>
+        Ringkasan Medis (Key Takeaways)
+      </h3>
+      <ul>
+        {{KEY_TAKEAWAYS_LIST_ITEMS}}
+      </ul>
+    </section>
+
+    <!-- 2. TABLE OF CONTENTS (Daftar Isi) -->
+    <div class="article-toc">
+      <details open>
+        <summary>Daftar Isi Artikel</summary>
+        <ul>
+          {{TABLE_OF_CONTENTS_ITEMS}}
+        </ul>
+      </details>
+    </div>
+
+    <!-- 3. MAIN CONTENT BODY -->
+    <article class="article-body">
+      {{ARTICLE_MAIN_CONTENT_HTML}}
+    </article>
+
+    <!-- 4. MEDICAL DISCLAIMER -->
+    <aside class="medical-disclaimer" role="note">
+      <strong>Catatan Medis &amp; Penafian:</strong> Artikel ini disusun untuk tujuan edukasi dan informasi umum, bukan pengganti diagnosis atau konsultasi medis langsung dengan dokter berlisensi. Jika Anda atau keluarga mengalami gejala akut atau kegawatdaruratan, segera hubungi IGD rumah sakit terdekat atau panggil dokter homecare kami untuk evaluasi langsung.
+    </aside>
+
+    <!-- 5. IN-ARTICLE WHATSAPP CTA COMPONENT -->
+    <section class="article-cta-box">
+      <h3>{{CTA_HEADING}}</h3>
+      <p>{{CTA_DESCRIPTION}}</p>
+      <a href="https://api.whatsapp.com/send/?phone=628811118911&text={{CTA_WHATSAPP_PREFILLED_ENCODED}}" 
+         class="btn-whatsapp-cta" 
+         target="_blank" 
+         rel="noopener noreferrer">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="#fff"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
+        Konsultasi via WhatsApp (08811-118-911)
+      </a>
+    </section>
+
+    <!-- 6. SOCIAL SHARING BUTTONS -->
+    <div class="social-share-section">
+      <span class="social-share-title">Bagikan Artikel Ini:</span>
+      <div class="social-share-buttons">
+        <a href="https://api.whatsapp.com/send/?text={{ARTICLE_TITLE_ENCODED}}%20https://www.joyofcare.net/blog/{{CATEGORY_SLUG}}/{{ARTICLE_SLUG}}" 
+           target="_blank" rel="noopener noreferrer" class="share-btn share-wa" aria-label="Bagikan via WhatsApp">
+          <svg viewBox="0 0 24 24"><path d="M12.04 2c-5.46 0-9.91 4.45-9.91 9.91 0 1.75.46 3.45 1.32 4.95L2.05 22l5.25-1.38c1.45.79 3.08 1.21 4.74 1.21 5.46 0 9.91-4.45 9.91-9.91 0-2.65-1.03-5.14-2.9-7.01A9.816 9.816 0 0012.04 2z"/></svg>
+        </a>
+        <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.joyofcare.net/blog/{{CATEGORY_SLUG}}/{{ARTICLE_SLUG}}" 
+           target="_blank" rel="noopener noreferrer" class="share-btn share-fb" aria-label="Bagikan via Facebook">
+          <svg viewBox="0 0 24 24"><path d="M22 12c0-5.52-4.48-10-10-10S2 6.48 2 12c0 4.84 3.44 8.87 8 9.8V15H8v-3h2V9.5C10 7.57 11.57 6 13.5 6H16v3h-2c-.55 0-1 .45-1 1v2h3v3h-3v6.95c5.05-.5 9-4.76 9-9.95z"/></svg>
+        </a>
+        <a href="https://twitter.com/intent/tweet?text={{ARTICLE_TITLE_ENCODED}}&url=https://www.joyofcare.net/blog/{{CATEGORY_SLUG}}/{{ARTICLE_SLUG}}" 
+           target="_blank" rel="noopener noreferrer" class="share-btn share-tw" aria-label="Bagikan via X / Twitter">
+          <svg viewBox="0 0 24 24"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+        </a>
+        <a href="https://www.linkedin.com/sharing/share-offsite/?url=https://www.joyofcare.net/blog/{{CATEGORY_SLUG}}/{{ARTICLE_SLUG}}" 
+           target="_blank" rel="noopener noreferrer" class="share-btn share-li" aria-label="Bagikan via LinkedIn">
+          <svg viewBox="0 0 24 24"><path d="M19 3a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h14m-.5 15.5v-5.3a3.26 3.26 0 0 0-3.26-3.26c-.85 0-1.84.52-2.28 1.3v-1.11h-2.79v8.37h2.79v-4.93c0-.77.62-1.4 1.39-1.4a1.4 1.4 0 0 1 1.4 1.4v4.93h2.75M6.46 10.9v8.37H9.2V10.9H6.46M7.83 6.55a1.64 1.64 0 1 0 0 3.28 1.64 1.64 0 0 0 0-3.28z"/></svg>
+        </a>
+        <button class="share-btn share-copy" onclick="navigator.clipboard.writeText(window.location.href);alert('Link tautan artikel berhasil disalin!');" aria-label="Salin Tautan">
+          <svg viewBox="0 0 24 24"><path d="M16 1H4c-1.1 0-2 .9-2 2v14h2V3h12V1zm3 4H8c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h11c1.1 0 2-.9 2-2V7c0-1.1-.9-2-2-2zm0 16H8V7h11v14z"/></svg>
+        </button>
+      </div>
+    </div>
+
+    <!-- 7. AUTHOR & MEDICAL REVIEWER BYLINE (E-E-A-T) -->
+    <div class="author-reviewer-card">
+      <div class="author-reviewer-grid">
+        <div class="person-profile">
+          <img src="{{AUTHOR_AVATAR_URL}}" alt="{{AUTHOR_NAME}}" class="person-avatar" width="58" height="58" loading="lazy">
+          <div class="person-details">
+            <span class="person-role">Penulis</span>
+            <h4>{{AUTHOR_NAME}}</h4>
+            <p class="person-bio">{{AUTHOR_BIO}}</p>
+          </div>
+        </div>
+        <div class="person-profile">
+          <img src="{{REVIEWER_AVATAR_URL}}" alt="{{REVIEWER_NAME}}" class="person-avatar" width="58" height="58" loading="lazy">
+          <div class="person-details">
+            <span class="person-role">Reviewer Medis</span>
+            <h4>{{REVIEWER_NAME}}</h4>
+            <p class="person-bio">{{REVIEWER_BIO}}</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- 8. FREQUENTLY ASKED QUESTIONS (Accordion + Schema) -->
+    <section class="article-faq" aria-labelledby="faq-heading">
+      <h2 id="faq-heading">Pertanyaan yang Sering Ditanyakan (FAQ)</h2>
+      <div class="faq-list">
+        {{FAQ_HTML_ACCORDION_ITEMS}}
+      </div>
+    </section>
+
+  </main>
+
+  <!-- ============================================
+       RELATED ARTICLES SECTION
+       ============================================ -->
+  <section class="related-articles-section">
+    <div class="container">
+      <h2 class="related-title">Artikel Terkait Lainnya</h2>
+      <div class="blog-grid">
+        {{RELATED_ARTICLES_GRID_CARDS}}
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================================
+       FOOTER
+       ============================================ -->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div>
+          <h4>Joy of Care</h4>
+          <p>Layanan kesehatan di rumah profesional terpercaya untuk lansia dan keluarga di BSD City, Tangerang, Jakarta, Depok, dan Bogor.</p>
+        </div>
+        <div>
+          <h4>Layanan Unggulan</h4>
+          <div class="footer-links">
+            <a href="/panggil-dokter-ke-rumah">Panggil Dokter ke Rumah</a>
+            <a href="/layanan-fisioterapi-ke-rumah">Fisioterapi Lansia &amp; Stroke</a>
+            <a href="/infus-suntik-vitamin-di-rumah">Infus &amp; Suntik Vitamin</a>
+            <a href="/homelab">Home Lab &amp; Medical Check Up</a>
+            <a href="/layanan-perawat-di-rumah">Perawat Medis &amp; Pendamping</a>
+            <a href="/layanan-akupuntur-di-rumah">Akupuntur Medis di Rumah</a>
+            <a href="/transcare-antar-jemput-ke-rs-jakarta-tangerang">TransCare Antar Jemput RS</a>
+          </div>
+        </div>
+        <div>
+          <h4>Kategori Artikel</h4>
+          <div class="footer-links">
+            <a href="/blog/healthy-aging/">Lansia Sehat &amp; Geriatri</a>
+            <a href="/blog/pengalaman/">Pengalaman &amp; Kisah Pasien</a>
+            <a href="/blog/studi-luar-negeri/">Studi di Luar Negeri</a>
+            <a href="/blog/vaksinasi/">Vaksinasi di Rumah</a>
+          </div>
+        </div>
+        <div>
+          <h4>Kontak &amp; Bantuan</h4>
+          <div class="footer-links">
+            <a href="https://api.whatsapp.com/send/?phone=628811118911">WhatsApp: 08811-118-911</a>
+            <a href="https://maps.app.goo.gl/JwkLdvc11hQYs8ts6" target="_blank" rel="noopener">Kantor: BSD City, Tangerang</a>
+            <a href="https://www.instagram.com/joyof.care" target="_blank" rel="noopener">Instagram: @joyof.care</a>
+          </div>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <p>© 2026 Joy of Care. Hak Cipta Dilindungi Undang-Undang.</p>
+        <p class="text-muted">Ditinjau oleh Tim Medis Joy of Care • Terakhir diperbarui: {{FORMATTED_DATE_MODIFIED}}</p>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Floating WhatsApp CTA Button -->
+  <a href="https://api.whatsapp.com/send/?phone=628811118911&text={{CTA_WHATSAPP_PREFILLED_ENCODED}}" 
+     class="wa-float" 
+     aria-label="Chat WhatsApp Konsultasi Medis" 
+     target="_blank" 
+     rel="noopener noreferrer">
+    <svg viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
+  </a>
+
+  <script src="../../js/main.js"></script>
+</body>
+</html>
