@@ -48,6 +48,19 @@ def parse_frontmatter(content):
 
 def md_to_html(text):
     """Convert markdown body to clean HTML with proper structure."""
+    # Strip raw WhatsApp URL lines and double CTA wording from body first
+    text = re.sub(r'Hubungi WhatsApp kami di https?://\S+ sekarang juga!?', '', text)
+    text = re.sub(r'📲 \*\*Hubungi WhatsApp Resmi Joy of Care\*\*: <a href=[^>]+>[^<]+</a>', '', text)
+    text = re.sub(r'^📲 Hubungi WhatsApp Resmi Joy of Care.*$', '', text, flags=re.MULTILINE)
+    text = re.sub(r'^Hubungi WhatsApp JoC untuk informasi harga: https?://\S+$', '', text, flags=re.MULTILINE)
+    text = re.sub(r'https?://(api\.whatsapp\.com|wa\.me)/\S+', '', text)
+    text = re.sub(r'\[Konsultasi Dokter Gratis via WhatsApp\]\(https?://[^)]+\)', '', text)
+    text = re.sub(r'^Hubungi WhatsApp Resmi Joy of Care:.*$', '', text, flags=re.MULTILINE)
+    # Remove orphaned markdown link brackets left by stripping (e.g. "[ sekarang juga!")
+    text = re.sub(r'\[\s*sekarang juga!?\s*\](?:\(|\))??', '', text)
+    text = re.sub(r'\[\s*\]|\[\s*', '', text)
+    # Collapse blank runs introduced by stripping
+    text = re.sub(r'\n{3,}', '\n\n', text)
     lines = text.split('\n')
     out = []
     i = 0
@@ -269,9 +282,10 @@ def build_html(title, meta_desc, cat_dir, cat_name, slug, body):
 
 def main():
     base = '/home/gobeam/Projects/joyofcare-web/pages/blog'
+    src = '/home/gobeam/Projects/joyofcare-web/content-source/articles'
     total = 0
     for cat_dir, cat_name in CATEGORIES.items():
-        cat_path = os.path.join(base, cat_dir)
+        cat_path = os.path.join(src, cat_dir)
         if not os.path.isdir(cat_path):
             continue
         for f in glob.glob(os.path.join(cat_path, '*.txt')):
@@ -283,7 +297,7 @@ def main():
             meta_desc = meta.get('meta_description', title)
             body_html = md_to_html(body_md)
             page = build_html(title, meta_desc, cat_dir, cat_name, slug, body_html)
-            html_path = os.path.join(cat_path, slug + '.html')
+            html_path = os.path.join(base, cat_dir, slug + '.html')
             with open(html_path, 'w') as fh:
                 fh.write(page)
             total += 1
