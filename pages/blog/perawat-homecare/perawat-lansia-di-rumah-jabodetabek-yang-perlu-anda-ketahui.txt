@@ -65,7 +65,7 @@ clinical_references:
 
 Menyewa jasa tenaga kesehatan untuk tinggal bersama orang tua di rumah sering kali menimbulkan puluhan pertanyaan penting bagi anggota keluarga. Mulai dari pertanyaan mendasar mengenai legalitas sertifikat perawat, batas kewajiban tugas harian, hak libur dan cuti, hingga protokol tindakan darurat ketika pasien mengalami henti napas atau kejang. Ketidakjelasan aturan kerja sejak awal sering memicu perselisihan antara keluarga dan agensi. Artikel tanya jawab (FAQ) komprehensif ini merangkum seluruh aspek penting yang wajib diketahui keluarga sebelum memesan [Layanan Perawat Lansia Homecare Joy of Care](/layanan/perawat-homecare) di wilayah Jakarta, Bogor, Depok, Tangerang, dan Bekasi.
 
-<blockquote>###  Penting dipahami</blockquote>
+<blockquote><div class="info-box"><h3>Penting dipahami</h3></blockquote>
 <blockquote>* <strong>Batasan Wewenang yang Jelas</strong>: Perawat lansia berfokus penuh pada perawatan pasien geriatri; mereka bukan asisten rumah tangga (ART) serabutan.</blockquote>
 <blockquote>* <strong>Kewenangan Tindakan Medis Invasif</strong>: Injeksi, infus, ganti kateter, dan ganti selang NGT hanya boleh dilakukan oleh perawat berpendidikan D3/S1 Keperawatan ber-STR aktif dengan instruksi dokter tertulis.</blockquote>
 <blockquote>* <strong>Keamanan & Kenyamanan Bersama</strong>: Perjanjian tertulis yang mengatur jam tidur malam, hak makan, cuti bulanan, dan klausul garansi tukar wajib disepakati di awal kerja sama.</blockquote>
@@ -80,34 +80,34 @@ Berikut adalah jawaban mendalam dari tim praktisi klinis geriatri Joy of Care un
 <h3>1. Seputar Kualifikasi dan Legalitas Tenaga Perawat</h3>
 <ul><li><strong>Tanya: Bagaimana cara membuktikan bahwa perawat medis yang dikirim benar-benar lulusan keperawatan resmi?</strong></li>
 </ul>
-  <em> </em>Jawab*: Joy of Care selalu melampirkan profil lengkap tenaga perawat sebelum penempatan. Profil ini mencakup fotokopi ijazah resmi D3/S1 Keperawatan, bukti Surat Tanda Registrasi (STR) aktif yang dapat diverifikasi secara daring di portal KTKI Kemenkes RI, Surat Keterangan Catatan Kepolisian (SKCK), serta hasil skrining kesehatan bebas penyakit infeksi menular.
+  Jawab*: Joy of Care selalu melampirkan profil lengkap tenaga perawat sebelum penempatan. Profil ini mencakup fotokopi ijazah resmi D3/S1 Keperawatan, bukti Surat Tanda Registrasi (STR) aktif yang dapat diverifikasi secara daring di portal KTKI Kemenkes RI, Surat Keterangan Catatan Kepolisian (SKCK), serta hasil skrining kesehatan bebas penyakit infeksi menular.
 <ul><li><strong>Tanya: Apakah caregiver yang bukan sarjana keperawatan aman untuk mendampingi orang tua?</strong></li>
 </ul>
-  <em> </em>Jawab*: Sangat aman, asalkan kondisi lansia hanya membutuhkan bantuan aktivitas fisik harian (ADL) seperti memandikan, menyuapi makanan, membantu mobilisasi, dan menemani beraktivitas. Caregiver Joy of Care telah melalui pelatihan intensif teknik transfer pasien, stimulasi kognitif, dan etika komunikasi geriatri.
+  Jawab*: Sangat aman, asalkan kondisi lansia hanya membutuhkan bantuan aktivitas fisik harian (ADL) seperti memandikan, menyuapi makanan, membantu mobilisasi, dan menemani beraktivitas. Caregiver Joy of Care telah melalui pelatihan intensif teknik transfer pasien, stimulasi kognitif, dan etika komunikasi geriatri.
 
 <h3>2. Seputar Ruang Lingkup Pekerjaan (Job Description)</h3>
 <ul><li><strong>Tanya: Apakah perawat lansia boleh diminta membersihkan seluruh rumah atau memasak untuk keluarga besar?</strong></li>
 </ul>
-  <em> </em>Jawab*: Tidak diperbolehkan. Ruang lingkup kebersihan perawat dibatasi secara ketat pada area kamar tidur pasien lansia, merapikan ranjang pasien, mencuci pakaian pribadi lansia, dan mencuci peralatan makan lansia. Mengalihkan perawat untuk melakukan pekerjaan rumah tangga umum dapat membahayakan keselamatan lansia karena pengawasan medis menjadi terabaikan.
+  Jawab*: Tidak diperbolehkan. Ruang lingkup kebersihan perawat dibatasi secara ketat pada area kamar tidur pasien lansia, merapikan ranjang pasien, mencuci pakaian pribadi lansia, dan mencuci peralatan makan lansia. Mengalihkan perawat untuk melakukan pekerjaan rumah tangga umum dapat membahayakan keselamatan lansia karena pengawasan medis menjadi terabaikan.
 <ul><li><strong>Tanya: Tindakan apa saja yang dicatat perawat dalam laporan harian?</strong></li>
 </ul>
-  <em> </em>Jawab*: Setiap hari perawat mencatat tanda-tanda vital (tensi, nadi, suhu tubuh, saturasi SpO2), jam dan dosis pemberian obat, jenis serta volume asupan makanan dan minuman, eliminasi urine dan feses, keluhan nyeri atau perubahan suasana hati pasien, serta tindakan perawatan luka jika ada.
+  Jawab*: Setiap hari perawat mencatat tanda-tanda vital (tensi, nadi, suhu tubuh, saturasi SpO2), jam dan dosis pemberian obat, jenis serta volume asupan makanan dan minuman, eliminasi urine dan feses, keluhan nyeri atau perubahan suasana hati pasien, serta tindakan perawatan luka jika ada.
 
 <h3>3. Seputar Fasilitas, Hak Istirahat, dan Cuti</h3>
 <ul><li><strong>Tanya: Bagaimana pengaturan jam tidur dan istirahat untuk perawat menginap (live-in 24 jam)?</strong></li>
 </ul>
-  <em> </em>Jawab<em>: Meskipun bersiaga 24 jam, perawat adalah manusia yang membutuhkan pemulihan energi fisiologis. Keluarga wajib memberikan waktu tidur malam minimal 7–8 jam di kamar yang layak berpintu. Jika perawat harus terbangun di malam hari untuk merawat lansia, perawat berhak mendapatkan waktu tidur pengganti di siang hari agar tetap fokus dan terhindar dari kelalaian medis (</em>medical error*).
+  Jawab<em>: Meskipun bersiaga 24 jam, perawat adalah manusia yang membutuhkan pemulihan energi fisiologis. Keluarga wajib memberikan waktu tidur malam minimal 7–8 jam di kamar yang layak berpintu. Jika perawat harus terbangun di malam hari untuk merawat lansia, perawat berhak mendapatkan waktu tidur pengganti di siang hari agar tetap fokus dan terhindar dari kelalaian medis (</em>medical error*).
 <ul><li><strong>Tanya: Bagaimana pengaturan cuti perawat bulanan?</strong></li>
 </ul>
-  <em> </em>Jawab<em>: Standar kontrak bulanan perawat live-in mencakup hak cuti 2 hari setiap bulannya. Jika keluarga meminta perawat untuk tidak mengambil cuti karena tidak ada yang menggantikan di rumah, keluarga dapat memberikan uang pengganti cuti (</em>infield allowance*) sesuai kesepakatan resmi.
+  Jawab<em>: Standar kontrak bulanan perawat live-in mencakup hak cuti 2 hari setiap bulannya. Jika keluarga meminta perawat untuk tidak mengambil cuti karena tidak ada yang menggantikan di rumah, keluarga dapat memberikan uang pengganti cuti (</em>infield allowance*) sesuai kesepakatan resmi.
 
 <h3>4. Seputar Penanganan Darurat dan Garansi</h3>
 <ul><li><strong>Tanya: Apa yang dilakukan perawat jika kondisi orang tua mendadak kritis di rumah?</strong></li>
 </ul>
-  <em> </em>Jawab*: Perawat Joy of Care dilatih dalam protokol bantuan hidup dasar (Basic Life Support / BLS). Perawat akan segera memposisikan pasien secara aman, melonggarkan jalan napas, memberikan bantuan oksigen darurat, menghubungi ambulans/keluarga, serta berkoordinasi langsung dengan dokter supervisor Joy of Care untuk tindakan stabilisasi awal.
+  Jawab*: Perawat Joy of Care dilatih dalam protokol bantuan hidup dasar (Basic Life Support / BLS). Perawat akan segera memposisikan pasien secara aman, melonggarkan jalan napas, memberikan bantuan oksigen darurat, menghubungi ambulans/keluarga, serta berkoordinasi langsung dengan dokter supervisor Joy of Care untuk tindakan stabilisasi awal.
 <ul><li><strong>Tanya: Apakah ada jaminan garansi jika orang tua saya merasa tidak cocok dengan karakter perawat?</strong></li>
 </ul>
-  <em> </em>Jawab*: Tentu saja. Joy of Care memberikan fasilitas garansi penukaran perawat hingga 3 kali selama periode kontrak berjalan tanpa dikenakan biaya administrasi tambahan.
+  Jawab*: Tentu saja. Joy of Care memberikan fasilitas garansi penukaran perawat hingga 3 kali selama periode kontrak berjalan tanpa dikenakan biaya administrasi tambahan.
 
 ---
 

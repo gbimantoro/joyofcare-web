@@ -69,10 +69,10 @@ clinical_references:
 
 Menjaga stabilitas keseimbangan tubuh merupakan fondasi utama keselamatan hidup bagi orang tua lanjut usia. Secara fisiologis, tubuh manusia mengandalkan integrasi tiga serangkai sistem sensorik untuk menjaga posisi tegak: sistem visual (mata), sistem vestibular (telinga dalam), dan sistem proprioseptif (reseptor tekanan saraf di sendi dan telapak kaki). Ketika salah satu atau lebih dari ketiga sistem ini mengalami degradasi akibat proses penuaan, lansia akan merasa tubuhnya melayang, limbung saat berbalik arah, dan sangat rentan terjatuh. Program latihan keseimbangan (<em>balance training</em>) terstruktur terbukti secara ilmiah mampu meregenerasi sinaps saraf motorik dan memperkuat respons refleks protektif tubuh. Artikel panduan ini menyajikan langkah-langkah praktis latihan keseimbangan statis dan dinamis di rumah bersama [Layanan Fisioterapi Lansia di Rumah Joy of Care](/layanan/fisioterapi).
 
-<blockquote>###  Penting dipahami</blockquote>
+<blockquote><div class="info-box"><h3>Penting dipahami</h3></blockquote>
 <blockquote>* <strong>Tiga Sistem Sensorik Keseimbangan</strong>: Latihan menargetkan stimulasi terkoordinasi antara penglihatan, telinga dalam, dan sensorik telapak kaki.</blockquote>
 <blockquote>* <strong>Progresi Bertahap (Statis ke Dinamis)</strong>: Awali dari latihan berdiri diam dengan kedua kaki rapat, berdiri satu kaki bertopang, hingga latihan melangkah menyamping dinamis.</blockquote>
-<blockquote><em> </em><em>Gunakan Sudut Ruangan (</em>Corner Safety Technique<em>)</em>*: Posisikan lansia berlatih di sudut pertemuan dua dinding rumah agar terlindung dari risiko terjatuh ke belakang maupun samping.</blockquote>
+<blockquote><em>Gunakan Sudut Ruangan (</em>Corner Safety Technique<em>)</em>*: Posisikan lansia berlatih di sudut pertemuan dua dinding rumah agar terlindung dari risiko terjatuh ke belakang maupun samping.</blockquote>
 <blockquote><em> <strong>Pemeriksaan Baseline Risiko Jatuh</strong>: Gunakan uji waktu berdiri dan berjalan (</em>Timed Up and Go*) untuk mengukur tingkat kerentanan fisik lansia secara objektif.</blockquote>
 
 ---

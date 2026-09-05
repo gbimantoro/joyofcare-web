@@ -67,7 +67,7 @@ clinical_references:
 
 Stroke adalah penyebab utama kecacatan jangka panjang di Indonesia, namun potensi pemulihan otak manusia sangat luar biasa berkat mekanisme neuroplastisitas. Layanan fisioterapi pasca stroke di rumah (<em>home-based stroke neurorehabilitation</em>) memberikan pendekatan terapi intensif, personal, dan aman langsung di lingkungan tinggal pasien. Terapi rumahan ini meminimalkan stres perjalanan, mencegah kelelahan fisik lansia, serta melatih kemandirian fungsional nyata—mulai dari memiringkan badan di tempat tidur, duduk mandiri, berdiri tegak, hingga berjalan kembali.
 
-<blockquote>###  Penting dipahami</blockquote>
+<blockquote><div class="info-box"><h3>Penting dipahami</h3></blockquote>
 <blockquote>* <strong>Golden Period 3–6 Bulan Pertama</strong>: Waktu paling krusial di mana koneksi sinaps saraf otak baru terbentuk paling pesat untuk mengambil alih fungsi jaringan yang rusak.</blockquote>
 <blockquote><em> <strong>Konsep Neuroplastisitas</strong>: Latihan repetitif fungsional memicu otak membentuk sirkuit saraf alternatif (</em>cortical reorganization*).</blockquote>
 <blockquote>* <strong>Keunggulan di Rumah</strong>: Pasien dilatih langsung pada perabot rumah aslinya (ranjang, kursi makan, undakan tangga, toilet), sehingga hasil latihan langsung terpakai.</blockquote>
@@ -89,19 +89,19 @@ Pemulihan stroke bukanlah proses instan, melainkan tahapan klinis terstruktur ya
 
 <h3>1. Fase Akut & Manajemen Posisi Ranjang (Minggu 1–4)</h3>
 Pada tahap awal, fokus utama adalah mencegah komplikasi imobilitas sekunder:
-<ul><li><em></em>Protokol Posisi Tidur yang Benar (<em>Proper Bed Positioning</em>)<em></em>: Mengganjal lengan dan tungkai sisi yang lemah dengan bantal empuk untuk mencegah kontraktur sendi dan kekakuan spastik (<em>spasticity</em>).</li>
-<li><em></em>Mobilisasi Pasif Seluruh Sendi (<em>Passive Range of Motion / PROM</em>)<em></em>: Menggerakkan sendi bahu, siku, pergelangan tangan, panggul, dan lutut secara lembut 2 kali sehari untuk melancarkan sirkulasi darah dan mencegah pembentukan bekuan darah vena dalam (<em>DVT</em>).</li>
+<ul><li>Protokol Posisi Tidur yang Benar (<em>Proper Bed Positioning</em>): Mengganjal lengan dan tungkai sisi yang lemah dengan bantal empuk untuk mencegah kontraktur sendi dan kekakuan spastik (<em>spasticity</em>).</li>
+<li>Mobilisasi Pasif Seluruh Sendi (<em>Passive Range of Motion / PROM</em>): Menggerakkan sendi bahu, siku, pergelangan tangan, panggul, dan lutut secara lembut 2 kali sehari untuk melancarkan sirkulasi darah dan mencegah pembentukan bekuan darah vena dalam (<em>DVT</em>).</li>
 </ul>
 
 <h3>2. Fase Subakut & Pemulihan Kontrol Batang Tubuh (Bulan 1–3)</h3>
 Pasien mulai dilatih mengaktifkan otot-otot inti (<em>trunk control</em>):
-<ul><li><em></em>Latihan Miring Kanan-Kiri Mandiri (<em>Bridging & Rolling</em>)<em></em>: Menguatkan otot panggul dan perut agar pasien mampu berganti posisi tidur tanpa bantuan penuh orang lain.</li>
-<li><em></em>Keseimbangan Duduk Tanpa Penopang (<em>Sitting Balance</em>)<em></em>: Melatih stabilitas tubuh di tepi ranjang dengan kedua telapak kaki menapak lantai, merangsang refleks keseimbangan vestibular telinga dalam.</li>
+<ul><li>Latihan Miring Kanan-Kiri Mandiri (<em>Bridging & Rolling</em>): Menguatkan otot panggul dan perut agar pasien mampu berganti posisi tidur tanpa bantuan penuh orang lain.</li>
+<li>Keseimbangan Duduk Tanpa Penopang (<em>Sitting Balance</em>): Melatih stabilitas tubuh di tepi ranjang dengan kedua telapak kaki menapak lantai, merangsang refleks keseimbangan vestibular telinga dalam.</li>
 </ul>
 
 <h3>3. Fase Pelatihan Berdiri dan Berjalan (Bulan 3–6)</h3>
-<ul><li><em></em>Latihan Transfer Beban Tumpuan (<em>Weight-Bearing Training</em>)<em></em>: Melatih tungkai yang lumpuh untuk kembali menerima beban berat badan secara simetris saat berdiri tegak.</li>
-<li><em></em>Latihan Pola Jalan Terarah (<em>Gait Retraining</em>)<em></em>: Fisioterapis memfasilitasi gerakan melangkah yang benar menggunakan teknik fasilitasi neuromuskular proprioseptif (PNF) atau konsep Bobath, mencegah gaya jalan mengayun lingkar (<em>circumduction gait</em>) yang salah.</li>
+<ul><li>Latihan Transfer Beban Tumpuan (<em>Weight-Bearing Training</em>): Melatih tungkai yang lumpuh untuk kembali menerima beban berat badan secara simetris saat berdiri tegak.</li>
+<li>Latihan Pola Jalan Terarah (<em>Gait Retraining</em>): Fisioterapis memfasilitasi gerakan melangkah yang benar menggunakan teknik fasilitasi neuromuskular proprioseptif (PNF) atau konsep Bobath, mencegah gaya jalan mengayun lingkar (<em>circumduction gait</em>) yang salah.</li>
 </ul>
 
 <h3>4. Fase Kemandirian Fungsional & Motorik Halus (Bulan 6 ke Atas)</h3>

@@ -102,8 +102,8 @@ Di akhir sesi, fisioterapis mencatat perkembangan klinis dalam resume rekam medi
 <h2>Asesmen Objektif & Penggunaan Modalitas Terapi Portabel Modern di Rumah</h2>
 
 Saat fisioterapis Joy of Care berkunjung ke rumah, pemeriksaan fisik tidak dilakukan secara perkiraan, melainkan menggunakan parameter objektif berbasis standar internasional:
-<ul><li><em></em>Skala Keseimbangan Berg (<em>Berg Balance Scale</em>)<em></em>: Menilai 14 item kemampuan mobilitas (seperti duduk ke berdiri, berdiri satu kaki, berputar 360 derajat) untuk memetakan skor risiko jatuh secara akurat.</li>
-<li><em></em>Tes Berjalan 6 Menit (<em>6-Minute Walk Test</em>)<em></em>: Mengukur daya tahan kardiorespirasi dan toleransi kelelahan aerobik lansia.</li>
+<ul><li>Skala Keseimbangan Berg (<em>Berg Balance Scale</em>): Menilai 14 item kemampuan mobilitas (seperti duduk ke berdiri, berdiri satu kaki, berputar 360 derajat) untuk memetakan skor risiko jatuh secara akurat.</li>
+<li>Tes Berjalan 6 Menit (<em>6-Minute Walk Test</em>): Mengukur daya tahan kardiorespirasi dan toleransi kelelahan aerobik lansia.</li>
 <li><strong>Pemanfaatan Modalitas Elektroterapi TENS Portabel</strong>: Alat stimulasi saraf listrik transkutan yang dibawa terapis untuk memblokade sinyal nyeri pada sendi osteoartritis lutut atau pinggang tanpa efek samping obat lambung.</li>
 </ul>
 

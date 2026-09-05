@@ -65,7 +65,7 @@ clinical_references:
 
 Peningkatan angka harapan hidup masyarakat Indonesia membawa dampak demografis yang nyata: ledakan populasi lanjut usia (<em>aging population</em>) yang diiringi oleh lonjakan tajam kasus penyakit degeneratif kronis. Di antara sekian banyak masalah kesehatan geriatri, osteoporosis merupakan ancaman senyap yang mencatatkan angka kesakitan dan disabilitas tertinggi. Data epidemiologi nasional menunjukkan bahwa Indonesia merupakan salah satu negara di kawasan Asia Tenggara dengan beban fraktur panggul osteoporosis tertinggi akibat rendahnya asupan kalsium harian dan tingginya defisiensi vitamin D. Bagi keluarga di wilayah metropolitan Jakarta, insiden patah tulang panggul pada orang tua sering kali menjadi awal mula lingkaran kemunduran fisik total. Melalui program rehabilitasi ortopedi dari [Layanan Fisioterapi di Rumah Joy of Care](/layanan/fisioterapi-di-rumah), pasien pascafraktur dapat dipulihkan kemandirian berjalannya di hunian sendiri secara aman. Artikel ini memaparkan data statistik resmi osteoporosis di Indonesia, analisis risiko komplikasi fatal, serta alur pemulihan terpadu dan protokol latihan ortopedi geriatri di rumah.
 
-<blockquote>###  Penting dipahami</blockquote>
+<blockquote><div class="info-box"><h3>Penting dipahami</h3></blockquote>
 <blockquote>* <strong>Epidemiologi Kritis di Indonesia</strong>: 2 dari 5 wanita usia di atas 50 tahun di Indonesia menderita osteoporosis, sebagian besar tidak terdiagnosis hingga patah tulang.</blockquote>
 <blockquote>* <strong>Krisis Asupan Kalsium Nasional</strong>: Rata-rata asupan kalsium harian masyarakat Indonesia hanya ~254 mg/hari (jauh di bawah rekomendasi WHO 1.000–1.200 mg/hari).</blockquote>
 <blockquote>* <strong>Tingkat Kematian Pasca-Fraktur Tinggi</strong>: 20–24% pasien fraktur panggul meninggal dalam 12 bulan pertama akibat komplikasi komorbid imobilitas.</blockquote>
@@ -109,8 +109,8 @@ Osteoporosis sering dijuluki sebagai pencuri tulang senyap (<em>silent thief</em
 <h3>1. Kriteria Indikasi Terapi Medis Agresif Osteoporosis</h3>
 Intervensi farmakologis dan rehabilitatif khusus diindikasikan pada kondisi klinis berikut:
 <ul><li><strong>Nilai T-Score Densitometri Tulang (DEXA Scan) ≤ -2.5</strong>: Pasien terbukti mengalami osteoporosis berat, terutama bila disertai skor FRAX (<em>Fracture Risk Assessment Tool</em>) yang menunjukkan probabilitas fraktur panggul 10 tahun > 3%.</li>
-<li><em></em>Riwayat Fraktur Kerapuhan (<em>Fragility Fracture</em>)<em></em>: Lansia mengalami patah tulang pergelangan tangan (<em>Colles fracture</em>), tulang belakang, atau panggul hanya akibat benturan ringan atau jatuh dari ketinggian berdiri.</li>
-<li><em></em>Penurunan Tinggi Badan Signifikan (> 3 cm) atau Postur Bungkuk (<em>Kifosis / Dowager's Hump</em>)<em></em>: Menandakan telah terjadinya fraktur kompresi korpus vertebra tanpa disadari oleh keluarga.</li>
+<li>Riwayat Fraktur Kerapuhan (<em>Fragility Fracture</em>): Lansia mengalami patah tulang pergelangan tangan (<em>Colles fracture</em>), tulang belakang, atau panggul hanya akibat benturan ringan atau jatuh dari ketinggian berdiri.</li>
+<li>Penurunan Tinggi Badan Signifikan (> 3 cm) atau Postur Bungkuk (<em>Kifosis / Dowager's Hump</em>): Menandakan telah terjadinya fraktur kompresi korpus vertebra tanpa disadari oleh keluarga.</li>
 </ul>
 
 <h3>2. Protokol Farmakoterapi Penguat Tulang Berbasis Bukti</h3>
@@ -122,9 +122,9 @@ Dokter penanggung jawab klinis merancang terapi kombinasi agen antiresorptif dan
 
 <h3>3. Fisioterapi Latihan Beban Aksial dan Propriosepsi di Rumah</h3>
 Latihan mekanis terarah merangsang aktivitas sel osteoblas pembentuk tulang:
-<ul><li><em></em>Latihan Menahan Beban Terkontrol (<em>Weight-Bearing Exercises</em>)<em></em>: Melatih pasien berdiri tegak dan melangkah dengan penopangan berat badan penuh secara aman bersama fisioterapis, merangsang efek piezoelektrik pada trabekula tulang panggul.</li>
+<ul><li>Latihan Menahan Beban Terkontrol (<em>Weight-Bearing Exercises</em>): Melatih pasien berdiri tegak dan melangkah dengan penopangan berat badan penuh secara aman bersama fisioterapis, merangsang efek piezoelektrik pada trabekula tulang panggul.</li>
 <li><strong>Penguatan Otot Ekstensor Punggung</strong>: Latihan memperkuat otot paraspinal dan gluteus untuk mengoreksi postur kifosis dan mengurangi beban kompresi pada bagian anterior korpus vertebra.</li>
-<li><em></em>Penghindaran Gerakan Berbahaya (<em>Contraindicated Movements</em>)<em></em>: Fisioterapis melatih pasien dan keluarga untuk menghindari gerakan membungkuk ke depan (<em>trunk flexion</em>) ekstrem, mengangkat beban berat dari lantai, atau memutar pinggang mendadak yang berisiko mematahkan tulang belakang.</li>
+<li>Penghindaran Gerakan Berbahaya (<em>Contraindicated Movements</em>): Fisioterapis melatih pasien dan keluarga untuk menghindari gerakan membungkuk ke depan (<em>trunk flexion</em>) ekstrem, mengangkat beban berat dari lantai, atau memutar pinggang mendadak yang berisiko mematahkan tulang belakang.</li>
 </ul>
 
 <h3>4. Pemantauan Biomarker dan Keamanan Jangka Panjang</h3>

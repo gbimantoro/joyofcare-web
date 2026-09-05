@@ -66,7 +66,7 @@ clinical_references:
 
 Mengakui bahwa keluarga membutuhkan bantuan perawat profesional untuk merawat orang tua di rumah bukanlah tanda kegagalan atau hilangnya rasa bakti, melainkan keputusan medis yang bertanggung jawab demi keselamatan dan kualitas hidup orang tua tercinta. Ketika beban perawatan fisik melampaui kemampuan anak, risiko kesalahan pemberian obat, insiden jatuh fatal, dan luka baring dekubitus meningkat drastis. Artikel ini membedah tanda-tanda kritis kapan keluarga harus mengambil langkah menyewa perawat homecare, dilengkapi studi kasus nyata keberhasilan perawatan keluarga di Jakarta.
 
-<blockquote>###  Penting dipahami</blockquote>
+<blockquote><div class="info-box"><h3>Penting dipahami</h3></blockquote>
 <blockquote>* <strong>Tanda Bahaya Fisik Lansia</strong>: Mengalami penurunan berat badan drastis, bau urine menyengat tanda dehidrasi, atau terdapat kemerahan di tulang ekor tanda awal dekubitus.</blockquote>
 <blockquote>* <strong>Tanda Burnout Keluarga</strong>: Anak merasa kewalahan, cemas berlebihan saat jam pulang kerja, atau mulai berselisih paham antar-saudara mengenai jadwal giliran jaga.</blockquote>
 <blockquote>* <strong>Keselamatan Medis Terjamin</strong>: Perawat profesional memiliki kompetensi klinis untuk memposisikan pasien, memantau tensi dan gula darah, serta memberikan pertolongan pertama.</blockquote>
@@ -121,14 +121,14 @@ Merawat orang tua lanjut usia yang mengalami penurunan fungsi fisik dan kognitif
 <h3>1. Pengkajian Tingkat Ketergantungan dan Sindrom Geriatri</h3>
 Alur pengkajian multidimensi mengevaluasi kebutuhan riil lansia di rumah:
 <ul><li><strong>Pengukuran Skala ADL (Activities of Daily Living)</strong>: Mengidentifikasi apakah orang tua tergolong mandiri, ketergantungan parsial (butuh bantuan saat mandi atau berjalan), atau ketergantungan total (seluruh kebutuhan eliminasi, makan, dan reposisi tidur membutuhkan bantuan penuh orang lain).</li>
-<li><em></em>Evaluasi Keberadaan Sindrom Geriatri (<em>The O-Complex</em>)<em></em>: Mendeteksi sindrom klasik usia lanjut: <em>Immobility</em> (imobilitas fisik), <em>Instability</em> (kerapuhan jatuh), <em>Incontinence</em> (ngompol/kebocoran feses), <em>Intellectual impairment</em> (demensia pikun), serta <em>Inanition</em> (penurunan asupan makan drastis).</li>
-<li><em></em>Skrining Beban Pengasuh (<em>Zarit Burden Interview</em>)<em></em>: Menilai tingkat stres, gangguan tidur, dan kecemasan anggota keluarga yang merawat untuk menentukan kapan intervensi perawat profesional mutlak dihadirkan.</li>
+<li>Evaluasi Keberadaan Sindrom Geriatri (<em>The O-Complex</em>): Mendeteksi sindrom klasik usia lanjut: <em>Immobility</em> (imobilitas fisik), <em>Instability</em> (kerapuhan jatuh), <em>Incontinence</em> (ngompol/kebocoran feses), <em>Intellectual impairment</em> (demensia pikun), serta <em>Inanition</em> (penurunan asupan makan drastis).</li>
+<li>Skrining Beban Pengasuh (<em>Zarit Burden Interview</em>): Menilai tingkat stres, gangguan tidur, dan kecemasan anggota keluarga yang merawat untuk menentukan kapan intervensi perawat profesional mutlak dihadirkan.</li>
 </ul>
 
 <h3>2. Penyusunan Rencana Asuhan Keperawatan Terpadu di Rumah</h3>
 Berdasarkan hasil pengkajian dokter geriatri, disusun alur perawatan harian yang terstruktur:
 <ul><li><strong>Alur Perawatan Higienitas Personal Tanpa Risiko Hipotermia</strong>: Memandikan orang tua di tempat tidur menggunakan air hangat bersuhu 37–38°C dan sabun ber-pH netral, membersihkan lipatan kulit perineum secara saksama untuk mencegah infeksi jamur dan dermatitis amonia akibat popok dewasa.</li>
-<li><em></em>Jadwal Alih Baring Terstruktur (<em>Turn-and-Position Protocol</em>)<em></em>: Mengubah posisi tidur pasien miring kanan 30 derajat, telentang, dan miring kiri 30 derajat setiap 2 jam sekali dengan bantalan penopang ergonomis untuk mendistribusikan tekanan pada tulang ekor (<em>sakrum</em>) dan trokanter panggul.</li>
+<li>Jadwal Alih Baring Terstruktur (<em>Turn-and-Position Protocol</em>): Mengubah posisi tidur pasien miring kanan 30 derajat, telentang, dan miring kiri 30 derajat setiap 2 jam sekali dengan bantalan penopang ergonomis untuk mendistribusikan tekanan pada tulang ekor (<em>sakrum</em>) dan trokanter panggul.</li>
 <li><strong>Manajemen Eliminasi Fisiologis</strong>: Mengatur jadwal berkemih teratur (<em>prompted voiding</em>) bagi lansia demensia ringan, serta merawat selang kateter urin secara aseptik bagi pasien dengan retensi urin kronis.</li>
 </ul>
 

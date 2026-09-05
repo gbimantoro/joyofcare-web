@@ -67,7 +67,7 @@ clinical_references:
 
 Menjaga stabilitas kesehatan tubuh melalui pemeriksaan laboratorium berkala merupakan pilar penting tindakan preventif dalam dunia medis modern. Namun bagi masyarakat perkotaan dengan jadwal padat serta keluarga yang merawat orang tua sakit di rumah, meluangkan waktu setengah hari untuk pergi ke laboratorium klinik sering menjadi kendala utama. Layanan [Layanan Cek Lab Darah di Rumah Joy of Care](/layanan/cek-lab-di-rumah) memberikan solusi mutakhir dengan sistem pemesanan digital yang instan dan transparan. Artikel ini menyajikan 6 langkah mudah, panduan persiapan puasa yang benar, serta tips menghadapi orang tua yang takut jarum suntik agar pengambilan darah berjalan lancar, nyaman, dan aman.
 
-<blockquote>###  Penting dipahami</blockquote>
+<blockquote><div class="info-box"><h3>Penting dipahami</h3></blockquote>
 <blockquote>* <strong>Pemesanan Mudah via WhatsApp</strong>: Cukup kirimkan foto formulir rujukan dokter atau diskusikan keluhan kesehatan Anda ke nomor WhatsApp resmi Joy of Care 08811-118-911.</blockquote>
 <blockquote>* <strong>Penjadwalan Pagi Hari Fleksibel</strong>: Pilih jam kedatangan flebotomis mulai pukul 06.00 pagi agar masa puasa pasien lansia tidak terlalu panjang dan tidak memicu lemas.</blockquote>
 <blockquote>* <strong>Trik Vena Sulit (Difficult Vein)</strong>: Pastikan pasien minum 2 gelas air putih hangat 1 jam sebelum pengambilan darah dan hangatkan lengan dengan handuk hangat agar vena membesar.</blockquote>
@@ -118,7 +118,7 @@ Langkah pertama sangat sederhana:
 
 Rasa takut terhadap jarum suntik adalah hal yang wajar dialami oleh segala usia, terutama lansia yang memiliki pengalaman trauma masa lalu:
 <ul><li><strong>Gunakan Komunikasi Menenangkan</strong>: Jangan menakut-nakuti atau memberi kejutan mendadak. Jelaskan secara perlahan bahwa tes darah ini sangat penting untuk mengetahui perkembangan kesehatannya.</li>
-<li><em></em>Alihkan Perhatian (<em>Distraction Technique</em>)<em></em>: Saat flebotomis mulai membersihkan lengan dengan kapas alkohol, ajak orang tua mengobrol tentang kenangan indah, cucu, atau tontonkan video favorit di televisi. Minta orang tua untuk tidak melihat ke arah lengan yang disuntik.</li>
+<li>Alihkan Perhatian (<em>Distraction Technique</em>): Saat flebotomis mulai membersihkan lengan dengan kapas alkohol, ajak orang tua mengobrol tentang kenangan indah, cucu, atau tontonkan video favorit di televisi. Minta orang tua untuk tidak melihat ke arah lengan yang disuntik.</li>
 <li><strong>Trik Bernapas Panjang</strong>: Instruksikan orang tua untuk menarik napas dalam-dalam melalui hidung dan menghembuskannya perlahan lewat mulut tepat saat jarum mulai dimasukkan. Relaksasi otot lengan membuat tusukan jarum nyaris tidak terasa.</li>
 <li><strong>Kompres Hangat Pra-Tindakan</strong>: Jika pembuluh darah vena orang tua sulit ditemukan, kompres area lipatan siku dengan handuk hangat selama 5 menit sebelum flebotomis datang guna merangsang pelebaran pembuluh darah (<em>vasodilatasi</em>).</li>
 </ul>

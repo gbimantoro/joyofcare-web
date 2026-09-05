@@ -78,7 +78,7 @@ clinical_references:
 
 Menjaga kepadatan tulang orang tua tercinta sering kali menjadi tantangan yang dipenuhi oleh misinformasi, mitos kesehatan, dan kekeliruan dalam membedakan antara keluhan persendian dengan penyakit tulang rapuh. Banyak orang tua yang merasa tulangnya baik-baik saja hanya karena tidak merasakan nyeri, sementara pengeroposan mikrostruktur tulang terus berlangsung secara progresif di dalam tubuh. Melalui kompilasi FAQ ini, tim dokter spesialis dan fisioterapis [Layanan Panggil Dokter ke Rumah Jakarta](/layanan/panggil-dokter) Joy of Care memberikan jawaban medis yang komprehensif, lugas, dan terpercaya. Pembahasan mencakup cara membedakan osteoporosis vs osteoartritis, bahaya pijat urut pada tulang rapuh, validitas alat tes kepadatan tulang, instrumen penilaian risiko patah tulang FRAX, hingga langkah proteksi rumah tangga agar lansia terhindar dari cacat permanen akibat fraktur patologis.
 
-<blockquote>###  Penting dipahami</blockquote>
+<blockquote><div class="info-box"><h3>Penting dipahami</h3></blockquote>
 <blockquote>* <strong>Beda Osteoporosis vs Osteoartritis</strong>: Osteoporosis adalah pengeroposan rangka tanpa nyeri; osteoartritis adalah keausan tulang rawan sendi dengan rasa nyeri.</blockquote>
 <blockquote>* <strong>Bahaya Fatal Pijat Urut</strong>: Manipulasi pijatan paksa pada lansia bertulang rapuh dapat memicu patah tulang rusuk dan remuk tulang belakang.</blockquote>
 <blockquote>* <strong>Baku Emas Diagnosis DEXA</strong>: Pengukuran T-score pada tulang panggul dan tulang belakang merupakan standar medis mutlak.</blockquote>

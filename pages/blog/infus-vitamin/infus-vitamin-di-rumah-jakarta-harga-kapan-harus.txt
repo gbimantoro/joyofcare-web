@@ -66,7 +66,7 @@ clinical_references:
 <h1>Kapan Tubuh Membutuhkan Layanan Infus Vitamin di Rumah? 5 Indikasi Klinis dan Protokol Terapi Intravena</h1>
 
 Bagi kaum profesional dan masyarakat produktif di perkotaan, terserang penyakit infeksi akut seperti demam berdarah dengue (DBD), influenza berat, atau tifoid sering kali menyisakan fase pemulihan yang berkepanjangan. Meskipun fase kritis demam telah lewat, sindrom kelelahan pascainfeksi (<em>post-viral fatigue syndrome</em>) kerap bertahan berminggu-minggu, ditandai oleh tubuh yang terasa lemas, kabut otak (<em>brain fog</em>), dan daya tahan tubuh yang rentan terserang infeksi sekunder. Memilih terapi suportif mikronutrien intravena melalui [Layanan Infus dan Suntik Vitamin di Rumah Joy of Care](/layanan/infus-vitamin) menghadirkan rehidrasi langsung dan pemulihan bioenergi seluler tanpa beban perjalanan fisik ke klinik. Panduan ini membedah indikasi klinis, farmakodinamika formula imun, serta standar keselamatan prosedur infus di tempat tinggal.
-<blockquote>###  Penting dipahami</blockquote>
+<blockquote><div class="info-box"><h3>Penting dipahami</h3></blockquote>
 <blockquote>* <strong>Patofisiologi Kelelahan Pascainfeksi</strong>: Replikasi virus dan respons imun inflamasi menguras cadangan mikronutrien serta fungsi mitokondria sel.</blockquote>
 <blockquote>* <strong>Bioavailabilitas Intravena Maksimal</strong>: Rute parenteral mengalirkan vitamin dosis terapeutik langsung ke sirkulasi darah tanpa hambatan absorpsi lambung.</blockquote>
 <blockquote>* <strong>Protokol Skrining dan Tindakan Steril</strong>: Dokter dan perawat memverifikasi riwayat alergi, fungsi ginjal, dan tanda vital sebelum infus dimulai.</blockquote>
@@ -95,7 +95,7 @@ Formula cairan infus diracik secara individual sesuai kebutuhan klinis fisiologi
 Tindakan penusukan jarum infus dijalankan oleh dokter atau perawat berlisensi dengan disiplin sterilisasi penuh:
 <ul><li><strong>Pilihan Kateter Intravena Mikro</strong>: Menggunakan <em>IV cannula</em> ukuran kecil (gauge 22 atau 24) untuk meminimalkan nyeri tusukan dan melindungi keutuhan dinding vena perifer lengan bawah atau punggung tangan.</li>
 <li><strong>Prosedur Desinfeksi Alkohol-Klorheksidin Ganda</strong>: Membersihkan area vena target dan membiarkannya kering sempurna sebelum insersi kanula vakutainer, dilanjutkan fiksasi balutan transparan steril (<em>transparent IV dressing</em>).</li>
-<li><em></em>Pengaturan Laju Aliran Tetesan (<em>Flow Rate Titration</em>)<em></em>: Aliran infus diatur secara presisi menggunakan klem mikro, dengan durasi pemberian berkisar antara 45 hingga 60 menit guna mencegah sensasi dingin berlebih atau iritasi vena (<em>phlebitis</em>).</li>
+<li>Pengaturan Laju Aliran Tetesan (<em>Flow Rate Titration</em>): Aliran infus diatur secara presisi menggunakan klem mikro, dengan durasi pemberian berkisar antara 45 hingga 60 menit guna mencegah sensasi dingin berlebih atau iritasi vena (<em>phlebitis</em>).</li>
 </ul>
 
 <h3>4. Pemantauan Selama Prosedur dan Edukasi Hidrasi Pascaterapi</h3>
@@ -123,7 +123,7 @@ Penanganan medis tepat waktu membuktikan bahwa menunda pemulihan tubuh hanya aka
 <ul><li><strong>Anda Baru Saja Pulih dari Rawat Inap Rumah Sakit (DBD, Tifus, COVID-19, atau Flu Berat)</strong> dan merasa tubuh masih sangat lemas.</li>
 <li><strong>Tubuh Anda Mulai Meriang dan Pegal-Pegal di Tengah Jadwal Kerja yang Padat</strong>, menandakan daya tahan tubuh mulai jebol.</li>
 <li><strong>Anda Mengalami Mual dan Gangguan Lambung Kronis</strong> yang membuat Anda tidak mampu menelan suplemen vitamin tablet oral.</li>
-<li><em></em>Anda Merasa Sangat Lelah Secara Fisik dan Mental (<em>Burnout</em>)<em></em> akibat jam kerja berlebihan dan perjalanan dinas luar kota yang melelahkan.</li>
+<li>Anda Merasa Sangat Lelah Secara Fisik dan Mental (<em>Burnout</em>) akibat jam kerja berlebihan dan perjalanan dinas luar kota yang melelahkan.</li>
 </ul>
 
 ---

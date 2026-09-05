@@ -76,7 +76,7 @@ clinical_references:
 
 Tulang adalah organ hidup yang senantiasa mengalami siklus perombakan alami sepanjang hayat. Namun pada kelompok lanjut usia, keseimbangan metabolisme tulang terganggu secara dramatis: laju penyerapan tulang oleh sel osteoklas melampaui laju pembentukan tulang baru oleh sel osteoblas, memicu kondisi pengeroposan tulang sistemik yang dikenal sebagai osteoporosis. Sifatnya yang tanpa gejala klinis di awal (<em>silent epidemic</em>) membuat jutaan keluarga di Indonesia terlambat menyadarinya hingga terjadi insiden fatal: patah tulang panggul (<em>hip fracture</em>) atau remuk tulang punggung (<em>vertebral compression fracture</em>) akibat jatuh ringan di rumah. Melalui integrasi [Layanan Fisioterapi di Rumah Joy of Care](/layanan/fisioterapi-di-rumah), perawatan geriatri modern kini mampu memperlambat pengeroposan matriks tulang, memulihkan kekuatan otot penyangga, dan mencegah komplikasi fraktur yang melumpuhkan. Artikel ini mengupas mekanisme patofisiologi, faktor risiko, panduan nutrisi kalsium-D3, serta strategi perawatan terpadu di rumah untuk keluarga di Jakarta dan sekitarnya.
 
-<blockquote>###  Penting dipahami</blockquote>
+<blockquote><div class="info-box"><h3>Penting dipahami</h3></blockquote>
 <blockquote>* <strong>Bahaya Tersembunyi Tanpa Gejala</strong>: Kepadatan tulang berkurang tanpa rasa sakit sampai terjadi patah tulang akibat benturan ringan.</blockquote>
 <blockquote>* <strong>Komplikasi Fraktur Panggul Kritis</strong>: 20% lansia yang mengalami patah tulang panggul meninggal dalam 1 tahun pertama akibat komplikasi tirah baring (pneumonia/sepsis).</blockquote>
 <blockquote>* <strong>Standar Emas Diagnostik DEXA Scan</strong>: T-score ≤ -2,5 menandakan osteoporosis aktif yang membutuhkan terapi medis dan latihan beban.</blockquote>
@@ -103,7 +103,7 @@ Hukum Wolff dalam fisiologi ortopedi menyatakan bahwa tulang beradaptasi terhada
 
 Meskipun kerap tidak bergejala, perhatikan perubahan fisik berikut pada orang tua Anda:
 <ul><li><strong>Penurunan Tinggi Badan Bertahap</strong>: Bila tinggi badan orang tua berkurang lebih dari 3 hingga 4 cm dibandingkan saat usia muda. Ini merupakan tanda kolaps mikro pada bantalan ruas tulang belakang (<em>vertebral body compression</em>).</li>
-<li><em></em>Postur Punggung Membungkuk (<em>Kyphosis</em> / Dowager's Hump)<em></em>: Punggung atas tampak melengkung ke depan seperti punuk, membatasi rongga dada dan mempersulit pengembangan paru-paru.</li>
+<li>Postur Punggung Membungkuk (<em>Kyphosis</em> / Dowager's Hump): Punggung atas tampak melengkung ke depan seperti punuk, membatasi rongga dada dan mempersulit pengembangan paru-paru.</li>
 <li><strong>Nyeri Punggung Bawah Tumpul Kronis</strong>: Nyeri pegal di area pinggang yang memburuk saat berdiri lama dan membaik saat berbaring telentang.</li>
 <li><strong>Kuku Rapuh dan Kekuatan Genggaman Melemah</strong>: Penurunan kekuatan cengkeraman tangan (<em>handgrip strength</em>) berkorelasi erat dengan penurunan kepadatan mineral tulang rangka.</li>
 </ul>
@@ -133,7 +133,7 @@ Melakukan olahraga sembarangan pada penderita osteoporosis justru berisiko menim
 Fisioterapis melatih lansia berjalan dengan ritme stabil, latihan menaiki undakan tangga rendah (<em>step-ups</em>), dan latihan menghentakkan tumit perlahan (<em>heel drops</em>). Getaran mekanis yang merambat melalui tulang paha dan panggul menstimulasi sel osteoblas mendepositkan kalsium baru ke matriks tulang.
 
 <h3>2. Penguatan Otot Ekstensor Punggung (<em>Back Extensor Strengthening</em>)</h3>
-Latihan isometric prone-extension memperkuat otot erector spinae dan multifidus, mencegah postur tubuh membungkuk (<em>kyphosis</em>), serta mengurangi beban tekanan kompresi pada bagian anterior korpus vertebra. <em></em>Fisioterapis Joy of Care secara ketat melarang gerakan membungkuk ke depan (<em>trunk flexion</em>) atau memutar pinggang secara ekstrem (<em>spinal twisting</em>) yang memicu fraktur.<em></em>
+Latihan isometric prone-extension memperkuat otot erector spinae dan multifidus, mencegah postur tubuh membungkuk (<em>kyphosis</em>), serta mengurangi beban tekanan kompresi pada bagian anterior korpus vertebra. Fisioterapis Joy of Care secara ketat melarang gerakan membungkuk ke depan (<em>trunk flexion</em>) atau memutar pinggang secara ekstrem (<em>spinal twisting</em>) yang memicu fraktur.
 
 <h3>3. Latihan Keseimbangan Dinamis dan Propriosepsi</h3>
 Melatih keseimbangan dengan berdiri satu kaki bertumpu sandaran kursi (<em>tandem stance</em>) dan jalan menyamping (<em>side-stepping</em>) guna meningkatkan kesadaran posisi sendi, sehingga lansia tidak mudah goyah atau tersandung saat berjalan di rumah.

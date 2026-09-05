@@ -71,7 +71,7 @@ clinical_references:
 
 Menua merupakan proses alami yang tak terelakkan, namun mengalami penurunan daya ingat secara drastis, ketergantungan fisik total, dan hilangnya kemandirian bukanlah takdir yang harus diterima begitu saja. Ilmu geriatri modern membuktikan bahwa kualitas hidup lanjut usia sangat ditentukan oleh struktur rutinitas harian yang dijalani setiap harinya di rumah. [Layanan Panggil Dokter ke Rumah Jakarta](/layanan/panggil-dokter) dari Joy of Care secara konsisten menemukan bahwa lansia yang memiliki pola hidup teratur mencakup ritme sirkadian terjaga, asupan nutrisi mikro berimbang, latihan neuromuskular harian, serta stimulasi kognitif aktif memiliki risiko rawat inap 50% lebih rendah dibandingkan lansia dengan gaya hidup pasif. Artikel komprehensif ini menguraikan cetak biru jadwal harian 24 jam untuk lansia sehat, tips adaptasi lingkungan hunian, pemantauan tanda bahaya geriatri, serta sinergi layanan homecare medis terpadu di Jabodetabek.
 
-<blockquote>###  Penting dipahami</blockquote>
+<blockquote><div class="info-box"><h3>Penting dipahami</h3></blockquote>
 <blockquote>* <strong>Keteraturan Ritme Sirkadian</strong>: Jam bangun tidur, jam makan, dan jam terpapar sinar matahari pagi yang konsisten mengoptimalkan produksi hormon melatonin dan serotonin.</blockquote>
 <blockquote>* <strong>Aktivitas Fisik 30 Menit</strong>: Kombinasi latihan kelenturan, penguatan otot kuadrisep paha, dan keseimbangan statis mencegah sindrom sarkopenia dan risiko jatuh.</blockquote>
 <blockquote><em> <strong>Nutrisi Padat Gizi & Hidrasi Teratur</strong>: Memenuhi kebutuhan protein 1,2–1,5 g/kgBB/hari serta asupan cairan 1,5–2 liter tanpa memicu buang air kecil malam hari (</em>nocturia*).</blockquote>
@@ -121,7 +121,7 @@ Berikut adalah panduan jadwal aktivitas harian yang direkomendasikan dokter spes
 <h2>Tips Manajemen Nutrisi dan Pengaturan Obat Kronis</h2>
 
 Banyak lansia di Jakarta mengonsumsi lebih dari 3 hingga 5 jenis obat setiap harinya (<em>polifarmasi</em>) untuk mengendalikan hipertensi, diabetes, atau kolesterol tinggi. Pengelolaan nutrisi dan obat yang tepat meliputi:
-<ul><li><em></em>Gunakan Kotak Obat Harian Bersekat (<em>Pill Organizer Box</em>)<em></em>: Pisahkan obat ke dalam sekat Pagi, Siang, Sore, dan Malam dengan label warna mencolok untuk mencegah risiko lupa minum atau overdosis ganda.</li>
+<ul><li>Gunakan Kotak Obat Harian Bersekat (<em>Pill Organizer Box</em>): Pisahkan obat ke dalam sekat Pagi, Siang, Sore, dan Malam dengan label warna mencolok untuk mencegah risiko lupa minum atau overdosis ganda.</li>
 <li><strong>Kombinasi Protein Berkualitas Tinggi</strong>: Sajikan protein lembut yang mudah dikunyah seperti ikan kukus, tahu lembut, telur rebus, atau sup ayam tanpa lemak. Protein penting untuk mempertahankan massa otot dan daya tahan tubuh.</li>
 <li><strong>Pemeriksaan Profil Darah Rutin</strong>: Lakukan pemeriksaan laboratorium berkala untuk memantau fungsi ginjal (ureum, kreatinin), profil lipid, dan HbA1c melalui [Layanan Cek Lab Darah di Rumah](/layanan/cek-lab-di-rumah) setiap 3 hingga 6 bulan sekali tanpa perlu repot keluar rumah.</li>
 </ul>

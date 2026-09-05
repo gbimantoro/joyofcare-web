@@ -63,9 +63,9 @@ clinical_references:
 
 Merawat orang tua di rumah menuntut pemahaman mendalam terhadap perubahan fisiologis proses penuaan yang kompleks, melampaui penyediaan kebutuhan fisik dasar sehari-hari. Banyak keluarga tanpa sadar melakukan kekeliruan fatal—seperti membatasi gerak lansia secara berlebihan, meremehkan perubahan perilaku halus, atau mengabaikan tanda-tanda penyakit tidak khas (<em>atypical presentation</em>). Artikel ini menguraikan hal-hal penting yang wajib dipahami oleh setiap keluarga agar orang tua tetap sehat, aman, dan bahagia di usia senjanya.
 
-<blockquote>###  Penting dipahami</blockquote>
+<blockquote><div class="info-box"><h3>Penting dipahami</h3></blockquote>
 <blockquote>* <strong>Gejala Penyakit Tidak Khas pada Lansia</strong>: Infeksi berat seperti pneumonia atau sepsis sering kali tidak diawali demam tinggi, melainkan hanya berupa mendadak lemas atau linglung.</blockquote>
-<blockquote><em> </em><em>Bahaya Terlalu Melindungi (</em>Overprotection<em>)</em><em>: Melarang lansia bergerak atau melakukan pekerjaan ringan mempercepat kehilangan massa otot (</em>sarkopenia*) dan kepikunan.</blockquote>
+<blockquote><em>Bahaya Terlalu Melindungi (</em>Overprotection<em>)</em><em>: Melarang lansia bergerak atau melakukan pekerjaan ringan mempercepat kehilangan massa otot (</em>sarkopenia*) dan kepikunan.</blockquote>
 <blockquote>* <strong>Pencegahan Polifarmasi Berbahaya</strong>: Selalu review obat-obatan rutin bersama dokter secara berkala untuk menghindari interaksi obat yang merusak ginjal.</blockquote>
 <blockquote>* <strong>Kemitraan Medis Terpercaya</strong>: Kolaborasi antara keluarga dan tim medis homecare menjamin keselamatan orang tua tanpa harus bolak-balik rumah sakit.</blockquote>
 

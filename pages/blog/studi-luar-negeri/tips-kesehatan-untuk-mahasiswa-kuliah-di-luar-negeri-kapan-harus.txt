@@ -61,7 +61,7 @@ clinical_references:
 
 Menempuh studi di luar negeri bukan hanya tentang menaklukkan materi kuliah di ruang perkuliahan berfasilitas modern atau menikmati keindahan kota-kota dunia, melainkan ujian ketahanan fisik dan kematangan mental dalam beradaptasi dengan lingkungan baru yang asing. Banyak mahasiswa asal Indonesia yang terkejut ketika mendapati diri mereka jatuh sakit terbaring lemas di kamar asrama saat suhu udara anjlok hingga mendekati titik beku, terisolasi ribuan kilometer dari keluarga, dan tidak tahu bagaimana cara mengakses pertolongan dokter lokal. Melalui bimbingan medis pra-keberangkatan dari [Layanan Cek Lab Darah di Rumah Joy of Care](/layanan/cek-lab-di-rumah) dan [Layanan Vaksinasi di Rumah](/layanan/vaksinasi-di-rumah), ratusan mahasiswa Indonesia berhasil menjalani masa studinya dengan bugar, percaya diri, dan berprestasi. Artikel ini membedah analisis titik-titik kritis kerentanan kesehatan mahasiswa baru di perantauan, protokol adaptasi klinis menghadapi iklim ekstrem, serta strategi preventif komprehensif yang wajib disiapkan sebelum berangkat ke luar negeri.
 
-<blockquote>###  Penting dipahami</blockquote>
+<blockquote><div class="info-box"><h3>Penting dipahami</h3></blockquote>
 <blockquote><em> <strong>2 Titik Kritis Sakit Mahasiswa Baru</strong>: 4 minggu pertama ketibaan (</em>jet lag & jet lag adaptif<em>) dan pertengahan musim dingin pertama (</em>mid-winter exam period*).</blockquote>
 <blockquote>* <strong>Pentingnya Perlindungan Vaksinasi Dini</strong>: Vaksin influenza dan MenACWY terbukti mencegah absensi kuliah akibat radang pernapasan dan meningitis.</blockquote>
 <blockquote>* <strong>Manajemen Surat Dokter Terstruktur</strong>: Membawa riwayat medis lengkap berbahasa Inggris mempermudah transfer perawatan di klinik universitas asing.</blockquote>
@@ -76,21 +76,21 @@ Menempuh studi akademik di luar negeri mengharuskan mahasiswa Indonesia beradapt
 <h3>1. Skenario Krusial Kesiapsiagaan Medis Pra-Keberangkatan</h3>
 Persiapan kesehatan mandiri harus diselesaikan sebelum tiket penerbangan dipesan:
 <ul><li><strong>Keberadaan Penyakit Kronis Bawaan</strong>: Mahasiswa penderita asma bronkial, diabetes melitus tipe 1, alergi makanan parah, atau gangguan tiroid wajib memiliki stok obat pemeliharaan harian resmi yang cukup untuk 3 bulan pertama.</li>
-<li><em></em>Kebutuhan Perawatan Gigi (<em>Dental Clearance</em>)<em></em>: Menuntaskan seluruh penambalan lubang gigi, pembersihan karang gigi (<em>scaling</em>), dan pencabutan gigi bungsu impaksi (<em>odontektomi</em>) di tanah air sebelum berangkat, karena tindakan gigi elektif tidak ditanggung oleh polis asuransi mahasiswa asing.</li>
+<li>Kebutuhan Perawatan Gigi (<em>Dental Clearance</em>): Menuntaskan seluruh penambalan lubang gigi, pembersihan karang gigi (<em>scaling</em>), dan pencabutan gigi bungsu impaksi (<em>odontektomi</em>) di tanah air sebelum berangkat, karena tindakan gigi elektif tidak ditanggung oleh polis asuransi mahasiswa asing.</li>
 <li><strong>Pemeriksaan Visus Mata dan Kacamata Cadangan</strong>: Memeriksa kelengkapan kacamata minus/silinder dan membawa kacamata cadangan; biaya konsultasi optometris dan pembuatan lensa di negara maju membutuhkan proses rujukan yang panjang.</li>
 </ul>
 
 <h3>2. Protokol Pengurusan Dokumen dan Legalitas Obat Resep Internasional</h3>
 Membawa obat-obatan melintasi perbatasan bea cukai internasional memerlukan legalitas ketat:
-<ul><li><em></em>Surat Keterangan Medis Dokter Berbahasa Inggris (<em>Medical Cover Letter</em>)<em></em>: Dokter penanggung jawab klinis Joy of Care menerbitkan surat resmi berkop klinik berstempel, menjelaskan diagnosis penyakit, nama generik obat, dosis harian, dan alasan medis mengapa obat tersebut wajib dibawa mahasiswa.</li>
+<ul><li>Surat Keterangan Medis Dokter Berbahasa Inggris (<em>Medical Cover Letter</em>): Dokter penanggung jawab klinis Joy of Care menerbitkan surat resmi berkop klinik berstempel, menjelaskan diagnosis penyakit, nama generik obat, dosis harian, dan alasan medis mengapa obat tersebut wajib dibawa mahasiswa.</li>
 <li><strong>Penyimpanan dalam Kemasan Asli Pabrik Farmasi</strong>: Seluruh obat-obatan harus tetap berada dalam blister atau kotak berlabel farmasi asli berstempel resmi, tidak dipindahkan ke wadah tanpa nama guna menghindari penyitaan oleh petugas kepabeanan (<em>Customs and Border Protection</em>).</li>
 <li><strong>Batas Maksimal Pasokan Obat Pribadi</strong>: Menyesuaikan regulasi impor obat pribadi negara tujuan (umumnya maksimal pasokan untuk durasi 90 hari / 3 bulan pemakaian).</li>
 </ul>
 
 <h3>3. Protokol Adaptasi Iklim dan Mitigasi Depresi Musiman</h3>
 Mempersiapkan imunitas tubuh menghadapi perubahan musim ekstrem:
-<ul><li><em></em>Pencegahan Infeksi Musim Dingin (<em>Winter Wellness</em>)<em></em>: Menjalani vaksinasi influenza kuadrivalen mutasi terbaru di Indonesia 2 minggu sebelum keberangkatan, melatih kebiasaan hidrasi kulit dengan pelembap emolien pekat untuk mencegah dermatitis kulit pecah-pecah akibat udara kering.</li>
-<li><em></em>Mitigasi Gangguan Afektif Musiman (<em>Seasonal Affective Disorder / SAD</em>)<em></em>: Memahami gejala penurunan serotonin akibat minimnya sinar matahari saat musim dingin (lemas, nafsu makan berlebih, suasana hati murung), mempersiapkan asupan suplemen vitamin D3 harian, serta merancang rutinitas olahraga dalam ruangan.</li>
+<ul><li>Pencegahan Infeksi Musim Dingin (<em>Winter Wellness</em>): Menjalani vaksinasi influenza kuadrivalen mutasi terbaru di Indonesia 2 minggu sebelum keberangkatan, melatih kebiasaan hidrasi kulit dengan pelembap emolien pekat untuk mencegah dermatitis kulit pecah-pecah akibat udara kering.</li>
+<li>Mitigasi Gangguan Afektif Musiman (<em>Seasonal Affective Disorder / SAD</em>): Memahami gejala penurunan serotonin akibat minimnya sinar matahari saat musim dingin (lemas, nafsu makan berlebih, suasana hati murung), mempersiapkan asupan suplemen vitamin D3 harian, serta merancang rutinitas olahraga dalam ruangan.</li>
 <li><strong>Manajemen Asuransi Mahasiswa (OSHC / NHS / Asuransi Kampus)</strong>: Mempelajari cara mendaftar ke klinik dokter umum (<em>General Practitioner / GP</em>) di sekitar tempat tinggal kampus sejak minggu pertama kedatangan dan cara mengajukan klaim penggantian (<em>reimbursement</em>).</li>
 </ul>
 
@@ -116,8 +116,8 @@ Membekali koper mahasiswa dengan kit medikasi darurat terstandar:
 
 Berdasarkan pengalaman para pelajar sukses, terapkan kebiasaan disiplin berikut:
 <ul><li><strong>Aturan Hidrasi 'Air Hangat & Botol Termos'</strong>: Di negara dingin, udara kering membuat Anda tidak merasa haus meskipun tubuh sedang mengalami dehidrasi hebat. Biasakan selalu membawa botol termos berisi air putih hangat ke ruang kuliah dan minumlah minimal 2 liter setiap hari untuk mencegah sakit tenggorokan dan bibir pecah-pecah.</li>
-<li><em></em>Jalan Kaki Cepat Setiap Hari (<em>Brisk Walking</em>)<em></em>: Berjalan kaki 20–30 menit menyusuri taman kampus saat ada sedikit sinar matahari pagi merangsang pelepasan endorfin, memperkuat sirkulasi darah vena tungkai kaki, dan menjaga kestabilan suasana hati (<em>mood</em>).</li>
-<li><em></em>Pola Makan Seimbang Masak Sendiri (<em>Meal Prep</em>)<em></em>: Masaklah sendiri makanan bergizi di dapur asrama bersama teman flat: sup ayam sayuran, telur, tahu, dan buah segar. Selain jauh lebih hemat anggaran, memasak sendiri menjamin asupan nutrisi Anda terbebas dari kelebihan minyak dan garam makanan cepat saji.</li>
+<li>Jalan Kaki Cepat Setiap Hari (<em>Brisk Walking</em>): Berjalan kaki 20–30 menit menyusuri taman kampus saat ada sedikit sinar matahari pagi merangsang pelepasan endorfin, memperkuat sirkulasi darah vena tungkai kaki, dan menjaga kestabilan suasana hati (<em>mood</em>).</li>
+<li>Pola Makan Seimbang Masak Sendiri (<em>Meal Prep</em>): Masaklah sendiri makanan bergizi di dapur asrama bersama teman flat: sup ayam sayuran, telur, tahu, dan buah segar. Selain jauh lebih hemat anggaran, memasak sendiri menjamin asupan nutrisi Anda terbebas dari kelebihan minyak dan garam makanan cepat saji.</li>
 </ul>
 
 ---

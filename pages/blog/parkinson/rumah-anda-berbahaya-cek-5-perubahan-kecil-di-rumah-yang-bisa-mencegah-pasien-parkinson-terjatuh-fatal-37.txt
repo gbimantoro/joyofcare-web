@@ -110,7 +110,7 @@ Pada area pintu atau lorong sempit yang sering memicu <em>freezing</em>, tempelk
 <h2>Pemanfaatan Isyarat Visual (Visual Cues) dan Modifikasi Tata Ruang Khusus Parkinson</h2>
 
 Pasien Parkinson mengalami gangguan pada ganglia basalis yang mengatur gerakan otomatis tubuh. Untuk membantu pasien tetap bisa melangkah, keluarga dapat memanfaatkan jalur penglihatan kortikal melalui teknik modifikasi lingkungan:
-<ul><li><em></em>Penempelan Garis Visual di Lantai (<em>Floor Tape Strips</em>)<em></em>: Tempelkan lakban berwarna cerah kontras (seperti kuning atau merah) dengan jarak 40–50 cm di lantai lorong atau ambang pintu. Isyarat visual ini memicu otak pasien untuk melangkah melompati garis, secara dramatis memutus fenomena <em>freezing of gait</em>.</li>
+<ul><li>Penempelan Garis Visual di Lantai (<em>Floor Tape Strips</em>): Tempelkan lakban berwarna cerah kontras (seperti kuning atau merah) dengan jarak 40–50 cm di lantai lorong atau ambang pintu. Isyarat visual ini memicu otak pasien untuk melangkah melompati garis, secara dramatis memutus fenomena <em>freezing of gait</em>.</li>
 <li><strong>Penyingkiran Semua Keset dan Karpet Licin</strong>: Karpet lipat dan keset kain adalah musuh nomor satu penderita Parkinson karena langkah kaki yang diseret (<em>shuffling gait</em>) mudah tersangkut pada ujung karpet.</li>
 <li><strong>Pemasangan Grab Bar di Ketinggian Tepat</strong>: Pasang pegangan besi di samping kloset dan di dalam area shower pada ketinggian sejajar panggul pasien.</li>
 </ul>

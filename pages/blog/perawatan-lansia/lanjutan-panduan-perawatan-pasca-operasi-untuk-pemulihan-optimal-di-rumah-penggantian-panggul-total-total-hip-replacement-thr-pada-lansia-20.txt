@@ -99,7 +99,7 @@ Menaiki tangga memerlukan teknik khusus agar implan sendi tidak menerima beban i
 <h2>Protokol Pencegahan Subluksasi Prostesis Panggul & Latihan Mandiri Tingkat Lanjut</h2>
 
 Pada fase pemulihan minggu ke-4 hingga ke-12 pascaoperasi Total Hip Replacement (THR), jaringan kapsul sendi buatan sedang membentuk jaringan parut penopang. Mematuhi batasan mekanik sendi panggul tetap menjadi prioritas utama:
-<ul><li><em></em>Hindari Memutar Kaki ke Arah Dalam (<em>Internal Rotation</em>)<em></em>: Saat berputar arah saat berjalan, langkahkan seluruh tubuh secara bertahap dan hindari memutar badan dengan posisi kaki tertanam di lantai.</li>
+<ul><li>Hindari Memutar Kaki ke Arah Dalam (<em>Internal Rotation</em>): Saat berputar arah saat berjalan, langkahkan seluruh tubuh secara bertahap dan hindari memutar badan dengan posisi kaki tertanam di lantai.</li>
 <li><strong>Latihan Abduksi Panggul Sambil Berdiri</strong>: Memperkuat otot <em>gluteus medius</em> yang berfungsi menjaga kestabilan panggul sejajar saat melangkah dan mencegah gaya jalan pincang (<em>Trendelenburg gait</em>).</li>
 <li><strong>Modifikasi Dudukan Kloset & Kursi</strong>: Gunakan peninggi kloset (<em>raised toilet seat</em>) agar sudut tekuk panggul tidak melebihi 90 derajat saat buang air besar.</li>
 </ul>

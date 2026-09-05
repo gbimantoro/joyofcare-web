@@ -67,7 +67,7 @@ clinical_references:
 
 Menjalani pengobatan penyakit kronis di rumah sakit besar di kawasan metropolitan Jakarta sering kali bukan hanya tantangan medis, melainkan ujian daya tahan logistik yang menguras energi seluruh keluarga. Bagi pasien dengan kondisi fisik yang sangat lemah, keterbatasan gerak ekstrem (<em>severe mobility limitation</em>), atau penurunan kesadaran berkala, memaksakan perjalanan menggunakan mobil keluarga atau taksi online dapat memicu komplikasi fatal di tengah jalan: mulai dari dislokasi sendi panggul saat digendong masuk mobil, hipotensi ortostatik yang memicu pingsan, hingga terlepasnya selang kateter urin atau jarum infus. [Layanan Antar Jemput ke Rumah Sakit Joy of Care](/layanan/antar-jemput-rs) hadir untuk memberikan perlindungan medis paripurna melalui armada khusus berfasilitas brankar tandu, akses ramp kursi roda, dan pengawalan perawat berlisensi. Artikel ini mengupas 5 skenario kondisi klinis kapan keluarga wajib menggunakan transportasi medis non-darurat, dilengkapi protokol klinis transportasi medis dan alur pemulihan terpadu bagi pasien geriatri.
 
-<blockquote>###  Penting dipahami</blockquote>
+<blockquote><div class="info-box"><h3>Penting dipahami</h3></blockquote>
 <blockquote><em> <strong>5 Indikasi Klinis Utama</strong>: Pasien cuci darah (</em>hemodialisis<em>), pasien kemoterapi pasca-infus, pasca-operasi penggantian sendi panggul, tirah baring (</em>bedridden*), dan lansia demensia berat.</blockquote>
 <blockquote>* <strong>Mencegah Trauma Perjalanan</strong>: Pasien berpindah langsung dari tempat tidur rumah ke ranjang mobil tanpa perlu berdiri atau menekuk lutut.</blockquote>
 <blockquote>* <strong>Pengawalan Klinis Aktif</strong>: Perawat medis memantau tanda vital, mengatur terapi cairan, dan mengawal birokrasi di rumah sakit.</blockquote>
@@ -109,7 +109,7 @@ Sebelum armada diberangkatkan, tim koordinasi medis Joy of Care melakukan verifi
 
 <h3>2. Protokol Transfer Pasien dan Manajemen Posisi Tubuh</h3>
 Proses pemindahan pasien dari tempat tidur rumah ke dalam kendaraan medis dijalankan oleh tenaga terlatih:
-<ul><li><em></em>Teknik Transfer Aman (<em>Safe Patient Handling</em>)<em></em>: Memanfaatkan matras geser transfer (<em>slide sheet</em>) atau papan transfer orthopedi untuk memindahkan pasien tirah baring tanpa membebani persendian lansia.</li>
+<ul><li>Teknik Transfer Aman (<em>Safe Patient Handling</em>): Memanfaatkan matras geser transfer (<em>slide sheet</em>) atau papan transfer orthopedi untuk memindahkan pasien tirah baring tanpa membebani persendian lansia.</li>
 <li><strong>Fiksasi Pengaman Standar Medis</strong>: Brankar atau kursi roda dikunci secara mekanis menggunakan sabuk pengaman empat titik (<em>four-point tie-down system</em>) di lantai kabin kendaraan, mencegah pergeseran posisi saat kendaraan bermanuver di jalan raya.</li>
 <li><strong>Ergonomi Kabin Berventilasi</strong>: Pengaturan suhu kabin stabil dan ventilasi udara bersih untuk mencegah hipotermia atau mabuk perjalanan pada pasien lanjut usia.</li>
 </ul>

@@ -69,7 +69,7 @@ clinical_references:
 
 Menghadirkan layanan rehabilitasi medik ke lingkungan rumah sering kali menimbulkan berbagai pertanyaan bagi anggota keluarga. Mulai dari pertanyaan mengenai keabsahan lisensi fisioterapis yang datang, kelengkapan alat yang dibawa, apakah terapi fisik dapat memicu kelelahan pada pasien jantung, hingga bagaimana menghadapi orang tua lansia yang menolak diajak bergerak karena takut nyeri sendi. Mengetahui seluruh prosedur operasional dan standar mutu sejak awal akan memastikan proses terapi berjalan lancar dan menghasilkan kemajuan fungsional yang optimal. Artikel tanya jawab (FAQ) komprehensif ini merangkum seluruh aspek esensial seputar [Layanan Fisioterapi Lansia di Rumah Joy of Care](/layanan/fisioterapi) di wilayah Jakarta dan kawasan sekitarnya.
 
-<blockquote>###  Penting dipahami</blockquote>
+<blockquote><div class="info-box"><h3>Penting dipahami</h3></blockquote>
 <blockquote>* <strong>Terapis Berlisensi STR & SIPF</strong>: Setiap fisioterapis yang bertugas memiliki registrasi resmi negara dan menguasai teknik rehabilitasi neurogeriatri.</blockquote>
 <blockquote>* <strong>Keamanan Kardiovaskular Terpantau</strong>: Tanda vital (tensi, saturasi SpO2, nadi) selalu dimonitor sebelum, selama, dan sesudah latihan untuk mencegah kelelahan berlebih.</blockquote>
 <blockquote>* <strong>Fleksibilitas Preferensi Gender</strong>: Keluarga berhak memilih fisioterapis pria atau wanita demi menjaga privasi dan kenyamanan emosional lansia.</blockquote>
@@ -84,31 +84,31 @@ Berikut adalah ulasan mendalam atas pertanyaan yang paling sering dikonsultasika
 <h3>1. Seputar Kualifikasi dan Legalitas Tenaga Fisioterapis</h3>
 <ul><li><strong>Tanya: Bagaimana cara membuktikan bahwa fisioterapis yang datang benar-benar memiliki keahlian fisioterapi resmi?</strong></li>
 </ul>
-  <em> </em>Jawab*: Joy of Care hanya mempekerjakan fisioterapis lulusan universitas keperawatan dan fisioterapi terakreditasi minimal D3 atau S1 Fisioterapi. Setiap terapis mengantongi Surat Tanda Registrasi (STR) yang diterbitkan oleh Konsil Tenaga Kesehatan Indonesia (KTKI) serta Surat Izin Praktik Fisioterapis (SIPF) resmi dari Dinas Kesehatan setempat. Profil legalitas dan kartu tanda pengenal terapis dapat dilihat sebelum jadwal kunjungan pertama.
+  Jawab*: Joy of Care hanya mempekerjakan fisioterapis lulusan universitas keperawatan dan fisioterapi terakreditasi minimal D3 atau S1 Fisioterapi. Setiap terapis mengantongi Surat Tanda Registrasi (STR) yang diterbitkan oleh Konsil Tenaga Kesehatan Indonesia (KTKI) serta Surat Izin Praktik Fisioterapis (SIPF) resmi dari Dinas Kesehatan setempat. Profil legalitas dan kartu tanda pengenal terapis dapat dilihat sebelum jadwal kunjungan pertama.
 <ul><li><strong>Tanya: Apakah fisioterapi sama dengan layanan pijat tradisional refleksi atau tukang urut?</strong></li>
 </ul>
-  <em> </em>Jawab<em>: Sangat berbeda secara mendasar. Fisioterapi adalah profesi kesehatan berbasis sains medis yang mempelajari anatomi muskuloskeletal, biomekanika gerak tubuh, dan neurofisiologi otak. Fisioterapis melakukan asesmen sudut sendi, mengukur kekuatan otot secara kuantitatif, serta memulihkan fungsi gerak melalui neuroplastisitas dan latihan terstruktur. Sebaliknya, pijat urut tradisional yang dilakukan sembarangan pada lansia dengan pengeroposan tulang (</em>osteoporosis*) sangat berisiko memicu patah tulang iga atau robekan ligamen sendi yang berbahaya.
+  Jawab<em>: Sangat berbeda secara mendasar. Fisioterapi adalah profesi kesehatan berbasis sains medis yang mempelajari anatomi muskuloskeletal, biomekanika gerak tubuh, dan neurofisiologi otak. Fisioterapis melakukan asesmen sudut sendi, mengukur kekuatan otot secara kuantitatif, serta memulihkan fungsi gerak melalui neuroplastisitas dan latihan terstruktur. Sebaliknya, pijat urut tradisional yang dilakukan sembarangan pada lansia dengan pengeroposan tulang (</em>osteoporosis*) sangat berisiko memicu patah tulang iga atau robekan ligamen sendi yang berbahaya.
 
 <h3>2. Seputar Keamanan dan Penanganan Penyakit Penyerta</h3>
 <ul><li><strong>Tanya: Apakah aman bagi lansia yang memiliki riwayat penyakit jantung atau darah tinggi untuk menjalani fisioterapi?</strong></li>
 </ul>
-  <em> </em>Jawab<em>: Sangat aman, asalkan dipandu oleh fisioterapis profesional. Fisioterapis kami menerapkan pemantauan ketat terhadap </em>Target Heart Rate<em> dan saturasi oksigen. Latihan dilakukan dengan intensitas rendah hingga sedang (</em>low-to-moderate intensity*), diselingi istirahat cukup, dan disinergikan dengan arahan resep dokter dari [Layanan Panggil Dokter ke Rumah](/layanan/panggil-dokter).
+  Jawab<em>: Sangat aman, asalkan dipandu oleh fisioterapis profesional. Fisioterapis kami menerapkan pemantauan ketat terhadap </em>Target Heart Rate<em> dan saturasi oksigen. Latihan dilakukan dengan intensitas rendah hingga sedang (</em>low-to-moderate intensity*), diselingi istirahat cukup, dan disinergikan dengan arahan resep dokter dari [Layanan Panggil Dokter ke Rumah](/layanan/panggil-dokter).
 <ul><li><strong>Tanya: Bagaimana jika orang tua menolak berlatih karena mengeluh lututnya sangat nyeri?</strong></li>
 </ul>
-  <em> </em>Jawab*: Fisioterapis tidak akan memaksakan gerakan aktif jika sendi sedang mengalami nyeri akut. Pada kondisi ini, terapis akan terlebih dahulu mengaplikasikan modalitas pereda nyeri seperti stimulasi saraf listrik (TENS) portabel dan terapi pemanasan untuk meredakan radang jaringan lunak, dilanjutkan dengan peregangan pasif yang sangat lembut hingga ambang toleransi nyeri pasien meningkat.
+  Jawab*: Fisioterapis tidak akan memaksakan gerakan aktif jika sendi sedang mengalami nyeri akut. Pada kondisi ini, terapis akan terlebih dahulu mengaplikasikan modalitas pereda nyeri seperti stimulasi saraf listrik (TENS) portabel dan terapi pemanasan untuk meredakan radang jaringan lunak, dilanjutkan dengan peregangan pasif yang sangat lembut hingga ambang toleransi nyeri pasien meningkat.
 
 <h3>3. Seputar Persiapan Ruangan dan Perlengkapan di Rumah</h3>
 <ul><li><strong>Tanya: Apakah keluarga harus menyediakan ruangan khusus yang luas untuk sesi fisioterapi?</strong></li>
 </ul>
-  <em> </em>Jawab*: Tidak perlu ruangan khusus. Sesi fisioterapi lansia dapat dilakukan di kamar tidur pasien atau di ruang tamu keluarga. Area berukuran 2 x 2 meter yang bersih, memiliki sirkulasi udara baik, dan bebas dari barang-barang berserakan sudah sangat memadai untuk latihan mobilitas.
+  Jawab*: Tidak perlu ruangan khusus. Sesi fisioterapi lansia dapat dilakukan di kamar tidur pasien atau di ruang tamu keluarga. Area berukuran 2 x 2 meter yang bersih, memiliki sirkulasi udara baik, dan bebas dari barang-barang berserakan sudah sangat memadai untuk latihan mobilitas.
 <ul><li><strong>Tanya: Perlengkapan apa saja yang harus disiapkan oleh keluarga sebelum fisioterapis tiba?</strong></li>
 </ul>
-  <em> </em>Jawab*: Keluarga hanya perlu menyiapkan kursi kokoh berkaki empat tanpa roda, pakaian latihan yang longgar dan nyaman untuk pasien, sepatu bertali/velcro bersol karet anti-slip, dan segelas air putih hangat. Seluruh peralatan modalitas terapi portabel (TENS, resistance band, goniometer) dibawa langsung oleh fisioterapis Joy of Care.
+  Jawab*: Keluarga hanya perlu menyiapkan kursi kokoh berkaki empat tanpa roda, pakaian latihan yang longgar dan nyaman untuk pasien, sepatu bertali/velcro bersol karet anti-slip, dan segelas air putih hangat. Seluruh peralatan modalitas terapi portabel (TENS, resistance band, goniometer) dibawa langsung oleh fisioterapis Joy of Care.
 
 <h3>4. Seputar Jadwal, Paket, dan Garansi Terapi</h3>
 <ul><li><strong>Tanya: Bagaimana jika setelah beberapa sesi latihan pasien merasa kurang cocok dengan fisioterapis yang bertugas?</strong></li>
 </ul>
-  <em> </em>Jawab*: Kenyamanan psikologis pasien geriatri adalah kunci keberhasilan pemulihan. Jika ada kendala kecocokan komunikasi, keluarga dapat menginformasikannya kepada koordinator Joy of Care via WhatsApp dan kami akan menyediakan fisioterapis pengganti tanpa dikenakan biaya administrasi baru.
+  Jawab*: Kenyamanan psikologis pasien geriatri adalah kunci keberhasilan pemulihan. Jika ada kendala kecocokan komunikasi, keluarga dapat menginformasikannya kepada koordinator Joy of Care via WhatsApp dan kami akan menyediakan fisioterapis pengganti tanpa dikenakan biaya administrasi baru.
 
 ---
 

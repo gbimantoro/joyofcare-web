@@ -125,12 +125,12 @@ Banyak keluarga pasien bertanya mengapa dokter spesialis kini lebih sering beral
 Strategi pengobatan osteoporosis harus disesuaikan secara personal berdasarkan keparahan skor T-score dan riwayat fraktur pasien:
 <ul><li><strong>Agen Antiresorptif (Menghambat Kerusakan Tulang)</strong>:</li>
 </ul>
-   <em> </em>Bisfosfonat Oral (Alendronat/Risedronat)*: Pilihan lini pertama untuk osteoporosis derajat ringan-sedang. Wajib diminum dengan segelas air putih dalam kondisi perut kosong dan pasien harus tetap duduk tegak selama 30 menit untuk mencegah iritasi lambung dan esofagus.
-   <em> </em>Infus Asam Zoledronat Tahunan*: Solusi praktis bagi lansia yang memiliki riwayat maag kronis atau sulit patuh minum obat mingguan. Diberikan hanya sekali dalam setahun melalui infus intravena lambat selama 15–30 menit.
-   <em> </em>Injeksi Denosumab*: Diberikan subkutan setiap 6 bulan sekali, sangat efektif untuk pasien dengan gangguan fungsi ginjal yang tidak dapat menerima bisfosfonat.
+   Bisfosfonat Oral (Alendronat/Risedronat)*: Pilihan lini pertama untuk osteoporosis derajat ringan-sedang. Wajib diminum dengan segelas air putih dalam kondisi perut kosong dan pasien harus tetap duduk tegak selama 30 menit untuk mencegah iritasi lambung dan esofagus.
+   Infus Asam Zoledronat Tahunan*: Solusi praktis bagi lansia yang memiliki riwayat maag kronis atau sulit patuh minum obat mingguan. Diberikan hanya sekali dalam setahun melalui infus intravena lambat selama 15–30 menit.
+   Injeksi Denosumab*: Diberikan subkutan setiap 6 bulan sekali, sangat efektif untuk pasien dengan gangguan fungsi ginjal yang tidak dapat menerima bisfosfonat.
 <ul><li><strong>Agen Anabolik (Membentuk Tulang Baru)</strong>:</li>
 </ul>
-   <em> </em>Teriparatide (PTH Analog)*: Diindikasikan untuk kasus osteoporosis sangat parah dengan riwayat patah tulang berulang, merangsang pembentukan massa tulang baru secara agresif.
+   Teriparatide (PTH Analog)*: Diindikasikan untuk kasus osteoporosis sangat parah dengan riwayat patah tulang berulang, merangsang pembentukan massa tulang baru secara agresif.
 
 Untuk mendapatkan evaluasi terapi dan tindakan medis yang aman di rumah, keluarga dapat menggunakan [layanan terapi infus vitamin di rumah](/layanan/infus-vitamin-di-rumah) serta [layanan panggil dokter ke rumah](/layanan/panggil-dokter). Pemantauan fungsi ginjal dan kalsium darah pra-terapi juga dapat diakses lewat [layanan cek lab darah di rumah](/layanan/cek-lab-di-rumah).
 

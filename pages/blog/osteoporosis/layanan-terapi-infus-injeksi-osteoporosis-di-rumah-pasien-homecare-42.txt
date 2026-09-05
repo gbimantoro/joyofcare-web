@@ -112,7 +112,7 @@ Keselamatan pasien (<em>patient safety</em>) adalah prioritas mutlak kami. Setia
 Pemberian terapi asam zoledronat intravena tahunan di rumah pasien membutuhkan kepatuhan ketat terhadap protokol keselamatan medis:
 <ul><li><strong>Hidrasi Pra-Infus yang Cukup</strong>: Pasien diwajibkan meminum minimal 500–1000 ml air putih dalam kurun waktu 2 jam sebelum infus dimulai untuk melindungi perfusi tubulus ginjal.</li>
 <li><strong>Pemeriksaan Fungsi Ginjal dan Kalsium</strong>: Terapi infus hanya boleh diberikan bila estimasi laju filtrasi glomerulus (<em>eGFR</em>) > 35 mL/min/1.73m2 dan kadar kalsium darah dalam batas normal.</li>
-<li><em></em>Manajemen Gejala Serupa Flu (<em>Acute Phase Reaction</em>)<em></em>: Sekitar 30% pasien dapat mengalami demam ringan, pegal otot, atau nyeri sendi dalam 24–48 jam pasca-infus pertama. Pemberian profilaksis parasetamol 500 mg sebelum dan sesudah infus sangat efektif meredakan keluhan ini.</li>
+<li>Manajemen Gejala Serupa Flu (<em>Acute Phase Reaction</em>): Sekitar 30% pasien dapat mengalami demam ringan, pegal otot, atau nyeri sendi dalam 24–48 jam pasca-infus pertama. Pemberian profilaksis parasetamol 500 mg sebelum dan sesudah infus sangat efektif meredakan keluhan ini.</li>
 </ul>
 
 Seluruh rangkaian tindakan medis ini dapat dilakukan secara aman dan nyaman di tempat tidur Anda melalui [layanan terapi infus vitamin di rumah](/layanan/infus-vitamin-di-rumah) dengan supervisi langsung oleh [layanan panggil dokter ke rumah](/layanan/panggil-dokter). Pengambilan sampel darah pra-infus juga dapat difasilitasi oleh [layanan cek lab darah di rumah](/layanan/cek-lab-di-rumah), serta didampingi oleh [layanan perawat medis homecare](/layanan/perawat-homecare).

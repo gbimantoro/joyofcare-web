@@ -79,7 +79,7 @@ clinical_references:
 
 Meraih kesempatan untuk melanjutkan studi pendidikan tinggi di luar negeri—baik di Australia, Inggris, Amerika Serikat, Jepang, maupun negara-negara Eropa—merupakan pencapaian akademik yang sangat membanggakan bagi generasi muda Indonesia. Namun, di balik antusiasme memulai petualangan baru, banyak mahasiswa dan orang tua yang mengabaikan aspek persiapan kesehatan fisik dan kesiapan mental. Perubahan iklim empat musim yang ekstrem, perbedaan budaya kuliner, sistem layanan kesehatan asing yang rumit dan berbiaya sangat tinggi, serta tekanan akademik tanpa kehadiran keluarga terdekat sering kali memicu krisis kesehatan tak terduga. Melalui fasilitas [Layanan Cek Lab Darah di Rumah Joy of Care](/layanan/cek-lab-di-rumah) dan [Layanan Vaksinasi di Rumah](/layanan/vaksinasi-di-rumah), calon mahasiswa dapat menyelesaikan seluruh rangkaian pemeriksaan pra-keberangkatan (<em>pre-departure health screening</em>) secara praktis di Jakarta. Artikel ini membedah panduan lengkap menjaga kesehatan fisik dan mental, protokol vaksinasi visa pelajar, manajemen obat pribadi, serta sistem navigasi asuransi kesehatan internasional.
 
-<blockquote>###  Penting dipahami</blockquote>
+<blockquote><div class="info-box"><h3>Penting dipahami</h3></blockquote>
 <blockquote>* <strong>Persiapan Medis Pra-Keberangkatan</strong>: Selesaikan penambalan gigi, pemeriksaan laboratorium dasar, dan vaksinasi wajib sebelum meninggalkan Indonesia untuk menghindari biaya medis asing yang selangit.</blockquote>
 <blockquote><em> <strong>Aturan Membawa Obat Pribadi</strong>: Wajib menyertakan surat keterangan resmi dokter berbahasa Inggris (</em>Doctor's Prescription Travel Letter*) dan simpan obat dalam kemasan blister asli pabrik.</blockquote>
 <blockquote><em> <strong>Adaptasi Cuaca Ekstrem (Winter Blues)</strong>: Pahami sistem pakaian tiga lapis dan rutin konsumsi suplemen vitamin D3 untuk mencegah gangguan afektif musiman (</em>Seasonal Affective Disorder* / SAD).</blockquote>
@@ -135,7 +135,7 @@ Seluruh kebutuhan vaksinasi di atas dapat Anda peroleh dengan nyaman di rumah ta
 <h2>Aturan Membawa Obat-Obatan Pribadi ke Luar Negeri (Legalitas Bea Cukai)</h2>
 
 Banyak negara memberlakukan peraturan sangat ketat terhadap obat-obatan yang dibawa masuk oleh pelancong internasional:
-<ul><li><em></em>Surat Keterangan Dokter Berbahasa Inggris (<em>Doctor's Medical Certificate</em>)<em></em>: Konsultasikan dengan dokter dari [Layanan Panggil Dokter ke Rumah Jakarta](/layanan/panggil-dokter) untuk menerbitkan surat resmi berstempel yang mencantumkan diagnosis penyakit Anda, nama generik obat, dosis harian, dan alasan medis mengapa obat tersebut harus dibawa.</li>
+<ul><li>Surat Keterangan Dokter Berbahasa Inggris (<em>Doctor's Medical Certificate</em>): Konsultasikan dengan dokter dari [Layanan Panggil Dokter ke Rumah Jakarta](/layanan/panggil-dokter) untuk menerbitkan surat resmi berstempel yang mencantumkan diagnosis penyakit Anda, nama generik obat, dosis harian, dan alasan medis mengapa obat tersebut harus dibawa.</li>
 <li><strong>Kemasan Blister Asli Pabrik</strong>: Jangan pernah memindahkan obat ke dalam wadah plastik polos tanpa label. Obat harus tetap berada dalam kemasan kotak aslinya lengkap dengan brosur informasi farmasi.</li>
 <li><strong>Jumlah Wajar (Maksimal Kebutuhan 90 Hari)</strong>: Kebanyakan otoritas kepabeanan (seperti Australian Border Force atau US CBP) hanya mengizinkan pasokan obat pribadi untuk konsumsi maksimal 3 bulan (90 hari).</li>
 <li><strong>Waspadai Obat Terlarang / Terbatas</strong>: Obat-obatan seperti pseudoefedrin (obat flu dekongestan tertentu), obat penenang golongan benzodiazepin, atau obat pereda nyeri kodein tergolong zat yang diawasi ketat (<em>controlled substances</em>) dan wajib dideklarasikan secara tertulis pada kartu kedatangan (<em>Customs Declaration Card</em>).</li>
@@ -149,9 +149,9 @@ Agar tetap sehat dan sukses meraih prestasi akademik di luar negeri, terapkan ti
 
 <h3>Sistem Berpakaian Tiga Lapis (<em>Three-Layer Principle</em>)</h3>
 Jangan hanya mengandalkan satu jaket tebal yang berat. Gunakan sistem layering yang fleksibel:
-<ul><li><em></em>Lapisan Dasar (<em>Base Layer</em>)<em></em>: Kaus dan celana termal (<em>long johns</em>) berbahan wol merino atau sintetis yang menyerap keringat dan menahan panas tubuh.</li>
-<li><em></em>Lapisan Tengah (<em>Mid Layer</em>)<em></em>: Sweater rajut atau jaket fleece untuk mengisolasi kehangatan.</li>
-<li><em></em>Lapisan Luar (<em>Outer Layer</em>)<em></em>: Jaket tahan air dan tahan angin (<em>windproof and waterproof parka/down jacket</em>) dengan tudung kepala (<em>hoodie</em>).</li>
+<ul><li>Lapisan Dasar (<em>Base Layer</em>): Kaus dan celana termal (<em>long johns</em>) berbahan wol merino atau sintetis yang menyerap keringat dan menahan panas tubuh.</li>
+<li>Lapisan Tengah (<em>Mid Layer</em>): Sweater rajut atau jaket fleece untuk mengisolasi kehangatan.</li>
+<li>Lapisan Luar (<em>Outer Layer</em>): Jaket tahan air dan tahan angin (<em>windproof and waterproof parka/down jacket</em>) dengan tudung kepala (<em>hoodie</em>).</li>
 </ul>
 
 <h3>Menjaga Kesehatan Mental dan Mengatasi <em>Homesickness</em></h3>

@@ -65,7 +65,7 @@ clinical_references:
 
 Merawat orang tua yang berusia lanjut membutuhkan perpaduan keterampilan teknis perawatan, kesabaran emosional, dan komunikasi yang penuh empati. Sering kali anak merasa canggung atau kewalahan saat harus membantu aktivitas personal orang tua seperti memandikan, menyuapi, atau memakaikan pakaian. Artikel ini menyajikan 7 tips dan cara praktis harian yang dirancang oleh praktisi homecare untuk memudahkan keluarga dalam merawat orang tua tercinta secara bermartabat dan aman.
 
-<blockquote>###  Penting dipahami</blockquote>
+<blockquote><div class="info-box"><h3>Penting dipahami</h3></blockquote>
 <blockquote>* <strong>Komunikasi Empatik</strong>: Bicaralah perlahan dengan kontak mata sejajar, gunakan kalimat pendek yang jelas, dan hindari nada menggurui.</blockquote>
 <blockquote>* <strong>Pertahankan Kemandirian Lansia</strong>: Biarkan orang tua melakukan hal-hal kecil yang masih mampu dilakukannya sendiri untuk menjaga harga dirinya.</blockquote>
 <blockquote><em> <strong>Keamanan Saat Mandi</strong>: Selalu gunakan kursi mandi khusus (</em>shower chair*) dan pastikan suhu air hangat stabil sebelum menyiram tubuh.</blockquote>

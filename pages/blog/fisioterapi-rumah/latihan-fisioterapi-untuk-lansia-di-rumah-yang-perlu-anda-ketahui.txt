@@ -71,7 +71,7 @@ clinical_references:
 
 Menjaga kebugaran dan kekuatan mobilitas orang tua tercinta sering kali memunculkan berbagai pertanyaan teknis sekaligus kekhawatiran bagi keluarga di rumah. Apakah orang tua yang sudah berusia 80 tahun masih boleh berlatih fisik? Apakah lansia yang menderita pengapuran sendi lutut parah tidak akan bertambah nyeri jika disuruh berdiri? Bagaimana cara mengenali bahwa dosis latihan sudah terlalu berat bagi jantung orang tua? Memahami rambu-rambu klinis, batas keamanan latihan, dan mitos-mitos yang keliru seputar geriatri sangat penting agar keluarga dapat memberikan dorongan yang tepat. Artikel tanya jawab (FAQ) komprehensif ini merangkum seluruh isu penting seputar [Layanan Fisioterapi Lansia di Rumah Joy of Care](/layanan/fisioterapi) dan panduan latihan aman di rumah.
 
-<blockquote>###  Penting dipahami</blockquote>
+<blockquote><div class="info-box"><h3>Penting dipahami</h3></blockquote>
 <blockquote><em> <strong>Tidak Ada Kata Terlambat</strong>: Pembentukan massa otot (</em>hipertrofi*) tetap dapat terjadi pada manusia hingga usia 90 tahun ke atas melalui stimulasi mekanik yang tepat.</blockquote>
 <blockquote><em> <strong>Nyeri Tajam vs Pegal Otot Biasa</strong>: Waspadai perbedaan antara pegal kelelahan otot normal (</em>DOMS*) dengan nyeri tajam persendian yang menandakan robekan jaringan lunak.</blockquote>
 <blockquote><em> <strong>Latihan Napas untuk Pasien Sesak</strong>: Teknik pernapasan bibir terkatup (</em>pursed-lip breathing*) melipatgandakan stamina lansia saat berjalan.</blockquote>
@@ -86,26 +86,26 @@ Berikut adalah ulasan mendalam atas pertanyaan yang paling sering dikonsultasika
 <h3>1. Seputar Batasan Usia dan Kondisi Penyakit Degeneratif</h3>
 <ul><li><strong>Tanya: Orang tua saya sudah berusia 82 tahun dan lebih banyak berbaring di kasur. Apakah masih ada gunanya fisioterapi?</strong></li>
 </ul>
-  <em> </em>Jawab<em>: Justru pada kondisi tirah baring (</em>bedridden<em>), fisioterapi memiliki nilai penyelamat jiwa (</em>life-saving<em>). Fisioterapis Joy of Care akan memulai dengan latihan rentang gerak pasif (</em>passive range of motion / PROM*) di tempat tidur untuk mencegah kontraktur sendi kaku permanen, melatih ekspansi paru untuk mencegah infeksi pneumonia, serta melatih transisi miring dan duduk di tepi ranjang. Bahkan perubahan dari posisi tidur ke duduk mandiri sudah meningkatkan kualitas hidup lansia secara signifikan.
-<ul><li><em></em>Tanya: Lutut ibu saya divonis osteoartritis stadium 3 dan sering berbunyi gemeretak (<em>krepitasi</em>). Apakah fisioterapi tidak merusak sendi lututnya?<em></em></li>
+  Jawab<em>: Justru pada kondisi tirah baring (</em>bedridden<em>), fisioterapi memiliki nilai penyelamat jiwa (</em>life-saving<em>). Fisioterapis Joy of Care akan memulai dengan latihan rentang gerak pasif (</em>passive range of motion / PROM*) di tempat tidur untuk mencegah kontraktur sendi kaku permanen, melatih ekspansi paru untuk mencegah infeksi pneumonia, serta melatih transisi miring dan duduk di tepi ranjang. Bahkan perubahan dari posisi tidur ke duduk mandiri sudah meningkatkan kualitas hidup lansia secara signifikan.
+<ul><li>Tanya: Lutut ibu saya divonis osteoartritis stadium 3 dan sering berbunyi gemeretak (<em>krepitasi</em>). Apakah fisioterapi tidak merusak sendi lututnya?</li>
 </ul>
-  <em> </em>Jawab<em>: Sama sekali tidak merusak, asalkan dilakukan dengan gerakan yang tepat. Otot kuadrisep di paha depan berfungsi sebagai peredam kejut alami (</em>shock absorber*) bagi sendi lutut. Jika otot paha dibiarkan lemah karena takut bergerak, beban benturan saat berjalan akan 100% menghantam tulang rawan yang sudah aus, mempercepat kerusakan sendi. Fisioterapi melatih otot paha menggunakan latihan isometrik (tanpa menggesek sendi) di posisi duduk, sehingga beban pada lutut justru berkurang drastis.
+  Jawab<em>: Sama sekali tidak merusak, asalkan dilakukan dengan gerakan yang tepat. Otot kuadrisep di paha depan berfungsi sebagai peredam kejut alami (</em>shock absorber*) bagi sendi lutut. Jika otot paha dibiarkan lemah karena takut bergerak, beban benturan saat berjalan akan 100% menghantam tulang rawan yang sudah aus, mempercepat kerusakan sendi. Fisioterapi melatih otot paha menggunakan latihan isometrik (tanpa menggesek sendi) di posisi duduk, sehingga beban pada lutut justru berkurang drastis.
 
 <h3>2. Seputar Dosis Latihan dan Tanda Peringatan Tubuh</h3>
-<ul><li><em></em>Tanya: Bagaimana cara mengetahui bahwa latihan yang dilakukan sudah berlebihan (<em>overtraining</em>) bagi orang tua?<em></em></li>
+<ul><li>Tanya: Bagaimana cara mengetahui bahwa latihan yang dilakukan sudah berlebihan (<em>overtraining</em>) bagi orang tua?</li>
 </ul>
-  <em> </em>Jawab*: Tanda latihan berlebihan meliputi: pasien tampak sangat lemas dan tidak bertenaga hingga keesokan harinya, nafsu makan mendadak hilang, mengeluh pusing atau mual saat latihan, serta nyeri sendi yang bertahan lebih dari 48 jam. Jika tanda ini muncul, turunkan intensitas repetisi latihan pada sesi berikutnya dan beri jeda istirahat ekstra.
+  Jawab*: Tanda latihan berlebihan meliputi: pasien tampak sangat lemas dan tidak bertenaga hingga keesokan harinya, nafsu makan mendadak hilang, mengeluh pusing atau mual saat latihan, serta nyeri sendi yang bertahan lebih dari 48 jam. Jika tanda ini muncul, turunkan intensitas repetisi latihan pada sesi berikutnya dan beri jeda istirahat ekstra.
 <ul><li><strong>Tanya: Apakah boleh lansia melakukan latihan fisioterapi setiap hari tanpa jeda?</strong></li>
 </ul>
-  <em> </em>Jawab<em>: Gerakan peregangan ringan (</em>stretching<em>) dan latihan pernapasan boleh dilakukan setiap hari. Namun untuk latihan penguatan otot beban (</em>strength training*) seperti duduk-berdiri atau jinjit, tubuh lansia membutuhkan waktu istirahat minimal 48 jam di antara sesi untuk proses pemulihan sintesis protein otot. Pola 3 hingga 4 kali seminggu adalah frekuensi yang paling ideal secara klinis.
+  Jawab<em>: Gerakan peregangan ringan (</em>stretching<em>) dan latihan pernapasan boleh dilakukan setiap hari. Namun untuk latihan penguatan otot beban (</em>strength training*) seperti duduk-berdiri atau jinjit, tubuh lansia membutuhkan waktu istirahat minimal 48 jam di antara sesi untuk proses pemulihan sintesis protein otot. Pola 3 hingga 4 kali seminggu adalah frekuensi yang paling ideal secara klinis.
 
 <h3>3. Seputar Waktu dan Pengaturan Obat Rutin</h3>
 <ul><li><strong>Tanya: Apakah sebaiknya lansia minum obat antihipertensi atau obat nyeri sebelum atau sesudah sesi fisioterapi?</strong></li>
 </ul>
-  <em> </em>Jawab*: Obat rutin seperti obat antihipertensi atau obat jantung wajib diminum sesuai jadwal rutin dokter, biasanya di pagi hari setelah sarapan. Jika pasien memiliki keluhan nyeri sendi kronis, obat pereda nyeri yang diresepkan dokter sebaiknya diminum 30 hingga 45 menit sebelum sesi fisioterapi dimulai agar efek analgesik mencapai puncak saat latihan, membuat gerakan terasa lebih nyaman tanpa rasa sakit.
+  Jawab*: Obat rutin seperti obat antihipertensi atau obat jantung wajib diminum sesuai jadwal rutin dokter, biasanya di pagi hari setelah sarapan. Jika pasien memiliki keluhan nyeri sendi kronis, obat pereda nyeri yang diresepkan dokter sebaiknya diminum 30 hingga 45 menit sebelum sesi fisioterapi dimulai agar efek analgesik mencapai puncak saat latihan, membuat gerakan terasa lebih nyaman tanpa rasa sakit.
 <ul><li><strong>Tanya: Apakah fisioterapis Joy of Care berwenang meresepkan obat anti nyeri jika keluhan lutut pasien memburuk?</strong></li>
 </ul>
-  <em> </em>Jawab*: Sesuai kode etik medis, fisioterapis berfokus pada intervensi fisik dan modalitas non-farmakologis. Namun di Joy of Care, fisioterapis kami terhubung langsung dengan [Layanan Panggil Dokter ke Rumah](/layanan/panggil-dokter). Dokter kami siap melakukan kunjungan evaluasi untuk meresepkan obat anti-inflamasi medis yang aman bagi lambung dan ginjal lansia.
+  Jawab*: Sesuai kode etik medis, fisioterapis berfokus pada intervensi fisik dan modalitas non-farmakologis. Namun di Joy of Care, fisioterapis kami terhubung langsung dengan [Layanan Panggil Dokter ke Rumah](/layanan/panggil-dokter). Dokter kami siap melakukan kunjungan evaluasi untuk meresepkan obat anti-inflamasi medis yang aman bagi lambung dan ginjal lansia.
 
 ---
 

@@ -63,7 +63,7 @@ clinical_references:
 
 Waktu dimulainya rehabilitasi fisik pasca stroke adalah penentu utama tingkat kemandirian fungsional pasien di masa depan. Menunda fisioterapi karena menunggu pasien pulih sendiri di rumah sering kali berujung pada kekakuan sendi permanen (<em>kontraktur</em>), pengecilan massa otot (<em>sarkopenia</em>), dan hilangnya refleks jalan alami. Artikel ini mengulas tanda-tanda klinis kapan pasien harus segera mendapatkan fisioterapi rumahan terpadu, dilengkapi studi kasus nyata pemulihan pasien stroke di Jakarta.
 
-<blockquote>###  Penting dipahami</blockquote>
+<blockquote><div class="info-box"><h3>Penting dipahami</h3></blockquote>
 <blockquote>* <strong>Kecepatan Adalah Kunci</strong>: Setiap hari tanpa mobilisasi terarah memperlambat reorganisasi kortikal otak dan meningkatkan risiko kekakuan spastik.</blockquote>
 <blockquote>* <strong>Tanda Krusial Butuh Fisioterapis</strong>: Pasien tidak mampu miring sendiri di ranjang, tangan mulai menggenggam kaku, pusing saat didudukkan, atau kaki lemas tak mampu menumpu.</blockquote>
 <blockquote>* <strong>Studi Kasus Nyata</strong>: Pasien stroke iskemik usia 68 tahun di Jakarta Selatan berhasil berjalan mandiri dengan tongkat dalam 12 minggu berkat fisioterapi homecare intensif 3 kali seminggu.</blockquote>
@@ -107,20 +107,20 @@ Rehabilitasi medik harus dimulai segera setelah pasien dinyatakan stabil secara 
 Fisioterapis neuro Joy of Care menerapkan teknik terapi neurofisiologis yang terbukti klinis:
 <ul><li><strong>Pendekatan Konsep Bobath (Neuro-Developmental Treatment / NDT)</strong>: Menghambat pola gerak sinergis abnormal dan spastisitas fleksor pada lengan serta spastisitas ekstensor pada tungkai, mengembalikan kesimetrisan postur tubuh kanan dan kiri.</li>
 <li><strong>Fasilitasi Proprioseptif Neuromuskular (PNF)</strong>: Menggunakan pola gerak diagonal dan spiral repetitif dengan tahanan manual terukur untuk merangsang aktivasi proprioseptor otot dan sendi hemiparetik.</li>
-<li><em></em>Terapi Gerak Terinduksi Pembatasan (<em>Constraint-Induced Movement Therapy</em> / CIMT)<em></em>: Pada pasien dengan kelemahan lengan parsial, ekstremitas yang sehat dibatasi sementara waktu untuk memaksa otak mengaktifkan kembali tangan yang terkena paresis.</li>
+<li>Terapi Gerak Terinduksi Pembatasan (<em>Constraint-Induced Movement Therapy</em> / CIMT): Pada pasien dengan kelemahan lengan parsial, ekstremitas yang sehat dibatasi sementara waktu untuk memaksa otak mengaktifkan kembali tangan yang terkena paresis.</li>
 </ul>
 
 <h3>3. Reedukasi Keseimbangan Dinamis dan Pola Berjalan Fisiologis</h3>
 Latihan berdiri dan melangkah dijalankan secara bertahap dan sistematis:
-<ul><li><em></em>Aktivasi Otot Inti Panggul (<em>Pelvic Bridging</em>)<em></em>: Melatih stabilitas otot panggul dan gluteus di atas matras tempat tidur guna membangun pondasi tumpuan berat badan sebelum pasien diperbolehkan berdiri.</li>
-<li><em></em>Latihan Berdiri Menumpu Beban (<em>Weight Bearing Exercises</em>)<em></em>: Menstimulasi saraf telapak kaki yang paresis untuk menerima sensasi lantai, melatih refleks proteksi tubuh agar pasien tidak mudah jatuh ke sisi yang lemah.</li>
+<ul><li>Aktivasi Otot Inti Panggul (<em>Pelvic Bridging</em>): Melatih stabilitas otot panggul dan gluteus di atas matras tempat tidur guna membangun pondasi tumpuan berat badan sebelum pasien diperbolehkan berdiri.</li>
+<li>Latihan Berdiri Menumpu Beban (<em>Weight Bearing Exercises</em>): Menstimulasi saraf telapak kaki yang paresis untuk menerima sensasi lantai, melatih refleks proteksi tubuh agar pasien tidak mudah jatuh ke sisi yang lemah.</li>
 <li><strong>Koreksi Pola Jalan Sirkumduksi</strong>: Mencegah pasien mengayunkan tungkai paresis ke arah luar (<em>circumduction gait</em>) dengan melatih fleksi lutut aktif dan dorsofleksi pergelangan kaki menggunakan belat ortotik pergelangan kaki (<em>AFO / Ankle Foot Orthosis</em>) bila terjadi <em>drop foot</em>.</li>
 </ul>
 
 <h3>4. Integrasi Latihan Aktivitas Kehidupan Sehari-hari (ADL)</h3>
 Target akhir neurorehabilitasi adalah memampukan pasien kembali beraktivitas di kediaman sendiri:
 <ul><li><strong>Latihan Kemandirian Mandi dan Berpakaian</strong>: Mengajarkan teknik memakai baju satu tangan (<em>one-handed dressing technique</em>) dan transfer aman ke kloset duduk.</li>
-<li><em></em>Stimulasi Motorik Halus Tangan (<em>Fine Motor Skills</em>)<em></em>: Melatih fungsi menggenggam, menjepit jemari (<em>pincer grasp</em>), memegang sendok, dan membalik halaman buku.</li>
+<li>Stimulasi Motorik Halus Tangan (<em>Fine Motor Skills</em>): Melatih fungsi menggenggam, menjepit jemari (<em>pincer grasp</em>), memegang sendok, dan membalik halaman buku.</li>
 <li><strong>Pemberdayaan Keluarga Pendamping</strong>: Melatih keluarga cara memposisikan lengan paresis saat tidur dengan sanggaan bantal untuk mencegah nyeri bahu beku (<em>frozen shoulder</em>) dan kontraktur permanen.</li>
 </ul>
 

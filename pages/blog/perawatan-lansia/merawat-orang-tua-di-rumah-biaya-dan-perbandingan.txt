@@ -67,7 +67,7 @@ clinical_references:
 
 Menentukan apakah keluarga harus merawat orang tua sendiri secara mandiri atau menyewa jasa perawat lansia profesional (<em>homecare nurse</em>) adalah keputusan penting yang memengaruhi stabilitas finansial, karier anak, dan keharmonisan rumah tangga. Artikel ini mengupas perbandingan riil antara pengorbanan merawat sendiri versus biaya menyewa perawat profesional di Jabodetabek pada tahun 2026, membantu Anda memilih solusi yang paling bijak dan berkelanjutan bagi orang tua tercinta.
 
-<blockquote>###  Penting dipahami</blockquote>
+<blockquote><div class="info-box"><h3>Penting dipahami</h3></blockquote>
 <blockquote>* <strong>Biaya Tersembunyi Merawat Sendiri</strong>: Berkurangnya produktivitas kerja, hilangnya peluang karier, kelelahan fisik kronis, dan risiko burnout emosional anak.</blockquote>
 <blockquote>* <strong>Kompetensi Medis Profesional</strong>: Perawat bersertifikat menguasai teknik sterilisasi luka, pencegahan tersedak, pertolongan pertama darurat, dan manajemen selang kateter/NGT.</blockquote>
 <blockquote>* <strong>Kualitas Hubungan Emosional</strong>: Dengan hadirnya perawat, interaksi antara anak dan orang tua berfokus pada kasih sayang dan komunikasi hangat, bukan kelelahan tugas memandikan dan membersihkan popok.</blockquote>
@@ -126,7 +126,7 @@ Pelajari panduan perawatan mandiri selengkapnya di [Panduan Lengkap Merawat Oran
 <h2>Pertanyaan yang Sering Diajukan (FAQ)</h2>
 
 <h3>Berapa kisaran biaya menyewa perawat lansia di rumah wilayah Jabodetabek pada tahun 2026?</h3>
-Biaya jasa perawat lansia di Jabodetabek dirancang fleksibel dan transparan sesuai kebutuhan pendampingan lansia, baik untuk bantuan aktivitas dasar harian maupun perawatan medis klinis pascarawat RS. 📲 Hubungi WhatsApp Resmi Joy of Care
+Biaya jasa perawat lansia di Jabodetabek dirancang fleksibel dan transparan sesuai kebutuhan pendampingan lansia, baik untuk bantuan aktivitas dasar harian maupun perawatan medis klinis pascarawat RS. <a href="https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?">📲 Hubungi WhatsApp Resmi Joy of Care</a>
 
 <h3>Apa perbedaan utama antara perawat medis (nurse) dengan caregiver pendamping?</h3>
 Perawat medis berwenang melakukan tindakan medis invasif seperti pemasangan selang makan NGT, kateter urin, terapi infus/injeksi, dan perawatan luka steril. Sedangkan caregiver berfokus pada pendampingan aktivitas sehari-hari seperti memandikan, menyuapi makan, dan mobilitas.

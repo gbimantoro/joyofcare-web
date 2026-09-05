@@ -75,7 +75,7 @@ clinical_references:
 
 Menentukan cara terbaik untuk melakukan tes darah berkala sering kali menempatkan keluarga pada perdebatan antara datang langsung ke laboratorium klinik konvensional atau memanfaatkan layanan [Layanan Cek Lab Darah di Rumah Joy of Care](/layanan/cek-lab-di-rumah) (<em>home lab</em>). Sebagian orang berasumsi bahwa mendatangkan petugas laboratorium ke rumah pasti memakan biaya yang sangat mahal. Namun jika seluruh variabel pengeluaran riil—seperti biaya transportasi, tarif parkir, waktu cuti kerja yang hilang, serta risiko paparan kuman di ruang tunggu—dianalisis secara jujur, layanan <em>home lab</em> terbukti jauh lebih efisien, manusiawi, dan hemat. Artikel ini menyajikan perbandingan komparatif menyeluruh antara cek darah di rumah versus laboratorium klinik di Jakarta pada tahun 2026.
 
-<blockquote>###  Penting dipahami</blockquote>
+<blockquote><div class="info-box"><h3>Penting dipahami</h3></blockquote>
 <blockquote>* <strong>Analisis Biaya Riil Holistik</strong>: Selisih biaya tes dasar sangat tipis, namun pergi ke klinik menambah beban biaya transportasi Jabodetabek, tarif tol, parkir, dan waktu produktif kerja yang hilang.</blockquote>
 <blockquote>* <strong>Nol Risiko Infeksi Silang</strong>: Menghindari ruang tunggu rumah sakit yang ramai melindungi orang tua geriatri dan pasien imunokompromais dari penularan virus pernapasan berbahaya.</blockquote>
 <blockquote>* <strong>Kenyamanan Puasa Tanpa Derita</strong>: Pasien tidak perlu menahan lapar di tengah kemacetan jalanan; segera setelah flebotomi selesai di rumah, pasien bisa langsung makan sarapan.</blockquote>
@@ -133,7 +133,7 @@ Banyak orang terkecoh mengira bahwa tarif home service lebih mahal karena ada ko
 <li><strong>Hasil</strong>: Total pengeluaran tersembunyi (<em>hidden costs</em>) berobat ke klinik membengkak tinggi tanpa disadari!</li>
 </ul>
 
-Pada layanan home lab Joy of Care, flebotomis tersertifikasi datang langsung ke rumah dengan peralatan tabung vakum steril dan rantai dingin terstandar. Biaya layanan transparan tanpa biaya tersembunyi. Memilih cek darah di rumah terbukti jauh lebih efisien, nyaman, dan melindungi lansia dari risiko kelelahan. 📲 Hubungi WhatsApp Resmi Joy of Care
+Pada layanan home lab Joy of Care, flebotomis tersertifikasi datang langsung ke rumah dengan peralatan tabung vakum steril dan rantai dingin terstandar. Biaya layanan transparan tanpa biaya tersembunyi. Memilih cek darah di rumah terbukti jauh lebih efisien, nyaman, dan melindungi lansia dari risiko kelelahan. <a href="https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?">📲 Hubungi WhatsApp Resmi Joy of Care</a>
 
 Dukung pemulihan kesehatan anggota keluarga dengan memadukan hasil laboratorium bersama [Layanan Perawat Medis Homecare](/layanan/perawat-homecare) dan [Layanan Panggil Dokter ke Rumah](/layanan/panggil-dokter). Pelajari rincian paket tes di [Panduan Lengkap Cek Darah di Rumah Jakarta Biaya](/blog/cek-darah-di-rumah-jakarta-biaya-panduan-lengkap).
 

@@ -65,7 +65,7 @@ clinical_references:
 
 Menyiapkan kelengkapan imunisasi internasional merupakan salah satu prasyarat administratif yang paling menyita perhatian calon mahasiswa yang hendak melanjutkan studi ke Amerika Serikat, Inggris, Australia, maupun negara-negara maju lainnya. Setiap negara dan institusi pendidikan tinggi memiliki matriks persyaratan vaksinasi yang sangat ketat guna melindungi ekosistem kampus dari bahaya wabah penyakit menular. Banyak calon mahasiswa Indonesia yang merasa kewalahan saat harus mengatur jadwal penyuntikan beragam jenis vaksin—mulai dari MMR, Meningitis MenACWY, Hepatitis B, Tdap, hingga Varicella—dalam waktu yang terbatas sebelum tanggal keberangkatan pesawat. Melalui [Layanan Vaksinasi di Rumah Joy of Care](/layanan/vaksinasi-di-rumah), seluruh rangkaian imunisasi dapat diselesaikan secara terencana, aman, dan tanpa perlu repot keluar rumah di wilayah Jakarta dan sekitarnya. Artikel panduan ini menyajikan peta jalan (<em>roadmap</em>) vaksinasi per negara, aturan interval medis antar-dosis, serta tata cara legalisasi sertifikat vaksin internasional.
 
-<blockquote>###  Penting dipahami</blockquote>
+<blockquote><div class="info-box"><h3>Penting dipahami</h3></blockquote>
 <blockquote>* <strong>Rencana Jadwal Matang</strong>: Buat lini masa vaksinasi 8 minggu sebelum terbang untuk mengakomodasi jeda waktu antar-dosis vaksin berseri.</blockquote>
 <blockquote>* <strong>Spesifikasi Per Negara</strong>: Kampus USA mewajibkan MenACWY & MMR 2 dosis; Australia mewajibkan skrining TBC & MMR; UK mewajibkan rontgen paru & MenACWY.</blockquote>
 <blockquote>* <strong>Ko-Administrasi Vaksin Aman</strong>: Vaksin flu, MMR, dan Meningitis dapat disuntikkan bersamaan di lokasi lengan yang berbeda secara efektif.</blockquote>

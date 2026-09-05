@@ -76,7 +76,7 @@ clinical_references:
 
 Mengurus berkas persyaratan kesehatan untuk studi ke luar negeri sering kali menjadi sumber kecemasan terbesar bagi para calon mahasiswa dan orang tua di Indonesia. Kekhawatiran mengenai riwayat penyakit masa lampau yang mungkin terdeteksi saat rontgen paru, ketakutan akan jarum suntik vaksin, kebingungan dalam menavigasi formulir medis berbahasa Inggris dari universitas asing, hingga risiko visa ditolak akibat masalah kesehatan merupakan pertanyaan yang paling sering berulang. Melalui kompilasi FAQ ini, tim dokter [Layanan Panggil Dokter ke Rumah Jakarta](/layanan/panggil-dokter) Joy of Care merangkum dan menjawab tuntas seluruh pertanyaan kritis seputar syarat kesehatan studi internasional. Panduan ini dirancang untuk meluruskan mitos-mitos medis yang keliru, memberikan solusi ilmiah berbasis regulasi imigrasi internasional terkini, serta memberikan ketenangan pikiran bagi Anda yang sedang bersiap terbang menuntut ilmu.
 
-<blockquote>###  Penting dipahami</blockquote>
+<blockquote><div class="info-box"><h3>Penting dipahami</h3></blockquote>
 <blockquote>* <strong>Riwayat Flek Paru Bukan Vonis Akhir</strong>: TBC masa lalu yang sudah sembuh tuntas tidak menggagalkan visa setelah melalui uji konfirmasi sputum.</blockquote>
 <blockquote><em> <strong>Kejujuran Rekam Medis</strong>: Selalu deklarasikan kondisi medis kronis secara transparan disertai surat dokter spesialis (</em>medical summary*).</blockquote>
 <blockquote>* <strong>Layanan Cito Home Lab</strong>: Tes darah darurat dan penerbitan form universitas resmi dapat diselesaikan dalam tempo 24 jam.</blockquote>
@@ -107,7 +107,7 @@ Aspek kelengkapan buku vaksinasi masa lampau sering kali menjadi kendala praktis
 <h3>3. Bagaimana jika buku imunisasi bayi atau catatan KMS masa kecil saya hilang total?</h3>
 <strong>Jawab</strong>: Ini adalah kasus yang dialami oleh lebih dari 60% mahasiswa internasional asal Indonesia. Anda memiliki 2 opsi solusi medis resmi:
 <ul><li><strong>Pemeriksaan Titer Antibodi Darah (Serologi IgG)</strong>: Petugas analis lab Joy of Care mengambil darah Anda untuk menguji keberadaan antibodi terhadap Campak (<em>Measles</em>), Gondongan (<em>Mumps</em>), Rubela, Cacar Air (<em>Varicella</em>), dan Hepatitis B. Hasil laboratorium positif diakui secara sah oleh seluruh universitas dunia sebagai bukti kekebalan permanen.</li>
-<li><em></em>Imunisasi Ulang (<em>Catch-up Vaccination</em>)<em></em>: Untuk vaksin yang hasil titernya negatif atau vaksin yang wajib dosis terkini (seperti Meningitis MenACWY dan Tdap), Anda dapat langsung menerima penyuntikan vaksin baru melalui [Layanan Vaksinasi di Rumah](/layanan/vaksinasi-di-rumah) Joy of Care. Memberikan vaksin ulang pada orang dewasa yang sudah memiliki antibodi terbukti secara klinis sangat aman dan hanya bertindak sebagai penguat (<em>booster</em>).</li>
+<li>Imunisasi Ulang (<em>Catch-up Vaccination</em>): Untuk vaksin yang hasil titernya negatif atau vaksin yang wajib dosis terkini (seperti Meningitis MenACWY dan Tdap), Anda dapat langsung menerima penyuntikan vaksin baru melalui [Layanan Vaksinasi di Rumah](/layanan/vaksinasi-di-rumah) Joy of Care. Memberikan vaksin ulang pada orang dewasa yang sudah memiliki antibodi terbukti secara klinis sangat aman dan hanya bertindak sebagai penguat (<em>booster</em>).</li>
 </ul>
 
 <h3>4. Apakah universitas di luar negeri menerima formulir imunisasi yang diisi oleh dokter umum biasa di Indonesia?</h3>

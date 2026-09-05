@@ -73,7 +73,7 @@ clinical_references:
 
 Menghadirkan dokter langsung ke rumah untuk memeriksa anggota keluarga yang sakit merupakan solusi kesehatan yang semakin diminati oleh masyarakat perkotaan di kawasan BSD City, Serpong, Bintaro, Alam Sutera, dan wilayah Tangerang lainnya. Meskipun demikian, banyak keluarga yang baru pertama kali menggunakan layanan ini masih memiliki sejumlah pertanyaan mendasar mengenai cakupan wewenang medis dokter, kelengkapan alat diagnostik yang dibawa, keabsahan resep dan surat sakit, hingga prosedur keselamatan pasien saat tindakan dilakukan di luar lingkungan klinik fisik. Melalui kompilasi FAQ ini, tim medis [Layanan Panggil Dokter ke Rumah Joy of Care](/layanan/panggil-dokter) menjawab tuntas semua keraguan dan pertanyaan penting Anda agar Anda dapat mengambil keputusan terbaik bagi kesehatan keluarga tercinta.
 
-<blockquote>###  Penting dipahami</blockquote>
+<blockquote><div class="info-box"><h3>Penting dipahami</h3></blockquote>
 <blockquote>* <strong>Kelengkapan Alat Standar Faskes</strong>: Dokter membawa tensimeter, oximeter, alat tes glukosa darah instan, otoskop, dan set perawatan steril.</blockquote>
 <blockquote>* <strong>Keabsahan Surat & Resep Resmi</strong>: Memiliki legalitas penuh menerbitkan resep obat antibiotik/kronis dan surat keterangan istirahat sakit berizin Dinkes.</blockquote>
 <blockquote>* <strong>Tindakan Medis di Rumah</strong>: Mampu melakukan nebulisasi asma, ganti perban luka steril, pasang kateter urin, dan selang makan NGT.</blockquote>

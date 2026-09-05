@@ -62,7 +62,7 @@ clinical_references:
 
 Layanan panggil dokter ke rumah di Jakarta (<em>home-based primary care</em>) mengalami pergeseran paradigma dari layanan darurat mewah menjadi kebutuhan primer bagi keluarga perkotaan. Memahami batasan klinis, keunggulan diagnostik, aspek legalitas izin praktik dokter, serta integrasi layanan penunjang laboratorium dan perawat homecare adalah hal penting agar keluarga dapat memanfaatkan layanan kesehatan di rumah secara maksimal dan tepat sasaran.
 
-<blockquote>###  Penting dipahami</blockquote>
+<blockquote><div class="info-box"><h3>Penting dipahami</h3></blockquote>
 <blockquote>* <strong>Pendekatan Holistik</strong>: Dokter tidak hanya memeriksa penyakit pasien, melainkan juga menilai faktor nutrisi, sanitasi rumah, dan risiko jatuh lingkungan.</blockquote>
 <blockquote>* <strong>Waktu Konsultasi Lebih Panjang</strong>: Rata-rata dokter menghabiskan waktu 30–45 menit per pasien di rumah, jauh lebih leluasa dibanding konsultasi klinik yang padat.</blockquote>
 <blockquote>* <strong>Keamanan Pasien</strong>: Mengeliminasi risiko terpapar infeksi nosokomial kuman resisten di rumah sakit.</blockquote>

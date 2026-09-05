@@ -109,8 +109,8 @@ Rehabilitasi wicara pada Parkinson mengacu pada metode terstandar internasional,
 <h2>Prinsip Lee Silverman Voice Treatment (LSVT LOUD) & Pencegahan Pneumonia Aspirasi</h2>
 
 Hipofonia (suara memelan hingga hanya terdengar seperti bisikan) pada penderita Parkinson terjadi akibat kekakuan otot pita suara dan penurunan persepsi sensorik, di mana pasien merasa suaranya sudah sangat keras padahal lawan bicara hampir tidak bisa mendengarnya:
-<ul><li><em></em>Fokus pada Intensitas Suara Maksimal (<em>Think LOUD</em>)<em></em>: Pasien dilatih untuk mengeluarkan suara 'AHHH' panjang dengan volume tinggi yang dipantau menggunakan sound level meter. Melatih kekuatan vokal ini juga secara simultan memperkuat refleks penutupan laring.</li>
-<li><em></em>Bahaya Tersedak Tersembunyi (<em>Silent Aspiration</em>)<em></em>: Kelemahan koordinasi menelan (<em>disfagia</em>) berisiko menyebabkan cairan atau remah makanan masuk ke saluran napas tanpa refleks batuk yang memadai, memicu komplikasi fatal berupa pneumonia aspirasi.</li>
+<ul><li>Fokus pada Intensitas Suara Maksimal (<em>Think LOUD</em>): Pasien dilatih untuk mengeluarkan suara 'AHHH' panjang dengan volume tinggi yang dipantau menggunakan sound level meter. Melatih kekuatan vokal ini juga secara simultan memperkuat refleks penutupan laring.</li>
+<li>Bahaya Tersedak Tersembunyi (<em>Silent Aspiration</em>): Kelemahan koordinasi menelan (<em>disfagia</em>) berisiko menyebabkan cairan atau remah makanan masuk ke saluran napas tanpa refleks batuk yang memadai, memicu komplikasi fatal berupa pneumonia aspirasi.</li>
 <li><strong>Penerapan Teknik Chin-Tuck Saat Menelan</strong>: Menundukkan dagu ke arah dada saat menelan cairan atau makanan padat untuk menutup jalan napas dan membuka sfingter esofagus bagian atas.</li>
 </ul>
 

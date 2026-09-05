@@ -65,9 +65,9 @@ clinical_references:
 
 Pasca serangan stroke, keluarga sering kali dihadapkan pada dilema besar: apakah membawa pasien secara rutin ke instalasi rehabilitasi medik rumah sakit atau mendatangkan fisioterapis profesional ke rumah? Artikel ini menyajikan analisis objektif membandingkan kedua opsi tersebut dari sudut pandang biaya riil keseluruhan, efektivitas pencapaian target motorik, risiko komplikasi transportasi perkotaan Jakarta, hingga aspek kesehatan mental pasien stroke lansia.
 
-<blockquote>###  Penting dipahami</blockquote>
+<blockquote><div class="info-box"><h3>Penting dipahami</h3></blockquote>
 <blockquote>* <strong>Analisis Total Biaya Riil</strong>: Biaya fisioterapi rumah sakit tampak murah, namun membengkak secara drastis saat memperhitungkan sewa ambulans/taksi khusus, ongkos parkir, dan waktu kerja keluarga yang hilang.</blockquote>
-<blockquote><em> </em><em>Kelelahan Transportasi (</em>Transit Fatigue<em>)</em>*: Pasien stroke yang menempuh 1–2 jam kemacetan Jakarta sering kali kelelahan sebelum sesi terapi dimulai di rumah sakit.</blockquote>
+<blockquote><em>Kelelahan Transportasi (</em>Transit Fatigue<em>)</em>*: Pasien stroke yang menempuh 1–2 jam kemacetan Jakarta sering kali kelelahan sebelum sesi terapi dimulai di rumah sakit.</blockquote>
 <blockquote>* <strong>Konteks Fungsional Asli</strong>: Latihan di rumah melatih pasien langsung pada kasur, kloset duduk, undakan pintu, dan kursi makan aslinya.</blockquote>
 <blockquote>* <strong>Rasio Terapis 1-on-1</strong>: Fisioterapis homecare mendedikasikan 100% perhatian selama 45–60 menit penuh tanpa diselingi melayani pasien lain di bilik sebelah.</blockquote>
 
@@ -76,7 +76,7 @@ Pasca serangan stroke, keluarga sering kali dihadapkan pada dilema besar: apakah
 <h2>Membandingkan Beban Fisik dan Psikologis Pasien</h2>
 
 Membawa pasien stroke dengan hemiplegia atau penurunan keseimbangan ke rumah sakit bukan pekerjaan mudah:
-<ul><li><em></em>Risiko Cedera Pemindahan (<em>Transfer Hazard</em>)<em></em>: Memindahkan pasien dari tempat tidur ke kursi roda, lalu ke jok mobil, dan kembali lagi saat tiba di rumah sakit, membawa risiko tinggi dislokasi sendi bahu (<em>shoulder subluxation</em>) dan nyeri pinggang pada caregiver.</li>
+<ul><li>Risiko Cedera Pemindahan (<em>Transfer Hazard</em>): Memindahkan pasien dari tempat tidur ke kursi roda, lalu ke jok mobil, dan kembali lagi saat tiba di rumah sakit, membawa risiko tinggi dislokasi sendi bahu (<em>shoulder subluxation</em>) dan nyeri pinggang pada caregiver.</li>
 <li><strong>Kelelahan Fisik dan Mental</strong>: Pasien lansia pascastroke mudah mengalami kecemasan dan kebingungan (<em>sensory overload</em>) di ruang tunggu rumah sakit yang ramai dan bising. Di rumahnya sendiri, suasana santai membuat fokus latihan jauh lebih tinggi.</li>
 <li><strong>Risiko Tertular Infeksi Droplet</strong>: Pasien pascastroke memiliki sistem imun yang rentan; berada di ruang tunggu fasilitas kesehatan umum mengekspos mereka pada kuman flu, batuk, dan pneumonia nosokomial.</li>
 </ul>
@@ -96,7 +96,7 @@ Membawa pasien stroke dengan hemiplegia atau penurunan keseimbangan ke rumah sak
 | <strong>Biaya Transport Khusus PP</strong> | Sewa ambulans / taksi kursi roda PP mahal | <strong>Bebas Biaya Sewa (Terapis datang ke rumah)</strong> |
 | <strong>Efisiensi Total Biaya</strong> | <strong>Beban Pengeluaran Tinggi per Sesi</strong> | <strong>Hemat Signifikan Tanpa Biaya Tersembunyi</strong> |
 
-📲 Hubungi WhatsApp Resmi Joy of Care
+<a href="https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?">📲 Hubungi WhatsApp Resmi Joy of Care</a>
 
 ---
 
@@ -119,7 +119,7 @@ Pelajari kurikulum pemulihannya pada [Panduan Lengkap Fisioterapi Pasca Stroke d
 <h2>Pertanyaan yang Sering Diajukan (FAQ)</h2>
 
 <h3>Berapa kisaran biaya fisioterapi pasca stroke ke rumah di wilayah Jakarta?</h3>
-Biaya satu sesi kunjungan fisioterapi pasca stroke ke rumah di Jakarta dirancang kompetitif dan transparan, disesuaikan dengan kebutuhan modalitas pemulihan gerak fungsional dan paket pendampingan yang dipilih. 📲 Hubungi WhatsApp Resmi Joy of Care
+Biaya satu sesi kunjungan fisioterapi pasca stroke ke rumah di Jakarta dirancang kompetitif dan transparan, disesuaikan dengan kebutuhan modalitas pemulihan gerak fungsional dan paket pendampingan yang dipilih. <a href="https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?">📲 Hubungi WhatsApp Resmi Joy of Care</a>
 
 <h3>Apakah hasil fisioterapi stroke di rumah seefektif fisioterapi di rumah sakit besar?</h3>
 Penelitian internasional membuktikan hasil pemulihan fungsional home-based rehabilitation setara atau bahkan lebih unggul dalam aspek kemandirian aktivitas sehari-hari, karena pasien berlatih langsung pada fasilitas rumah aslinya.

@@ -65,7 +65,7 @@ clinical_references:
 
 Menghadapi vonis stroke pada orang tua sering kali memicu kebingungan dan keputusasaan dalam keluarga. Berbagai mitos yang beredar di masyarakat—mulai dari keyakinan bahwa pemulihan berhenti setelah 6 bulan hingga bahaya pijat urut paksa—sering kali menyesatkan keluarga dan merugikan pasien. Artikel ini meluruskan fakta-fakta ilmiah tentang mekanisme pemulihan otak, peran fisioterapi homecare profesional, serta cara terbaik mendampingi proses neurorehabilitasi di rumah.
 
-<blockquote>###  Penting dipahami</blockquote>
+<blockquote><div class="info-box"><h3>Penting dipahami</h3></blockquote>
 <blockquote>* <strong>Neuroplastisitas Seumur Hidup</strong>: Pembentukan jalur saraf otak baru tidak berhenti pada bulan ke-6; pemulihan tetap berjalan selama stimulasi diberikan secara berkelanjutan.</blockquote>
 <blockquote><em> <strong>Bahaya Pijat Urut Sembarangan</strong>: Manipulasi fisik paksa pada lengan atau tungkai yang lumpuh berisiko merobek kapsul sendi bahu (</em>subluxation*) dan memicu nyeri saraf kronis.</blockquote>
 <blockquote><em> <strong>Pencegahan Spastisitas Dini</strong>: Posisi tidur dan peregangan yang tepat sejak minggu-minggu pertama mencegah tangan menggenggam kaku permanen (</em>flexion contracture*).</blockquote>
@@ -105,7 +105,7 @@ Selain kelemahan otot motorik, sekitar 60% penderita stroke mengalami gangguan s
 Fisioterapis Joy of Care menerapkan teknik stimulasi taktil terarah di rumah:
 <ul><li><strong>Desensitisasi Tekstur</strong>: Mengusapkan berbagai tekstur berbeda (kain sutra halus, handuk katun kasar, spons cuci, hingga sikat lembut) pada telapak tangan dan lengan yang baal untuk membangunkan kembali reseptor sensorik kulit.</li>
 <li><strong>Diskriminasi Suhu Hangat dan Dingin</strong>: Melatih pasien membedakan sentuhan kompres hangat dan kompres sejuk secara aman untuk mencegah cedera luka bakar saat mandi di rumah.</li>
-<li><em></em>Pemberian Beban Kompresi Sendi (<em>Joint Approximation</em>)<em></em>: Memberikan tekanan lembut pada sendi bahu dan siku untuk mengirimkan umpan balik posisi (<em>proprioceptive feedback</em>) menuju korteks sensorik otak.</li>
+<li>Pemberian Beban Kompresi Sendi (<em>Joint Approximation</em>): Memberikan tekanan lembut pada sendi bahu dan siku untuk mengirimkan umpan balik posisi (<em>proprioceptive feedback</em>) menuju korteks sensorik otak.</li>
 </ul>
 
 <h2>4 Alasan Mengapa Homecare Fisioterapi Menjadi Solusi Terbaik</h2>

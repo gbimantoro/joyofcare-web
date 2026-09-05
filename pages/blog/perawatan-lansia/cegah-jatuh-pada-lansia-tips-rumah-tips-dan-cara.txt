@@ -67,7 +67,7 @@ clinical_references:
 
 Menyiapkan hunian yang aman bagi orang tua lanjut usia (<em>aging-in-place home modification</em>) bukanlah kemewahan estetika, melainkan investasi perlindungan keselamatan jiwa yang tak ternilai. Kebanyakan rumah tinggal di Indonesia dirancang untuk kenyamanan orang dewasa muda yang gesit, dengan undakan tinggi, lantai marmer licin, kloset jongkok, dan sakelar lampu yang jauh dari jangkauan tempat tidur. Ketika fungsi penglihatan, kekuatan otot tungkai, dan refleks keseimbangan orang tua mulai menurun, rumah tersebut dapat berubah menjadi lingkungan yang penuh bahaya. Artikel praktis ini menyajikan lembar checklist inspeksi ruang demi ruang (<em>room-by-room audit</em>), panduan ukuran ergonomis baku, serta langkah renovasi berbiaya efisien yang direkomendasikan oleh [Layanan Fisioterapi Lansia di Rumah Joy of Care](/layanan/fisioterapi).
 
-<blockquote>###  Penting dipahami</blockquote>
+<blockquote><div class="info-box"><h3>Penting dipahami</h3></blockquote>
 <blockquote>* <strong>Audit Ruang demi Ruang</strong>: Periksa secara sistematis kamar mandi, kamar tidur, tangga rumah, dapur, koridor, hingga teras luar rumah.</blockquote>
 <blockquote>* <strong>Dimensi Ergonomis Geriatri</strong>: Tinggi permukaan ranjang kasur dan kloset duduk wajib sejajar dengan tinggi lipatan lutut (45–50 cm dari lantai).</blockquote>
 <blockquote>* <strong>Grab Bar Berbaut Baja</strong>: Pasang pegangan dinding berdiameter 3,2–3,8 cm yang dibaut kuat menembus struktur bata, bukan perekat tempel.</blockquote>
@@ -83,21 +83,21 @@ Gunakan checklist praktis berikut untuk melakukan inspeksi menyeluruh di kediama
 <ul><li>[ ] <strong>Lantai Bebas Licin</strong>: Apakah lantai ubin dilapisi pelapis anti-slip kimiawi atau ditutup karpet karet berpori pengalir air?</li>
 <li>[ ] <strong>Pegangan Dinding (Grab Bars)</strong>: Apakah sudah terpasang pegangan dinding kokoh di samping kloset duduk (posisi horizontal/diagonal) dan di area mandi shower (posisi vertikal)?</li>
 <li>[ ] <strong>Jenis Kloset</strong>: Apakah sudah menggunakan kloset duduk dengan ketinggian minimal 45 cm dari lantai?</li>
-<li>[ ] <em></em>Kursi Mandi (<em>Shower Bench</em>)<em></em>: Apakah tersedia kursi mandi berkaki karet anti-slip untuk lansia yang mudah lemas saat mandi berdiri?</li>
+<li>[ ] Kursi Mandi (<em>Shower Bench</em>): Apakah tersedia kursi mandi berkaki karet anti-slip untuk lansia yang mudah lemas saat mandi berdiri?</li>
 <li>[ ] <strong>Pancuran Air Fleksibel</strong>: Apakah selang kepala shower dapat dijangkau dan digenggam dengan mudah dalam posisi duduk?</li>
 <li>[ ] <strong>Pintu Kamar Mandi</strong>: Apakah pintu membuka ke arah luar atau menggunakan model geser (<em>sliding door</em>) agar tidak terhalang jika pasien terjatuh di balik pintu?</li>
 </ul>
 
 <h3>2. Area Kamar Tidur Pasien Lansia</h3>
 <ul><li>[ ] <strong>Ketinggian Kasur yang Tepat</strong>: Saat lansia duduk di tepi tempat tidur, apakah kedua telapak kakinya dapat menapak rata sempurna di lantai dengan sudut lutut 90 derajat?</li>
-<li>[ ] <em></em>Pengaman Samping Ranjang (<em>Bed Rail</em>)<em></em>: Apakah terpasang palang pengaman samping kasur untuk membantu lansia menopang tubuh saat bangun tidur?</li>
+<li>[ ] Pengaman Samping Ranjang (<em>Bed Rail</em>): Apakah terpasang palang pengaman samping kasur untuk membantu lansia menopang tubuh saat bangun tidur?</li>
 <li>[ ] <strong>Sakelar Lampu di Samping Kasur</strong>: Apakah sakelar lampu kamar dapat dijangkau lansia dengan mudah dari atas tempat tidur tanpa harus berdiri dalam kegelapan?</li>
-<li>[ ] <em></em>Lampu Sensor Gerak (<em>Night Light</em>)<em></em>: Apakah terdapat lampu LED sensor otomatis di bawah ranjang yang menyala saat kaki menyentuh lantai?</li>
+<li>[ ] Lampu Sensor Gerak (<em>Night Light</em>): Apakah terdapat lampu LED sensor otomatis di bawah ranjang yang menyala saat kaki menyentuh lantai?</li>
 <li>[ ] <strong>Jalur Bebas Hambatan</strong>: Apakah lorong antara tempat tidur menuju pintu kamar bersih dari tumpukan barang, sandal berserakan, atau meja kecil?</li>
 </ul>
 
 <h3>3. Area Tangga dan Koridor Rumah</h3>
-<ul><li>[ ] <em></em>Pegangan Tangga Ganda (<em>Double Handrails</em>)<em></em>: Apakah pegangan tangan terpasang kokoh di kedua sisi dinding tangga dari anak tangga terbawah hingga teratas?</li>
+<ul><li>[ ] Pegangan Tangga Ganda (<em>Double Handrails</em>): Apakah pegangan tangan terpasang kokoh di kedua sisi dinding tangga dari anak tangga terbawah hingga teratas?</li>
 <li>[ ] <strong>Penanda Visual Ujung Tangga</strong>: Apakah setiap ujung anak tangga ditempeli selotip isolasi berwarna kontras terang (kuning menyala atau strip fosfor berpendar) agar lansia tidak salah mengira kedalaman tangga?</li>
 <li>[ ] <strong>Pencahayaan Terang</strong>: Apakah area tangga diterangi lampu dengan kekuatan minimal 150 lux tanpa bayangan gelap yang mengaburkan pandangan?</li>
 <li>[ ] <strong>Tidak Ada Karpet Lepas di Tangga</strong>: Pastikan anak tangga tidak dilapisi karpet licin yang mudah terlipat saat terinjak.</li>
@@ -122,7 +122,7 @@ Gunakan checklist praktis berikut untuk melakukan inspeksi menyeluruh di kediama
 | <strong>Peninggi Kloset (Raised Seat)</strong>| Bahan plastik medis antibakteri dengan pengunci samping | Investasi Standar Medis Geriatri | Mempermudah berdiri tanpa nyeri sendi |
 | <strong>Strip Tangga Anti-Slip</strong> | Pita perekat berpasir silika kasar berpendar dalam gelap | Ekonomis & Pemasangan Mudah | Mencegah kaki meluncur di anak tangga |
 
-📲 Hubungi WhatsApp Resmi Joy of Care
+<a href="https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?">📲 Hubungi WhatsApp Resmi Joy of Care</a>
 
 ---
 

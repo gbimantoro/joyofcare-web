@@ -60,7 +60,7 @@ clinical_references:
 
 Bagi para penghuni kawasan perumahan modern di BSD City, Gading Serpong, Alam Sutera, maupun Bintaro Jaya, memiliki akses cepat ke layanan dokter panggilan ke rumah adalah sebuah kebutuhan penting. Ketika anak terserang demam tinggi di tengah malam atau orang tua tiba-tiba lemas dan tidak sanggup bangun, mengetahui prosedur pemesanan dokter yang cepat dan tepat akan menghindarkan keluarga dari kepanikan yang tidak perlu. Melalui integrasi teknologi digital dan tim medis lapangan, [Layanan Panggil Dokter ke Rumah Joy of Care](/layanan/panggil-dokter) memberikan solusi reservasi dokter hanya dalam beberapa ketukan pesan di ponsel pintar Anda. Artikel panduan ini menyajikan langkah demi langkah memesan visit dokter di kawasan Tangerang, hal-hal penting yang harus disampaikan saat triase chat, persiapan ruangan di hunian Anda, serta tata cara penebusan resep obat secara praktis.
 
-<blockquote>###  Penting dipahami</blockquote>
+<blockquote><div class="info-box"><h3>Penting dipahami</h3></blockquote>
 <blockquote>* <strong>Reservasi Cepat via WhatsApp</strong>: Cukup kirimkan pesan ke nomor hotline 08811-118-911 dengan format data pasien terstruktur.</blockquote>
 <blockquote>* <strong>Skrining Triase Cepat</strong>: Tim medis memverifikasi keluhan pasien dalam waktu kurang dari 5 menit untuk memastikan keamanan klinis.</blockquote>
 <blockquote>* <strong>Persiapan Ruangan Sederhana</strong>: Cukup sediakan pencahayaan terang, ventilasi udara baik, dan catatan riwayat obat pasien.</blockquote>

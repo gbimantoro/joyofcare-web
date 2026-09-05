@@ -65,7 +65,7 @@ clinical_references:
 
 Mengetahui kapan harus memanggil dokter ke rumah versus kapan harus segera membawa pasien ke Instalasi Gawat Darurat (IGD) rumah sakit adalah keputusan kritis yang dapat menyelamatkan nyawa. Layanan dokter panggilan ke rumah di Jakarta sangat ideal untuk kondisi akut non-darurat, pemeliharaan penyakit kronis, pasien dengan keterbatasan mobilitas, serta perawatan luka dan alat medis, sementara kondisi yang mengancam nyawa (<em>life-threatening emergency</em>) tetap membutuhkan penanganan IGD rumah sakit.
 
-<blockquote>###  Penting dipahami</blockquote>
+<blockquote><div class="info-box"><h3>Penting dipahami</h3></blockquote>
 <blockquote>* <strong>Kapan Tepat Panggil Dokter ke Rumah</strong>: Gejala demam 2–3 hari tanpa sesak, mual muntah ringan, luka pascaoperasi, lansia lemas, atau selang kateter/NGT tersumbat.</blockquote>
 <blockquote>* <strong>Kapan Wajib ke IGD (Tanda Bahaya Merah)</strong>: Nyeri dada menjalar, penurunan kesadaran/koma, gejala stroke mendadak (wajah mencong, bicara pelo, lengan lumpuh), dan sesak napas berat.</blockquote>
 <blockquote>* <strong>Keuntungan Deteksi Dini</strong>: Memanggil dokter lebih awal mencegah komplikasi ringan berkembang menjadi kondisi kritis yang membutuhkan rawat inap intensif (ICU).</blockquote>
@@ -104,7 +104,7 @@ Sering kali penurunan kondisi fisik lansia di rumah bukan disebabkan oleh penyak
 
 <h2>⚠️ Kapan Pasien TIDAK Boleh Menunggu Dokter dan WAJIB Langsung ke IGD?</h2>
 
-Jika Anda menemukan salah satu dari <em></em>Tanda Bahaya (<em>Red Flags</em>)<em></em> di bawah ini, jangan menunggu dokter ke rumah! Segera panggil ambulans darurat atau larikan pasien ke IGD rumah sakit terdekat:
+Jika Anda menemukan salah satu dari Tanda Bahaya (<em>Red Flags</em>) di bawah ini, jangan menunggu dokter ke rumah! Segera panggil ambulans darurat atau larikan pasien ke IGD rumah sakit terdekat:
 <ul><li><strong>Curiga Serangan Jantung Akut</strong>: Nyeri dada hebat seperti tertindih beban berat atau diremas di dada tengah/kiri, menjalar ke rahang, leher, atau lengan kiri, disertai keringat dingin dan sesak napas.</li>
 <li><strong>Curiga Serangan Stroke Akut (FAST Protocol)</strong>:</li>
 </ul>

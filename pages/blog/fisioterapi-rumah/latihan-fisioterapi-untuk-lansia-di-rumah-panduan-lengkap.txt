@@ -67,7 +67,7 @@ clinical_references:
 
 Penuaan bukanlah alasan untuk berhenti bergerak. Sebaliknya, penurunan fungsi gerak pada usia senja sering kali dipicu bukan oleh angka usia itu sendiri, melainkan oleh gaya hidup pasif (<em>sedentary lifestyle</em>) yang mempercepat penyusutan massa otot (<em>sarkopenia</em>) dan kekakuan kapsul sendi. Dengan menerapkan program latihan fisioterapi fungsional yang terukur dan teratur di rumah, penderita geriatri dapat mempertahankan kepadatan tulang, melatih koordinasi neuromuskular, dan merebut kembali kemandirian dalam aktivitas sehari-hari seperti berdiri dari kursi, berjalan ke kamar mandi, dan menaiki anak tangga. [Layanan Fisioterapi Lansia di Rumah Joy of Care](/layanan/fisioterapi) merangkum 10 gerakan fisioterapi teruji klinis yang dapat dipraktikkan secara aman di ruang keluarga dengan perlengkapan sederhana.
 
-<blockquote>###  Penting dipahami</blockquote>
+<blockquote><div class="info-box"><h3>Penting dipahami</h3></blockquote>
 <blockquote><em> <strong>Empat Kategori Latihan Seimbang</strong>: Program ideal menggabungkan penguatan otot (</em>strength<em>), keseimbangan (</em>balance<em>), kelenturan (</em>flexibility<em>), dan daya tahan napas (</em>endurance*).</blockquote>
 <blockquote>* <strong>Kursi Kokoh Sebagai Alat Bantu Utama</strong>: Sebagian besar latihan dapat dilakukan sambil duduk atau berpegangan pada sandaran kursi kayu berkaki empat tanpa roda.</blockquote>
 <blockquote>* <strong>Kontrol Napas Irama Teratur</strong>: Selalu hembuskan napas saat fase kontraksi berat (misalnya saat berdiri) dan hirup napas saat fase relaksasi guna menjaga stabilitas tekanan darah.</blockquote>

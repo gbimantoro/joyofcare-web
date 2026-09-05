@@ -62,7 +62,7 @@ clinical_references:
 
 Mengantar orang tua yang sudah sepuh ke fasilitas kesehatan sering kali menjadi tantangan berat yang membebani fisik serta emosi seluruh anggota keluarga, melampaui kendala transportasi logistik semata. Bagi lansia dengan kondisi mobilitas terbatas, kerapuhan fisik (<em>frailty</em>), atau penyakit degeneratif saraf seperti demensia dan pasca-stroke, perjalanan keluar rumah dapat memicu kelelahan ekstrem, disorientasi mental, hingga risiko jatuh yang berbahaya. [Layanan Vaksinasi Lansia di Rumah Joy of Care](/layanan/vaksinasi-di-rumah) hadir untuk menjembatani kesenjangan pelayanan preventif ini. Layanan jemput bola medis memungkinkan orang tua Anda menerima perlindungan vaksin influenza kuadrivalen, vaksin pneumonia, dan herpes zoster di kenyamanan kamar tidur mereka sendiri. Artikel ini mengupas secara mendalam 5 skenario kondisi kapan keluarga harus memilih imunisasi di rumah, dilengkapi protokol rantai dingin (<em>cold chain</em>), asesmen pra-vaksinasi geriatri, serta panduan keselamatan klinis imunisasi di rumah.
 
-<blockquote>###  Penting dipahami</blockquote>
+<blockquote><div class="info-box"><h3>Penting dipahami</h3></blockquote>
 <blockquote><em> <strong>5 Indikasi Klinis Utama</strong>: Pasien tirah baring (</em>bedridden*), penderita demensia/Alzheimer, pasca-stroke dengan paresis fisik, lansia dengan komorbiditas multipel, dan persiapan jelang musim penghujan.</blockquote>
 <blockquote>* <strong>Mencegah Trauma Perjalanan</strong>: Mengeliminasi rasa cemas, disorientasi lingkungan baru, dan kelelahan fisik akibat perjalanan macet di jalanan Jakarta.</blockquote>
 <blockquote>* <strong>Perlindungan Terhadap Infeksi Sekunder</strong>: Pasien yang terlindung vaksin pneumonia memiliki angka komplikasi pernapasan 70% lebih rendah selama masa perawatan jangka panjang.</blockquote>
@@ -97,29 +97,29 @@ Sistem kekebalan tubuh manusia mengalami penurunan kapasitas fungsional progresi
 
 <h3>1. Skenario Klinis Prioritas Utama Vaksinasi di Rumah</h3>
 Jadwal imunisasi geriatri di kediaman menjadi keharusan mendesak pada kondisi:
-<ul><li><em></em>Lansia Tirah Baring Total (<em>Bedridden</em>)<em></em>: Pasien tirah baring rentan mengalami pneumonia hipostatik akibat aspirasi mikro sekret orofaring; vaksinasi pneumonia PCV13/15 dan influenza tahunan merupakan perisai penyelamat nyawa utama.</li>
+<ul><li>Lansia Tirah Baring Total (<em>Bedridden</em>): Pasien tirah baring rentan mengalami pneumonia hipostatik akibat aspirasi mikro sekret orofaring; vaksinasi pneumonia PCV13/15 dan influenza tahunan merupakan perisai penyelamat nyawa utama.</li>
 <li><strong>Penderita Penyakit Komorbid Paru dan Jantung Kronis</strong>: Pasien dengan <em>Penyakit Paru Obstruktif Kronis</em> (PPOK), asma bronkial berat, atau gagal jantung kongestif yang berisiko mengalami gagal napas akut bila terserang influenza musiman.</li>
-<li><em></em>Riwayat Cacar Ular (<em>Herpes Zoster</em>) atau Nyeri Pascaherpes<em></em>: Lansia di atas usia 50 tahun yang berisiko mengalami reaktivasi virus varisela zoster dengan komplikasi nyeri saraf kronis berkepanjangan (<em>Post-Herpetic Neuralgia</em> / PHN).</li>
+<li>Riwayat Cacar Ular (<em>Herpes Zoster</em>) atau Nyeri Pascaherpes: Lansia di atas usia 50 tahun yang berisiko mengalami reaktivasi virus varisela zoster dengan komplikasi nyeri saraf kronis berkepanjangan (<em>Post-Herpetic Neuralgia</em> / PHN).</li>
 </ul>
 
 <h3>2. Standar Preservasi Rantai Dingin (<em>Cold Chain Maintenance</em>)</h3>
 Kualitas imunitas vaksin sangat bergantung pada pemeliharaan stabilitas termal:
 <ul><li><strong>Penggunaan Vaccine Coolbox Medis Bersertifikat WHO</strong>: Vaksin Joy of Care dibawa langsung dari instalasi farmasi menggunakan wadah pendingin khusus berinsulasi poliuretan tebal, dilengkapi <em>digital temperature logger</em> pemantau suhu real-time.</li>
 <li><strong>Pemeliharaan Rentang Suhu Ketat 2°C hingga 8°C</strong>: Memastikan ampul vaksin tidak terpapar suhu panas maupun pembekuan es langsung (<em>freezing injury</em>) yang dapat merusak struktur protein antigenik vaksin.</li>
-<li><em></em>Pemeriksaan Integritas Ampul (<em>Vaccine Vial Monitor</em>)<em></em>: Verifikasi nomor batch resmi, tanggal kedaluwarsa, kejernihan cairan vaksin, dan keutuhan segel BPOM sebelum ampul dibuka di hadapan keluarga pasien.</li>
+<li>Pemeriksaan Integritas Ampul (<em>Vaccine Vial Monitor</em>): Verifikasi nomor batch resmi, tanggal kedaluwarsa, kejernihan cairan vaksin, dan keutuhan segel BPOM sebelum ampul dibuka di hadapan keluarga pasien.</li>
 </ul>
 
 <h3>3. Protokol Skrining Pra-Imunisasi dan Penyuntikan Aseptik</h3>
 Dokter umum berizin memeriksa kondisi klinis pasien sebelum jarum suntik diaplikasikan:
 <ul><li><strong>Pemeriksaan Kontraindikasi Akut</strong>: Mengukur suhu tubuh dan tanda vital; penyuntikan ditunda bila pasien sedang dalam kondisi demam akut tinggi (> 38°C) atau infeksi sistemik aktif hingga fase akut teratasi.</li>
 <li><strong>Teknik Injeksi Intramuskular Presisi</strong>: Penyuntikan pada bagian tengah otot deltoid lengan atas dengan sudut 90 derajat menggunakan jarum mikro steril sekali pakai (<em>autodisable syringe</em>), disesuaikan dengan ketebalan jaringan subkutan lansia.</li>
-<li><em></em>Pemberian Vaksinasi Ganda Terpisah (<em>Co-administration</em>)<em></em>: Bila pasien dijadwalkan menerima vaksin influenza dan pneumonia pada hari yang sama, penyuntikan dilakukan pada lengan yang berbeda (lengan kanan dan kiri) guna meminimalkan ketidaknyamanan lokal.</li>
+<li>Pemberian Vaksinasi Ganda Terpisah (<em>Co-administration</em>): Bila pasien dijadwalkan menerima vaksin influenza dan pneumonia pada hari yang sama, penyuntikan dilakukan pada lengan yang berbeda (lengan kanan dan kiri) guna meminimalkan ketidaknyamanan lokal.</li>
 </ul>
 
 <h3>4. Protokol Pengawasan KIPI dan Sertifikasi Resmi</h3>
 Menjamin keselamatan dan ketenangan pikiran keluarga:
 <ul><li><strong>Observasi Pascapenyuntikan 30 Menit</strong>: Dokter atau perawat tetap berada di kediaman pasien selama minimal 30 menit pascainjeksi untuk memantau ada tidaknya Kejadian Ikutan Pasca Imunisasi (KIPI) atau reaksi alergi anafilaksis.</li>
-<li><em></em>Kesiapan Kit Penanganan Kedaruratan (<em>Anaphylactic Kit</em>)<em></em>: Tim medis selalu membawa ampul epinefrin/adrenalin injeksi dan antihistamin siaga penuh sebagai standar keselamatan tertinggi kedokteran.</li>
+<li>Kesiapan Kit Penanganan Kedaruratan (<em>Anaphylactic Kit</em>): Tim medis selalu membawa ampul epinefrin/adrenalin injeksi dan antihistamin siaga penuh sebagai standar keselamatan tertinggi kedokteran.</li>
 <li><strong>Penerbitan Kartu Sertifikat Vaksinasi Resmi</strong>: Dokter mencatat nomor batch vaksin, tanggal penyuntikan, dan menandatangani sertifikat vaksinasi fisik serta mengunggah data imunisasi ke dalam rekam medis terpadu pasien.</li>
 </ul>
 

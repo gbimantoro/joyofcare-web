@@ -66,7 +66,7 @@ clinical_references:
 
 Menghadirkan pendampingan medis yang aman dan penuh kasih bagi orang tua tercinta di rumah merupakan prioritas utama keluarga di kawasan metropolitan Jakarta, Bogor, Depok, Tangerang, dan Bekasi (Jabodetabek). Ketika orang tua mulai mengalami penurunan mobilitas fisik, mengidap penyakit kronis seperti stroke, diabetes, demensia, atau membutuhkan perawatan pascarawat inap rumah sakit, peran tenaga perawat profesional menjadi jembatan penyelamat. Artikel ini membedah secara komprehensif seluruh aspek layanan [Layanan Perawat Lansia Homecare Joy of Care](/layanan/perawat-homecare), mulai dari kualifikasi klinis, rincian biaya resmi 2026, perbedaan caregiver dan perawat medis, hingga panduan memilih agensi homecare berizin resmi di Jabodetabek.
 
-<blockquote>###  Penting dipahami</blockquote>
+<blockquote><div class="info-box"><h3>Penting dipahami</h3></blockquote>
 <blockquote>* <strong>Legalitas & Kualifikasi STR</strong>: Pastikan perawat medis yang masuk ke rumah Anda memiliki ijazah D3/S1 Keperawatan serta Surat Tanda Registrasi (STR) aktif dari Konsil Tenaga Kesehatan Indonesia (KTKI).</blockquote>
 <blockquote><em> <strong>Klasifikasi Layanan Tepat Kebutuhan</strong>: Bedakan antara </em>Caregiver<em> (pendamping aktivitas harian non-invasif) dan </em>Perawat Medis* (penanganan tindakan klinis seperti NGT, kateter, luka dekubitus, dan infus).</blockquote>
 <blockquote><em> <strong>Fleksibilitas Sistem Kerja</strong>: Pilih skema visit harian, shift 8–12 jam kerja, atau perawat menginap (</em>live-in*) 24 jam sesuai kondisi klinis orang tua dan kesiapan ruangan keluarga.</blockquote>
@@ -124,7 +124,7 @@ Transparansi biaya adalah hak setiap keluarga. Berikut adalah tabel komparasi es
 | <strong>Perawat Medis D3/S1</strong> | Shift 12 Jam Kerja | Paket Shift Medis Intensif (Hubungi WA JoC) | Pascastroke fase akut, tirah baring, monitor oksigen |
 | <strong>Perawat Medis D3/S1</strong> | Menginap (<em>Live-In</em> 24 Jam) | Paket Live-In Medis 24 Jam (Hubungi WA JoC) | Pasien ICU pulang, ventilator/trakeostomi, kanker stadium akhir |
 
-📲 Hubungi WhatsApp Resmi Joy of Care
+<a href="https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?">📲 Hubungi WhatsApp Resmi Joy of Care</a>
 
 <em>Catatan: Biaya di atas merupakan estimasi standar pasar profesional dan dapat bervariasi bergantung pada tingkat keparahan penyakit pasien, peralatan medis khusus yang dibutuhkan, serta lokasi geografis kediaman pasien di Jabodetabek.</em>
 
@@ -154,7 +154,7 @@ Perawat wajib mengisi lembar observasi harian: catatan jam dan dosis obat, hasil
 <h2>Pertanyaan yang Sering Diajukan (FAQ)</h2>
 
 <h3>Berapa estimasi biaya jasa perawat lansia di rumah wilayah Jabodetabek pada tahun 2026?</h3>
-Biaya jasa perawat lansia di Jabodetabek ditentukan secara transparan berdasarkan kualifikasi keahlian, mulai dari caregiver pendamping harian hingga perawat medis profesional berijazah resmi D3/S1 Keperawatan dengan STR aktif. 📲 Hubungi WhatsApp Resmi Joy of Care
+Biaya jasa perawat lansia di Jabodetabek ditentukan secara transparan berdasarkan kualifikasi keahlian, mulai dari caregiver pendamping harian hingga perawat medis profesional berijazah resmi D3/S1 Keperawatan dengan STR aktif. <a href="https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?">📲 Hubungi WhatsApp Resmi Joy of Care</a>
 
 <h3>Apa perbedaan mendasar antara caregiver lansia dengan perawat medis homecare?</h3>
 Caregiver bertugas mendampingi aktivitas harian (ADL) seperti memandikan, menyiapkan makan, dan mobilitas. Sementara perawat medis berwenang melakukan intervensi klinis seperti perawatan luka steril, pemasangan NGT, kateter urin, suction lendir, dan injeksi terapi.

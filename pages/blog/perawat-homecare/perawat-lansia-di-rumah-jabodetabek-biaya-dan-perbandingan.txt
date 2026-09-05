@@ -68,7 +68,7 @@ clinical_references:
 
 Menentukan apakah harus menyewa perawat lansia dengan sistem kunjungan harian (<em>shift 8–12 jam</em>) atau perawat yang menetap menginap (<em>live-in 24 jam</em>) adalah salah satu keputusan logistik dan finansial paling krusial bagi keluarga di Jabodetabek. Pilihan ini tidak hanya memengaruhi anggaran bulanan keluarga, tetapi juga memengaruhi privasi ruang rumah tangga, ketersediaan kamar, dan tingkat perlindungan keselamatan orang tua di malam hari. Artikel ini menyajikan perbandingan objektif antara perawat lansia harian vs 24 jam melalui analisis biaya nyata 2026, kelebihan, kekurangan, serta panduan klinis untuk menentukan opsi yang paling tepat bagi keluarga Anda bersama [Layanan Perawat Lansia Homecare Joy of Care](/layanan/perawat-homecare).
 
-<blockquote>###  Penting dipahami</blockquote>
+<blockquote><div class="info-box"><h3>Penting dipahami</h3></blockquote>
 <blockquote>* <strong>Sistem Harian Shift (8–12 Jam)</strong>: Cocok untuk keluarga yang membutuhkan bantuan di jam kerja kantor siang hari, menjaga privasi penuh rumah di malam hari, dan tidak memiliki kamar kosong untuk perawat.</blockquote>
 <blockquote>* <strong>Sistem Menginap (Live-In 24 Jam)</strong>: Kebutuhan mutlak bagi lansia dengan risiko jatuh tinggi, tirah baring penuh, demensia sindrom sundowning, atau terpasang alat medis invasif.</blockquote>
 <blockquote>* <strong>Perbandingan Biaya Efektif</strong>: Sistem live-in bulanan umumnya menawarkan tarif per jam yang jauh lebih ekonomis dibandingkan akumulasi tarif shift harian selama 30 hari penuh.</blockquote>
@@ -98,7 +98,7 @@ Pada sistem ini, perawat tinggal bersama keluarga di rumah pasien sepanjang bula
 
 <ul><li><strong>Kelebihan Utama</strong>:</li>
 </ul>
-  <em> </em><em>Pengawasan Medis Sepanjang Waktu (</em>Round-the-Clock Monitoring<em>)</em>*: Perawat langsung siap siaga saat orang tua batuk di malam hari, membutuhkan perubahan posisi miring anti-dekubitus setiap 2 jam, atau butuh bantuan ke toilet di waktu subuh.
+  <em>Pengawasan Medis Sepanjang Waktu (</em>Round-the-Clock Monitoring<em>)</em>*: Perawat langsung siap siaga saat orang tua batuk di malam hari, membutuhkan perubahan posisi miring anti-dekubitus setiap 2 jam, atau butuh bantuan ke toilet di waktu subuh.
   * <strong>Kedekatan Emosional yang Lebih Dalam</strong>: Karena menghabiskan waktu bersama setiap hari, perawat dapat mengenali kebiasaan halus, perubahan nafsu makan, dan mood lansia secara jauh lebih intuitif.
   * <strong>Ketenangan Pikiran Total bagi Anak</strong>: Anda dapat tidur nyenyak di kamar Anda sendiri atau fokus bekerja di kantor tanpa perasaan cemas terus-menerus memikirkan kondisi orang tua di rumah.
 <ul><li><strong>Kekurangan dan Tantangan</strong>:</li>
@@ -147,7 +147,7 @@ Untuk melengkapi perawatan, baik sistem harian maupun 24 jam dapat dipadukan den
 <h2>Pertanyaan yang Sering Diajukan (FAQ)</h2>
 
 <h3>Berapa perbandingan biaya antara perawat lansia harian shift dengan perawat menginap (live-in) 24 jam?</h3>
-Perawat lansia homecare Joy of Care dapat dipesan dalam skema shift harian maupun paket menginap bulanan secara transparan. Rincian biaya selalu disesuaikan dengan kondisi ketergantungan fisik dan alat medis lansia. 📲 Hubungi WhatsApp Resmi Joy of Care
+Perawat lansia homecare Joy of Care dapat dipesan dalam skema shift harian maupun paket menginap bulanan secara transparan. Rincian biaya selalu disesuaikan dengan kondisi ketergantungan fisik dan alat medis lansia. <a href="https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?">📲 Hubungi WhatsApp Resmi Joy of Care</a>
 
 <h3>Apakah keluarga wajib menyediakan kamar tidur dan makan untuk perawat lansia yang menginap 24 jam?</h3>
 Ya, untuk sistem perawat live-in 24 jam, keluarga penyewa wajib menyediakan kamar tidur yang layak, bersih, berpintu, serta konsumsi makan 3 kali sehari yang bergizi.

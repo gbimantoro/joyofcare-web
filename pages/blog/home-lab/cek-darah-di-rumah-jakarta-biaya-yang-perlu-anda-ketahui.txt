@@ -65,7 +65,7 @@ clinical_references:
 
 Layanan pengambilan darah di rumah (<em>home lab service</em>) kini berkembang pesat sebagai tren baru pelayanan kesehatan preventif di Jakarta dan kota-kota sekitarnya. Meskipun menawarkan kepraktisan tingkat tinggi, banyak masyarakat yang masih memiliki keraguan seputar aspek legalitas medis, jaminan sterilitas jarum suntik, ketepatan penanganan spesimen di jalan, hingga keabsahan hasil tes di mata dokter spesialis. Kurangnya pemahaman ini kerap membuat keluarga ragu untuk beralih dari cara-cara konvensional. Artikel tanya jawab (FAQ) ini mengupas secara tuntas segala hal penting yang perlu Anda ketahui mengenai [Layanan Cek Lab Darah di Rumah Joy of Care](/layanan/cek-lab-di-rumah), memberikan kepastian klinis dan ketenangan pikiran sebelum Anda menjadwalkan pemeriksaan.
 
-<blockquote>###  Penting dipahami</blockquote>
+<blockquote><div class="info-box"><h3>Penting dipahami</h3></blockquote>
 <blockquote>* <strong>Jaminan Akreditasi Resmi</strong>: Laboratorium rujukan Joy of Care memiliki izin resmi operasional dari Kementerian Kesehatan RI dan berstandar ISO 15189.</blockquote>
 <blockquote>* <strong>Keamanan Steril 100%</strong>: Jarum suntik, tabung vakum, dan kapas alkohol dibuka langsung di depan mata pasien dari segel pabrik baru, menjamin bebas kontaminasi.</blockquote>
 <blockquote>* <strong>Stabilitas Rantai Dingin</strong>: Transportasi sampel darah menggunakan boks berinsulasi khusus bersuhu 2–8°C yang termonitor ketat guna mencegah kerusakan sel dan enzim.</blockquote>
@@ -80,34 +80,34 @@ Berikut adalah kompilasi tanya jawab medis yang paling sering diajukan oleh para
 <h3>1. Seputar Kualitas dan Akurasi Hasil Laboratorium</h3>
 <ul><li><strong>Tanya: Mengapa hasil tes darah di rumah bisa sama akuratnya dengan tes darah langsung di rumah sakit besar?</strong></li>
 </ul>
-  <em> </em>Jawab*: Dalam ilmu patologi klinik, akurasi hasil laboratorium 70% ditentukan pada fase pra-analitik (tata cara pengambilan darah, jenis tabung, dan penyimpanan suhu), bukan pada tempat pengambilan darah itu dilakukan. Selama jarum yang digunakan steril, volume darah mencukupi garis tabung antikoagulan, dan sampel disimpan pada suhu 2–8°C, proses analisis pada mesin otomatis laboratorium menghasilkan angka yang persis sama dengan sampel yang diambil di rumah sakit.
+  Jawab*: Dalam ilmu patologi klinik, akurasi hasil laboratorium 70% ditentukan pada fase pra-analitik (tata cara pengambilan darah, jenis tabung, dan penyimpanan suhu), bukan pada tempat pengambilan darah itu dilakukan. Selama jarum yang digunakan steril, volume darah mencukupi garis tabung antikoagulan, dan sampel disimpan pada suhu 2–8°C, proses analisis pada mesin otomatis laboratorium menghasilkan angka yang persis sama dengan sampel yang diambil di rumah sakit.
 <ul><li><strong>Tanya: Apakah hasil tes dari Joy of Care bisa dipakai untuk rujukan rawat inap atau operasi di rumah sakit lain?</strong></li>
 </ul>
-  <em> </em>Jawab*: Sangat bisa. Hasil laboratorium diterbitkan dengan kop surat resmi laboratorium berizin Kemenkes, memuat nomor izin klinik, nilai rujukan baku, serta tanda tangan elektronik dokter spesialis patologi klinik yang sah secara hukum medis.
+  Jawab*: Sangat bisa. Hasil laboratorium diterbitkan dengan kop surat resmi laboratorium berizin Kemenkes, memuat nomor izin klinik, nilai rujukan baku, serta tanda tangan elektronik dokter spesialis patologi klinik yang sah secara hukum medis.
 
 <h3>2. Seputar Prosedur dan Kenyamanan Pasien</h3>
 <ul><li><strong>Tanya: Bagaimana jika orang tua saya memiliki vena yang 'tenggelam' atau sangat sulit ditusuk jarum?</strong></li>
 </ul>
-  <em> </em>Jawab<em>: Ini adalah kondisi yang sangat lumrah pada pasien geriatri, dehidrasi, atau penderita obesitas. Flebotomis Joy of Care dibekali keahlian khusus flebotomi geriatri. Petugas membawa jarum sayap (</em>winged infusion set / butterfly needle*) berukuran sangat kecil (ukuran gauge 23G atau 25G) yang dirancang untuk pembuluh darah halus dan rapuh, meminimalkan risiko lebam atau penusukan berulang.
+  Jawab<em>: Ini adalah kondisi yang sangat lumrah pada pasien geriatri, dehidrasi, atau penderita obesitas. Flebotomis Joy of Care dibekali keahlian khusus flebotomi geriatri. Petugas membawa jarum sayap (</em>winged infusion set / butterfly needle*) berukuran sangat kecil (ukuran gauge 23G atau 25G) yang dirancang untuk pembuluh darah halus dan rapuh, meminimalkan risiko lebam atau penusukan berulang.
 <ul><li><strong>Tanya: Apa yang harus dilakukan jika darah pasien tidak berhenti mengalir setelah jarum dicabut?</strong></li>
 </ul>
-  <em> </em>Jawab*: Pasien yang mengonsumsi obat pengencer darah rutin (seperti aspirin, clopidogrel, atau warfarin) membutuhkan waktu pembekuan yang lebih lama. Flebotomis kami akan menekan titik tusukan dengan kasa steril selama 5 hingga 10 menit penuh dan memasang plester penekan khusus sebelum meninggalkan rumah pasien.
+  Jawab*: Pasien yang mengonsumsi obat pengencer darah rutin (seperti aspirin, clopidogrel, atau warfarin) membutuhkan waktu pembekuan yang lebih lama. Flebotomis kami akan menekan titik tusukan dengan kasa steril selama 5 hingga 10 menit penuh dan memasang plester penekan khusus sebelum meninggalkan rumah pasien.
 
 <h3>3. Seputar Ketentuan Puasa dan Minum Air</h3>
 <ul><li><strong>Tanya: Mengapa saya masih boleh minum air putih saat berpuasa untuk cek darah?</strong></li>
 </ul>
-  <em> </em>Jawab<em>: Air putih murni tidak mengandung kalori, karbohidrat, protein, maupun lemak, sehingga tidak akan memengaruhi kadar glukosa, insulin, ataupun profil kolesterol darah. Sebaliknya, mencukupi cairan dengan air putih sangat penting agar volume pembuluh darah tetap mengembang (</em>vasodilatasi*), sehingga pengambilan darah terasa cepat dan tidak sakit.
+  Jawab<em>: Air putih murni tidak mengandung kalori, karbohidrat, protein, maupun lemak, sehingga tidak akan memengaruhi kadar glukosa, insulin, ataupun profil kolesterol darah. Sebaliknya, mencukupi cairan dengan air putih sangat penting agar volume pembuluh darah tetap mengembang (</em>vasodilatasi*), sehingga pengambilan darah terasa cepat dan tidak sakit.
 <ul><li><strong>Tanya: Apa yang terjadi jika pasien tidak sengaja meminum kopi manis atau makan biskuit kecil saat puasa?</strong></li>
 </ul>
-  <em> </em>Jawab*: Gula dan karbohidrat sederhana akan diserap ke dalam darah dalam hitungan menit, menyebabkan lonjakan gula darah dan trigliserida palsu. Jika hal ini terjadi, jujurlah kepada flebotomis agar jadwal tes dapat digeser 2 jam ke depan atau dijadwalkan ulang keesokan paginya demi hasil yang valid.
+  Jawab*: Gula dan karbohidrat sederhana akan diserap ke dalam darah dalam hitungan menit, menyebabkan lonjakan gula darah dan trigliserida palsu. Jika hal ini terjadi, jujurlah kepada flebotomis agar jadwal tes dapat digeser 2 jam ke depan atau dijadwalkan ulang keesokan paginya demi hasil yang valid.
 
 <h3>4. Seputar Biaya dan Metode Pembayaran</h3>
 <ul><li><strong>Tanya: Apakah ada biaya tersembunyi seperti biaya jarum, biaya APD, atau biaya kirim hasil?</strong></li>
 </ul>
-  <em> </em>Jawab<em>: Tidak ada. Harga paket yang tertera di Joy of Care bersifat transparan dan </em>all-in*, mencakup biaya jarum suntik, tabung vakum, jasa analis kesehatan, biaya transportasi kedatangan ke rumah, dan pengiriman hasil digital via WhatsApp dan email.
+  Jawab<em>: Tidak ada. Harga paket yang tertera di Joy of Care bersifat transparan dan </em>all-in*, mencakup biaya jarum suntik, tabung vakum, jasa analis kesehatan, biaya transportasi kedatangan ke rumah, dan pengiriman hasil digital via WhatsApp dan email.
 <ul><li><strong>Tanya: Metode pembayaran apa saja yang diterima?</strong></li>
 </ul>
-  <em> </em>Jawab*: Pembayaran dapat dilakukan dengan sangat fleksibel melalui transfer bank, virtual account, kartu kredit, maupun QRIS setelah proses pemesanan terkonfirmasi.
+  Jawab*: Pembayaran dapat dilakukan dengan sangat fleksibel melalui transfer bank, virtual account, kartu kredit, maupun QRIS setelah proses pemesanan terkonfirmasi.
 
 ---
 

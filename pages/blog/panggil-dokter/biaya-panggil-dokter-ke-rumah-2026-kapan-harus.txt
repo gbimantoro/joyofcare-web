@@ -70,7 +70,7 @@ clinical_references:
 <h1>Kapan Harus Panggil Dokter ke Rumah? 5 Indikasi Klinis Tepat dan Protokol Evaluasi Medis di Rumah</h1>
 
 Bagi keluarga urban di kawasan metropolitan yang merawat orang tua lanjut usia, setiap episode sakit mendadak sering kali memicu kepanikan emosional dan finansial. Reaksi spontan keluarga umumnya adalah segera melarikan pasien ke Instalasi Gawat Darurat (IGD) rumah sakit rujukan. Namun, perjalanan fisik di tengah kemacetan lalu lintas, antrean triase faskes berjam-jam, serta biaya tindakan darurat rumah sakit kerap membebani fisik orang tua dan anggaran keluarga. Berdasarkan konsensus kedokteran geriatri, lebih dari 65% keluhan medis akut pada lansia—seperti demam, infeksi saluran kemih ringan, dispepsia berat, atau kontrol komorbiditas—dapat distabilkan secara tuntas dan aman langsung di tempat tidur pasien melalui [Layanan Panggil Dokter ke Rumah Joy of Care](/layanan/panggil-dokter). Panduan ini membedah analisis biaya komparatif, batasan klinis triase, serta alur penanganan medis terstandar di rumah.
-<blockquote>###  Penting dipahami</blockquote>
+<blockquote><div class="info-box"><h3>Penting dipahami</h3></blockquote>
 <blockquote>* <strong>Triase Medis Terarah</strong>: Membedakan indikasi kegawatdaruratan akut dengan kondisi klinis stabil yang aman ditangani di hunian.</blockquote>
 <blockquote>* <strong>Efisiensi Finansial Berkelanjutan</strong>: Mengurangi pengeluaran logistik transportasi darurat dan biaya administrasi faskes yang tidak perlu.</blockquote>
 <blockquote>* <strong>Kenyamanan Pasien Geriatri</strong>: Pemeriksaan diagnostik dan peresepan rasional di ranjang mencegah kelelahan fisik lansia.</blockquote>
@@ -84,7 +84,7 @@ Kunjungan dokter ke rumah (<em>home visit</em>) menjadi pilar penting kedokteran
 
 <h3>1. Protokol Triase Mandiri dan Skrining Klinis Awal</h3>
 Saat keluarga menghubungi layanan kedokteran homecare, dokter koordinator medis melakukan penilaian triase cepat melalui anamnesis terstruktur:
-<ul><li><em></em>Identifikasi Tanda Bahaya (<em>Red Flags</em>)<em></em>: Memastikan pasien tidak mengalami tanda kegawatdaruratan akut—seperti nyeri dada retrosternal menjalar ke lengan kiri, sesak napas berat dengan saturasi oksigen di bawah 90%, hemiparesis mendadak (gejala stroke), atau penurunan kesadaran delirium akut. Jika tanda bahaya teridentifikasi, keluarga segera diarahkan ke Instalasi Gawat Darurat (IGD) faskes terdekat.</li>
+<ul><li>Identifikasi Tanda Bahaya (<em>Red Flags</em>): Memastikan pasien tidak mengalami tanda kegawatdaruratan akut—seperti nyeri dada retrosternal menjalar ke lengan kiri, sesak napas berat dengan saturasi oksigen di bawah 90%, hemiparesis mendadak (gejala stroke), atau penurunan kesadaran delirium akut. Jika tanda bahaya teridentifikasi, keluarga segera diarahkan ke Instalasi Gawat Darurat (IGD) faskes terdekat.</li>
 <li><strong>Penentuan Indikasi Home Visit</strong>: Memverifikasi keluhan yang sesuai untuk penanganan di rumah, antara lain demam akut hari ke-1 hingga ke-3 tanpa tanda syok, infeksi saluran kemih pada lansia, dispepsia berat, gastroenteritis dehidrasi ringan-sedang, serta evaluasi polifarmasi berkala.</li>
 </ul>
 
@@ -92,7 +92,7 @@ Saat keluarga menghubungi layanan kedokteran homecare, dokter koordinator medis 
 Setibanya di kediaman, dokter umum berizin resmi Dinas Kesehatan menjalankan rangkaian diagnostik menyeluruh:
 <ul><li><strong>Pemeriksaan Tanda Vital Lengkap</strong>: Pengukuran tekanan darah auskultasi, laju pernapasan, laju denyut nadi radialis, suhu inti tubuh, dan saturasi oksigen perifer (SpO2).</li>
 <li><strong>Pemeriksaan Fisik Sistemik</strong>: Auskultasi suara napas paru (mendeteksi ronkhi atau wheezing), auskultasi bunyi jantung (S1, S2, gallop/murmur), palpasi abdomen (menilai nyeri tekan kuadran atau pembesaran organ), serta pemeriksaan refleks neurologis dasar.</li>
-<li><em></em>Pemeriksaan Penunjang Instan (<em>Point-of-Care Testing</em>)<em></em>: Pengambilan sampel darah kapiler cepat di tempat tidur untuk memeriksa glukosa sewaktu, asam urat, atau hemoglobin bila diindikasikan secara medis.</li>
+<li>Pemeriksaan Penunjang Instan (<em>Point-of-Care Testing</em>): Pengambilan sampel darah kapiler cepat di tempat tidur untuk memeriksa glukosa sewaktu, asam urat, atau hemoglobin bila diindikasikan secara medis.</li>
 </ul>
 
 <h3>3. Peresepan Obat Rasional dan Tindakan Prosedural di Rumah</h3>
@@ -123,7 +123,7 @@ Berikut adalah rincian perbandingan biaya riil antara penanganan di rumah bersam
 | <strong>Biaya Obat-obatan & BMHP</strong> | Margin harga farmasi instalasi rawat inap RS | <strong>Resep obat apotek resmi transparan & terjangkau</strong> |
 | <strong>Total Beban Pengeluaran</strong> | <strong>Total Biaya RS Sangat Tinggi</strong> | <strong>Penghematan Signifikan Lebih dari 60%</strong> |
 
-📲 Hubungi WhatsApp Resmi Joy of Care
+<a href="https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?">📲 Hubungi WhatsApp Resmi Joy of Care</a>
 | <strong>TOTAL UANG YANG BERHASIL DIHEMAT</strong> | — | <strong>MENGHEMAT RP 5.150.000 (80,4%)!</strong> |
 
 ---

@@ -69,7 +69,7 @@ clinical_references:
 
 Menjaga orang tua tetap sehat di usia senja merupakan prioritas utama setiap keluarga. Namun, keputusan untuk memberikan vaksinasi pada lansia kerap diwarnai oleh berbagai keraguan, mitos medis, serta kekhawatiran seputar efek samping, interaksi dengan obat-obatan rutin, hingga aspek keamanan penyuntikan di luar fasilitas rumah sakit. Melalui kompilasi FAQ komprehensif ini, tim dokter spesialis dan konsultan geriatri [Layanan Vaksinasi Lansia di Rumah Joy of Care](/layanan/vaksinasi-di-rumah) menjawab tuntas berbagai pertanyaan paling sering diajukan oleh keluarga di Jakarta. Pembahasan mencakup jenis vaksin wajib usia 60 tahun ke atas, penanganan Kejadian Ikutan Pasca-Imunisasi (KIPI), syarat kondisi klinis pasien, transparansi cold-chain, hingga prosedur pemesanan praktis melalui layanan homecare modern.
 
-<blockquote>###  Penting dipahami</blockquote>
+<blockquote><div class="info-box"><h3>Penting dipahami</h3></blockquote>
 <blockquote>* <strong>Keamanan Komorbid Terbukti</strong>: Penderita hipertensi, diabetes, jantung, dan ginjal kronis justru merupakan kelompok yang paling membutuhkan perlindungan vaksin.</blockquote>
 <blockquote>* <strong>Obat Rutin Tetap Diminum</strong>: Obat harian tidak perlu dan tidak boleh dihentikan saat akan menerima vaksinasi.</blockquote>
 <blockquote>* <strong>Vaksin Ganda Bersamaan Aman</strong>: Vaksin flu dan pneumonia dapat disuntikkan pada sesi yang sama di lengan yang berbeda secara efektif.</blockquote>

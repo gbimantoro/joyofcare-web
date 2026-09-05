@@ -64,7 +64,7 @@ clinical_references:
 
 Menjalani pemulihan pasca serangan stroke tidak hanya bergantung pada sesi terapi mingguan bersama fisioterapis, melainkan sangat ditentukan oleh konsistensi latihan mandiri setiap hari di rumah. Latihan teratur dengan repetisi tinggi membantu membangun kembali sinapsis saraf baru di otak. Artikel ini menguraikan panduan 6 gerakan fisioterapi mandiri yang aman, mudah dipraktikkan di tempat tidur dan kursi, serta tips keselamatan bagi keluarga pendamping di rumah.
 
-<blockquote>###  Penting dipahami</blockquote>
+<blockquote><div class="info-box"><h3>Penting dipahami</h3></blockquote>
 <blockquote>* <strong>Kunci Repetisi Tinggi</strong>: Otak membutuhkan ribuan pengulangan sinyal gerak terarah untuk mengaktifkan kembali sirkuit motorik yang terputus.</blockquote>
 <blockquote>* <strong>Keamanan Nomor Satu</strong>: Selalu pastikan lingkungan latihan bebas dari rintangan lantai licin dan dampingi pasien saat latihan keseimbangan berdiri.</blockquote>
 <blockquote>* <strong>Latihan Simetris Bilateral</strong>: Gunakan tangan dan kaki yang sehat untuk memandu dan membantu anggota gerak yang lemah.</blockquote>

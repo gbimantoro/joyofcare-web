@@ -73,11 +73,11 @@ clinical_references:
 
 Menghadapi situasi saat anggota keluarga terserang penyakit mendadak—seperti demam tinggi, migrain hebat, diare akut, atau kambuhnya penyakit kronis pada orang tua lanjut usia—sering kali membuat kita panik. Di kawasan penyangga ibu kota yang dinamis seperti Tangerang dan Tangerang Selatan, membawa pasien sakit menempuh kemacetan jalan arteri BSD, antre panjang di ruang tunggu instalasi gawat darurat (IGD), atau mencari kamar rawat inap sering kali justru memperburuk kondisi fisik pasien. [Layanan Panggil Dokter ke Rumah Joy of Care](/layanan/panggil-dokter) hadir sebagai solusi layanan kesehatan primer personal berkualitas rumah sakit langsung ke depan pintu hunian Anda. Didukung oleh jaringan dokter umum berizin resmi STR dan SIP aktif Dinkes Tangerang Selatan, kami menghadirkan pemeriksaan komprehensif, tindakan medis darurat non-kritis, peresepan obat resmi, hingga layanan rujukan laboratorium tanpa membuat pasien beranjak dari tempat tidur.
 
-<blockquote>###  Penting dipahami</blockquote>
+<blockquote><div class="info-box"><h3>Penting dipahami</h3></blockquote>
 <blockquote>* <strong>Cakupan Wilayah Komprehensif</strong>: Melayani BSD City, Gading Serpong, Alam Sutera, Bintaro Jaya, Lippo Karawaci, Ciputat, Pamulang, dan sekitarnya.</blockquote>
 <blockquote>* <strong>Respon Cepat 45–75 Menit</strong>: Berbasis operasional lokal di kawasan BSD Tangerang Selatan untuk kecepatan respon medis di rumah Anda.</blockquote>
 <blockquote>* <strong>Peralatan Medis Diagnostik Lengkap</strong>: Dokter dibekali stetoskop, tensimeter digital, pulse oximeter, glukometer darah instan, otoskop, dan perlengkapan minor surgery.</blockquote>
-<blockquote>* <strong>Transparansi Layanan Dokter</strong>: Biaya kunjungan dokter ke rumah dirancang terjangkau dan transparan all-in tanpa biaya tersembunyi yang memberatkan keluarga. 📲 Hubungi WhatsApp Resmi Joy of Care
+<blockquote>* <strong>Transparansi Layanan Dokter</strong>: Biaya kunjungan dokter ke rumah dirancang terjangkau dan transparan all-in tanpa biaya tersembunyi yang memberatkan keluarga. <a href="https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?">📲 Hubungi WhatsApp Resmi Joy of Care</a>
 
 ---
 
@@ -121,7 +121,7 @@ Berikut adalah tabel transparansi biaya visit dokter umum Joy of Care untuk wila
 | <strong>Kunjungan Dokter + Tindakan Khusus</strong> | Visit dokter + perawatan luka jahitan / debridement luka ringan | Paket Tindakan Klinis (Hubungi WA JoC) |
 | <strong>Paket Evaluasi Geriatri Komprehensif</strong> | Visit dokter + skrining kognitif geriatri + evaluasi polifarmasi obat | Paket Geriatri Lengkap (Hubungi WA JoC) |
 
-📲 Hubungi WhatsApp Resmi Joy of Care
+<a href="https://api.whatsapp.com/send/?phone=628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?">📲 Hubungi WhatsApp Resmi Joy of Care</a>
 
 <em>Catatan: Biaya sudah mencakup visit fee dokter ber-STR/SIP, transportasi ke rumah, pemakaian alat diagnostik standar, dan pembuatan surat rujukan medis bila diperlukan. Biaya obat resep farmasi dihitung terpisah sesuai kebutuhan terapi.</em>
 

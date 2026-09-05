@@ -69,7 +69,7 @@ clinical_references:
 <h1>Kapan Lansia Harus Mendapatkan Fisioterapi di Rumah? 5 Tanda Kritis dan Protokol Rehabilitasi Medik Geriatri</h1>
 
 Patah tulang panggul (<em>fraktur leher femur</em>) pada usia lanjut merupakan kegawatdaruratan ortopedi geriatri yang berdampak langsung terhadap kemandirian fisik pasien. Data klinis menunjukkan bahwa sebagian besar lansia yang mengalami patah panggul berisiko kehilangan mobilitas permanen jika program rehabilitasi fungsional pascaoperasi tidak dimulai tepat waktu. Periode 3 bulan pertama pasca-pembedahan merupakan jendela pemulihan (<em>golden window</em>) untuk mencegah pengecilan otot (<em>sarkopenia disuse</em>) dan kekakuan sendi. Melalui panduan berbasis bukti [Layanan Fisioterapi Lansia di Rumah Joy of Care](/layanan/fisioterapi), artikel ini membedah tahapan rehabilitasi geriatri terpadu, manajemen nyeri non-farmakologis, serta protokol latihan mobilitas bertahap guna mengembalikan fungsi berjalan mandiri di rumah.
-<blockquote>###  Penting dipahami</blockquote>
+<blockquote><div class="info-box"><h3>Penting dipahami</h3></blockquote>
 <blockquote>* <strong>Urgensi Rehabilitasi Dini</strong>: Memulai mobilisasi terukur sejak minggu pertama pascaoperasi memangkas risiko komplikasi imobilitas tirah baring.</blockquote>
 <blockquote>* <strong>Modalitas Manajemen Nyeri</strong>: Kombinasi stimulasi elektrik TENS dan termoterapi meredakan peradangan jaringan di sekitar implan ortopedi.</blockquote>
 <blockquote><em> <strong>Re-edukasi Pola Jalan Bertahap</strong>: Transisi terarah dari latihan ranjang ke alat bantu jalan (</em>walker*) memulihkan kepercayaan diri dan pola langkah alami.</blockquote>
@@ -97,14 +97,14 @@ Intervensi berfokus pada pencegahan komplikasi imobilitas sekunder:
 
 <h3>3. Fase Re-edukasi Postur dan Berdiri Tegak (Minggu ke-3 hingga ke-6)</h3>
 Fisioterapi ditingkatkan ke arah penopangan berat badan bertahap:
-<ul><li><em></em>Latihan Duduk di Tepi Kasur (<em>Dangling</em>)<em></em>: Melatih adaptasi refleks baroreseptor vaskular agar pasien tidak pusing saat bertransisi dari posisi berbaring ke posisi tegak.</li>
+<ul><li>Latihan Duduk di Tepi Kasur (<em>Dangling</em>): Melatih adaptasi refleks baroreseptor vaskular agar pasien tidak pusing saat bertransisi dari posisi berbaring ke posisi tegak.</li>
 <li><strong>Latihan Transfer Mandiri ke Kursi</strong>: Mengajarkan biomekanika aman menggeser tubuh ke kursi roda atau commode chair tanpa membebani persendian lutut secara asimetris.</li>
-<li><em></em>Latihan Berdiri dengan Penopang (<em>Supported Standing</em>)<em></em>: Pasien dipandu berdiri menggunakan walker beroda dengan penopang lengan empuk, dipasangi sabuk pengaman fisioterapi (<em>gait belt</em>) untuk memastikan perlindungan total dari bahaya kehilangan keseimbangan.</li>
+<li>Latihan Berdiri dengan Penopang (<em>Supported Standing</em>): Pasien dipandu berdiri menggunakan walker beroda dengan penopang lengan empuk, dipasangi sabuk pengaman fisioterapi (<em>gait belt</em>) untuk memastikan perlindungan total dari bahaya kehilangan keseimbangan.</li>
 </ul>
 
 <h3>4. Fase Pelatihan Pola Berjalan dan Keseimbangan Mandiri (Minggu ke-7 hingga ke-12)</h3>
 Pencapaian akhir diarahkan pada kemandirian gerak di lingkungan hunian:
-<ul><li><em></em>Pelatihan Pola Langkah Fisiologis (<em>Gait Re-education</em>)<em></em>: Mengoreksi langkah menyeret (<em>shuffling gait</em>) menjadi pola langkah normal bertahap tumit-telapak-ujung jari (<em>heel-strike to toe-off</em>).</li>
+<ul><li>Pelatihan Pola Langkah Fisiologis (<em>Gait Re-education</em>): Mengoreksi langkah menyeret (<em>shuffling gait</em>) menjadi pola langkah normal bertahap tumit-telapak-ujung jari (<em>heel-strike to toe-off</em>).</li>
 <li><strong>Latihan Rintangan Domestik</strong>: Melatih pasien melangkah melewati perbedaan elevasi ubin, berbelok di koridor sempit, serta berjalan menuju kamar mandi dengan rasa percaya diri penuh.</li>
 <li><strong>Edukasi Program Latihan Mandiri Keluarga</strong>: Fisioterapis melatih anggota keluarga atau perawat pendamping mengenai gerakan peregangan dan penguatan ringan yang aman dilakukan pada hari jeda terapi.</li>
 </ul>

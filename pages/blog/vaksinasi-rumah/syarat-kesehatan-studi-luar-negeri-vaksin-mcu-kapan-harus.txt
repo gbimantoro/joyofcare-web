@@ -66,7 +66,7 @@ clinical_references:
 
 Menempuh studi ke benua kangguru, Australia, merupakan impian besar bagi ribuan pemuda Indonesia setiap tahunnya. Namun, proses pengajuan Visa Pelajar Australia (<em>Student Visa Subclass 500</em>) terkenal dengan standar verifikasi kesehatan elektronik (<em>eMedical system</em>) yang sangat ketat dan tanpa kompromi. Banyak calon mahasiswa yang mengalami penundaan visa berminggu-minggu—bahkan berbulan-bulan hingga melewati batas awal perkuliahan—hanya karena masalah medis sepele yang tidak terdeteksi sebelumnya: seperti hasil tes urin yang menunjukkan hematuria samar akibat kurang minum, atau tekanan darah melonjak tinggi karena rasa cemas berlebih saat berhadapan dengan dokter panel imigrasi. Melalui program pendampingan pra-keberangkatan dari [Layanan Cek Lab Darah di Rumah Joy of Care](/layanan/cek-lab-di-rumah) dan [Layanan Vaksinasi di Rumah](/layanan/vaksinasi-di-rumah), calon mahasiswa dapat mengidentifikasi dan menstabilkan seluruh parameter kesehatan mereka terlebih dahulu dari kediaman sendiri di Jakarta. Artikel ini mengupas peta tahapan sistem HAP ID, protokol penapisan laboratorium awal, serta kiat medis menghindari penundaan berkas di klinik panel imigrasi kedutaan.
 
-<blockquote>###  Penting dipahami</blockquote>
+<blockquote><div class="info-box"><h3>Penting dipahami</h3></blockquote>
 <blockquote>* <strong>Keuntungan Pra-Skrining Rumah (Pre-MCU)</strong>: Mendeteksi kelainan urin atau infeksi ringan sebelum data permanen dicatat di sistem eMedical kedutaan.</blockquote>
 <blockquote>* <strong>Navigasi Sistem HAP ID</strong>: Pahami alur penerbitan referral letter eMedical dari akun ImmiAccount sebelum memesan janji temu faskes panel.</blockquote>
 <blockquote>* <strong>Kiat Hidrasi Sebelum Uji Urin</strong>: Minum 1,5 liter air putih pada pagi hari sebelum pemeriksaan mencegah hasil positif palsu hematuria/proteinuria.</blockquote>
@@ -87,7 +87,7 @@ Perencanaan medis harus diselaraskan dengan tahapan penerbitan dokumen universit
 
 <h3>2. Protokol Pemeriksaan Panel Physician eMedical</h3>
 Pemeriksaan kesehatan visa pelajar luar negeri dijalankan sesuai protokol kedutaan:
-<ul><li><em></em>Foto Rontgen Toraks Digital (<em>Chest X-Ray</em>)<em></em>: Skrining utama penyakit tuberkulosis paru aktif; jika ditemukan gambaran infiltrat atau jaringan parut lama (<em>fibrosis</em>), dokter panel akan merekomendasikan pemeriksaan sputum BTA 3 hari berturut-turut atau kultur dahak.</li>
+<ul><li>Foto Rontgen Toraks Digital (<em>Chest X-Ray</em>): Skrining utama penyakit tuberkulosis paru aktif; jika ditemukan gambaran infiltrat atau jaringan parut lama (<em>fibrosis</em>), dokter panel akan merekomendasikan pemeriksaan sputum BTA 3 hari berturut-turut atau kultur dahak.</li>
 <li><strong>Pemeriksaan Fisik Umum dan Penglihatan</strong>: Menilai tekanan darah, status indeks massa tubuh (IMT), pemeriksaan visus mata dengan snellen chart, serta auskultasi paru dan jantung menyeluruh.</li>
 <li><strong>Pemeriksaan Urin Lengkap</strong>: Mendeteksi adanya hematuria mikroskopik atau proteinuria yang menandakan penyakit ginjal atau infeksi saluran kemih tak bergejala.</li>
 </ul>
@@ -102,7 +102,7 @@ Memastikan status kekebalan tubuh mahasiswa diakui secara internasional:
 
 <h3>4. Legalisasi Dokumen dan Sertifikat Vaksinasi Internasional</h3>
 Penyusunan berkas rekam medis yang valid untuk proses imigrasi:
-<ul><li><em></em>Buku Sertifikat Vaksinasi Internasional (<em>ICVP / Yellow Book</em>)<em></em>: Dokter berizin menerbitkan buku kuning berstempel resmi untuk vaksinasi yang dipersyaratkan oleh regulasi kesehatan internasional WHO.</li>
+<ul><li>Buku Sertifikat Vaksinasi Internasional (<em>ICVP / Yellow Book</em>): Dokter berizin menerbitkan buku kuning berstempel resmi untuk vaksinasi yang dipersyaratkan oleh regulasi kesehatan internasional WHO.</li>
 <li><strong>Penerjemahan Medis Bahasa Inggris</strong>: Seluruh resume medis kronis, riwayat alergi obat berat, dan daftar obat resep rutin diterjemahkan secara profesional ke dalam bahasa Inggris disertai tanda tangan dokter penanggung jawab klinis berizin resmi.</li>
 </ul>
 

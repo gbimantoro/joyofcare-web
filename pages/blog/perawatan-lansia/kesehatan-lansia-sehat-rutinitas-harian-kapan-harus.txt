@@ -63,7 +63,7 @@ clinical_references:
 
 Bagi banyak anak yang sudah beranjak dewasa dan berkeluarga di kawasan metropolitan Jakarta, mengamati proses penuaan orang tua sering kali menimbulkan pergulatan batin yang rumit. Di satu sisi, keluarga ingin menghormati privasi dan kemandirian orang tua yang terbiasa hidup mandiri. Namun di sisi lain, tanda-tanda kelemahan fisik, lupa mematikan kompor gas, kesulitan mandi sendiri, atau obat resep dokter yang menumpuk tak terminum menjadi alarm bahaya yang tidak boleh diabaikan. Melalui instrumen klinis <em>Activities of Daily Living</em> (ADL) yang diterapkan oleh dokter [Layanan Panggil Dokter ke Rumah Jakarta](/layanan/panggil-dokter) Joy of Care, keluarga dapat mengenali secara objektif saat yang tepat untuk menghadirkan bantuan pendampingan profesional. Artikel ini membahas tanda-tanda penurunan fungsi fisik orang tua, metodologi penilaian geriatri, serta alur pemulihan terpadu dan protokol pemantauan klinis lansia di rumah.
 
-<blockquote>###  Penting dipahami</blockquote>
+<blockquote><div class="info-box"><h3>Penting dipahami</h3></blockquote>
 <blockquote>* <strong>Tanda Penurunan Kemandirian (ADL)</strong>: Kesulitan memakai baju, mandi tidak bersih, inkontinensia urin, atau lupa jadwal minum obat harian.</blockquote>
 <blockquote>* <strong>Pencegahan Risiko Kritis di Rumah</strong>: Pendampingan perawat mengeliminasi risiko jatuh di kamar mandi, keracunan overdosis obat, dan malnutrisi kronis.</blockquote>
 <blockquote>* <strong>Pendekatan Komunikasi Empatik</strong>: Memperkenalkan pendamping sebagai "asisten kebugaran" menjaga martabat dan rasa hormat orang tua.</blockquote>
@@ -115,9 +115,9 @@ Penurunan kualitas hidup pada orang tua lanjut usia sering kali bermula dari per
 
 <h3>1. Identifikasi Tanda Awal Penurunan Kapasitas Fungsional</h3>
 Intervensi dini wajib diinisiasi saat orang tua menunjukkan gejala kemunduran perilaku:
-<ul><li><em></em>Penurunan Berat Badan Tanpa Sebab Jelas (<em>Involuntary Weight Loss</em>)<em></em>: Kehilangan lebih dari 5% berat badan dalam kurun waktu 6 bulan akibat penurunan asupan nutrisi protein kalori (<em>malnutrisi geriatri</em>).</li>
-<li><em></em>Perubahan Siklus Tidur-Bangun (<em>Circadian Rhythm Disruption</em>)<em></em>: Lansia tidur berulang kali di siang hari namun mengalami insomnia atau kebingungan gelisah di malam hari (<em>sundowning phenomenon</em>).</li>
-<li><em></em>Ketakutan Berlebih Akan Jatuh (<em>Fear of Falling / FOF</em>)<em></em>: Pasien menolak melangkah keluar kamar atau membatasi aktivitas fisik ringan karena merasa tubuhnya goyah dan tidak percaya diri.</li>
+<ul><li>Penurunan Berat Badan Tanpa Sebab Jelas (<em>Involuntary Weight Loss</em>): Kehilangan lebih dari 5% berat badan dalam kurun waktu 6 bulan akibat penurunan asupan nutrisi protein kalori (<em>malnutrisi geriatri</em>).</li>
+<li>Perubahan Siklus Tidur-Bangun (<em>Circadian Rhythm Disruption</em>): Lansia tidur berulang kali di siang hari namun mengalami insomnia atau kebingungan gelisah di malam hari (<em>sundowning phenomenon</em>).</li>
+<li>Ketakutan Berlebih Akan Jatuh (<em>Fear of Falling / FOF</em>): Pasien menolak melangkah keluar kamar atau membatasi aktivitas fisik ringan karena merasa tubuhnya goyah dan tidak percaya diri.</li>
 </ul>
 
 <h3>2. Protokol Sinkronisasi Ritme Sirkadian Pagi Hari</h3>

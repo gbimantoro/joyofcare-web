@@ -114,7 +114,7 @@ Larang orang tua mengenakan sandal selop kain licin atau berjalan hanya dengan k
 <h2>Audit Keselamatan Rumah (Home Safety Checklist) & Alat Bantu Jalan yang Tepat</h2>
 
 Sebagian besar insiden jatuh pada lansia terjadi di dua area utama: kamar mandi dan rute antara tempat tidur menuju toilet di malam hari. Terapkan audit keselamatan berkala:
-<ul><li><em></em>Penerangan Malam Hari (<em>Night Lights</em>)<em></em>: Pasang lampu tidur sensor gerak di sepanjang lorong menuju kamar mandi agar lansia yang terbangun untuk buang air kecil tidak tersandung dalam kegelapan.</li>
+<ul><li>Penerangan Malam Hari (<em>Night Lights</em>): Pasang lampu tidur sensor gerak di sepanjang lorong menuju kamar mandi agar lansia yang terbangun untuk buang air kecil tidak tersandung dalam kegelapan.</li>
 <li><strong>Ketinggian Ranjang dan Kursi Ergonomis</strong>: Pastikan saat lansia duduk di tepi tempat tidur, kedua telapak kaki menapak rata di lantai dengan sudut lutut 90 derajat. Ranjang yang terlalu tinggi membuat lansia terpeleset saat turun, sedangkan ranjang terlalu rendah menyulitkan lansia berdiri.</li>
 <li><strong>Pemilihan dan Kalibrasi Alat Bantu Jalan</strong>: Sesuaikan tinggi tongkat atau walker dengan lipatan pergelangan tangan (<em>wrist crease</em>) lansia saat berdiri tegak.</li>
 </ul>

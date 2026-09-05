@@ -68,8 +68,8 @@ clinical_references:
 <h1>Kapan Orang Tua Harus Didampingi Perawat Lansia di Jabodetabek? 5 Indikasi Klinis dan Protokol Asuhan Geriatri di Rumah</h1>
 
 Menghadapi kenyataan bahwa orang tua membutuhkan bantuan untuk aktivitas dasar harian—seperti makan, mandi, atau berpindah posisi tidur—merupakan fase transisi penting bagi setiap keluarga. Di kawasan metropolitan dengan tuntutan kesibukan kerja yang tinggi, mengelola perawatan pasien geriatri dengan komorbiditas kompleks pascastroke atau penyakit degeneratif menuntut ketelitian medis dan ketelatenan prima. Mengambil keputusan untuk menghadirkan [Layanan Perawat Lansia Homecare Joy of Care](/layanan/perawat-homecare) merupakan langkah bijak demi menjamin keselamatan, higienitas, dan martabat orang tua di hunian sendiri. Artikel ini membedah tanda-tanda kritis kebutuhan perawat berlisensi, etika pelayanan keperawatan rumah, serta alur manajemen klinis geriatri terpadu.
-<blockquote>###  Penting dipahami</blockquote>
-<blockquote><em> </em><em>Tanda Kelelahan Pendamping (</em>Caregiver Burnout<em>)</em>*: Kelelahan kronis keluarga yang merawat sendiri rentan menurunkan mutu perawatan dan meningkatkan risiko cedera pasien.</blockquote>
+<blockquote><div class="info-box"><h3>Penting dipahami</h3></blockquote>
+<blockquote><em>Tanda Kelelahan Pendamping (</em>Caregiver Burnout<em>)</em>*: Kelelahan kronis keluarga yang merawat sendiri rentan menurunkan mutu perawatan dan meningkatkan risiko cedera pasien.</blockquote>
 <blockquote>* <strong>Keahlian Prosedur Medis Steril</strong>: Perawat berizin memastikan perawatan kateter, selang nasogastrik, dan medikasi obat berjalan dengan presisi farmakologis.</blockquote>
 <blockquote>* <strong>Pencegahan Komplikasi Tirah Baring</strong>: Protokol pembalikan posisi tubuh berkala dan kebersihan personal mencegah luka tekan dekubitus dan infeksi saluran napas.</blockquote>
 <blockquote>* <strong>Kualitas Hidup Berkelanjutan</strong>: Sinergi tenaga kesehatan profesional dan kehangatan keluarga menghadirkan pemulihan fisik yang bermartabat bagi lansia.</blockquote>
@@ -83,7 +83,7 @@ Wilayah aglomerasi Jabodetabek (Jakarta, Bogor, Depok, Tangerang, Bekasi) menunt
 <h3>1. Indikasi Klinis Keharusan Menghadirkan Tenaga Perawat Terstandar</h3>
 Keluarga harus segera mengambil keputusan mendatangkan perawat medis saat kondisi berikut muncul:
 <ul><li><strong>Ketergantungan Total Pasca-Rawat Inap Rumah Sakit</strong>: Pasien dipulangkan dari ruang rawat dengan infus cairan pemulihan, selang NGT, kateter urin menetap, atau luka bedah pasca-operasi penggantian panggul (<em>THR/TKR</em>).</li>
-<li><em></em>Demensia Berat dengan Gangguan Perilaku (<em>BPSD</em>)<em></em>: Pasien mengalami halusinasi, disorientasi waktu dan tempat, kecenderungan keluyuran ke luar rumah tanpa sadar (<em>wandering</em>), atau menolak makan dan minum obat rutin.</li>
+<li>Demensia Berat dengan Gangguan Perilaku (<em>BPSD</em>): Pasien mengalami halusinasi, disorientasi waktu dan tempat, kecenderungan keluyuran ke luar rumah tanpa sadar (<em>wandering</em>), atau menolak makan dan minum obat rutin.</li>
 <li><strong>Risiko Malnutrisi dan Dehidrasi Kronis</strong>: Orang tua mengalami kesulitan menelan (<em>disfagia</em>) berat sehingga membutuhkan asupan nutrisi enteral terukur dengan perhitungan kalori ketat.</li>
 </ul>
 
@@ -91,14 +91,14 @@ Keluarga harus segera mengambil keputusan mendatangkan perawat medis saat kondis
 Joy of Care menerapkan standar verifikasi tenaga kesehatan yang transparan:
 <ul><li><strong>Legalitas STR dan Sertifikasi Keahlian</strong>: Memastikan perawat memiliki Surat Tanda Registrasi (STR) aktif dari Konsil Tenaga Kesehatan Indonesia, ijazah resmi D3/S1 Keperawatan, sertifikat Bantuan Hidup Dasar (<em>BLS / Basic Life Support</em>), serta sertifikasi perawatan luka modern (<em>CWCCA</em>).</li>
 <li><strong>Pemeriksaan Latar Belakang Mendalam</strong>: Meliputi verifikasi catatan kepolisian (SKCK), tes kesehatan fisik bebas hepatitis dan tuberkulosis, serta penelusuran rekam jejak etika profesional.</li>
-<li><em></em>Penyusunan Rencana Asuhan Keperawatan Individual (<em>Individual Care Plan</em>)<em></em>: Dokter penanggung jawab klinis Joy of Care merumuskan panduan kerja tertulis bagi perawat yang mencakup jadwal tindakan, target tanda vital, dan batas toleransi perubahan klinis pasien.</li>
+<li>Penyusunan Rencana Asuhan Keperawatan Individual (<em>Individual Care Plan</em>): Dokter penanggung jawab klinis Joy of Care merumuskan panduan kerja tertulis bagi perawat yang mencakup jadwal tindakan, target tanda vital, dan batas toleransi perubahan klinis pasien.</li>
 </ul>
 
 <h3>3. Protokol Tindakan Asuhan Harian di Hunian Pasien</h3>
 Perawat menjalankan rangkaian intervensi terjadwal sepanjang jam kerja (shift 12 jam atau menginap 24 jam):
 <ul><li><strong>Manajemen Suplementasi Nutrisi Enteral</strong>: Memberikan nutrisi cair formula klinis via selang NGT dengan posisi kepala tegak 45–60 derajat, memeriksa residu lambung sebelum makan, dan membilas selang dengan air matang steril.</li>
 <li><strong>Higienitas Komprehensif di Tempat Tidur</strong>: Memandikan pasien dengan waslap lembut hangat, perawatan rongga mulut (<em>oral hygiene</em>) menggunakan antiseptik klorheksidin untuk mencegah pneumonia aspirasi, serta penggantian popok dewasa secara aseptik.</li>
-<li><em></em>Latihan Gerak Pasif Sendi (<em>Passive Range of Motion</em>)<em></em>: Menggerakkan persendian bahu, siku, lutut, dan pergelangan kaki dua kali sehari untuk mencegah kekakuan sendi dan merangsang sirkulasi cairan limfatik.</li>
+<li>Latihan Gerak Pasif Sendi (<em>Passive Range of Motion</em>): Menggerakkan persendian bahu, siku, lutut, dan pergelangan kaki dua kali sehari untuk mencegah kekakuan sendi dan merangsang sirkulasi cairan limfatik.</li>
 </ul>
 
 <h3>4. Komunikasi Digital Terbuka dan Laporan Klinis Harian</h3>
@@ -124,7 +124,7 @@ Keluarga mendapatkan kepastian dan ketenangan pikiran melalui pelaporan digital:
 Evaluasi klinis membuktikan bahwa menunda perawatan profesional hingga timbul komplikasi dekubitus atau cedera fisik pendamping adalah kekeliruan berisiko tinggi. Hubungi perawat profesional jika:
 <ul><li><strong>Pasien Baru Pulang dari Rawat Inap Rumah Sakit</strong> dengan selang NGT, kateter urin, atau luka pascaoperasi yang membutuhkan perawatan steril.</li>
 <li><strong>Keluarga Mulai Merasa Cemas Berlebihan Setiap Pulang ke Rumah</strong>, diliputi rasa takut melihat kondisi orang tua memburuk tanpa daya.</li>
-<li><em></em>Terjadi Insiden Jatuh atau Hampir Jatuh (<em>Near Miss</em>)<em></em> di area kamar tidur atau kamar mandi lebih dari satu kali.</li>
+<li>Terjadi Insiden Jatuh atau Hampir Jatuh (<em>Near Miss</em>) di area kamar tidur atau kamar mandi lebih dari satu kali.</li>
 <li><strong>Hubungan Antar-Anggota Keluarga Mulai Menegang</strong> akibat perdebatan mengenai siapa yang harus begadang atau membersihkan kotoran orang tua.</li>
 </ul>
 

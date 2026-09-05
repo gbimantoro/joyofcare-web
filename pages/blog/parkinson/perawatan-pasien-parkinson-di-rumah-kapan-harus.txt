@@ -67,10 +67,10 @@ clinical_references:
 <h1>Kapan Pasien Penyakit Parkinson Harus Mendapatkan Perawatan Medis di Rumah? 5 Tanda Progresivitas dan Protokol Tata Laksana</h1>
 
 Bagi penderita penyakit Parkinson, diagnosis kelainan neurodegeneratif progresif sering kali membawa dampak besar terhadap kemandirian fisik dan stabilitas emosional. Kekakuan otot (<em>rigiditas</em>), perlambatan gerakan (<em>bradikinesia</em>), gemetar istirahat (<em>resting tremor</em>), dan episode kaki membeku di tempat (<em>freezing of gait</em>) menimbulkan ketakutan tinggi akan insiden jatuh. Kendati demikian, dengan pendekatan tata laksana rehabilitasi medis terstruktur, sinkronisasi waktu konsumsi obat, dan stimulasi sensorik lingkungan, pasien Parkinson dapat mempertahankan kemandirian mobilitas secara optimal. Didukung oleh [Layanan Fisioterapi Parkinson di Rumah Joy of Care](/layanan/fisioterapi), panduan ini mengupas tuntas protokol terapi gerak, modifikasi spasial rumah, dan strategi menghadapi fluktuasi motorik harian.
-<blockquote>###  Penting dipahami</blockquote>
+<blockquote><div class="info-box"><h3>Penting dipahami</h3></blockquote>
 <blockquote>* <strong>Siklus Ketakutan Berjalan</strong>: Hambatan motorik yang tidak ditangani memicu keengganan beraktivitas, mempercepat atrofi otot dan kekakuan sendi.</blockquote>
 <blockquote>* <strong>Sinkronisasi Waktu Latihan dengan Periode On</strong>: Fisioterapi dilakukan saat obat dopaminergik bekerja optimal di sistem saraf untuk pembentukan memori motorik terbaik.</blockquote>
-<blockquote><em> </em><em>Stimulasi Isyarat Sensorik (</em>Sensory Cueing<em>)</em><em>: Pemanfaatan garis visual kontras di lantai dan irama auditori membantu otak mengatasi episode kaki membeku (</em>freezing*).</blockquote>
+<blockquote><em>Stimulasi Isyarat Sensorik (</em>Sensory Cueing<em>)</em><em>: Pemanfaatan garis visual kontras di lantai dan irama auditori membantu otak mengatasi episode kaki membeku (</em>freezing*).</blockquote>
 <blockquote>* <strong>Pemulihan Pola Gerak Stabil</strong>: Latihan keseimbangan dan peregangan postural rutin menurunkan risiko jatuh dan memulihkan rasa percaya diri pasien.</blockquote>
 
 ---
@@ -81,30 +81,30 @@ Penyakit Parkinson merupakan kelainan neurodegeneratif progresif yang ditandai d
 
 <h3>1. Indikator Klinis Perlunya Pendampingan Medis Khusus</h3>
 Keluarga disarankan mengintegrasikan layanan homecare saat pasien memasuki tahapan berikut:
-<ul><li><em></em>Munculnya Fluktuasi Motorik (<em>On-Off Phenomenon</em>)<em></em>: Respons terhadap obat Levodopa mulai memendek; pasien dapat mendadak mengalami kekakuan ekstrem (<em>fase off</em>) sebelum jadwal obat berikutnya tiba.</li>
-<li><em></em>Episode Pembekuan Langkah (<em>Freezing of Gait / FOG</em>)<em></em>: Sensasi mendadak kaki menempel erat di lantai seperti terpaku saat hendak melangkah melalui pintu, berbelok di koridor, atau mendekati kursi.</li>
-<li><em></em>Gangguan Menelan (<em>Disfagia</em>) dan Bicara (<em>Hipofonia</em>)<em></em>: Suara pasien melemah menjadi bisikan datar, batuk atau tersedak berulang saat minum air, serta air liur menetes (<em>drooling</em>) akibat melambatnya refleks menelan otomatis.</li>
-<li><em></em>Komplikasi Jatuh Berulang (<em>Recurrent Falls</em>)<em></em>: Postur tubuh semakin bungkuk ke depan (<em>camptocormia</em>) disertai langkah kecil yang semakin cepat tak terkendali (<em>festinating gait</em>).</li>
+<ul><li>Munculnya Fluktuasi Motorik (<em>On-Off Phenomenon</em>): Respons terhadap obat Levodopa mulai memendek; pasien dapat mendadak mengalami kekakuan ekstrem (<em>fase off</em>) sebelum jadwal obat berikutnya tiba.</li>
+<li>Episode Pembekuan Langkah (<em>Freezing of Gait / FOG</em>): Sensasi mendadak kaki menempel erat di lantai seperti terpaku saat hendak melangkah melalui pintu, berbelok di koridor, atau mendekati kursi.</li>
+<li>Gangguan Menelan (<em>Disfagia</em>) dan Bicara (<em>Hipofonia</em>): Suara pasien melemah menjadi bisikan datar, batuk atau tersedak berulang saat minum air, serta air liur menetes (<em>drooling</em>) akibat melambatnya refleks menelan otomatis.</li>
+<li>Komplikasi Jatuh Berulang (<em>Recurrent Falls</em>): Postur tubuh semakin bungkuk ke depan (<em>camptocormia</em>) disertai langkah kecil yang semakin cepat tak terkendali (<em>festinating gait</em>).</li>
 </ul>
 
 <h3>2. Protokol Kronoterapi dan Manajemen Diet Obat Levodopa</h3>
 Efektivitas obat Levodopa sangat dipengaruhi oleh waktu konsumsi dan interaksi zat gizi:
-<ul><li><em></em>Penjadwalan Dosis Tepat Waktu (<em>Clockwork Precision</em>)<em></em>: Obat kombinasi Levodopa/Carbidopa harus diminum tepat pada jam yang ditentukan tanpa keterlambatan, menjaga konsentrasi terapeutik dopamin di otak tetap stabil.</li>
+<ul><li>Penjadwalan Dosis Tepat Waktu (<em>Clockwork Precision</em>): Obat kombinasi Levodopa/Carbidopa harus diminum tepat pada jam yang ditentukan tanpa keterlambatan, menjaga konsentrasi terapeutik dopamin di otak tetap stabil.</li>
 <li><strong>Pemisahan Asupan Protein Diet</strong>: Asam amino netral dari makanan berprotein tinggi (daging, susu, telur) bersaing langsung dengan molekul Levodopa dalam menembus sawar darah-otak (<em>blood-brain barrier</em>). Tim medis menjadwalkan konsumsi obat 30–60 menit sebelum makan atau 2 jam setelah makan untuk memaksimalkan penyerapan obat.</li>
 <li><strong>Hidrasi Pencernaan Mencegah Konstipasi</strong>: Mengatasi kelambatan peristaltik usus (<em>gastroparesis</em>) melalui asupan air hangat dan serat larut, memastikan tablet obat tidak tertahan di lambung.</li>
 </ul>
 
 <h3>3. Protokol Fisioterapi Neurorehabilitasi Amplitudo Besar (<em>LSVT BIG</em>)</h3>
 Latihan fisik khusus untuk mengatasi kecenderungan penyusutan skala gerakan:
-<ul><li><em></em>Latihan Langkah Berskala Besar (<em>High-Amplitude Stepping</em>)<em></em>: Fisioterapis melatih pasien mengangkat lutut tinggi dan mengayunkan kaki dengan langkah panjang terencana, didukung stimulus garis lantai (<em>visual cueing</em>) berwarna kontras di kediaman.</li>
-<li><em></em>Latihan Irama Auditori (<em>Auditory Rhythmic Pacing</em>)<em></em>: Menggunakan ketukan metronom berirama stabil untuk membantu sirkuit premotorik otak pasien menyinkronkan kembali irama melangkah tanpa hambatan.</li>
+<ul><li>Latihan Langkah Berskala Besar (<em>High-Amplitude Stepping</em>): Fisioterapis melatih pasien mengangkat lutut tinggi dan mengayunkan kaki dengan langkah panjang terencana, didukung stimulus garis lantai (<em>visual cueing</em>) berwarna kontras di kediaman.</li>
+<li>Latihan Irama Auditori (<em>Auditory Rhythmic Pacing</em>): Menggunakan ketukan metronom berirama stabil untuk membantu sirkuit premotorik otak pasien menyinkronkan kembali irama melangkah tanpa hambatan.</li>
 <li><strong>Ekstensi Aksial Tulang Belakang</strong>: Melatih peregangan otot dada dan ekstensi vertebra untuk melawan deformitas postur membungkuk ke depan.</li>
 </ul>
 
 <h3>4. Terapi Wicara dan Latihan Otot Menelan (<em>Dysphagia Management</em>)</h3>
 Mencegah risiko komplikasi pneumonia aspirasi akibat gangguan menelan:
-<ul><li><em></em>Latihan Vokal Intensitas Tinggi (<em>LSVT LOUD</em>)<em></em>: Melatih pasien berbicara lantang dan bernapas diafragma dalam guna memperbaiki kekuatan adduksi pita suara dan kejelasan artikulasi.</li>
-<li><em></em>Manuver Menelan Terproteksi (<em>Chin-Tuck Maneuver</em>)<em></em>: Mengajarkan posisi menundukkan dagu saat menelan air atau makanan bertekstur lunak, melindungi pembukaan laring agar bolus makanan masuk ke esofagus dan tidak terhirup ke trakea.</li>
+<ul><li>Latihan Vokal Intensitas Tinggi (<em>LSVT LOUD</em>): Melatih pasien berbicara lantang dan bernapas diafragma dalam guna memperbaiki kekuatan adduksi pita suara dan kejelasan artikulasi.</li>
+<li>Manuver Menelan Terproteksi (<em>Chin-Tuck Maneuver</em>): Mengajarkan posisi menundukkan dagu saat menelan air atau makanan bertekstur lunak, melindungi pembukaan laring agar bolus makanan masuk ke esofagus dan tidak terhirup ke trakea.</li>
 </ul>
 
 <h2>Tabel Evaluasi Parameter Fungsional Pasien Sebelum vs Sesudah Perawatan Joy of Care</h2>

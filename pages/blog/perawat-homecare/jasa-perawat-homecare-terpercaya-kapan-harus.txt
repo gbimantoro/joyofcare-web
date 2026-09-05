@@ -67,7 +67,7 @@ clinical_references:
 <h1>Kapan Keluarga Harus Menghadirkan Perawat Homecare Terpercaya di Rumah? Tanda Kritis dan Protokol Asuhan Keperawatan</h1>
 
 Merawat orang tua dengan ketergantungan fisik tinggi pascaperawatan di rumah sakit merupakan fase penuh tantangan bagi keluarga perkotaan. Ketika dokter menyatakan pasien siap dipulangkan namun masih membutuhkan perawatan luka pascaoperasi, penggantian selang kateter atau NGT, serta bantuan penuh dalam aktivitas dasar sehari-hari, keluarga membutuhkan pendampingan medis yang profesional dan dapat dipercaya. Bermitra dengan tenaga keperawatan berlisensi melalui [Layanan Perawat Homecare Medis Joy of Care](/layanan/perawat-homecare) menjamin standar perawatan klinis rumah sakit tetap berjalan prima di lingkungan keluarga yang penuh kasih. Artikel ini menguraikan indikator klinis kebutuhan perawat, kriteria seleksi perawat berizin resmi, serta protokol keperawatan komprehensif di rumah.
-<blockquote>###  Penting dipahami</blockquote>
+<blockquote><div class="info-box"><h3>Penting dipahami</h3></blockquote>
 <blockquote>* <strong>Manajemen Klinis Pascarawat</strong>: Pasien lansia dengan alat medis invasif memerlukan keahlian keperawatan aseptik guna mencegah infeksi nosokomial di rumah.</blockquote>
 <blockquote>* <strong>Audit Kredensial dan Legalitas</strong>: Memilih perawat dengan Surat Tanda Registrasi (STR) aktif dan pengawasan supervisi dokter menjamin kepatuhan prosedur operasional standar.</blockquote>
 <blockquote>* <strong>Perawatan Dekubitus dan Higienitas</strong>: Alih baring terjadwal setiap 2 jam dan perawatan kulit teratur menghentikan pembentukan luka tirah baring.</blockquote>
@@ -89,7 +89,7 @@ Alur asesmen Joy of Care memetakan kebutuhan klinis pasien secara transparan:
 Bagi pasien dengan luka borok dekubitus akibat penekanan terus-menerus di tempat tidur:
 <ul><li><strong>Pencucian Luka Steril Bertekanan</strong>: Membersihkan dasar luka menggunakan larutan <em>Normal Saline</em> (NaCl 0,9%) steril tanpa cairan antiseptik sitotoksik keras yang dapat merusak jaringan granulasi baru.</li>
 <li><strong>Debridement Jaringan Nekrotik</strong>: Mengangkat lapisan jaringan mati berwarna hitam (<em>slough / eschar</em>) secara hati-hati menggunakan pinset dan gunting jaringan bedah steril untuk mengeliminasi biofilm bakteri.</li>
-<li><em></em>Aplikasi Balutan Primer dan Sekunder Sesuai <em>Moist Wound Healing</em><em></em>: Menggunakan <em>calcium alginate</em> untuk luka bereksudat banyak atau balutan busa <em>hydrocellular foam</em> untuk mempertahankan kelembapan fisiologis optimal dan merangsang migrasi sel epitel kulit baru.</li>
+<li>Aplikasi Balutan Primer dan Sekunder Sesuai <em>Moist Wound Healing</em>: Menggunakan <em>calcium alginate</em> untuk luka bereksudat banyak atau balutan busa <em>hydrocellular foam</em> untuk mempertahankan kelembapan fisiologis optimal dan merangsang migrasi sel epitel kulit baru.</li>
 </ul>
 
 <h3>3. Protokol Pemeliharaan Alat Medis Invasif di Rumah</h3>
