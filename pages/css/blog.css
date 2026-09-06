@@ -350,12 +350,23 @@
    Card thumbnails + article hero images
    ============================================ */
 
-/* --- Card Thumbnail (blog/index.html grid) --- */
-.blog-card {
+/* --- Card Thumbnail (blog/index.html & category pages) --- */
+.blog-card,
+.article-card {
   padding: 0;
   overflow: hidden;
   display: flex;
   flex-direction: column;
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-lg);
+  transition: all 0.2s;
+}
+
+.blog-card:hover,
+.article-card:hover {
+  box-shadow: var(--shadow-md);
+  border-color: var(--color-primary);
 }
 
 .blog-card-img {
@@ -374,15 +385,54 @@
   transition: opacity 0.3s ease;
 }
 
-.blog-card:hover .blog-card-img img {
+.blog-card:hover .blog-card-img img,
+.article-card:hover .blog-card-img img {
   opacity: 0.92;
 }
 
-.blog-card-body {
+.blog-card-body,
+.article-card-body {
   padding: 20px 24px 24px;
   display: flex;
   flex-direction: column;
   flex: 1;
+}
+
+.article-card-badge {
+  display: inline-block;
+  background: var(--color-primary-light);
+  color: var(--color-primary);
+  font-weight: 600;
+  font-size: 0.82rem;
+  padding: 4px 14px;
+  border-radius: var(--radius-full);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  margin-bottom: 12px;
+  width: fit-content;
+}
+
+.article-card-title {
+  font-size: 1.1rem;
+  margin: 0 0 8px;
+  line-height: 1.4;
+}
+
+.article-card-excerpt {
+  color: var(--color-text-secondary);
+  font-size: 0.92rem;
+  margin: 0 0 16px;
+  line-height: 1.6;
+}
+
+.article-card-meta {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  font-size: 0.82rem;
+  color: var(--color-text-muted);
+  margin-top: auto;
 }
 
 /* --- Article Type Badges (next to category badge) --- */

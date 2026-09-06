@@ -337,7 +337,7 @@ def build_html(title, meta_desc, cat_dir, cat_name, slug, body):
     <h1 style="font-size:2rem;margin-bottom:16px;line-height:1.3;">{html_mod.escape(title)}</h1>
     <p style="color:var(--color-text-muted);font-size:0.9rem;margin-bottom:24px;">Oleh Tim Joy of Care | Konsultasi Gratis via <a href="{WA_LINK}" style="color:var(--color-primary);">WhatsApp 08811-118-911</a></p>
     <figure class="article-hero" style="margin:0 0 32px 0;padding:0;">
-      <img src="{img_url}" alt="{html_mod.escape(title)}" width="1200" height="630" loading="eager">
+      <img src="{img_url}" alt="{html_mod.escape(title)}" width="1200" height="630" loading="eager" fetchpriority="high">
       <figcaption>{img_caption}</figcaption>
     </figure>
     <div class="article-body">
