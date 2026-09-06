@@ -18,17 +18,51 @@ CATEGORIES = {
 }
 
 WA_LINK = "https://api.whatsapp.com/send/?phone=628811118911"
-WA_CTA = (f'<div class="wa-cta"><p><strong>📲 <a href="{WA_LINK}?text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?" '
+WA_CTA = (f'<div class="wa-cta"><p><strong>📲 <a href="{WA_LINK}&text=Hi,%20saya%20tahu%20dari%20web.%20Berapa%20biaya%20layanan%20Joy%20of%20Care?" '
           'class="wa-cta-link">Hubungi WhatsApp Resmi Joy of Care</a></strong></p></div>')
+
+DEFAULT_DATE = "2026-09-05"
+
+
+def iso_date(dstr):
+    """Normalize a date string to ISO 8601 with time."""
+    m = re.match(r"(\d{4})-(\d{2})-(\d{2})", (dstr or "").strip())
+    if m:
+        return f"{m.group(1)}-{m.group(2)}-{m.group(3)}T00:00:00+07:00"
+    return f"{DEFAULT_DATE}T00:00:00+07:00"
+
+
+def extract_faq(fm_text):
+    """Best-effort parse of the messy frontmatter FAQ into [{question, answer}]."""
+    pairs = []
+    # find question blocks: <ul><li>question: X</li>  ...  answer: Y
+    q_re = re.compile(r"question:\s*(.*?)</li>", re.DOTALL)
+    # locate all 'answer:' occurrences with surrounding text
+    q_positions = [(m.start(), m.group(1)) for m in q_re.finditer(fm_text)]
+    for idx, (qstart, question) in enumerate(q_positions):
+        q = re.sub(r"<[^>]+>", "", question).strip()
+        # answer = text between end of this question block and the next question start
+        aend = q_positions[idx + 1][0] if idx + 1 < len(q_positions) else len(fm_text)
+        answer_seg = fm_text[qstart:aend]
+        am = re.search(r"answer:\s*(.*)", answer_seg, re.DOTALL)
+        if not am:
+            continue
+        a = re.sub(r"<[^>]+>", "", am.group(1)).strip()
+        a = re.sub(r"\s+", " ", a).strip()
+        if q and a:
+            pairs.append({"question": q, "answer": a})
+    return pairs
 
 def parse_frontmatter(content):
     """Extract YAML frontmatter fields and body."""
     meta = {}
+    fm_text = ""
     body = content
     if content.startswith('---'):
         end = content.find('---', 3)
         if end != -1:
             fm = content[3:end].strip()
+            fm_text = fm
             body = content[end+3:].strip()
             # Simple YAML parse for our known fields
             lines = fm.split('\n')
@@ -44,6 +78,7 @@ def parse_frontmatter(content):
                     val = val.strip().strip('"\'')
                     meta[key] = val
                 i += 1
+    meta['_fm'] = fm_text
     return meta, body
 
 def md_to_html(text):
@@ -67,6 +102,10 @@ def md_to_html(text):
 
     # Block state
     stack = []  # track open block tags: 'ul', 'ol', 'quote', 'info'
+
+    def hlevel(n):
+        # Body never emits H1 (the template owns the single H1). Map level-1 -> H2.
+        return 2 if n == 1 else n
 
     def close(level=1):
         for _ in range(level):
@@ -138,7 +177,7 @@ def md_to_html(text):
             close_table()
             close_lists()
             close()  # close quote/info before new block
-            level = len(h.group(1))
+            level = hlevel(len(h.group(1)))
             htext = inline(h.group(2))
             if 'Highlights' in htext:
                 out.append(f'<div class="info-box"><h{level}>Highlights</h{level}>')
@@ -163,18 +202,19 @@ def md_to_html(text):
             hq = re.match(r'^(#{1,4})\s+(.*)$', qtext)
             if hq:
                 htext = inline(hq.group(2))
+                hq_level = hlevel(len(hq.group(1)))
                 if 'Highlights' in htext or 'Penting dipahami' in htext:
                     close_table()
                     close_lists()
                     close()
-                    out.append(f'<div class="info-box"><h{len(hq.group(1))}>{htext}</h{len(hq.group(1))}>')
+                    out.append(f'<div class="info-box"><h{hq_level}>{htext}</h{hq_level}>')
                     stack.append('info')
                 else:
                     if stack and stack[-1] in ('quote', 'info'):
                         # content inside an opened block; treat as plain heading
-                        out.append(f'<h{len(hq.group(1))}>{htext}</h{len(hq.group(1))}>')
+                        out.append(f'<h{hq_level}>{htext}</h{hq_level}>')
                     else:
-                        out.append(f'<h{len(hq.group(1))}>{htext}</h{len(hq.group(1))}>')
+                        out.append(f'<h{hq_level}>{htext}</h{hq_level}>')
                 continue
             bq = re.match(r'^[-*]\s+(.*)$', qtext)
             if bq:
@@ -288,12 +328,31 @@ def get_type_badge(slug):
         return '<span class="type-badge type-info">Perlu Diketahui</span>'
     return ''
 
-def build_html(title, meta_desc, cat_dir, cat_name, slug, body):
+def build_html(title, meta_desc, cat_dir, cat_name, slug, body, faq=None, date=DEFAULT_DATE):
     img_url, img_caption = get_article_image(cat_dir, slug, title)
     type_badge = get_type_badge(slug)
     badges_html = f'<span class="category-badge" style="margin-bottom:0;">{cat_name}</span>'
     if type_badge:
         badges_html += f'\n      {type_badge}'
+
+    # Remove any H1 in body (template renders the single H1 from title)
+    body = re.sub(r"<h1[^>]*>.*?</h1>", "", body, count=0, flags=re.DOTALL)
+
+    iso = iso_date(date)
+    canonical = f"https://new.joyof.care/blog/{cat_dir}/{slug}"
+
+    # FAQPage JSON-LD (only if at least one clean Q&A pair)
+    faq_schema = ""
+    if faq:
+        import json as _json
+        items = []
+        for q in faq:
+            items.append({
+                "@type": "Question",
+                "name": q["question"],
+                "acceptedAnswer": {"@type": "Answer", "text": q["answer"]},
+            })
+        faq_schema = f'<script type="application/ld+json">{_json.dumps({"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": items}, ensure_ascii=False)}</script>'
 
     return f"""<!DOCTYPE html>
 <html lang="id">
@@ -302,14 +361,14 @@ def build_html(title, meta_desc, cat_dir, cat_name, slug, body):
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{html_mod.escape(title)} | Joy of Care</title>
   <meta name="description" content="{html_mod.escape(meta_desc)}">
-  <link rel="canonical" href="https://new.joyof.care/blog/{cat_dir}/{slug}">
+  <link rel="canonical" href="{canonical}">
   <link rel="icon" href="/images/joc_icon.png" type="image/png">
 
   <meta property="og:locale" content="id_ID">
   <meta property="og:type" content="article">
   <meta property="og:title" content="{html_mod.escape(title)} | Joy of Care">
   <meta property="og:description" content="{html_mod.escape(meta_desc)}">
-  <meta property="og:url" content="https://new.joyof.care/blog/{cat_dir}/{slug}">
+  <meta property="og:url" content="{canonical}">
   <meta property="og:site_name" content="Joy of Care">
   <meta property="og:image" content="https://new.joyof.care{img_url}">
   <meta name="twitter:card" content="summary_large_image">
@@ -320,8 +379,9 @@ def build_html(title, meta_desc, cat_dir, cat_name, slug, body):
   <link rel="stylesheet" href="../../css/style.css">
   <link rel="stylesheet" href="../../css/blog.css">
   <script type="application/ld+json">
-  {{"@context":"https://schema.org","@type":"Article","headline":"{html_mod.escape(title)}","description":"{html_mod.escape(meta_desc)}","image":"https://new.joyof.care{img_url}","url":"https://new.joyof.care/blog/{cat_dir}/{slug}","publisher":{{"@type":"Organization","name":"Joy of Care","logo":"/images/joc_logo.png"}},"mainEntityOfPage":{{"@type":"WebPage","@id":"https://new.joyof.care/blog/{cat_dir}/{slug}"}}}}
+  {{"@context":"https://schema.org","@type":"Article","headline":"{html_mod.escape(title)}","description":"{html_mod.escape(meta_desc)}","image":"https://new.joyof.care{img_url}","url":"{canonical}","datePublished":"{iso}","dateModified":"{iso}","inLanguage":"id-ID","author":{{"@type":"Organization","name":"Joy of Care"}},"publisher":{{"@type":"Organization","name":"Joy of Care","logo":"/images/joc_logo.png"}},"mainEntityOfPage":{{"@type":"WebPage","@id":"{canonical}"}}}}
   </script>
+  {faq_schema}
 </head>
 <body>
   <nav class="nav"><div class="nav-inner">
@@ -349,6 +409,7 @@ def build_html(title, meta_desc, cat_dir, cat_name, slug, body):
       <p style="margin-bottom:16px;">Chat WhatsApp kami untuk konsultasi gratis tanpa komitmen.</p>
       <a href="{WA_LINK}&text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20gratis" class="cta-box-btn">Chat WhatsApp Sekarang</a>
     </div>
+    <p class="disclaimer" style="font-size:0.8rem;color:var(--color-text-muted);border-top:1px solid var(--color-border);margin-top:32px;padding-top:16px;font-style:italic;">Artikel ini hanya untuk tujuan informasi kesehatan dan bukan pengganti konsultasi medis profesional. Selalu konsultasikan kondisi kesehatan Anda dengan dokter atau tenaga medis yang berizin.</p>
   </article>
   <script>var menuBtn=document.querySelector(".nav-mobile");var navLinks=document.querySelector(".nav-links");if(menuBtn&&navLinks){{menuBtn.addEventListener("click",function(e){{e.preventDefault();navLinks.classList.toggle("nav-open")}})}};</script>
 </body></html>"""
@@ -368,8 +429,10 @@ def main():
             meta, body_md = parse_frontmatter(content)
             title = meta.get('title', slug.replace('-', ' ').title())
             meta_desc = meta.get('meta_description', title)
+            faq = extract_faq(meta.get('_fm', ''))
+            date = meta.get('date') or DEFAULT_DATE
             body_html = md_to_html(body_md)
-            page = build_html(title, meta_desc, cat_dir, cat_name, slug, body_html)
+            page = build_html(title, meta_desc, cat_dir, cat_name, slug, body_html, faq=faq, date=date)
             html_path = os.path.join(base, cat_dir, slug + '.html')
             with open(html_path, 'w') as fh:
                 fh.write(page)

@@ -28,7 +28,9 @@ const { Content } = await render(article);
   reviewer={article.data.reviewer}
   date={article.data.date}
   featuredImage={article.data.featuredImage}
-  keywords={article.data.keywords}
+  primaryKeyword={article.data.primaryKeyword}
+  secondaryKeywords={article.data.secondaryKeywords}
+  faq={article.data.faq}
   slug={article.data.slug}
 >
   <Content />

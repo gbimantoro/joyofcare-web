@@ -1,0 +1,20 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { SITE_URL } from '../consts';
+
+export const prerender = true;
+const title = 'Halaman Tidak Ditemukan (404) | Joy of Care';
+const description = 'Halaman yang Anda cari tidak ditemukan. Kembali ke beranda Joy of Care atau jelajahi layanan kesehatan di rumah kami.';
+const canonical = `${SITE_URL}/404`;
+---
+
+<BaseLayout title={title} description={description} canonicalURL={canonical}>
+  <section class="section" style="padding-top: calc(64px + 80px); text-align:center;">
+    <div class="container">
+      <h1>Halaman Tidak Ditemukan</h1>
+      <p style="max-width:500px;margin:16px auto 32px">Maaf, halaman yang Anda cari tidak tersedia atau telah dipindahkan.</p>
+      <a href="/" class="btn btn-primary">Kembali ke Beranda</a>
+      <a href="/layanan-lengkap" class="btn btn-outline" style="margin-left:8px">Lihat Layanan</a>
+    </div>
+  </section>
+</BaseLayout>

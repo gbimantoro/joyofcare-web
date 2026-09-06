@@ -1,6 +1,8 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
+import { CATEGORIES, categoryLabel } from '../../lib/categories';
+import { SITE_URL } from '../../consts';
 
 export const prerender = true;
 
@@ -9,20 +11,9 @@ const sortedArticles = articles.sort((a, b) =>
   new Date(b.data.date).getTime() - new Date(a.data.date).getTime()
 );
 
-const categoryNames: Record<string, string> = {
-  'perawatan-lansia': 'Perawatan Lansia',
-  'fisioterapi-rumah': 'Fisioterapi Rumah',
-  'panggil-dokter': 'Panggil Dokter',
-  'parkinson': 'Parkinson',
-  'osteoporosis': 'Osteoporosis',
-  'studi-luar-negeri': 'Studi Luar Negeri',
-  'vaksinasi': 'Vaksinasi',
-  'home-lab': 'Home Lab',
-  'infus-vitamin': 'Infus Vitamin',
-  'perawat-homecare': 'Perawat Homecare',
-  'antar-jemput-rs': 'Antar Jemput RS',
-  'kesehatan-umum': 'Kesehatan Umum',
-};
+const categoryNames: Record<string, string> = Object.fromEntries(
+  CATEGORIES.map((c) => [c.slug, c.label])
+);
 
 const categories = Object.entries(categoryNames);
 ---
@@ -30,7 +21,7 @@ const categories = Object.entries(categoryNames);
 <BaseLayout 
   title="Artikel Kesehatan Homecare | Joy of Care"
   description="Temukan panduan lengkap perawatan lansia, fisioterapi di rumah, tips Parkinson & osteoporosis, panduan vaksinasi, serta persyaratan medis studi ke luar negeri."
-  canonicalURL="https://www.joyofcare.net/blog/"
+  canonicalURL={`${SITE_URL}/blog/`}
 >
   <section class="blog-header">
     <div class="container">
@@ -201,7 +192,7 @@ const categories = Object.entries(categoryNames);
       btn.classList.add('active');
       
       const category = btn.getAttribute('data-category');
-      document.querySelectorAll('.article-card').forEach(card => {
+      document.querySelectorAll<HTMLElement>('.article-card').forEach(card => {
         if (category === 'all' || card.getAttribute('data-category') === category) {
           card.style.display = 'block';
         } else {

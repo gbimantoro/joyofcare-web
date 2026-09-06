@@ -1,0 +1,19 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { SITE_URL } from '../consts';
+
+export const prerender = true;
+const title = 'Artikel Kesehatan | Joy of Care';
+const description = 'Artikel dan panduan kesehatan dari tim medis Joy of Care.';
+const canonical = `${SITE_URL}/artikel`;
+---
+
+<BaseLayout title={title} description={description} canonicalURL={canonical}>
+  <meta http-equiv="refresh" content="0;url=/blog/">
+  <section class="section" style="padding-top: calc(64px + 80px); text-align:center;">
+    <div class="container">
+      <h1>Artikel Kesehatan</h1>
+      <p>Mengalihkan ke halaman <a href="/blog/">Artikel</a>...</p>
+    </div>
+  </section>
+</BaseLayout>

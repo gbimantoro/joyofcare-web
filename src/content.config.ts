@@ -6,15 +6,18 @@ const articles = defineCollection({
   schema: z.object({
     title: z.string(),
     metaTitle: z.string().optional(),
-    metaDescription: z.string().optional(),
+    metaDescription: z.string(),
     category: z.string(),
     author: z.string().default('Tim Medis Joy of Care'),
     reviewer: z.string().default('dr. Sarah Wijaya, Sp.FR'),
     date: z.coerce.date(),
-    featuredImage: z.string().optional(),
-    keywords: z.string().optional(),
-    internalLinks: z.string().optional(),
     slug: z.string(),
+    featuredImage: z.string().optional(),
+    primaryKeyword: z.string().optional(),
+    secondaryKeywords: z.array(z.string()).optional(),
+    internalLinks: z.array(z.string()).optional(),
+    faq: z.array(z.object({ question: z.string(), answer: z.string() })).optional(),
+    clinicalReferences: z.array(z.string()).optional(),
   }),
 });
 

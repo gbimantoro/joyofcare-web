@@ -1,14 +1,16 @@
 import { defineConfig } from 'astro/config';
 import mdx from '@astrojs/mdx';
-import keystatic from '@keystatic/astro';
-import cloudflare from '@astrojs/cloudflare';
+import sitemap from '@astrojs/sitemap';
+import { SITE_URL } from './src/consts';
 
 export default defineConfig({
+  site: SITE_URL,
   integrations: [
     mdx(),
-    keystatic(),
+    sitemap({
+      filter: (page) => !page.includes('/keystatic/'),
+    }),
   ],
-  output: 'server',
-  adapter: cloudflare(),
+  output: 'static',
   trailingSlash: 'always',
 });

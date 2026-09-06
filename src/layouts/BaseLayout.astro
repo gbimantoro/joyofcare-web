@@ -1,4 +1,7 @@
 ---
+import { SITE_URL, SITE_NAME } from '../consts';
+import '../styles/global.css';
+
 interface Props {
   title: string;
   description?: string;
@@ -9,8 +12,8 @@ interface Props {
 const { 
   title, 
   description = 'Joy of Care menyediakan layanan kesehatan di rumah profesional: panggil dokter, fisioterapi, infus vitamin, home lab, dan antar jemput RS.',
-  canonicalURL = 'https://www.joyofcare.net/',
-  ogImage = '/images/joc_long.png'
+  canonicalURL = `${SITE_URL}/`,
+  ogImage = `${SITE_URL}/images/joc_long.png`
 } = Astro.props;
 
 const currentPath = Astro.url.pathname;
@@ -41,7 +44,7 @@ const currentPath = Astro.url.pathname;
   <meta name="twitter:image" content={ogImage}>
   
   <!-- Favicon -->
-  <link rel="icon" href="https://www.joyofcare.net/web/image/website/1/favicon" type="image/png">
+  <link rel="icon" href="/images/joc_icon.png" type="image/png">
   
   <!-- Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -52,9 +55,9 @@ const currentPath = Astro.url.pathname;
   <script type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
     "@type": "MedicalBusiness",
-    "name": "Joy of Care",
-    "url": "https://www.joyofcare.net/",
-    "logo": "/images/joc_long.png",
+    "name": SITE_NAME,
+    "url": `${SITE_URL}/`,
+    "logo": `${SITE_URL}/images/joc_long.png`,
     "telephone": "+628811118911",
     "email": "hi@joyofcare.net",
     "address": {

@@ -1,26 +1,13 @@
 ---
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
+import { CATEGORIES } from '../../../lib/categories';
+import { SITE_URL } from '../../../consts';
 
 export const prerender = true;
 
 export async function getStaticPaths() {
-  const categories = [
-    { slug: 'perawatan-lansia', name: 'Perawatan Lansia' },
-    { slug: 'fisioterapi-rumah', name: 'Fisioterapi Rumah' },
-    { slug: 'panggil-dokter', name: 'Panggil Dokter' },
-    { slug: 'parkinson', name: 'Parkinson' },
-    { slug: 'osteoporosis', name: 'Osteoporosis' },
-    { slug: 'studi-luar-negeri', name: 'Studi Luar Negeri' },
-    { slug: 'vaksinasi', name: 'Vaksinasi' },
-    { slug: 'home-lab', name: 'Home Lab' },
-    { slug: 'infus-vitamin', name: 'Infus Vitamin' },
-    { slug: 'perawat-homecare', name: 'Perawat Homecare' },
-    { slug: 'antar-jemput-rs', name: 'Antar Jemput RS' },
-    { slug: 'kesehatan-umum', name: 'Kesehatan Umum' },
-  ];
-
-  return categories.map(cat => ({
+  return CATEGORIES.map((cat) => ({
     params: { category: cat.slug },
     props: { category: cat },
   }));
@@ -34,19 +21,19 @@ const sortedArticles = articles.sort((a, b) =>
 ---
 
 <BaseLayout 
-  title={`${category.name} — Artikel Kesehatan | Joy of Care`}
-  description={`Artikel dan panduan kesehatan tentang ${category.name} dari tim medis Joy of Care.`}
-  canonicalURL={`https://www.joyofcare.net/blog/${category.slug}/`}
+  title={`${category.label} — Artikel Kesehatan | Joy of Care`}
+  description={`Artikel dan panduan kesehatan tentang ${category.label} dari tim medis Joy of Care.`}
+  canonicalURL={`${SITE_URL}/blog/${category.slug}/`}
 >
   <section class="category-header">
     <div class="container">
       <nav class="breadcrumbs" aria-label="Breadcrumb">
         <a href="/">Beranda</a> <span>›</span>
         <a href="/blog/">Artikel</a> <span>›</span>
-        <span>{category.name}</span>
+        <span>{category.label}</span>
       </nav>
-      <h1>{category.name}</h1>
-      <p>Artikel dan panduan kesehatan tentang {category.name}</p>
+      <h1>{category.label}</h1>
+      <p>Artikel dan panduan kesehatan tentang {category.label}</p>
     </div>
   </section>
 

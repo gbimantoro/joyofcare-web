@@ -1,0 +1,6 @@
+# Old Odoo paths -> new structure
+/artikel/* /blog/:splat 301
+/blog/healthy-aging-3/* /blog/healthy-aging/:splat 301
+/blog/studi-luar-negeri-4/* /blog/studi-luar-negeri/:splat 301
+/blog/pengalaman-1/* /blog/pengalaman/:splat 301
+/blog/vaksinasi-di-rumah-2/* /blog/vaksinasi-rumah/:splat 301

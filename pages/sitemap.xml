@@ -1,121 +1,148 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
-
-  <!-- Homepage -->
   <url>
-    <loc>https://www.joyofcare.net/</loc>
+    <loc>https://new.joyof.care/</loc>
     <lastmod>2026-09-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
-
-  <!-- Service Pages -->
   <url>
-    <loc>https://www.joyofcare.net/layanan-kami</loc>
+    <loc>https://new.joyof.care/blog/</loc>
     <lastmod>2026-09-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
-
   <url>
-    <loc>https://www.joyofcare.net/panggil-dokter-ke-rumah</loc>
+    <loc>https://new.joyof.care/panggil-dokter-ke-rumah</loc>
     <lastmod>2026-09-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
-
   <url>
-    <loc>https://www.joyofcare.net/layanan-fisioterapi-ke-rumah</loc>
+    <loc>https://new.joyof.care/layanan-fisioterapi-ke-rumah</loc>
     <lastmod>2026-09-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
-
   <url>
-    <loc>https://www.joyofcare.net/infus-suntik-vitamin-di-rumah</loc>
+    <loc>https://new.joyof.care/layanan-perawat-di-rumah</loc>
     <lastmod>2026-09-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
-
   <url>
-    <loc>https://www.joyofcare.net/homelab</loc>
+    <loc>https://new.joyof.care/layanan-akupuntur-di-rumah</loc>
     <lastmod>2026-09-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
-
   <url>
-    <loc>https://www.joyofcare.net/layanan-perawat-di-rumah</loc>
+    <loc>https://new.joyof.care/homelab</loc>
     <lastmod>2026-09-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
-
   <url>
-    <loc>https://www.joyofcare.net/tindakan-perawat-di-rumah</loc>
-    <lastmod>2026-09-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://www.joyofcare.net/layanan-akupuntur-di-rumah</loc>
+    <loc>https://new.joyof.care/infus-suntik-vitamin-di-rumah</loc>
     <lastmod>2026-09-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
-
   <url>
-    <loc>https://www.joyofcare.net/transcare-antar-jemput-ke-rs-jakarta-tangerang</loc>
+    <loc>https://new.joyof.care/transcare-antar-jemput-ke-rs-jakarta-tangerang</loc>
     <lastmod>2026-09-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
-
-  <!-- Other Pages -->
   <url>
-    <loc>https://www.joyofcare.net/walk-in-promo</loc>
+    <loc>https://new.joyof.care/blog/antar-jemput-rs/</loc>
     <lastmod>2026-09-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
-
-  <!-- Artikel -->
   <url>
-    <loc>https://www.joyofcare.net/artikel</loc>
+    <loc>https://new.joyof.care/blog/fisioterapi-rumah/</loc>
     <lastmod>2026-09-05</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
   </url>
-
   <url>
-    <loc>https://www.joyofcare.net/artikel/healthy-aging-3</loc>
+    <loc>https://new.joyof.care/blog/healthy-aging/</loc>
     <lastmod>2026-09-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
-
   <url>
-    <loc>https://www.joyofcare.net/artikel/pengalaman-1</loc>
+    <loc>https://new.joyof.care/blog/home-lab/</loc>
     <lastmod>2026-09-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
-
   <url>
-    <loc>https://www.joyofcare.net/artikel/studi-luar-negeri-4</loc>
+    <loc>https://new.joyof.care/blog/infus-vitamin/</loc>
     <lastmod>2026-09-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
-
   <url>
-    <loc>https://www.joyofcare.net/artikel/vaksinasi-di-rumah-2</loc>
+    <loc>https://new.joyof.care/blog/kesehatan-umum/</loc>
     <lastmod>2026-09-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
-
+  <url>
+    <loc>https://new.joyof.care/blog/osteoporosis/</loc>
+    <lastmod>2026-09-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://new.joyof.care/blog/panggil-dokter/</loc>
+    <lastmod>2026-09-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://new.joyof.care/blog/parkinson/</loc>
+    <lastmod>2026-09-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://new.joyof.care/blog/pengalaman/</loc>
+    <lastmod>2026-09-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://new.joyof.care/blog/perawat-homecare/</loc>
+    <lastmod>2026-09-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://new.joyof.care/blog/perawatan-lansia/</loc>
+    <lastmod>2026-09-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://new.joyof.care/blog/studi-luar-negeri/</loc>
+    <lastmod>2026-09-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://new.joyof.care/blog/vaksinasi/</loc>
+    <lastmod>2026-09-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://new.joyof.care/blog/vaksinasi-rumah/</loc>
+    <lastmod>2026-09-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>

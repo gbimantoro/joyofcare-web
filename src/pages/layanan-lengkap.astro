@@ -1,0 +1,77 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { SITE_URL } from '../consts';
+
+export const prerender = true;
+
+const title = 'Layanan Kesehatan di Rumah | Joy of Care';
+const description = 'Pilih layanan kesehatan di rumah Joy of Care: panggil dokter, fisioterapi, perawat, infus vitamin, home lab, akupuntur, dan antar jemput RS. Chat WA 08811-118-911.';
+const canonical = `${SITE_URL}/layanan-lengkap`;
+---
+
+<BaseLayout title={title} description={description} canonicalURL={canonical}>
+  <section class="section" style="padding-top: calc(64px + 40px);">
+    <div class="container">
+      <h1 style="text-align:center;margin-bottom:8px">Layanan Kesehatan di Rumah</h1>
+      <p style="text-align:center;color:#555770;max-width:600px;margin:0 auto 40px">Pilih layanan yang Anda butuhkan. Tim medis profesional kami siap datang ke rumah Anda.</p>
+
+      <div class="services-grid">
+        <a href="/panggil-dokter-ke-rumah" class="service-card">
+          <div class="service-icon">🩺</div>
+          <h3>Panggil Dokter</h3>
+          <p>Dokter umum dan spesialis datang ke rumah untuk pemeriksaan dan konsultasi.</p>
+          <span style="color:#00bf63;font-weight:600">Pelajari lebih lanjut →</span>
+        </a>
+        <a href="/layanan-fisioterapi-ke-rumah" class="service-card">
+          <div class="service-icon">💪</div>
+          <h3>Fisioterapi</h3>
+          <p>Pemulihan mobilitas dan pengurangan nyeri oleh fisioterapis bersertifikat.</p>
+          <span style="color:#00bf63;font-weight:600">Pelajari lebih lanjut →</span>
+        </a>
+        <a href="/layanan-perawat-di-rumah" class="service-card">
+          <div class="service-icon">🏥</div>
+          <h3>Perawat</h3>
+          <p>Perawat profesional untuk perawatan pasca rawat inap dan lansia.</p>
+          <span style="color:#00bf63;font-weight:600">Pelajari lebih lanjut →</span>
+        </a>
+        <a href="/infus-suntik-vitamin-di-rumah" class="service-card">
+          <div class="service-icon">💉</div>
+          <h3>Infus & Suntik Vitamin</h3>
+          <p>Vitamin C, B kompleks, multivitamin, dan paket kesehatan lainnya.</p>
+          <span style="color:#00bf63;font-weight:600">Pelajari lebih lanjut →</span>
+        </a>
+        <a href="/homelab" class="service-card">
+          <div class="service-icon">🔬</div>
+          <h3>Home Lab</h3>
+          <p>Cek kesehatan lengkap di rumah: darah, gula, kolesterol, dan lainnya.</p>
+          <span style="color:#00bf63;font-weight:600">Pelajari lebih lanjut →</span>
+        </a>
+        <a href="/layanan-akupuntur-di-rumah" class="service-card">
+          <div class="service-icon">🎯</div>
+          <h3>Akupuntur</h3>
+          <p>Terapi akupuntur medis untuk nyeri kronis, stres, dan gangguan tidur.</p>
+          <span style="color:#00bf63;font-weight:600">Pelajari lebih lanjut →</span>
+        </a>
+        <a href="/transcare-antar-jemput-ke-rs-jakarta-tangerang" class="service-card">
+          <div class="service-icon">🚑</div>
+          <h3>Antar Jemput RS</h3>
+          <p>Transportasi medis aman dan nyaman dari dan ke rumah sakit.</p>
+          <span style="color:#00bf63;font-weight:600">Pelajari lebih lanjut →</span>
+        </a>
+      </div>
+
+      <div style="text-align:center;margin-top:40px">
+        <a href="https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20tanya%20layanan%20Joy%20of%20Care" class="btn btn-primary btn-lg">Chat WhatsApp untuk Konsultasi Gratis</a>
+      </div>
+    </div>
+  </section>
+
+  <style>
+    .services-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 24px; padding: 40px 0; }
+    .service-card { background: var(--color-surface); border: 1px solid var(--color-border); border-radius: var(--radius-lg); padding: 32px; text-align: center; transition: all 0.2s; text-decoration: none; color: inherit; }
+    .service-card:hover { box-shadow: var(--shadow-md); border-color: var(--color-primary); transform: translateY(-2px); }
+    .service-card h3 { margin: 16px 0 8px; font-size: 1.1rem; }
+    .service-card p { color: var(--color-text-secondary); font-size: 0.92rem; margin: 0 0 16px; }
+    .service-icon { font-size: 2.5rem; }
+  </style>
+</BaseLayout>

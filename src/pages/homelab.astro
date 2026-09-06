@@ -1,0 +1,101 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { SITE_URL } from '../consts';
+
+export const prerender = true;
+
+const title = "Homelab";
+const description = "Layanan cek laboratorium di rumah. Pengambilan sampel darah dan diagnostik langsung di rumah Anda. GRATIS kunjungan &amp; konsultasi. Chat WA 08811-118-911.";
+const canonical = `${SITE_URL}/homelab`;
+---
+
+<BaseLayout title={title} description={description} canonicalURL={canonical}>
+
+
+  <section class="page-hero">
+    <div class="container">
+      <nav class="breadcrumbs" aria-label="Breadcrumb"><a href="/">Beranda</a> <span>›</span> Home Lab</nav>
+      <h1>Home Lab — <span class="text-primary">Cek Lab</span> di Rumah</h1>
+      <p>Layanan cek laboratorium di rumah: pengambilan sampel darah dan diagnostik langsung di lokasi Anda. Kunjungan lab dan konsultasi dokter gratis untuk area Jakarta, Tangerang, dan Tangerang Selatan.</p>
+      <a href="https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20tanya%20home%20lab" class="btn btn-primary" style="margin-top:20px">Chat WhatsApp Sekarang</a>
+    </div>
+  </section>
+
+  
+  <section class="content-section">
+    <div class="container">
+      <h2 style="font-family:Montserrat,sans-serif;font-size:1.8rem;font-weight:700;margin-bottom:16px">Cek Kesehatan di Rumah Saja dengan Home Lab</h2>
+      <p>Layanan <strong>Home Lab (HOMELAB)</strong> dari Joy of Care memberikan kemudahan cek kesehatan lengkap langsung di rumah. Tidak perlu antre, tidak perlu ke luar rumah. Cukup jadwalkan, tim laboratorium kami akan datang ke lokasi Anda di area Jakarta, Tangerang, dan Tangerang Selatan.</p>
+      <p>Hasil pemeriksaan laboratorium akan dikonsultasikan langsung dengan dokter melalui telekonsultasi, sehingga Anda dan keluarga memahami hasil dengan baik. Kunjungan lab dan konsultasi dokter hasil lab tidak dikenakan biaya.</p>
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;margin:20px 0">
+        <img src="/images/homelab/1.jpg" alt="Petugas Home Lab Joy of Care mengambil sampel darah di rumah" style="width:100%;border-radius:12px;box-shadow:0 4px 12px rgba(0,0,0,.12)" loading="lazy">
+        <img src="/images/homelab/2.png" alt="Paket pemeriksaan HOMELAB Joy of Care" style="width:100%;border-radius:12px;box-shadow:0 4px 12px rgba(0,0,0,.12)" loading="lazy">
+      </div>
+      <h3 style="font-size:1.2rem;font-weight:600;margin:16px 0">Tersedia Berbagai Paket Pemeriksaan:</h3>
+      <ul style="padding-left:20px;color:#4a5568">
+        <li>Paket Kontrol Diabetes (gula darah puasa, HbA1c, urin)</li>
+        <li>Paket Healthy Aging Basic, Standard, dan Premium (profil lemak, fungsi hati &amp; ginjal)</li>
+        <li>Pemeriksaan darah rutin dan profil kesehatan lainnya</li>
+      </ul>
+      <p style="margin-top:12px">Hubungi WhatsApp Joy of Care untuk informasi paket, jadwal, dan area layanan terkini.</p>
+    </div>
+  </section>
+
+
+  
+  <section class="section section-alt">
+    <div class="container">
+      <h2 class="section-title">Kenapa Memilih Joy of Care</h2>
+      <p class="section-subtitle">Layanan kesehatan profesional langsung ke rumah Anda, tanpa antre dan tanpa keluar rumah.</p>
+      <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:24px">
+        <div style="background:#fff;padding:24px;border-radius:12px;box-shadow:0 1px 3px rgba(0,0,0,.1)">
+          <div style="font-size:2rem">🏠</div><h3 style="margin:8px 0">Kenyamanan di Rumah</h3>
+          <p style="color:#4a5568;font-size:.95rem">Tidak perlu repot ke fasilitas kesehatan. Tenaga medis kami datang langsung ke rumah Anda.</p>
+        </div>
+        <div style="background:#fff;padding:24px;border-radius:12px;box-shadow:0 1px 3px rgba(0,0,0,.1)">
+          <div style="font-size:2rem">👨‍⚕️</div><h3 style="margin:8px 0">Tenaga Medis Profesional</h3>
+          <p style="color:#4a5568;font-size:.95rem">Dokter, perawat, dan terapis berlisensi serta berpengalaman menangani pasien di rumah.</p>
+        </div>
+        <div style="background:#fff;padding:24px;border-radius:12px;box-shadow:0 1px 3px rgba(0,0,0,.1)">
+          <div style="font-size:2rem">🕒</div><h3 style="margin:8px 0">Fleksibilitas Waktu</h3>
+          <p style="color:#4a5568;font-size:.95rem">Kami siap melayani setiap hari, termasuk akhir pekan, sesuai jadwal yang Anda pilih.</p>
+        </div>
+        <div style="background:#fff;padding:24px;border-radius:12px;box-shadow:0 1px 3px rgba(0,0,0,.1)">
+          <div style="font-size:2rem">🤝</div><h3 style="margin:8px 0">Perawatan Bersahabat</h3>
+          <p style="color:#4a5568;font-size:.95rem">Tim kami peduli pada kesehatan Anda dan memberikan pendampingan yang ramah dan personal.</p>
+        </div>
+        <div style="background:#fff;padding:24px;border-radius:12px;box-shadow:0 1px 3px rgba(0,0,0,.1)">
+          <div style="font-size:2rem">💻</div><h3 style="margin:8px 0">Teknologi Terkini</h3>
+          <p style="color:#4a5568;font-size:.95rem">Riwayat medis dipantau dan dikelola dengan teliti melalui sistem yang modern.</p>
+        </div>
+        <div style="background:#fff;padding:24px;border-radius:12px;box-shadow:0 1px 3px rgba(0,0,0,.1)">
+          <div style="font-size:2rem">📋</div><h3 style="margin:8px 0">Layanan Medis Lengkap</h3>
+          <p style="color:#4a5568;font-size:.95rem">Pemeriksaan rutin lansia, perawatan luka, infus, vaksinasi, hingga fisioterapi di rumah.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+<section class="section section-alt">
+    <div class="container">
+      <h2 class="section-title">Pertanyaan yang Sering Ditanyakan</h2>
+      <div class="faq-list">
+        <div class="faq-item"><button class="faq-question">Bagaimana cara pesan paket HOMELAB?</button><div class="faq-answer"><div class="faq-answer-inner">Chat WhatsApp kami di 08811-118-911, pilih paket yang diinginkan, dan jadwalkan pengambilan sampel. Tim lab akan datang ke rumah Anda.</div></div></div>
+        <div class="faq-item"><button class="faq-question">Apakah ada biaya tambahan untuk kunjungan lab?</button><div class="faq-answer"><div class="faq-answer-inner">Tidak! Biaya kunjungan lab GRATIS untuk area Jakarta, Tangerang, dan Tangerang Selatan.</div></div></div>
+        <div class="faq-item"><button class="faq-question">Bagaimana cara mendapatkan hasil lab?</button><div class="faq-answer"><div class="faq-answer-inner">Hasil lab akan dikirimkan via WhatsApp atau email. Anda juga akan mendapatkan konsultasi dokter untuk menjelaskan hasilnya.</div></div></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <div class="cta-banner">
+        <h2>Siap Memulai?</h2>
+        <p>Hubungi kami sekarang untuk konsultasi atau informasi lebih lanjut.</p>
+        <a href="https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20tanya%20home%20lab" class="btn btn-lg">Chat WhatsApp</a>
+      </div>
+    </div>
+  </section>
+
+  
+</BaseLayout>
