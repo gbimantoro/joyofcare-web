@@ -4,87 +4,169 @@ import { SITE_URL } from '../consts';
 
 export const prerender = true;
 
-const title = "Infus Suntik Vitamin Di Rumah";
-const description = "Layanan infus dan suntik vitamin profesional di rumah Anda. Vitamin C, B kompleks, multivitamin, dan paket imun booster. Chat WA 08811-118-911.";
-const canonical = `${SITE_URL}/infus-suntik-vitamin-di-rumah`;
+const title = "Infus Vitamin di Rumah Jakarta Harga Transparan & Imun Booster | Joy of Care";
+const description = "Layanan terapi infus vitamin di rumah Jakarta harga terjangkau & transparan. Vitamin C dosis tinggi, neurobion, multivitamin imun booster oleh dokter berizin resmi.";
+const canonical = `${SITE_URL}/infus-suntik-vitamin-di-rumah/`;
+
+const faqData = [
+  {
+    question: "Berapa rincian harga infus vitamin di rumah Jakarta bersama Joy of Care?",
+    answer: "Harga infus vitamin di rumah Joy of Care terjangkau, transparan, dan tidak memiliki biaya tersembunyi. Biaya sudah mencakup obat/cairan vitamin resmi BPOM, alkes steril sekali pakai, jasa tindakan oleh tenaga medis berizin STR, serta GRATIS biaya transportasi kunjungan untuk area Jakarta, Tangerang, dan Tangerang Selatan."
+  },
+  {
+    question: "Apakah prosedur infus dan suntik vitamin di rumah aman?",
+    answer: "Sangat aman. Setiap tindakan infus maupun injeksi selalu didahului pemeriksaan tanda-tanda vital (tekanan darah, nadi, suhu) dan skrining riwayat alergi atau penyakit penyerta oleh dokter. Prosedur menerapkan protokol aseptik rumah sakit dengan abocath dan set infus steril sekali pakai (single-use disposable)."
+  },
+  {
+    question: "Berapa lama durasi proses pemasangan dan pemberian cairan infus vitamin?",
+    answer: "Proses pemasangan jalur infus dan tetesan cairan vitamin umumnya berlangsung antara 30 hingga 60 menit, disesuaikan dengan jenis formula vitamin dan kenyamanan vena pasien. Selama cairan menetes, tenaga medis kami tetap mendampingi di samping Anda."
+  },
+  {
+    question: "Apa saja manfaat utama terapi infus vitamin dibandingkan suplemen oral?",
+    answer: "Infus vitamin mengantarkan nutrisi, antioksidan, dan elektrolit langsung ke pembuluh darah vena (intravena) dengan bioavailabilitas 100% tanpa melewati saluran pencernaan yang kerap memicu mual atau asam lambung. Efek pemulihan energi dan daya tahan tubuh terasa jauh lebih cepat."
+  }
+];
 ---
 
 <BaseLayout title={title} description={description} canonicalURL={canonical}>
+  <!-- Schema: MedicalProcedure -->
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "MedicalProcedure",
+    "name": "Layanan Terapi Infus & Suntik Vitamin di Rumah Jakarta",
+    "procedureType": "TherapeuticProcedure",
+    "description": description,
+    "url": canonical,
+    "provider": {
+      "@type": "MedicalBusiness",
+      "name": "Joy of Care",
+      "telephone": "+628811118911",
+      "url": `${SITE_URL}/`
+    },
+    "areaServed": ["Jakarta", "Tangerang", "Tangerang Selatan", "Depok", "Bogor"]
+  })} />
 
+  <!-- Schema: BreadcrumbList -->
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Beranda", "item": `${SITE_URL}/` },
+      { "@type": "ListItem", "position": 2, "name": "Layanan", "item": `${SITE_URL}/layanan-lengkap/` },
+      { "@type": "ListItem", "position": 3, "name": "Infus & Suntik Vitamin", "item": canonical }
+    ]
+  })} />
+
+  <!-- Schema: FAQPage -->
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": faqData.map(f => ({
+      "@type": "Question",
+      "name": f.question,
+      "acceptedAnswer": { "@type": "Answer", "text": f.answer }
+    }))
+  })} />
 
   <section class="page-hero">
     <div class="container">
-      <nav class="breadcrumbs" aria-label="Breadcrumb"><a href="/">Beranda</a> <span>›</span> Infus & Suntik Vitamin</nav>
-      <h1>Infus &amp; Suntik <span class="text-primary">Vitamin</span></h1>
-      <p>Layanan infus dan suntik vitamin profesional di rumah Anda: Vitamin C, B kompleks, multivitamin, dan paket imun booster oleh dokter berlisensi.</p>
-      <a href="https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20tanya%20infus%20&%20suntik%20vitamin" class="btn btn-primary" style="margin-top:20px">Chat WhatsApp Sekarang</a>
+      <nav class="breadcrumbs" aria-label="Breadcrumb">
+        <a href="/">Beranda</a> <span>›</span>
+        <a href="/layanan-lengkap/">Layanan</a> <span>›</span>
+        Infus & Suntik Vitamin
+      </nav>
+      <h1>Infus Vitamin di Rumah Jakarta — <span class="text-primary">Imun Booster</span> & Pemulihan Cepat</h1>
+      <p>Layanan terapi intravena (IV Drip) dan suntik vitamin profesional langsung ke rumah Anda. Vitamin BPOM asli, peralatan steril medis, ditangani dokter dan perawat berlisensi resmi.</p>
+      <a href="https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20tanya%20harga%20dan%20paket%20infus%20vitamin%20di%20rumah" class="btn btn-primary" style="margin-top:20px" target="_blank" rel="noopener noreferrer">Konsultasi Paket via WhatsApp</a>
     </div>
   </section>
 
-  
   <section class="content-section">
     <div class="container">
-      <h2 style="font-family:Montserrat,sans-serif;font-size:1.8rem;font-weight:700;margin-bottom:16px">Infus dan Suntik Vitamin di Rumah</h2>
-      <p>Jaga kesehatan dengan mudah dan nyaman bersama Joy of Care. Anda dapat memanggil dokter untuk melakukan <strong>infus dan suntik vitamin di rumah</strong>, lengkap dengan peralatan medis standar dan prosedur steril.</p>
-      <p>Layanan ini membantu meningkatkan daya tahan tubuh, memulihkan energi, dan mendukung kesehatan secara praktis tanpa harus ke klinik. Dokter kami berlisensi dan siap datang ke rumah Anda.</p>
-      <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;margin:20px 0">
-        <img src="/images/infus-suntik-vitamin-di-rumah/1.jpg" alt="Dokter Joy of Care melakukan terapi infus vitamin di rumah" style="width:100%;border-radius:12px;box-shadow:0 4px 12px rgba(0,0,0,.12)" loading="lazy">
-        <img src="/images/infus-suntik-vitamin-di-rumah/2.jpg" alt="Persiapan infus dan suntik vitamin oleh tenaga medis" style="width:100%;border-radius:12px;box-shadow:0 4px 12px rgba(0,0,0,.12)" loading="lazy">
+      <h2 style="font-family:Montserrat,sans-serif;font-size:1.8rem;font-weight:700;margin-bottom:16px">Infus Vitamin di Rumah Jakarta: Harga Transparan & Kenyamanan Maksimal</h2>
+      <p>Aktivitas padat, paparan polusi udara perkotaan, kelelahan kronis (*burnout*), serta fase pemulihan pasca sakit sering kali menyebabkan daya tahan tubuh menurun drastis. Layanan <strong>infus vitamin di rumah Jakarta</strong> dari Joy of Care hadir sebagai solusi medis praktis tanpa perlu keluar rumah atau menghadapi kemacetan.</p>
+      <p>Dengan terapi intravena (IV drip), multivitamin dan mikronutrien penting langsung diserap 100% oleh peredaran darah tanpa membebani lambung, memberikan efek kebugaran dan revitalisasi sel tubuh yang instan dan aman di bawah pengawasan medis.</p>
+      
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;margin:24px 0">
+        <img src="/images/infus-suntik-vitamin-di-rumah/1.jpg" alt="Dokter Joy of Care memberikan terapi infus vitamin di rumah pasien" style="width:100%;border-radius:12px;box-shadow:0 4px 12px rgba(0,0,0,.12)" loading="lazy">
+        <img src="/images/infus-suntik-vitamin-di-rumah/2.jpg" alt="Peralatan steril infus vitamin dan injeksi vitamin oleh tenaga medis Joy of Care" style="width:100%;border-radius:12px;box-shadow:0 4px 12px rgba(0,0,0,.12)" loading="lazy">
       </div>
-      <h3 style="font-size:1.2rem;font-weight:600;margin:16px 0">Pilihan Layanan:</h3>
-      <ul style="padding-left:20px;color:#4a5568">
-        <li>Suntik Vitamin C untuk daya tahan tubuh</li>
-        <li>Infus Vitamin B Kompleks &amp; C untuk energi</li>
-        <li>Paket imun booster dan anti GERD</li>
-        <li>Multivitamin dan mineral</li>
-        <li>Paket nebulisasi</li>
-      </ul>
-      <p style="margin-top:12px">Setiap prosedur didahului konsultasi dokter untuk memastikan keamanan dan kesesuaian kebutuhan Anda.</p>
+
+      <h3 style="font-size:1.3rem;font-weight:700;margin:24px 0 12px">Pilihan Paket Terapi Infus & Suntik Vitamin:</h3>
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:20px;margin-bottom:24px">
+        <div style="background:#fff;padding:20px;border-radius:12px;border:1px solid var(--color-border)">
+          <h4 style="color:var(--color-primary);margin-bottom:8px">1. Paket Immune Booster (High Dose Vit C + Zinc)</h4>
+          <p style="color:#4a5568;font-size:.92rem;margin:0">Meningkatkan pertahanan imun melawan flu, infeksi virus, radikal bebas, serta mempercepat pemulihan tubuh yang drop atau lelah berat.</p>
+        </div>
+        <div style="background:#fff;padding:20px;border-radius:12px;border:1px solid var(--color-border)">
+          <h4 style="color:var(--color-primary);margin-bottom:8px">2. Paket Neurotropic Energy (Vitamin B Kompleks / Neurobion)</h4>
+          <p style="color:#4a5568;font-size:.92rem;margin:0">Kombinasi B1, B6, dan B12 untuk menjaga kesehatan saraf tepi, meredakan kesemutan, pegal linu, kebas otot, serta meningkatkan energi seluler.</p>
+        </div>
+        <div style="background:#fff;padding:20px;border-radius:12px;border:1px solid var(--color-border)">
+          <h4 style="color:var(--color-primary);margin-bottom:8px">3. Paket Pemulihan Sakit & Rehidrasi (Post-Illness Drip)</h4>
+          <p style="color:#4a5568;font-size:.92rem;margin:0">Cairan elektrolit seimbang plus multivitamin lengkap untuk memulihkan stamina pasca tipes, DBD, diare, maupun operasi bedah.</p>
+        </div>
+        <div style="background:#fff;padding:20px;border-radius:12px;border:1px solid var(--color-border)">
+          <h4 style="color:var(--color-primary);margin-bottom:8px">4. Paket Anti-GERD & Perlindungan Lambung</h4>
+          <p style="color:#4a5568;font-size:.92rem;margin:0">Terapi pendukung untuk meredakan nyeri ulu hati akut, mual berlebih, dan dehidrasi akibat asam lambung tinggi tanpa membebani dinding pencernaan.</p>
+        </div>
+      </div>
+
+      <p>Ingin memastikan kondisi kesehatan Anda secara objektif sebelum infus? Anda dapat memadukannya dengan <a href="/homelab/">cek darah di rumah (Home Lab)</a> atau meminta <a href="/panggil-dokter-ke-rumah/">kunjungan dokter ke rumah</a> untuk pemeriksaan fisik yang lebih mendalam.</p>
     </div>
   </section>
 
-
-  
   <section class="section section-alt">
     <div class="container">
-      <h2 class="section-title">Kenapa Memilih Joy of Care</h2>
-      <p class="section-subtitle">Layanan kesehatan profesional langsung ke rumah Anda, tanpa antre dan tanpa keluar rumah.</p>
+      <h2 class="section-title">Keunggulan Terapi Infus Joy of Care</h2>
+      <p class="section-subtitle">Pelayanan infus medis yang aman, higienis, dan nyaman di kediaman Anda.</p>
       <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:24px">
         <div style="background:#fff;padding:24px;border-radius:12px;box-shadow:0 1px 3px rgba(0,0,0,.1)">
-          <div style="font-size:2rem">🏠</div><h3 style="margin:8px 0">Kenyamanan di Rumah</h3>
-          <p style="color:#4a5568;font-size:.95rem">Tidak perlu repot ke fasilitas kesehatan. Tenaga medis kami datang langsung ke rumah Anda.</p>
+          <div style="font-size:2rem">🏷️</div>
+          <h3 style="margin:8px 0">Harga Transparan</h3>
+          <p style="color:#4a5568;font-size:.95rem">Rincian harga tertera jelas sebelum pemesanan. Tidak ada biaya tambahan mendadak untuk transportasi nakes.</p>
         </div>
         <div style="background:#fff;padding:24px;border-radius:12px;box-shadow:0 1px 3px rgba(0,0,0,.1)">
-          <div style="font-size:2rem">👨‍⚕️</div><h3 style="margin:8px 0">Tenaga Medis Profesional</h3>
-          <p style="color:#4a5568;font-size:.95rem">Dokter, perawat, dan terapis berlisensi serta berpengalaman menangani pasien di rumah.</p>
+          <div style="font-size:2rem">👨‍⚕️</div>
+          <h3 style="margin:8px 0">Dokter & Perawat STR Aktif</h3>
+          <p style="color:#4a5568;font-size:.95rem">Tindakan pemasangan kanula intravena dikerjakan oleh nakes terlatih yang berpengalaman dan ramah.</p>
         </div>
         <div style="background:#fff;padding:24px;border-radius:12px;box-shadow:0 1px 3px rgba(0,0,0,.1)">
-          <div style="font-size:2rem">🕒</div><h3 style="margin:8px 0">Fleksibilitas Waktu</h3>
-          <p style="color:#4a5568;font-size:.95rem">Kami siap melayani setiap hari, termasuk akhir pekan, sesuai jadwal yang Anda pilih.</p>
+          <div style="font-size:2rem">💉</div>
+          <h3 style="margin:8px 0">Obat Resmi BPOM</h3>
+          <p style="color:#4a5568;font-size:.95rem">Seluruh ampul vitamin dan cairan infus bersertifikasi resmi BPOM dari distributor farmasi terpercaya.</p>
         </div>
         <div style="background:#fff;padding:24px;border-radius:12px;box-shadow:0 1px 3px rgba(0,0,0,.1)">
-          <div style="font-size:2rem">🤝</div><h3 style="margin:8px 0">Perawatan Bersahabat</h3>
-          <p style="color:#4a5568;font-size:.95rem">Tim kami peduli pada kesehatan Anda dan memberikan pendampingan yang ramah dan personal.</p>
+          <div style="font-size:2rem">🩺</div>
+          <h3 style="margin:8px 0">Skrining Pra-Tindakan</h3>
+          <p style="color:#4a5568;font-size:.95rem">Pemeriksaan tanda vital dan evaluasi alergi dilakukan sebelum cairan infus diberikan demi keamanan maksimal.</p>
         </div>
         <div style="background:#fff;padding:24px;border-radius:12px;box-shadow:0 1px 3px rgba(0,0,0,.1)">
-          <div style="font-size:2rem">💻</div><h3 style="margin:8px 0">Teknologi Terkini</h3>
-          <p style="color:#4a5568;font-size:.95rem">Riwayat medis dipantau dan dikelola dengan teliti melalui sistem yang modern.</p>
+          <div style="font-size:2rem">🛋️</div>
+          <h3 style="margin:8px 0">Kenyamanan Maksimal</h3>
+          <p style="color:#4a5568;font-size:.95rem">Anda bisa bersantai di sofa atau tempat tidur favorit sambil mendengarkan musik atau beristirahat.</p>
         </div>
         <div style="background:#fff;padding:24px;border-radius:12px;box-shadow:0 1px 3px rgba(0,0,0,.1)">
-          <div style="font-size:2rem">📋</div><h3 style="margin:8px 0">Layanan Medis Lengkap</h3>
-          <p style="color:#4a5568;font-size:.95rem">Pemeriksaan rutin lansia, perawatan luka, infus, vaksinasi, hingga fisioterapi di rumah.</p>
+          <div style="font-size:2rem">📍</div>
+          <h3 style="margin:8px 0">Jangkauan Jabodetabek</h3>
+          <p style="color:#4a5568;font-size:.95rem">Siap melayani seluruh wilayah Jakarta, BSD City, Tangerang, Tangerang Selatan, Depok, dan Bekasi.</p>
         </div>
       </div>
     </div>
   </section>
 
-<section class="section section-alt">
+  <section class="section">
     <div class="container">
-      <h2 class="section-title">Pertanyaan yang Sering Ditanyakan</h2>
+      <h2 class="section-title">Pertanyaan yang Sering Ditanyakan (FAQ)</h2>
       <div class="faq-list">
-        <div class="faq-item"><button class="faq-question">Apakah infus vitamin aman dilakukan di rumah?</button><div class="faq-answer"><div class="faq-answer-inner">Ya, infus vitamin dilakukan oleh dokter berlisensi dengan peralatan medis standar. Semua jarum dan peralatan steril sekali pakai.</div></div></div>
-        <div class="faq-item"><button class="faq-question">Berapa lama sesi infus vitamin?</button><div class="faq-answer"><div class="faq-answer-inner">Sesi infus vitamin biasanya berlangsung 30-60 menit tergantung jenis vitamin yang diberikan.</div></div></div>
-        <div class="faq-item"><button class="faq-question">Apakah ada efek samping infus vitamin?</button><div class="faq-answer"><div class="faq-answer-inner">Efek samping umumnya minimal. Dokter kami akan melakukan konsultasi sebelum infus untuk memastikan keamanan.</div></div></div>
+        {faqData.map(f => (
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">{f.question}</button>
+            <div class="faq-answer">
+              <div class="faq-answer-inner">{f.answer}</div>
+            </div>
+          </div>
+        ))}
       </div>
     </div>
   </section>
@@ -92,12 +174,66 @@ const canonical = `${SITE_URL}/infus-suntik-vitamin-di-rumah`;
   <section class="section">
     <div class="container">
       <div class="cta-banner">
-        <h2>Siap Memulai?</h2>
-        <p>Hubungi kami sekarang untuk konsultasi atau informasi lebih lanjut.</p>
-        <a href="https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20tanya%20infus%20&%20suntik%20vitamin" class="btn btn-lg">Chat WhatsApp</a>
+        <h2>Pulihkan Energi & Daya Tahan Tubuh Hari Ini</h2>
+        <p>Konsultasikan kebutuhan vitamin Anda dengan tim dokter Joy of Care dan rasakan kemudahan layanan homecare kami.</p>
+        <a href="https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20pesan%20layanan%20infus%20vitamin%20di%20rumah" class="btn btn-primary btn-lg" target="_blank" rel="noopener noreferrer">Pesan Infus Vitamin via WhatsApp</a>
       </div>
     </div>
   </section>
-
-  
 </BaseLayout>
+
+<style>
+  .page-hero {
+    background: linear-gradient(135deg, #f0fdf4 0%, #dcfce7 100%);
+    padding: 48px 0 32px;
+  }
+  .breadcrumbs {
+    font-size: 0.875rem;
+    color: var(--color-text-secondary);
+    margin-bottom: 16px;
+  }
+  .breadcrumbs a {
+    color: var(--color-primary);
+    text-decoration: none;
+  }
+  .breadcrumbs a:hover {
+    text-decoration: underline;
+  }
+  .content-section {
+    padding: 60px 0;
+  }
+  .section-title {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 12px;
+  }
+  .section-subtitle {
+    text-align: center;
+    color: var(--color-text-secondary);
+    max-width: 600px;
+    margin: 0 auto 48px;
+  }
+  .cta-banner {
+    background: linear-gradient(135deg, var(--color-primary) 0%, #247A3B 100%);
+    color: white;
+    padding: 48px;
+    border-radius: var(--radius-lg);
+    text-align: center;
+  }
+  .cta-banner h2 {
+    font-size: 1.8rem;
+    margin-bottom: 12px;
+    color: white;
+  }
+  .cta-banner p {
+    font-size: 1.05rem;
+    opacity: 0.95;
+    margin-bottom: 24px;
+  }
+  .btn-lg {
+    font-size: 1.05rem;
+    padding: 14px 32px;
+  }
+</style>

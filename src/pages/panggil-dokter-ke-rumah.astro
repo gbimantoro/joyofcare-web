@@ -4,24 +4,83 @@ import { SITE_URL } from '../consts';
 
 export const prerender = true;
 
-const title = "Panggil Dokter Ke Rumah";
-const description = "Panggil dokter profesional ke rumah Anda untuk pemeriksaan kesehatan non-darurat. Joy of Care melayani BSD, Tangerang Selatan, Jakarta, Depok &amp; Bogor. Chat WA 08811-118-911.";
-const canonical = `${SITE_URL}/panggil-dokter-ke-rumah`;
+const title = "Panggil Dokter ke Rumah Jakarta & Tangerang | Joy of Care";
+const description = "Layanan panggil dokter ke rumah Jakarta, BSD, Tangerang & Jabodetabek. Pemeriksaan kesehatan lansia, resep resmi, rawat luka, dan infus. Hubungi WhatsApp 08811-118-911.";
+const canonical = `${SITE_URL}/panggil-dokter-ke-rumah/`;
+
+const faqData = [
+  {
+    question: "Bagaimana cara memanggil dokter ke rumah?",
+    answer: "Hubungi WhatsApp kami di 08811-118-911, sampaikan keluhan dan alamat Anda, lalu jadwalkan kunjungan. Dokter kami akan tiba di lokasi dalam 60-90 menit untuk area Jakarta, Tangerang, dan BSD City."
+  },
+  {
+    question: "Berapa biaya panggil dokter ke rumah 2026?",
+    answer: "Tarif panggil dokter ke rumah Joy of Care bersifat transparan dan all-in, sudah termasuk visit dokter berizin resmi dan biaya transportasi ke rumah Anda di wilayah Jabodetabek. Hubungi WhatsApp 08811-118-911 untuk informasi tarif terbaru."
+  },
+  {
+    question: "Dokter apa saja yang tersedia untuk kunjungan ke rumah?",
+    answer: "Kami menyediakan dokter umum berlisensi resmi (STR & SIP aktif Dinkes) serta konsultan geriatri berpengalaman untuk pemeriksaan kesehatan menyeluruh, perawatan lansia, penanganan penyakit kronis, dan tindakan medis ringan."
+  },
+  {
+    question: "Area layanan panggil dokter Joy of Care mencakup mana saja?",
+    answer: "Layanan kami menjangkau seluruh DKI Jakarta (Jakarta Barat, Jakarta Selatan, Jakarta Pusat, Jakarta Timur, Jakarta Utara), BSD City, Tangerang Selatan, Kota Tangerang, Depok, dan Bogor."
+  }
+];
 ---
 
 <BaseLayout title={title} description={description} canonicalURL={canonical}>
+  <!-- Schema: MedicalProcedure -->
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "MedicalProcedure",
+    "name": "Layanan Panggil Dokter ke Rumah Jakarta & Tangerang",
+    "description": description,
+    "url": canonical,
+    "procedureType": "http://schema.org/PhysicalExam",
+    "provider": {
+      "@type": "MedicalBusiness",
+      "name": "Joy of Care",
+      "telephone": "+628811118911",
+      "url": `${SITE_URL}/`
+    },
+    "areaServed": ["Jakarta", "Tangerang", "Tangerang Selatan", "Depok", "Bogor"]
+  })} />
 
+  <!-- Schema: BreadcrumbList -->
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Beranda", "item": `${SITE_URL}/` },
+      { "@type": "ListItem", "position": 2, "name": "Layanan", "item": `${SITE_URL}/layanan-lengkap/` },
+      { "@type": "ListItem", "position": 3, "name": "Panggil Dokter ke Rumah", "item": canonical }
+    ]
+  })} />
+
+  <!-- Schema: FAQPage -->
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": faqData.map(f => ({
+      "@type": "Question",
+      "name": f.question,
+      "acceptedAnswer": { "@type": "Answer", "text": f.answer }
+    }))
+  })} />
 
   <section class="page-hero">
     <div class="container">
-      <nav class="breadcrumbs" aria-label="Breadcrumb"><a href="/">Beranda</a> <span>›</span> Panggil Dokter</nav>
+      <nav class="breadcrumbs" aria-label="Breadcrumb">
+        <a href="/">Beranda</a> <span>›</span>
+        <a href="/layanan-lengkap/">Layanan</a> <span>›</span>
+        Panggil Dokter
+      </nav>
       <h1>Panggil <span class="text-primary">Dokter</span> ke Rumah</h1>
-      <p>Dokter profesional datang langsung ke rumah Anda untuk pemeriksaan kesehatan, konsultasi, dan tindakan medis ringan. sudah termasuk biaya transport.</p>
-      <a href="https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20tanya%20panggil%20dokter" class="btn btn-primary" style="margin-top:20px">Chat WhatsApp Sekarang</a>
+      <p>Dokter profesional datang langsung ke rumah Anda untuk pemeriksaan kesehatan, konsultasi, dan tindakan medis ringan. Biaya all-in sudah termasuk transportasi tenaga medis.</p>
+      <a href="https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20tanya%20panggil%20dokter" class="btn btn-primary" style="margin-top:20px" target="_blank" rel="noopener noreferrer">Chat WhatsApp Sekarang</a>
     </div>
   </section>
 
-  
   <section class="content-section">
     <div class="container">
       <h2 style="font-family:Montserrat,sans-serif;font-size:1.8rem;font-weight:700;margin-bottom:16px">Panggil Dokter ke Rumah untuk Pemeriksaan Kesehatan Non-Darurat</h2>
@@ -34,6 +93,8 @@ const canonical = `${SITE_URL}/panggil-dokter-ke-rumah`;
       <h3 style="font-size:1.2rem;font-weight:600;margin:16px 0">Layanan yang Tersedia:</h3>
       <ul style="padding-left:20px;color:#4a5568">
         <li>Pemeriksaan umum dan konsultasi kesehatan</li>
+        <li>Vaksinasi Mahasiswa ke Luar Negeri</li>
+        <li>Pemeriksaan Kesehatan dan Sertifikat untuk kampus tujuan</li>
         <li>Tindakan medis ringan (perawatan luka, infeksi kulit)</li>
         <li>Resep obat dan rujukan ke spesialis</li>
         <li>Pemeriksaan lansia dan pasien penyakit kronis</li>
@@ -95,10 +156,14 @@ const canonical = `${SITE_URL}/panggil-dokter-ke-rumah`;
     <div class="container">
       <h2 class="section-title">Pertanyaan yang Sering Ditanyakan</h2>
       <div class="faq-list">
-        <div class="faq-item"><button class="faq-question" aria-expanded="false">Bagaimana cara memanggil dokter ke rumah?</button><div class="faq-answer"><div class="faq-answer-inner">Hubungi WhatsApp kami di 08811-118-911, sampaikan keluhan Anda, dan jadwalkan kunjungan. Dokter akan datang dalam 1-2 jam untuk area BSD dan Tangerang.</div></div></div>
-        <div class="faq-item"><button class="faq-question" aria-expanded="false">Berapa biaya panggil dokter ke rumah?</button><div class="faq-answer"><div class="faq-answer-inner">Hubungi WhatsApp untuk informasi harga. transport dokter. Harga bervariasi tergantung jenis pemeriksaan dan wilayah.</div></div></div>
-        <div class="faq-item"><button class="faq-question" aria-expanded="false">Dokter apa saja yang tersedia?</button><div class="faq-answer"><div class="faq-answer-inner">Kami memiliki dokter umum untuk pemeriksaan umum, konsultasi kesehatan, dan tindakan medis ringan. Semua dokter kami berlisensi dan berpengalaman.</div></div></div>
-        <div class="faq-item"><button class="faq-question" aria-expanded="false">Area layanan mencakup mana saja?</button><div class="faq-answer"><div class="faq-answer-inner">Kami melayani BSD City, Tangerang Selatan, Tangerang, Jakarta (Barat, Selatan, Pusat), Depok, dan Bogor.</div></div></div>
+        {faqData.map(f => (
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">{f.question}</button>
+            <div class="faq-answer">
+              <div class="faq-answer-inner">{f.answer}</div>
+            </div>
+          </div>
+        ))}
       </div>
     </div>
   </section>

@@ -4,102 +4,147 @@ import { SITE_URL } from '../consts';
 
 export const prerender = true;
 
-const title = "Layanan Perawat Di Rumah";
-const description = "Layanan perawat homecare profesional di rumah. Perawatan pasca operasi, lansia, dan pasien kronis. Joy of Care melayani BSD, Tangerang, Jakarta. Chat WA 08811-118-911.";
-const canonical = `${SITE_URL}/layanan-perawat-di-rumah`;
+const title = "Perawat Lansia di Rumah Jabodetabek & Homecare Terpercaya | Joy of Care";
+const description = "Jasa perawat lansia di rumah Jabodetabek & homecare terpercaya. Pasca operasi, stroke, tirah baring, ganti kateter, pasang NGT, dan rawat luka. Perawat berizin STR resmi Dinkes.";
+const canonical = `${SITE_URL}/layanan-perawat-di-rumah/`;
+
+const faqData = [
+  {
+    question: "Apa perbedaan antara perawat lansia medis (nurse) dengan caregiver pendamping?",
+    answer: "Perawat lansia medis (nurse) Joy of Care adalah lulusan D3/S1 Keperawatan yang memegang Surat Tanda Registrasi (STR) aktif dari Kementerian Kesehatan, berwenang melakukan tindakan invasif seperti pasang infus, injeksi, pasang selang NGT, kateter urine, dan rawat luka steril. Sementara caregiver berfokus pada pendampingan aktivitas dasar harian (ADL) seperti mandi, makan, dan mobilitas."
+  },
+  {
+    question: "Berapa pilihan durasi layanan perawat lansia di rumah Joy of Care?",
+    answer: "Joy of Care menyediakan paket yang sangat fleksibel: kunjungan tindakan medis per visit (1-2 jam), paket pendampingan harian 8 jam / 12 jam, hingga paket perawat standby 24 jam (menginap/live-in) mingguan maupun bulanan sesuai rekomendasi dokter."
+  },
+  {
+    question: "Bagaimana standar verifikasi latar belakang dan keamanan perawat Joy of Care?",
+    answer: "Seluruh perawat kami melewati 4 tahap seleksi ketat: verifikasi keaslian STR di Konsil Tenaga Kesehatan Indonesia (KTKI), verifikasi SKCK kepolisian bebas tindak pidana, uji kompetensi klinis geriatri mandiri, serta pelatihan hospital-grade patient safety dan etika komunikasi empati."
+  },
+  {
+    question: "Area mana saja yang dijangkau jasa perawat homecare Joy of Care?",
+    answer: "Kami melayani penugasan perawat di seluruh wilayah Jabodetabek, meliputi DKI Jakarta (Jakarta Barat, Selatan, Pusat, Timur, Utara), BSD City, Gading Serpong, Alam Sutera, Tangerang Selatan, Kota Tangerang, Depok, dan Bogor."
+  }
+];
 ---
 
 <BaseLayout title={title} description={description} canonicalURL={canonical}>
+  <!-- Schema: MedicalProcedure -->
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "MedicalProcedure",
+    "name": "Jasa Perawat Lansia di Rumah & Homecare Jabodetabek",
+    "description": description,
+    "url": canonical,
+    "provider": {
+      "@type": "MedicalBusiness",
+      "name": "Joy of Care",
+      "telephone": "+628811118911",
+      "url": `${SITE_URL}/`
+    },
+    "areaServed": ["Jakarta", "Tangerang", "Tangerang Selatan", "Depok", "Bogor"]
+  })} />
 
+  <!-- Schema: BreadcrumbList -->
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Beranda", "item": `${SITE_URL}/` },
+      { "@type": "ListItem", "position": 2, "name": "Layanan", "item": `${SITE_URL}/layanan-lengkap/` },
+      { "@type": "ListItem", "position": 3, "name": "Perawat di Rumah", "item": canonical }
+    ]
+  })} />
+
+  <!-- Schema: FAQPage -->
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": faqData.map(f => ({
+      "@type": "Question",
+      "name": f.question,
+      "acceptedAnswer": { "@type": "Answer", "text": f.answer }
+    }))
+  })} />
 
   <section class="page-hero">
     <div class="container">
-      <nav class="breadcrumbs" aria-label="Breadcrumb"><a href="/">Beranda</a> <span>›</span> Perawat</nav>
-      <h1>Perawat <span class="text-primary">di Rumah</span></h1>
-      <p>Layanan perawat homecare profesional di rumah untuk perawatan pasca operasi, lansia, dan pasien kronis. Joy of Care melayani BSD, Tangerang, dan Jakarta.</p>
-      <a href="https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20tanya%20perawat" class="btn btn-primary" style="margin-top:20px">Chat WhatsApp Sekarang</a>
+      <nav class="breadcrumbs" aria-label="Breadcrumb">
+        <a href="/">Beranda</a> <span>›</span>
+        <a href="/layanan-lengkap/">Layanan</a> <span>›</span>
+        Perawat di Rumah
+      </nav>
+      <h1>Perawat Lansia <span class="text-primary">di Rumah</span> Jabodetabek</h1>
+      <p>Jasa perawat homecare terpercaya untuk lansia, pasien tirah baring (bedridden), pasca stroke, dan perawatan luka pasca operasi. Tenaga perawat berlisensi STR aktif dan tersertifikasi resmi.</p>
+      <a href="https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20tanya%20layanan%20perawat%20lansia%20homecare" class="btn btn-primary" style="margin-top:20px" target="_blank" rel="noopener noreferrer">Konsultasi Perawat via WhatsApp</a>
     </div>
   </section>
 
-  
   <section class="content-section">
     <div class="container">
-      <h2 style="font-family:Montserrat,sans-serif;font-size:1.8rem;font-weight:700;margin-bottom:16px">Layanan Perawat Homecare Profesional</h2>
-      <p>Perawat homecare Joy of Care adalah tenaga kesehatan terlatih yang memberikan perawatan medis dan dukungan di rumah pasien. Mereka membantu pasien menjalani proses pemulihan, mengelola kondisi kesehatan kronis, serta mendampingi aktivitas sehari-hari di lingkungan yang nyaman.</p>
-      <p>Layanan ini ideal bagi pasien pasca rawat inap, lansia, dan keluarga yang menginginkan perawatan personal tanpa harus tinggal di rumah sakit.</p>
-      <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;margin:20px 0">
+      <h2 style="font-family:Montserrat,sans-serif;font-size:1.8rem;font-weight:700;margin-bottom:16px">Perawatan Medis Berkelanjutan Penuh Kasih di Rumah</h2>
+      <p>Layanan <strong>perawat lansia di rumah jabodetabek</strong> dari Joy of Care menghadirkan standar kenyamanan rumah sakit langsung di kamar tidur pasien. Bagi keluarga dengan orang tua lanjut usia yang menderita penyakit degeneratif, komplikasi stroke, demensia, atau baru saja keluar dari ruang rawat inap (ICU/HND), kehadiran perawat medis profesional menjamin keselamatan pasien dan mencegah rawat inap ulang (*rehospitalization*).</p>
+      <p>Perawat kami terlatih dalam observasi tanda-tanda vital berkala, kepatuhan jadwal minum obat harian, serta pencegahan luka dekubitus pada pasien yang tidak mampu bergerak mandiri.</p>
+
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;margin:24px 0">
         <img src="/images/layanan-perawat-di-rumah/1.jpg" alt="Perawat homecare Joy of Care merawat pasien lansia di rumah" style="width:100%;border-radius:12px;box-shadow:0 4px 12px rgba(0,0,0,.12)" loading="lazy">
-        <img src="/images/layanan-perawat-di-rumah/2.jpg" alt="Perawat Joy of Care mendampingi pasien pasca operasi" style="width:100%;border-radius:12px;box-shadow:0 4px 12px rgba(0,0,0,.12)" loading="lazy">
+        <img src="/images/layanan-perawat-di-rumah/2.jpg" alt="Perawat Joy of Care mendampingi pasien pasca operasi di Jabodetabek" style="width:100%;border-radius:12px;box-shadow:0 4px 12px rgba(0,0,0,.12)" loading="lazy">
       </div>
-      <h3 style="font-size:1.2rem;font-weight:600;margin:16px 0">Layanan yang Tersedia:</h3>
-      <ul style="padding-left:20px;color:#4a5568">
-        <li>Perawatan pasca rawat, operasi, dan stroke</li>
-        <li>Manajemen penyakit kronis (diabetes, hipertensi)</li>
-        <li>Perawatan lansia harian</li>
-        <li>Terapi fisik dan rehabilitasi ringan</li>
-        <li>Bantuan aktivitas sehari-hari (makan, mandi, berpindah posisi)</li>
-        <li>Pemberian obat dan perawatan luka</li>
-        <li>Penggantian kateter urine dan selang makanan (NGT)</li>
-      </ul>
+
+      <h3 style="font-size:1.3rem;font-weight:700;margin:24px 0 12px">Spektrum Tindakan Medis Perawat Joy of Care:</h3>
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px">
+        <ul style="padding-left:20px;color:#4a5568;line-height:1.8">
+          <li><strong>Pemasangan & Penggantian Kateter Urin (Foley)</strong> dengan teknik steril aseptik</li>
+          <li><strong>Pemasangan Selang Makan Lambung (NGT)</strong> & pemantauan nutrisi enteral</li>
+          <li><strong>Perawatan Luka Modern (Modern Wound Care)</strong> untuk dekubitus dan gangrene diabetes</li>
+          <li><strong>Pemberian Terapi Injeksi & Infus</strong> sesuai instruksi resep dokter</li>
+        </ul>
+        <ul style="padding-left:20px;color:#4a5568;line-height:1.8">
+          <li><strong>Pengisapan Lendir Trakeostomi (Suction)</strong> & perawatan jalan napas</li>
+          <li><strong>Pemantauan Rutin Parameter Vital</strong> (Tensi, Nadi, SpO2, Gula Darah)</li>
+          <li><strong>Mobilisasi Posisi Tidur 2 Jam Sekali</strong> untuk mencegah luka tirah baring</li>
+          <li><strong>Pendampingan Aktivitas Hidup Sehari-hari (ADL)</strong> secara penuh empati</li>
+        </ul>
+      </div>
     </div>
   </section>
-
-
-  
-  <section class="section">
-    <div class="container">
-      <h2 class="section-title">Pilih Paket yang Sesuai Kebutuhan</h2>
-      <p class="section-subtitle">Tersedia paket harian (24 jam), mingguan (7 hari), dan bulanan (28 hari).</p>
-      <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:16px">
-        <div style="background:#f7fafc;padding:20px;border-radius:12px"><h4 style="margin-bottom:6px">Harian (24 Jam)</h4><p style="color:#4a5568;font-size:.92rem">Perawat mendampingi penuh selama 24 jam untuk perawatan intensif jangka pendek.</p></div>
-        <div style="background:#f7fafc;padding:20px;border-radius:12px"><h4 style="margin-bottom:6px">Mingguan (7 Hari)</h4><p style="color:#4a5568;font-size:.92rem">Perawatan berkelanjutan selama seminggu untuk pemulihan yang konsisten.</p></div>
-        <div style="background:#f7fafc;padding:20px;border-radius:12px"><h4 style="margin-bottom:6px">Bulanan (28 Hari)</h4><p style="color:#4a5568;font-size:.92rem">Solusi jangka panjang untuk perawatan lansia dan pasien kronis di rumah.</p></div>
-      </div>
-      <p style="text-align:center;margin-top:24px"><strong>Area layanan:</strong> BSD City, Tangerang Selatan, Tangerang, Jakarta, Depok, dan Bogor.</p>
-    </div>
-  </section>
-
 
   <section class="section section-alt">
     <div class="container">
-      <h2 class="section-title">Kenapa Memilih Joy of Care</h2>
-      <p class="section-subtitle">Layanan kesehatan profesional langsung ke rumah Anda, tanpa antre dan tanpa keluar rumah.</p>
+      <h2 class="section-title">Mengapa Keluarga Memilih Perawat Homecare Joy of Care?</h2>
+      <p class="section-subtitle">Komitmen kami adalah menghadirkan ketenangan batin (*peace of mind*) bagi seluruh anggota keluarga.</p>
       <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:24px">
         <div style="background:#fff;padding:24px;border-radius:12px;box-shadow:0 1px 3px rgba(0,0,0,.1)">
-          <div style="font-size:2rem">🏠</div><h3 style="margin:8px 0">Kenyamanan di Rumah</h3>
-          <p style="color:#4a5568;font-size:.95rem">Tidak perlu repot ke fasilitas kesehatan. Tenaga medis kami datang langsung ke rumah Anda.</p>
+          <div style="font-size:2rem">🛡️</div>
+          <h3 style="margin:8px 0">100% Berizin STR Resmi</h3>
+          <p style="color:#4a5568;font-size:.95rem">Bukan tenaga asisten non-medis. Seluruh perawat kami adalah lulusan keperawatan dengan registrasi resmi Kemenkes.</p>
         </div>
         <div style="background:#fff;padding:24px;border-radius:12px;box-shadow:0 1px 3px rgba(0,0,0,.1)">
-          <div style="font-size:2rem">👨‍⚕️</div><h3 style="margin:8px 0">Tenaga Medis Profesional</h3>
-          <p style="color:#4a5568;font-size:.95rem">Dokter, perawat, dan terapis berlisensi serta berpengalaman menangani pasien di rumah.</p>
+          <div style="font-size:2rem">📱</div>
+          <h3 style="margin:8px 0">Laporan Medis Realtime</h3>
+          <p style="color:#4a5568;font-size:.95rem">Keluarga mendapatkan catatan perkembangan harian (*daily nursing report*) terperinci mengenai kondisi tanda vital pasien.</p>
         </div>
         <div style="background:#fff;padding:24px;border-radius:12px;box-shadow:0 1px 3px rgba(0,0,0,.1)">
-          <div style="font-size:2rem">🕒</div><h3 style="margin:8px 0">Fleksibilitas Waktu</h3>
-          <p style="color:#4a5568;font-size:.95rem">Kami siap melayani setiap hari, termasuk akhir pekan, sesuai jadwal yang Anda pilih.</p>
-        </div>
-        <div style="background:#fff;padding:24px;border-radius:12px;box-shadow:0 1px 3px rgba(0,0,0,.1)">
-          <div style="font-size:2rem">🤝</div><h3 style="margin:8px 0">Perawatan Bersahabat</h3>
-          <p style="color:#4a5568;font-size:.95rem">Tim kami peduli pada kesehatan Anda dan memberikan pendampingan yang ramah dan personal.</p>
-        </div>
-        <div style="background:#fff;padding:24px;border-radius:12px;box-shadow:0 1px 3px rgba(0,0,0,.1)">
-          <div style="font-size:2rem">💻</div><h3 style="margin:8px 0">Teknologi Terkini</h3>
-          <p style="color:#4a5568;font-size:.95rem">Riwayat medis dipantau dan dikelola dengan teliti melalui sistem yang modern.</p>
-        </div>
-        <div style="background:#fff;padding:24px;border-radius:12px;box-shadow:0 1px 3px rgba(0,0,0,.1)">
-          <div style="font-size:2rem">📋</div><h3 style="margin:8px 0">Layanan Medis Lengkap</h3>
-          <p style="color:#4a5568;font-size:.95rem">Pemeriksaan rutin lansia, perawatan luka, infus, vaksinasi, hingga fisioterapi di rumah.</p>
+          <div style="font-size:2rem">🤝</div>
+          <h3 style="margin:8px 0">Pengawasan Dokter Spesialis</h3>
+          <p style="color:#4a5568;font-size:.95rem">Perawat berkoordinasi langsung dengan dokter supervisor Joy of Care bila ditemukan perubahan klinis signifikan.</p>
         </div>
       </div>
     </div>
   </section>
 
-<section class="section section-alt">
+  <section class="section">
     <div class="container">
-      <h2 class="section-title">Pertanyaan yang Sering Ditanyakan</h2>
+      <h2 class="section-title">Pertanyaan yang Sering Ditanyakan (FAQ)</h2>
       <div class="faq-list">
-        <div class="faq-item"><button class="faq-question">Apa beda perawat homecare dengan perawat rumah sakit?</button><div class="faq-answer"><div class="faq-answer-inner">Perawat homecare datang ke rumah Anda, memberikan perawatan personal di lingkungan yang nyaman, dan biayanya lebih terjangkau karena tidak ada biaya rawat inap.</div></div></div>
-        <div class="faq-item"><button class="faq-question">Berapa lama layanan perawat bisa dipesan?</button><div class="faq-answer"><div class="faq-answer-inner">Kami menyediakan paket harian (24 jam), mingguan (7 hari), dan bulanan (28 hari) sesuai kebutuhan Anda.</div></div></div>
-        <div class="faq-item"><button class="faq-question">Apakah perawat bisa menangani pasien pasca operasi?</button><div class="faq-answer"><div class="faq-answer-inner">Ya, perawat kami terlatih menangani pasien pasca operasi termasuk perawatan luka, pemberian obat, dan pemulihan mandiri.</div></div></div>
+        {faqData.map(f => (
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">{f.question}</button>
+            <div class="faq-answer">
+              <div class="faq-answer-inner">{f.answer}</div>
+            </div>
+          </div>
+        ))}
       </div>
     </div>
   </section>
@@ -107,12 +152,66 @@ const canonical = `${SITE_URL}/layanan-perawat-di-rumah`;
   <section class="section">
     <div class="container">
       <div class="cta-banner">
-        <h2>Siap Memulai?</h2>
-        <p>Hubungi kami sekarang untuk konsultasi atau informasi lebih lanjut.</p>
-        <a href="https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20tanya%20perawat" class="btn btn-lg">Chat WhatsApp</a>
+        <h2>Dapatkan Perawat Homecare Terbaik untuk Orang Tua</h2>
+        <p>Hubungi WhatsApp Joy of Care sekarang untuk konsultasi kebutuhan perawat harian atau 24 jam di rumah Anda.</p>
+        <a href="https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20perawat%20lansia%20homecare" class="btn btn-primary btn-lg" target="_blank" rel="noopener noreferrer">Konsultasi via WhatsApp</a>
       </div>
     </div>
   </section>
-
-  
 </BaseLayout>
+
+<style>
+  .page-hero {
+    background: linear-gradient(135deg, #f0fdf4 0%, #dcfce7 100%);
+    padding: 48px 0 32px;
+  }
+  .breadcrumbs {
+    font-size: 0.875rem;
+    color: var(--color-text-secondary);
+    margin-bottom: 16px;
+  }
+  .breadcrumbs a {
+    color: var(--color-primary);
+    text-decoration: none;
+  }
+  .breadcrumbs a:hover {
+    text-decoration: underline;
+  }
+  .content-section {
+    padding: 60px 0;
+  }
+  .section-title {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 12px;
+  }
+  .section-subtitle {
+    text-align: center;
+    color: var(--color-text-secondary);
+    max-width: 600px;
+    margin: 0 auto 48px;
+  }
+  .cta-banner {
+    background: linear-gradient(135deg, var(--color-primary) 0%, #247A3B 100%);
+    color: white;
+    padding: 48px;
+    border-radius: var(--radius-lg);
+    text-align: center;
+  }
+  .cta-banner h2 {
+    font-size: 1.8rem;
+    margin-bottom: 12px;
+    color: white;
+  }
+  .cta-banner p {
+    font-size: 1.05rem;
+    opacity: 0.95;
+    margin-bottom: 24px;
+  }
+  .btn-lg {
+    font-size: 1.05rem;
+    padding: 14px 32px;
+  }
+</style>

@@ -142,6 +142,7 @@ p { margin-bottom: 1rem; color: var(--color-text-secondary); }
 .faq-question::after { content: '+'; font-size: 1.3rem; color: var(--color-text-muted); transition: transform 0.3s; }
 .faq-item.active .faq-question::after { content: '−'; color: var(--color-primary); }
 .faq-answer { max-height: 0; overflow: hidden; transition: max-height 0.3s ease; }
+.faq-item.active .faq-answer { max-height: 1000px; }
 .faq-answer-inner { padding: 0 0 20px; color: var(--color-text-secondary); font-size: 0.95rem; line-height: 1.7; }
 
 /* --- CTA Banner --- */

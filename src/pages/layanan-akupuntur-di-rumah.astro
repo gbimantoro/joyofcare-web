@@ -4,87 +4,168 @@ import { SITE_URL } from '../consts';
 
 export const prerender = true;
 
-const title = "Layanan Akupuntur Di Rumah";
-const description = "Terapi akupuntur medis profesional di rumah Anda. Mengatasi nyeri, stres, insomnia, dan masalah kesehatan lainnya. Chat WA 08811-118-911.";
-const canonical = `${SITE_URL}/layanan-akupuntur-di-rumah`;
+const title = "Akupuntur untuk Nyeri Sendi Lansia di Rumah Jabodetabek | Joy of Care";
+const description = "Terapi akupuntur untuk nyeri sendi lansia, stroke, saraf kejepit, dan insomnia di rumah. Ditangani langsung oleh dokter spesialis akupuntur medis berizin STR.";
+const canonical = `${SITE_URL}/layanan-akupuntur-di-rumah/`;
+
+const faqData = [
+  {
+    question: "Apakah terapi akupuntur aman bagi lansia dengan keluhan nyeri sendi dan tulang?",
+    answer: "Sangat aman. Akupuntur medis menggunakan jarum filiform ultra-halus steril sekali pakai (single-use disposable) yang dimasukkan secara lembut pada titik meridian neurologis. Terapi ini bebas bahan kimia obat sehingga tidak membebani organ lambung, ginjal, atau hati lansia penderita osteoartritis maupun rematik."
+  },
+  {
+    question: "Berapa sesi terapi akupuntur yang dianjurkan untuk pemulihan nyeri sendi kronis?",
+    answer: "Sebagian besar pasien lansia merasakan penurunan nyeri dan perbaikan lingkup gerak sendi setelah 2 hingga 3 sesi. Untuk keluhan osteoartritis lutut kronis, saraf kejepit (HNP), atau pemulihan pasca stroke, program 6 hingga 10 sesi terencana memberikan hasil pemulihan fungsional yang stabil dan tahan lama."
+  },
+  {
+    question: "Siapa tenaga medis yang datang melakukan terapi akupuntur di rumah?",
+    answer: "Tindakan akupuntur di Joy of Care dikerjakan secara profesional oleh dokter akupuntur medis atau akupunkturis berlisensi resmi dengan Surat Tanda Registrasi (STR) aktif dari Kementerian Kesehatan RI dan berpengalaman menangani pasien geriatri."
+  },
+  {
+    question: "Apakah terapi akupuntur dapat dikombinasikan dengan fisioterapi di rumah?",
+    answer: "Sangat direkomendasikan. Kombinasi akupuntur medis untuk meredakan nyeri tajam dan spasme otot dengan fisioterapi latihan gerak aktif mempercepat proses pemulihan motorik serta penguatan sendi pada lansia secara sinergis."
+  }
+];
 ---
 
 <BaseLayout title={title} description={description} canonicalURL={canonical}>
+  <!-- Schema: MedicalTherapy -->
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "MedicalTherapy",
+    "name": "Layanan Akupuntur Medis di Rumah untuk Nyeri Sendi Lansia",
+    "description": description,
+    "url": canonical,
+    "provider": {
+      "@type": "MedicalBusiness",
+      "name": "Joy of Care",
+      "telephone": "+628811118911",
+      "url": `${SITE_URL}/`
+    },
+    "areaServed": ["Jakarta", "Tangerang", "Tangerang Selatan", "Depok", "Bogor"]
+  })} />
 
+  <!-- Schema: BreadcrumbList -->
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Beranda", "item": `${SITE_URL}/` },
+      { "@type": "ListItem", "position": 2, "name": "Layanan", "item": `${SITE_URL}/layanan-lengkap/` },
+      { "@type": "ListItem", "position": 3, "name": "Akupuntur di Rumah", "item": canonical }
+    ]
+  })} />
+
+  <!-- Schema: FAQPage -->
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": faqData.map(f => ({
+      "@type": "Question",
+      "name": f.question,
+      "acceptedAnswer": { "@type": "Answer", "text": f.answer }
+    }))
+  })} />
 
   <section class="page-hero">
     <div class="container">
-      <nav class="breadcrumbs" aria-label="Breadcrumb"><a href="/">Beranda</a> <span>›</span> Akupuntur</nav>
-      <h1>Terapi <span class="text-primary">Akupuntur</span> di Rumah</h1>
-      <p>Terapi akupuntur medis profesional di rumah Anda. Mengatasi nyeri, stres, insomnia, dan masalah kesehatan lainnya. Chat ...</p>
-      <a href="https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20tanya%20akupuntur" class="btn btn-primary" style="margin-top:20px">Chat WhatsApp Sekarang</a>
+      <nav class="breadcrumbs" aria-label="Breadcrumb">
+        <a href="/">Beranda</a> <span>›</span>
+        <a href="/layanan-lengkap/">Layanan</a> <span>›</span>
+        Akupuntur di Rumah
+      </nav>
+      <h1>Akupuntur untuk Nyeri Sendi Lansia — <span class="text-primary">Medis & Aman</span> di Rumah</h1>
+      <p>Terapi akupuntur medis profesional langsung di kamar Anda. Meredakan nyeri sendi osteoartritis, saraf kejepit, rehabilitasi pasca stroke, dan gangguan tidur tanpa efek samping obat kimia.</p>
+      <a href="https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20akupuntur%20nyeri%20sendi%20lansia%20di%20rumah" class="btn btn-primary" style="margin-top:20px" target="_blank" rel="noopener noreferrer">Konsultasi Akupuntur via WhatsApp</a>
     </div>
   </section>
 
-  
   <section class="content-section">
     <div class="container">
-      <h2 style="font-family:Montserrat,sans-serif;font-size:1.8rem;font-weight:700;margin-bottom:16px">Terapi Akupuntur Medis di Rumah</h2>
-      <p>Terapi akupuntur adalah metode pengobatan tradisional yang telah digunakan selama ribuan tahun di Tiongkok. Dokter akupuntur medis Joy of Care datang ke rumah untuk memberikan terapi dengan jarum halus pada titik-titik tubuh tertentu secara steril dan profesional.</p>
-      <p>Terapi ini terbukti membantu mengatasi nyeri kronis, sakit kepala, insomnia, stres, masalah pencernaan, dan berbagai kondisi kesehatan lain secara alami.</p>
-      <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;margin:20px 0">
-        <img src="/images/layanan-akupuntur-di-rumah/1.png" alt="Terapi akupuntur medis Joy of Care di rumah pasien" style="width:100%;border-radius:12px;box-shadow:0 4px 12px rgba(0,0,0,.12)" loading="lazy">
-        <img src="/images/layanan-akupuntur-di-rumah/2.png" alt="Dokter akupuntur melakukan terapi jarum pada pasien" style="width:100%;border-radius:12px;box-shadow:0 4px 12px rgba(0,0,0,.12)" loading="lazy">
+      <h2 style="font-family:Montserrat,sans-serif;font-size:1.8rem;font-weight:700;margin-bottom:16px">Solusi Alami & Efektif Meredakan Nyeri Sendi pada Usia Lanjut</h2>
+      <p>Nyeri lutut menahun, kaku sendi pinggul, dan rasa ngilu akibat pengapuran tulang (*osteoarthritis*) adalah keluhan utama yang kerap merampas kemandirian para orang tua lanjut usia. Mengonsumsi obat pereda nyeri secara berkepanjangan berisiko memicu efek samping iritasi lambung, komplikasi ginjal, dan gangguan tekanan darah. Layanan <strong>akupuntur untuk nyeri sendi lansia di rumah</strong> dari Joy of Care menghadirkan pendekatan medis komplementer yang terbukti klinis aman dan efektif.</p>
+      <p>Jarum akupuntur medis merangsang serabut saraf sensorik untuk melepaskan endorfin alami (pereda nyeri biologis tubuh), melancarkan mikrosirkulasi darah di area sendi yang mengalami inflamasi, serta mengendurkan ketegangan otot di sekitar ligamen yang kaku.</p>
+      
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;margin:24px 0">
+        <img src="/images/layanan-akupuntur-di-rumah/1.png" alt="Dokter spesialis akupuntur medis Joy of Care melakukan penusukan jarum steril pada sendi lutut pasien lansia" style="width:100%;border-radius:12px;box-shadow:0 4px 12px rgba(0,0,0,.12)" loading="lazy">
+        <img src="/images/layanan-akupuntur-di-rumah/2.png" alt="Terapi akupuntur di rumah untuk stroke dan saraf kejepit oleh tenaga medis berizin STR" style="width:100%;border-radius:12px;box-shadow:0 4px 12px rgba(0,0,0,.12)" loading="lazy">
       </div>
-      <h3 style="font-size:1.2rem;font-weight:600;margin:16px 0">Manfaat Terapi Akupuntur:</h3>
-      <ul style="padding-left:20px;color:#4a5568">
-        <li>Mengurangi nyeri kronis dan nyeri sendi</li>
-        <li>Meningkatkan kualitas tidur dan mengatasi insomnia</li>
-        <li>Menyeimbangkan emosi serta mengurangi stres</li>
-        <li>Meningkatkan fungsi sistem imun tubuh</li>
-        <li>Membantu masalah pencernaan seperti IBS dan sembelit</li>
-        <li>Efek samping minimal bila dilakukan oleh dokter terlatih</li>
-      </ul>
+
+      <h3 style="font-size:1.3rem;font-weight:700;margin:24px 0 12px">Indikasi Klinis Terapi Akupuntur Joy of Care:</h3>
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:20px;margin-bottom:24px">
+        <div style="background:#fff;padding:20px;border-radius:12px;border:1px solid var(--color-border)">
+          <h4 style="color:var(--color-primary);margin-bottom:8px">1. Nyeri Sendi & Osteoartritis Lutut</h4>
+          <p style="color:#4a5568;font-size:.92rem;margin:0">Meredakan pembengkakan cairan sendi, rasa ngilu saat berdiri atau berjalan, serta mengembalikan fleksibilitas sendi lutut lansia.</p>
+        </div>
+        <div style="background:#fff;padding:20px;border-radius:12px;border:1px solid var(--color-border)">
+          <h4 style="color:var(--color-primary);margin-bottom:8px">2. Saraf Kejepit & Nyeri Punggung Bawah (LBP / HNP)</h4>
+          <p style="color:#4a5568;font-size:.92rem;margin:0">Mengurangi jepitan saraf iskialgia (*sciatica*), rasa kebas, kesemutan menjalar ke betis, dan kekakuan tulang belakang lumbar.</p>
+        </div>
+        <div style="background:#fff;padding:20px;border-radius:12px;border:1px solid var(--color-border)">
+          <h4 style="color:var(--color-primary);margin-bottom:8px">3. Rehabilitasi Pasca Stroke & Kelumpuhan Otot</h4>
+          <p style="color:#4a5568;font-size:.92rem;margin:0">Stimulasi titik neuromuskular untuk memicu pemulihan sinyal saraf motorik pada ekstremitas yang mengalami kelemahan (*hemiparesis*).</p>
+        </div>
+        <div style="background:#fff;padding:20px;border-radius:12px;border:1px solid var(--color-border)">
+          <h4 style="color:var(--color-primary);margin-bottom:8px">4. Insomnia, Sakit Kepala Tegang & Vertigo</h4>
+          <p style="color:#4a5568;font-size:.92rem;margin:0">Menenangkan sistem saraf simpatis, memperbaiki siklus tidur malam lansia yang terganggu, dan meredakan migrain kronis.</p>
+        </div>
+      </div>
+
+      <p>Untuk akselerasi kemandirian gerak orang tua secara menyeluruh, Anda dapat memadukan terapi akupuntur dengan program <a href="/layanan-fisioterapi-ke-rumah/">fisioterapi lansia di rumah</a> atau pengawasan <a href="/layanan-perawat-di-rumah/">perawat medis homecare</a> kami.</p>
     </div>
   </section>
 
-
-  
   <section class="section section-alt">
     <div class="container">
-      <h2 class="section-title">Kenapa Memilih Joy of Care</h2>
-      <p class="section-subtitle">Layanan kesehatan profesional langsung ke rumah Anda, tanpa antre dan tanpa keluar rumah.</p>
+      <h2 class="section-title">Keunggulan Akupuntur Medis Joy of Care</h2>
+      <p class="section-subtitle">Keahlian klinis dan etika keselamatan pasien tertinggi langsung di kediaman Anda.</p>
       <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:24px">
         <div style="background:#fff;padding:24px;border-radius:12px;box-shadow:0 1px 3px rgba(0,0,0,.1)">
-          <div style="font-size:2rem">🏠</div><h3 style="margin:8px 0">Kenyamanan di Rumah</h3>
-          <p style="color:#4a5568;font-size:.95rem">Tidak perlu repot ke fasilitas kesehatan. Tenaga medis kami datang langsung ke rumah Anda.</p>
+          <div style="font-size:2rem">👨‍⚕️</div>
+          <h3 style="margin:8px 0">Praktisi Medis Berizin STR</h3>
+          <p style="color:#4a5568;font-size:.95rem">Tindakan dilakukan oleh dokter spesialis akupuntur medik atau akupunkturis resmi tersertifikasi Kemenkes RI.</p>
         </div>
         <div style="background:#fff;padding:24px;border-radius:12px;box-shadow:0 1px 3px rgba(0,0,0,.1)">
-          <div style="font-size:2rem">👨‍⚕️</div><h3 style="margin:8px 0">Tenaga Medis Profesional</h3>
-          <p style="color:#4a5568;font-size:.95rem">Dokter, perawat, dan terapis berlisensi serta berpengalaman menangani pasien di rumah.</p>
+          <div style="font-size:2rem">🛡️</div>
+          <h3 style="margin:8px 0">100% Jarum Steril Sekali Pakai</h3>
+          <p style="color:#4a5568;font-size:.95rem">Menggunakan jarum filiform berkualitas tinggi yang higienis, steril, dan langsung dibuang setelah penggunaan.</p>
         </div>
         <div style="background:#fff;padding:24px;border-radius:12px;box-shadow:0 1px 3px rgba(0,0,0,.1)">
-          <div style="font-size:2rem">🕒</div><h3 style="margin:8px 0">Fleksibilitas Waktu</h3>
-          <p style="color:#4a5568;font-size:.95rem">Kami siap melayani setiap hari, termasuk akhir pekan, sesuai jadwal yang Anda pilih.</p>
+          <div style="font-size:2rem">🌿</div>
+          <h3 style="margin:8px 0">Tanpa Beban Obat Kimia</h3>
+          <p style="color:#4a5568;font-size:.95rem">Aman untuk organ tubuh lansia penderita komorbid hipertensi, diabetes, maupun gangguan fungsi ginjal.</p>
         </div>
         <div style="background:#fff;padding:24px;border-radius:12px;box-shadow:0 1px 3px rgba(0,0,0,.1)">
-          <div style="font-size:2rem">🤝</div><h3 style="margin:8px 0">Perawatan Bersahabat</h3>
-          <p style="color:#4a5568;font-size:.95rem">Tim kami peduli pada kesehatan Anda dan memberikan pendampingan yang ramah dan personal.</p>
+          <div style="font-size:2rem">🛋️</div>
+          <h3 style="margin:8px 0">Perawatan Nyaman di Kamar</h3>
+          <p style="color:#4a5568;font-size:.95rem">Lansia yang sulit bergerak tidak perlu menempuh perjalanan jauh atau duduk lelah di kursi roda RS.</p>
         </div>
         <div style="background:#fff;padding:24px;border-radius:12px;box-shadow:0 1px 3px rgba(0,0,0,.1)">
-          <div style="font-size:2rem">💻</div><h3 style="margin:8px 0">Teknologi Terkini</h3>
-          <p style="color:#4a5568;font-size:.95rem">Riwayat medis dipantau dan dikelola dengan teliti melalui sistem yang modern.</p>
+          <div style="font-size:2rem">🤝</div>
+          <h3 style="margin:8px 0">Pendekatan Empatis</h3>
+          <p style="color:#4a5568;font-size:.95rem">Dokter kami mendengarkan riwayat penyakit dan keluhan nyeri dengan penuh kesabaran serta empati tinggi.</p>
         </div>
         <div style="background:#fff;padding:24px;border-radius:12px;box-shadow:0 1px 3px rgba(0,0,0,.1)">
-          <div style="font-size:2rem">📋</div><h3 style="margin:8px 0">Layanan Medis Lengkap</h3>
-          <p style="color:#4a5568;font-size:.95rem">Pemeriksaan rutin lansia, perawatan luka, infus, vaksinasi, hingga fisioterapi di rumah.</p>
+          <div style="font-size:2rem">📍</div>
+          <h3 style="margin:8px 0">Area Layanan Jabodetabek</h3>
+          <p style="color:#4a5568;font-size:.95rem">Melayani kunjungan rumah di Jakarta, BSD City, Tangerang, Tangerang Selatan, Depok, dan Bogor.</p>
         </div>
       </div>
     </div>
   </section>
 
-<section class="section section-alt">
+  <section class="section">
     <div class="container">
-      <h2 class="section-title">Pertanyaan yang Sering Ditanyakan</h2>
+      <h2 class="section-title">Pertanyaan yang Sering Ditanyakan (FAQ)</h2>
       <div class="faq-list">
-        <div class="faq-item"><button class="faq-question" aria-expanded="false">Apakah akupuntur aman dilakukan di rumah?</button><div class="faq-answer"><div class="faq-answer-inner">Ya, akupuntur medis sangat aman dilakukan di rumah. Dokter akupuntur kami menggunakan jarum steril sekali pakai dan mengikuti standar protokol kesehatan.</div></div></div>
-        <div class="faq-item"><button class="faq-question" aria-expanded="false">Berapa lama sesi akupuntur?</button><div class="faq-answer"><div class="faq-answer-inner">Sesi akupuntur biasanya berlangsung 30-60 menit tergantung kondisi yang ditangani.</div></div></div>
-        <div class="faq-item"><button class="faq-question" aria-expanded="false">Kapan hasil akupuntur bisa dirasakan?</button><div class="faq-answer"><div class="faq-answer-inner">Beberapa pasien merasakan perbaikan setelah sesi pertama, namun untuk kondisi kronis biasanya diperlukan 3-5 sesi.</div></div></div>
+        {faqData.map(f => (
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">{f.question}</button>
+            <div class="faq-answer">
+              <div class="faq-answer-inner">{f.answer}</div>
+            </div>
+          </div>
+        ))}
       </div>
     </div>
   </section>
@@ -92,12 +173,66 @@ const canonical = `${SITE_URL}/layanan-akupuntur-di-rumah`;
   <section class="section">
     <div class="container">
       <div class="cta-banner">
-        <h2>Siap Memulai?</h2>
-        <p>Hubungi kami sekarang untuk konsultasi atau informasi lebih lanjut.</p>
-        <a href="https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20tanya%20akupuntur" class="btn btn-lg">Chat WhatsApp</a>
+        <h2>Bantu Orang Tua Bebas dari Nyeri Sendi Hari Ini</h2>
+        <p>Jadwalkan sesi terapi akupuntur medis di rumah bersama Joy of Care dan pulihkan kenyamanan gerak keluarga Anda.</p>
+        <a href="https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20pesan%20layanan%20akupuntur%20di%20rumah" class="btn btn-primary btn-lg" target="_blank" rel="noopener noreferrer">Pesan Sesi Akupuntur via WhatsApp</a>
       </div>
     </div>
   </section>
-
-  
 </BaseLayout>
+
+<style>
+  .page-hero {
+    background: linear-gradient(135deg, #f0fdf4 0%, #dcfce7 100%);
+    padding: 48px 0 32px;
+  }
+  .breadcrumbs {
+    font-size: 0.875rem;
+    color: var(--color-text-secondary);
+    margin-bottom: 16px;
+  }
+  .breadcrumbs a {
+    color: var(--color-primary);
+    text-decoration: none;
+  }
+  .breadcrumbs a:hover {
+    text-decoration: underline;
+  }
+  .content-section {
+    padding: 60px 0;
+  }
+  .section-title {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 12px;
+  }
+  .section-subtitle {
+    text-align: center;
+    color: var(--color-text-secondary);
+    max-width: 600px;
+    margin: 0 auto 48px;
+  }
+  .cta-banner {
+    background: linear-gradient(135deg, var(--color-primary) 0%, #247A3B 100%);
+    color: white;
+    padding: 48px;
+    border-radius: var(--radius-lg);
+    text-align: center;
+  }
+  .cta-banner h2 {
+    font-size: 1.8rem;
+    margin-bottom: 12px;
+    color: white;
+  }
+  .cta-banner p {
+    font-size: 1.05rem;
+    opacity: 0.95;
+    margin-bottom: 24px;
+  }
+  .btn-lg {
+    font-size: 1.05rem;
+    padding: 14px 32px;
+  }
+</style>

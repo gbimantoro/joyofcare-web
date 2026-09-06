@@ -4,85 +4,169 @@ import { SITE_URL } from '../consts';
 
 export const prerender = true;
 
-const title = "Homelab";
-const description = "Layanan cek laboratorium di rumah. Pengambilan sampel darah dan diagnostik langsung di rumah Anda. GRATIS kunjungan &amp; konsultasi. Chat WA 08811-118-911.";
-const canonical = `${SITE_URL}/homelab`;
+const title = "Cek Darah di Rumah Jakarta Biaya & Paket Home Lab Lengkap | Joy of Care";
+const description = "Layanan cek darah di rumah Jakarta & paket home lab lengkap biaya terjangkau. Pengambilan sampel steril oleh analis lab berlisensi, gratis konsultasi hasil tes dengan dokter.";
+const canonical = `${SITE_URL}/homelab/`;
+
+const faqData = [
+  {
+    question: "Berapa kisaran biaya cek darah di rumah Jakarta di Joy of Care?",
+    answer: "Biaya cek darah di rumah Joy of Care sangat transparan dan hemat. Biaya ditentukan berdasarkan parameter tes yang dipilih (seperti gula darah, kolesterol lengkap, asam urat, fungsi ginjal, atau paket lengkap healthy aging) dan sudah termasuk pengambilan sampel steril oleh flebotomis berlisensi serta GRATIS transport tenaga medis untuk area Jakarta, Tangerang, dan Tangerang Selatan."
+  },
+  {
+    question: "Apakah perlu puasa sebelum petugas datang untuk mengambil sampel darah?",
+    answer: "Tergantung jenis tes yang dijalani. Untuk pemeriksaan gula darah puasa (GDP) dan profil lipid/kolesterol lengkap, pasien disarankan berpuasa selama 8-12 jam sebelumnya (tetap diperbolehkan minum air putih). Untuk pemeriksaan hematologi rutin, HbA1c, fungsi ginjal (ureum/kreatinin), dan elektrolit umumnya tidak memerlukan puasa khusus."
+  },
+  {
+    question: "Kapan dan bagaimana keluarga menerima hasil laboratorium cek darah?",
+    answer: "Hasil pemeriksaan laboratorium terstandar diterbitkan pada hari yang sama (same-day) atau maksimal 1x24 jam dalam bentuk dokumen digital resmi (PDF) melalui WhatsApp dan email. Joy of Care juga menyertakan sesi telekonsultasi dokter gratis untuk menjelaskan interpretasi hasil dan langkah pencegahan medis lanjutan."
+  },
+  {
+    question: "Siapa petugas yang datang untuk melakukan flebotomi (ambil darah) di rumah?",
+    answer: "Pengambilan darah dilakukan secara eksklusif oleh Ahli Teknologi Laboratorium Medik (ATLM) atau flebotomis berlisensi resmi dengan Surat Tanda Registrasi (STR) aktif. Prosedur dilakukan menggunakan tabung vakum steril sekali pakai (single-use vacuum tube) dan rantai pendingin (cold chain transport) terstandar Kemenkes."
+  }
+];
 ---
 
 <BaseLayout title={title} description={description} canonicalURL={canonical}>
+  <!-- Schema: MedicalProcedure -->
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "MedicalProcedure",
+    "name": "Layanan Cek Darah di Rumah & Home Lab Jakarta",
+    "procedureType": "DiagnosticProcedure",
+    "description": description,
+    "url": canonical,
+    "provider": {
+      "@type": "MedicalBusiness",
+      "name": "Joy of Care",
+      "telephone": "+628811118911",
+      "url": `${SITE_URL}/`
+    },
+    "areaServed": ["Jakarta", "Tangerang", "Tangerang Selatan", "Depok", "Bogor"]
+  })} />
 
+  <!-- Schema: BreadcrumbList -->
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Beranda", "item": `${SITE_URL}/` },
+      { "@type": "ListItem", "position": 2, "name": "Layanan", "item": `${SITE_URL}/layanan-lengkap/` },
+      { "@type": "ListItem", "position": 3, "name": "Home Lab Cek Darah", "item": canonical }
+    ]
+  })} />
+
+  <!-- Schema: FAQPage -->
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": faqData.map(f => ({
+      "@type": "Question",
+      "name": f.question,
+      "acceptedAnswer": { "@type": "Answer", "text": f.answer }
+    }))
+  })} />
 
   <section class="page-hero">
     <div class="container">
-      <nav class="breadcrumbs" aria-label="Breadcrumb"><a href="/">Beranda</a> <span>›</span> Home Lab</nav>
-      <h1>Home Lab — <span class="text-primary">Cek Lab</span> di Rumah</h1>
-      <p>Layanan cek laboratorium di rumah: pengambilan sampel darah dan diagnostik langsung di lokasi Anda. Kunjungan lab dan konsultasi dokter gratis untuk area Jakarta, Tangerang, dan Tangerang Selatan.</p>
-      <a href="https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20tanya%20home%20lab" class="btn btn-primary" style="margin-top:20px">Chat WhatsApp Sekarang</a>
+      <nav class="breadcrumbs" aria-label="Breadcrumb">
+        <a href="/">Beranda</a> <span>›</span>
+        <a href="/layanan-lengkap/">Layanan</a> <span>›</span>
+        Home Lab Cek Darah
+      </nav>
+      <h1>Cek Darah di Rumah Jakarta — <span class="text-primary">Home Lab</span> Nyaman & Akurat</h1>
+      <p>Layanan laboratorium diagnostik langsung ke kediaman Anda. Flebotomis profesional bersertifikat, rantai dingin terstandar, bebas antre, dan GRATIS konsultasi hasil tes bersama dokter.</p>
+      <a href="https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20tanya%20biaya%20dan%20paket%20cek%20darah%20di%20rumah%20homelab" class="btn btn-primary" style="margin-top:20px" target="_blank" rel="noopener noreferrer">Jadwalkan Cek Darah via WhatsApp</a>
     </div>
   </section>
 
-  
   <section class="content-section">
     <div class="container">
-      <h2 style="font-family:Montserrat,sans-serif;font-size:1.8rem;font-weight:700;margin-bottom:16px">Cek Kesehatan di Rumah Saja dengan Home Lab</h2>
-      <p>Layanan <strong>Home Lab (HOMELAB)</strong> dari Joy of Care memberikan kemudahan cek kesehatan lengkap langsung di rumah. Tidak perlu antre, tidak perlu ke luar rumah. Cukup jadwalkan, tim laboratorium kami akan datang ke lokasi Anda di area Jakarta, Tangerang, dan Tangerang Selatan.</p>
-      <p>Hasil pemeriksaan laboratorium akan dikonsultasikan langsung dengan dokter melalui telekonsultasi, sehingga Anda dan keluarga memahami hasil dengan baik. Kunjungan lab dan konsultasi dokter hasil lab tidak dikenakan biaya.</p>
-      <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;margin:20px 0">
-        <img src="/images/homelab/1.jpg" alt="Petugas Home Lab Joy of Care mengambil sampel darah di rumah" style="width:100%;border-radius:12px;box-shadow:0 4px 12px rgba(0,0,0,.12)" loading="lazy">
-        <img src="/images/homelab/2.png" alt="Paket pemeriksaan HOMELAB Joy of Care" style="width:100%;border-radius:12px;box-shadow:0 4px 12px rgba(0,0,0,.12)" loading="lazy">
+      <h2 style="font-family:Montserrat,sans-serif;font-size:1.8rem;font-weight:700;margin-bottom:16px">Cek Darah di Rumah Jakarta: Biaya Transparan, Nyaman & Bebas Antre</h2>
+      <p>Memeriksakan kondisi kesehatan secara berkala kini tidak lagi menuntut Anda dan orang tua lanjut usia menghadapi kemacetan Jakarta atau mengantre panjang di rumah sakit dalam keadaan lapar berpuasa. Layanan <strong>Home Lab (HOMELAB) Joy of Care</strong> menghadirkan laboratorium diagnostik berkualitas tinggi langsung ke ruang keluarga Anda di Jakarta, Tangerang, Tangerang Selatan, Depok, dan Bogor.</p>
+      <p>Petugas flebotomi terlatih kami mengambil sampel darah dengan teknik steril minim nyeri. Seluruh sampel darah dan urine disimpan dalam <em>temperature-controlled coolbox</em> berstandar medis untuk menjaga integritas biomolekuler hingga tiba di laboratorium terakreditasi.</p>
+      
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;margin:24px 0">
+        <img src="/images/homelab/1.jpg" alt="Petugas flebotomis Home Lab Joy of Care mengambil sampel darah steril di rumah pasien" style="width:100%;border-radius:12px;box-shadow:0 4px 12px rgba(0,0,0,.12)" loading="lazy">
+        <img src="/images/homelab/2.png" alt="Paket pemeriksaan laboratorium darah lengkap HOMELAB Joy of Care" style="width:100%;border-radius:12px;box-shadow:0 4px 12px rgba(0,0,0,.12)" loading="lazy">
       </div>
-      <h3 style="font-size:1.2rem;font-weight:600;margin:16px 0">Tersedia Berbagai Paket Pemeriksaan:</h3>
-      <ul style="padding-left:20px;color:#4a5568">
-        <li>Paket Kontrol Diabetes (gula darah puasa, HbA1c, urin)</li>
-        <li>Paket Healthy Aging Basic, Standard, dan Premium (profil lemak, fungsi hati &amp; ginjal)</li>
-        <li>Pemeriksaan darah rutin dan profil kesehatan lainnya</li>
-      </ul>
-      <p style="margin-top:12px">Hubungi WhatsApp Joy of Care untuk informasi paket, jadwal, dan area layanan terkini.</p>
+
+      <h3 style="font-size:1.3rem;font-weight:700;margin:24px 0 12px">Pilihan Paket Cek Darah & Skrining Home Lab:</h3>
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:20px;margin-bottom:24px">
+        <div style="background:#fff;padding:20px;border-radius:12px;border:1px solid var(--color-border)">
+          <h4 style="color:var(--color-primary);margin-bottom:8px">1. Paket Pemantauan Diabetes Melitus</h4>
+          <p style="color:#4a5568;font-size:.92rem;margin:0">Meliputi Gula Darah Puasa (GDP), Gula Darah 2 Jam PP, HbA1c (kontrol gula 3 bulan), dan tes urin untuk deteksi dini komplikasi ginjal diabetes.</p>
+        </div>
+        <div style="background:#fff;padding:20px;border-radius:12px;border:1px solid var(--color-border)">
+          <h4 style="color:var(--color-primary);margin-bottom:8px">2. Paket Profil Lipid & Jantung</h4>
+          <p style="color:#4a5568;font-size:.92rem;margin:0">Pemeriksaan Kolesterol Total, HDL, LDL Direk, Trigliserida, serta rasio kolesterol untuk skrining risiko aterosklerosis dan penyakit jantung koroner.</p>
+        </div>
+        <div style="background:#fff;padding:20px;border-radius:12px;border:1px solid var(--color-border)">
+          <h4 style="color:var(--color-primary);margin-bottom:8px">3. Paket Fungsi Ginjal, Asam Urat & Hati</h4>
+          <p style="color:#4a5568;font-size:.92rem;margin:0">Ureum, Kreatinin, eGFR, Asam Urat (Uric Acid), SGOT, dan SGPT untuk memantau fungsi organ ekskresi pada konsumsi obat kronis.</p>
+        </div>
+        <div style="background:#fff;padding:20px;border-radius:12px;border:1px solid var(--color-border)">
+          <h4 style="color:var(--color-primary);margin-bottom:8px">4. Paket Healthy Aging Geriatri Komprehensif</h4>
+          <p style="color:#4a5568;font-size:.92rem;margin:0">Pemeriksaan lansia menyeluruh mencakup Hematologi Rutin (CBC), Elektrolit Darah, profil metabolik lengkap, dan skrining penanda inflamasi.</p>
+        </div>
+      </div>
+
+      <p>Setelah hasil laboratorium keluar, Anda tidak perlu bingung membaca parameter medis. Tim Joy of Care menyediakan telekonsultasi dokter gratis untuk memberikan rekomendasi medis, resep obat, atau kolaborasi dengan <a href="/panggil-dokter-ke-rumah/">layanan dokter ke rumah</a>, <a href="/layanan-perawat-di-rumah/">perawat medis homecare</a>, maupun <a href="/infus-suntik-vitamin-di-rumah/">terapi infus pemulihan</a>.</p>
     </div>
   </section>
 
-
-  
   <section class="section section-alt">
     <div class="container">
-      <h2 class="section-title">Kenapa Memilih Joy of Care</h2>
-      <p class="section-subtitle">Layanan kesehatan profesional langsung ke rumah Anda, tanpa antre dan tanpa keluar rumah.</p>
+      <h2 class="section-title">Keunggulan Home Lab Joy of Care</h2>
+      <p class="section-subtitle">Pemeriksaan laboratorium berstandar rumah sakit di kenyamanan kediaman Anda sendiri.</p>
       <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:24px">
         <div style="background:#fff;padding:24px;border-radius:12px;box-shadow:0 1px 3px rgba(0,0,0,.1)">
-          <div style="font-size:2rem">🏠</div><h3 style="margin:8px 0">Kenyamanan di Rumah</h3>
-          <p style="color:#4a5568;font-size:.95rem">Tidak perlu repot ke fasilitas kesehatan. Tenaga medis kami datang langsung ke rumah Anda.</p>
+          <div style="font-size:2rem">💰</div>
+          <h3 style="margin:8px 0">Biaya Transparan & Hemat</h3>
+          <p style="color:#4a5568;font-size:.95rem">Harga paket terjangkau tanpa biaya tersembunyi. Biaya transportasi petugas lab GRATIS untuk Jakarta & Tangerang.</p>
         </div>
         <div style="background:#fff;padding:24px;border-radius:12px;box-shadow:0 1px 3px rgba(0,0,0,.1)">
-          <div style="font-size:2rem">👨‍⚕️</div><h3 style="margin:8px 0">Tenaga Medis Profesional</h3>
-          <p style="color:#4a5568;font-size:.95rem">Dokter, perawat, dan terapis berlisensi serta berpengalaman menangani pasien di rumah.</p>
+          <div style="font-size:2rem">🔬</div>
+          <h3 style="margin:8px 0">Flebotomis Berizin STR</h3>
+          <p style="color:#4a5568;font-size:.95rem">Sampel diambil oleh analis laboratorium berlisensi resmi dengan teknik aseptik steril dan jarum halus minim nyeri.</p>
         </div>
         <div style="background:#fff;padding:24px;border-radius:12px;box-shadow:0 1px 3px rgba(0,0,0,.1)">
-          <div style="font-size:2rem">🕒</div><h3 style="margin:8px 0">Fleksibilitas Waktu</h3>
-          <p style="color:#4a5568;font-size:.95rem">Kami siap melayani setiap hari, termasuk akhir pekan, sesuai jadwal yang Anda pilih.</p>
+          <div style="font-size:2rem">❄️</div>
+          <h3 style="margin:8px 0">Cold-Chain Terjaga</h3>
+          <p style="color:#4a5568;font-size:.95rem">Sampel darah disimpan dalam sistem rantai dingin bersuhu stabil 2-8°C untuk menjamin integritas sampel hingga pengujian di lab.</p>
         </div>
         <div style="background:#fff;padding:24px;border-radius:12px;box-shadow:0 1px 3px rgba(0,0,0,.1)">
-          <div style="font-size:2rem">🤝</div><h3 style="margin:8px 0">Perawatan Bersahabat</h3>
-          <p style="color:#4a5568;font-size:.95rem">Tim kami peduli pada kesehatan Anda dan memberikan pendampingan yang ramah dan personal.</p>
+          <div style="font-size:2rem">⚡</div>
+          <h3 style="margin:8px 0">Hasil Cepat Same-Day</h3>
+          <p style="color:#4a5568;font-size:.95rem">Laporan hasil laboratorium dikirimkan pada hari yang sama dalam format digital PDF resmi melalui WhatsApp dan email.</p>
         </div>
         <div style="background:#fff;padding:24px;border-radius:12px;box-shadow:0 1px 3px rgba(0,0,0,.1)">
-          <div style="font-size:2rem">💻</div><h3 style="margin:8px 0">Teknologi Terkini</h3>
-          <p style="color:#4a5568;font-size:.95rem">Riwayat medis dipantau dan dikelola dengan teliti melalui sistem yang modern.</p>
+          <div style="font-size:2rem">👨‍⚕️</div>
+          <h3 style="margin:8px 0">Konsultasi Dokter Gratis</h3>
+          <p style="color:#4a5568;font-size:.95rem">Dokter Joy of Care menjelaskan makna hasil angka lab dan langkah pencegahan atau tindak lanjut medis yang diperlukan.</p>
         </div>
         <div style="background:#fff;padding:24px;border-radius:12px;box-shadow:0 1px 3px rgba(0,0,0,.1)">
-          <div style="font-size:2rem">📋</div><h3 style="margin:8px 0">Layanan Medis Lengkap</h3>
-          <p style="color:#4a5568;font-size:.95rem">Pemeriksaan rutin lansia, perawatan luka, infus, vaksinasi, hingga fisioterapi di rumah.</p>
+          <div style="font-size:2rem">🛡️</div>
+          <h3 style="margin:8px 0">Bebas Risiko Infeksi Silang</h3>
+          <p style="color:#4a5568;font-size:.95rem">Melindungi lansia dan pasien daya tahan tubuh rendah dari paparan virus dan bakteri di ruang tunggu faskes umum.</p>
         </div>
       </div>
     </div>
   </section>
 
-<section class="section section-alt">
+  <section class="section">
     <div class="container">
-      <h2 class="section-title">Pertanyaan yang Sering Ditanyakan</h2>
+      <h2 class="section-title">Pertanyaan yang Sering Ditanyakan (FAQ)</h2>
       <div class="faq-list">
-        <div class="faq-item"><button class="faq-question">Bagaimana cara pesan paket HOMELAB?</button><div class="faq-answer"><div class="faq-answer-inner">Chat WhatsApp kami di 08811-118-911, pilih paket yang diinginkan, dan jadwalkan pengambilan sampel. Tim lab akan datang ke rumah Anda.</div></div></div>
-        <div class="faq-item"><button class="faq-question">Apakah ada biaya tambahan untuk kunjungan lab?</button><div class="faq-answer"><div class="faq-answer-inner">Tidak! Biaya kunjungan lab GRATIS untuk area Jakarta, Tangerang, dan Tangerang Selatan.</div></div></div>
-        <div class="faq-item"><button class="faq-question">Bagaimana cara mendapatkan hasil lab?</button><div class="faq-answer"><div class="faq-answer-inner">Hasil lab akan dikirimkan via WhatsApp atau email. Anda juga akan mendapatkan konsultasi dokter untuk menjelaskan hasilnya.</div></div></div>
+        {faqData.map(f => (
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">{f.question}</button>
+            <div class="faq-answer">
+              <div class="faq-answer-inner">{f.answer}</div>
+            </div>
+          </div>
+        ))}
       </div>
     </div>
   </section>
@@ -90,12 +174,66 @@ const canonical = `${SITE_URL}/homelab`;
   <section class="section">
     <div class="container">
       <div class="cta-banner">
-        <h2>Siap Memulai?</h2>
-        <p>Hubungi kami sekarang untuk konsultasi atau informasi lebih lanjut.</p>
-        <a href="https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20tanya%20home%20lab" class="btn btn-lg">Chat WhatsApp</a>
+        <h2>Periksa Darah di Rumah Tanpa Repot</h2>
+        <p>Pesan layanan Home Lab Joy of Care hari ini. Cukup jadwalkan tanggal dan waktu, analis lab kami segera datang ke lokasi Anda.</p>
+        <a href="https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20pesan%20paket%20cek%20darah%20homelab" class="btn btn-primary btn-lg" target="_blank" rel="noopener noreferrer">Pesan Cek Darah via WhatsApp</a>
       </div>
     </div>
   </section>
-
-  
 </BaseLayout>
+
+<style>
+  .page-hero {
+    background: linear-gradient(135deg, #f0fdf4 0%, #dcfce7 100%);
+    padding: 48px 0 32px;
+  }
+  .breadcrumbs {
+    font-size: 0.875rem;
+    color: var(--color-text-secondary);
+    margin-bottom: 16px;
+  }
+  .breadcrumbs a {
+    color: var(--color-primary);
+    text-decoration: none;
+  }
+  .breadcrumbs a:hover {
+    text-decoration: underline;
+  }
+  .content-section {
+    padding: 60px 0;
+  }
+  .section-title {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 12px;
+  }
+  .section-subtitle {
+    text-align: center;
+    color: var(--color-text-secondary);
+    max-width: 600px;
+    margin: 0 auto 48px;
+  }
+  .cta-banner {
+    background: linear-gradient(135deg, var(--color-primary) 0%, #247A3B 100%);
+    color: white;
+    padding: 48px;
+    border-radius: var(--radius-lg);
+    text-align: center;
+  }
+  .cta-banner h2 {
+    font-size: 1.8rem;
+    margin-bottom: 12px;
+    color: white;
+  }
+  .cta-banner p {
+    font-size: 1.05rem;
+    opacity: 0.95;
+    margin-bottom: 24px;
+  }
+  .btn-lg {
+    font-size: 1.05rem;
+    padding: 14px 32px;
+  }
+</style>

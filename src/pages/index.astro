@@ -3,13 +3,64 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import { SITE_URL } from '../consts';
 
 export const prerender = true;
+
+const title = "Homecare Medis Jabodetabek & Layanan Kesehatan di Rumah | Joy of Care";
+const description = "Joy of Care menyediakan layanan kesehatan di rumah: panggil dokter, perawat lansia, fisioterapi stroke, vaksinasi, infus vitamin, cek darah lab, dan antar jemput RS di Jakarta, BSD City, Tangerang, Depok & Bogor. Chat WA 08811-118-911.";
+const canonical = `${SITE_URL}/`;
+
+const homeFaq = [
+  {
+    question: "Apa saja layanan kesehatan homecare yang disediakan oleh Joy of Care?",
+    answer: "Joy of Care menyediakan 8 layanan medis komprehensif langsung di kediaman Anda: Panggil Dokter ke Rumah (umum & spesialis), Perawat Lansia Homecare (pasca operasi & bedridden), Fisioterapi di Rumah (stroke, saraf kejepit & Parkinson), Vaksinasi di Rumah (influenza, pneumonia & syarat studi luar negeri), Infus & Suntik Vitamin C/Booster, Home Lab Cek Darah Lengkap, Akupuntur Medis Nyeri Sendi, serta Antar Jemput Rumah Sakit (TransCare)."
+  },
+  {
+    question: "Apakah tenaga medis Joy of Care memiliki izin resmi dan tersertifikasi?",
+    answer: "Ya, 100% dokter, perawat, fisioterapis, dan analis laboratorium Joy of Care memegang Surat Tanda Registrasi (STR) aktif dari Kementerian Kesehatan Republik Indonesia dan Surat Izin Praktik (SIP) resmi Dinas Kesehatan, serta lolos verifikasi latar belakang ketat dan pelatihan patient-safety."
+  },
+  {
+    question: "Wilayah mana saja yang dijangkau oleh layanan kunjungan rumah Joy of Care?",
+    answer: "Kami melayani penugasan dan kunjungan rumah di seluruh kawasan Jabodetabek, meliputi DKI Jakarta (Jakarta Barat, Selatan, Pusat, Timur, Utara), BSD City, Gading Serpong, Alam Sutera, Kota Tangerang, Tangerang Selatan, Depok, dan Bogor."
+  },
+  {
+    question: "Bagaimana sistem penetapan tarif dan transparansi biaya di Joy of Care?",
+    answer: "Joy of Care mengusung prinsip All-In Transparent Pricing. Biaya tindakan medis, alkes steril sekali pakai, dan transportasi tenaga medis sudah tertera jelas tanpa ada biaya tersembunyi atau kejutan tarif di akhir layanan."
+  },
+  {
+    question: "Apakah layanan kesehatan ke rumah bisa dipesan pada hari libur atau akhir pekan?",
+    answer: "Ya, tim operasional dan tenaga medis Joy of Care beroperasi setiap hari (Senin s/d Minggu termasuk hari libur nasional) mulai pukul 07.00 hingga 21.00 WIB, dengan opsi layanan perawat standby 24 jam untuk pasien yang membutuhkan pendampingan rawat intensif di rumah."
+  },
+  {
+    question: "Bagaimana cara melakukan reservasi atau konsultasi layanan dengan cepat?",
+    answer: "Cukup hubungi Customer Care kami via WhatsApp resmi di 08811-118-911. Ceritakan keluhan medis pasien, tentukan tanggal serta jam kunjungan yang diinginkan, dan tim kami akan mengatur penugasan dokter atau perawat terdekat ke kediaman Anda."
+  }
+];
 ---
 
 <BaseLayout 
-  title="Joy of Care — Layanan Kesehatan di Rumah BSD & Tangerang"
-  description="Joy of Care menyediakan layanan kesehatan di rumah profesional: panggil dokter, fisioterapi, infus vitamin, home lab, dan antar jemput RS. Chat WA 08811-118-911."
-  canonicalURL={`${SITE_URL}/`}
+  title={title}
+  description={description}
+  canonicalURL={canonical}
 >
+  <!-- Schema: BreadcrumbList -->
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Beranda", "item": canonical }
+    ]
+  })} />
+
+  <!-- Schema: FAQPage -->
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": homeFaq.map(f => ({
+      "@type": "Question",
+      "name": f.question,
+      "acceptedAnswer": { "@type": "Answer", "text": f.answer }
+    }))
+  })} />
+
   <!-- Hero Section -->
   <section class="hero">
     <div class="container">
@@ -17,24 +68,38 @@ export const prerender = true;
         <div class="hero-content">
           <div class="hero-badge">
             <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2L9 9H2l6 4.5L5.5 22 12 17l6.5 5-2.5-8.5L22 9h-7z"/></svg>
-            Homecare Health Service — BSD City
+            Joy of Care - Home Healthcare Jabodetabek & BSD City
           </div>
           <h1>Sehat Mudah<br><span>di Rumah</span></h1>
-          <p>Layanan kesehatan profesional ke rumah Anda: panggil dokter, fisioterapi, infus vitamin, home lab, dan antar jemput RS. Semua sudah termasuk transportasi tenaga medis.</p>
+          <p>Layanan kesehatan mudah, aman, dan nyaman dari rumah: panggil dokter, fisioterapi, perawat, vaksinasi, infus vitamin, home lab, akupuntur, dan antar jemput RS. Bebas macet, tanpa antre, dan harga all-in transparan.</p>
           <div class="hero-actions">
-            <a href="https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20tanya%20layanan%20Joy%20of%20Care" class="btn btn-primary btn-lg">
+            <a href="https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20konsultasi%20layanan%20kesehatan%20Joy%20of%20Care" class="btn btn-primary btn-lg" target="_blank" rel="noopener noreferrer">
               <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
               Chat Konsultasi
             </a>
             <a href="#layanan" class="btn btn-outline btn-lg">Lihat Layanan</a>
           </div>
+          <ul class="hero-highlights">
+            <li class="hero-highlight">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 8A6 6 0 0 0 6 8c0 7-3 9-3 9h18s-3-2-3-9"/><path d="M13.73 21a2 2 0 0 1-3.46 0"/></svg>
+              <span>Harga All-in termasuk biaya transport</span>
+            </li>
+            <li class="hero-highlight">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg>
+              <span>Tenaga Medis Berlisensi STR Resmi</span>
+            </li>
+            <li class="hero-highlight">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>
+              <span>Gratis Konsultasi via WhatsApp</span>
+            </li>
+          </ul>
           <div class="hero-stats">
             <div class="hero-stat">
               <div class="number">500+</div>
               <div class="label">Pasien Dilayani</div>
             </div>
             <div class="hero-stat">
-              <div class="number">7</div>
+              <div class="number">8</div>
               <div class="label">Layanan Utama</div>
             </div>
             <div class="hero-stat">
@@ -54,61 +119,93 @@ export const prerender = true;
   <section class="section section-alt" id="layanan">
     <div class="container">
       <h2 class="section-title">Layanan Kesehatan Nyaman di Rumah</h2>
-      <p class="section-subtitle">Semua layanan kami dikerjakan oleh tenaga medis berlisensi dan berpengalaman, langsung ke lokasi Anda.</p>
+      <p class="section-subtitle">Semua layanan kami dikerjakan oleh tenaga medis berlisensi STR aktif dan berpengalaman, langsung ke lokasi Anda.</p>
       
       <div class="services-grid">
         <article class="service-card">
           <div class="icon">🩺</div>
-          <h3>Panggil Dokter</h3>
-          <p>Layanan kunjungan dokter ke rumah untuk keluarga Anda (non-emergensi). Dokter umum dan spesialis tersedia.</p>
-          <a href="/panggil-dokter-ke-rumah" class="link">Selengkapnya</a>
+          <h3>Panggil Dokter ke Rumah</h3>
+          <p>Layanan kunjungan dokter ke rumah untuk keluarga Anda (non-emergensi). Dokter umum dan spesialis siap ke lokasi.</p>
+          <a href="/panggil-dokter-ke-rumah/" class="link">Selengkapnya</a>
         </article>
         
+        <article class="service-card">
+          <div class="icon">🏃‍♀️</div>
+          <h3>Fisioterapi di Rumah</h3>
+          <p>Rehabilitasi stroke, Parkinson, pasca operasi, dan pemulihan nyeri sendi lansia bersama fisioterapis ber-STR.</p>
+          <a href="/layanan-fisioterapi-ke-rumah/" class="link">Selengkapnya</a>
+        </article>
+
+        <article class="service-card">
+          <div class="icon">👩‍⚕️</div>
+          <h3>Perawat Lansia di Rumah</h3>
+          <p>Perawatan medis terpercaya oleh perawat berlisensi: pasang NGT, kateter urin, ganti perban luka, dan rawat 24 jam.</p>
+          <a href="/layanan-perawat-di-rumah/" class="link">Selengkapnya</a>
+        </article>
+
+        <article class="service-card">
+          <div class="icon">🛡️</div>
+          <h3>Vaksinasi di Rumah</h3>
+          <p>Layanan suntik vaksin influenza, pneumonia lansia, HPV, hingga vaksinasi wajib syarat studi & visa ke luar negeri.</p>
+          <a href="/layanan-vaksinasi-di-rumah/" class="link">Selengkapnya</a>
+        </article>
+
         <article class="service-card">
           <div class="icon">💉</div>
           <h3>Infus & Suntik Vitamin</h3>
-          <p>Layanan infus dan suntik vitamin untuk perawatan kesehatan di lokasi yang nyaman. Pilihan paket beragam.</p>
-          <a href="/infus-suntik-vitamin-di-rumah" class="link">Selengkapnya</a>
-        </article>
-        
-        <article class="service-card">
-          <div class="icon">🦴</div>
-          <h3>Fisioterapi di Rumah</h3>
-          <p>Membantu pemulihan dan mobilitas tanpa meninggalkan kenyamanan rumah Anda. Cocok untuk pasien pasca operasi.</p>
-          <a href="/layanan-fisioterapi-ke-rumah" class="link">Selengkapnya</a>
+          <p>Terapi cairan intravena: Vitamin C dosis tinggi, neurobion b-kompleks, imun booster, dan anti-fatigue di rumah.</p>
+          <a href="/infus-suntik-vitamin-di-rumah/" class="link">Selengkapnya</a>
         </article>
         
         <article class="service-card">
           <div class="icon">🧪</div>
-          <h3>Home Lab Cek di Rumah</h3>
-          <p>Layanan ambil darah dan diagnostik lainnya dengan mudah di rumah. Hasil dikirim via WhatsApp atau email.</p>
-          <a href="/homelab" class="link">Selengkapnya</a>
+          <h3>Home Lab Cek Darah</h3>
+          <p>Ambil sampel darah dan diagnostik steril di rumah. Hasil lab cepat same-day dan konsultasi dokter gratis.</p>
+          <a href="/homelab/" class="link">Selengkapnya</a>
         </article>
         
         <article class="service-card">
-          <div class="icon">🏥</div>
-          <h3>Perawat di Rumah</h3>
-          <p>Perawatan medis profesional oleh perawat berlisensi untuk lansia, pasien kronis, atau pasca rawat inap.</p>
-          <a href="/layanan-perawat-di-rumah" class="link">Selengkapnya</a>
+          <div class="icon">🎯</div>
+          <h3>Akupuntur Medis di Rumah</h3>
+          <p>Terapi jarum akupuntur medis untuk meredakan nyeri sendi lansia, saraf kejepit, insomnia, dan pasca stroke.</p>
+          <a href="/layanan-akupuntur-di-rumah/" class="link">Selengkapnya</a>
         </article>
-        
+
         <article class="service-card">
-          <div class="icon">📍</div>
-          <h3>Antar Jemput RS</h3>
-          <p>Layanan transcare antar jemput ke rumah sakit di Jakarta dan Tangerang dengan armada yang aman dan nyaman.</p>
-          <a href="/transcare-antar-jemput-ke-rs-jakarta-tangerang" class="link">Selengkapnya</a>
+          <div class="icon">🚙</div>
+          <h3>Antar Jemput RS (TransCare)</h3>
+          <p>Transportasi medis ramah lansia & kursi roda ke rumah sakit di Jakarta-Tangerang dengan pendampingan perawat.</p>
+          <a href="/transcare-antar-jemput-ke-rs-jakarta-tangerang/" class="link">Selengkapnya</a>
         </article>
       </div>
     </div>
   </section>
 
-  <!-- CTA Section -->
+  <!-- FAQ Section -->
   <section class="section">
+    <div class="container">
+      <h2 class="section-title">Pertanyaan yang Sering Ditanyakan (FAQ)</h2>
+      <p class="section-subtitle">Jawaban lengkap seputar layanan kesehatan homecare medis Joy of Care.</p>
+      <div class="faq-list">
+        {homeFaq.map(f => (
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">{f.question}</button>
+            <div class="faq-answer">
+              <div class="faq-answer-inner">{f.answer}</div>
+            </div>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- CTA Section -->
+  <section class="section section-alt">
     <div class="container">
       <div class="cta-banner">
         <h2>Siap Memulai Perjalanan Kesehatan Anda?</h2>
         <p>Hubungi kami sekarang untuk konsultasi atau informasi lebih lanjut. Tim kami siap membantu Anda setiap langkahnya.</p>
-        <a href="https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?" class="btn btn-primary btn-lg">Pesan via WhatsApp</a>
+        <a href="https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?" class="btn btn-primary btn-lg" target="_blank" rel="noopener noreferrer">Pesan via WhatsApp</a>
       </div>
     </div>
   </section>
@@ -182,6 +279,29 @@ export const prerender = true;
   .hero-stat .label {
     font-size: 0.875rem;
     color: var(--color-text-secondary);
+  }
+
+  .hero-highlights {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    margin-top: 24px;
+    padding: 0;
+    list-style: none;
+  }
+
+  .hero-highlight {
+    display: inline-flex;
+    align-items: center;
+    gap: 12px;
+    color: var(--color-primary);
+    font-size: 0.95rem;
+    font-weight: 500;
+  }
+
+  .hero-highlight svg {
+    flex-shrink: 0;
+    color: var(--color-primary);
   }
 
   .hero-image img {
@@ -335,6 +455,10 @@ export const prerender = true;
     }
 
     .hero-actions {
+      justify-content: center;
+    }
+
+    .hero-highlights {
       justify-content: center;
     }
 

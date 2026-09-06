@@ -14,6 +14,7 @@ export async function getStaticPaths() {
 }
 
 const { category } = Astro.props;
+const categoryThumbnail = `/assets/blog/${category.slug}.svg`;
 const articles = await getCollection('articles', ({ data }) => data.category === category.slug);
 const sortedArticles = articles.sort((a, b) => 
   new Date(b.data.date).getTime() - new Date(a.data.date).getTime()
@@ -32,6 +33,9 @@ const sortedArticles = articles.sort((a, b) =>
         <a href="/blog/">Artikel</a> <span>›</span>
         <span>{category.label}</span>
       </nav>
+      <div class="category-thumbnail">
+        <img src={categoryThumbnail} alt={category.label} />
+      </div>
       <h1>{category.label}</h1>
       <p>Artikel dan panduan kesehatan tentang {category.label}</p>
     </div>
@@ -95,6 +99,16 @@ const sortedArticles = articles.sort((a, b) =>
 
   .category-header p {
     color: var(--color-text-secondary);
+  }
+
+  .category-thumbnail {
+    margin: 24px 0;
+    text-align: center;
+  }
+
+  .category-thumbnail img {
+    max-width: 200px;
+    height: auto;
   }
 
   .category-content {

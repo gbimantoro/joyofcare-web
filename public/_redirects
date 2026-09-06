@@ -1,0 +1,37 @@
+# Legacy Odoo paths -> new structure
+/artikel /blog/ 301
+/artikel/* /blog/ 301
+/blog/healthy-aging-3/* /blog/tips-lansia/ 301
+/blog/studi-luar-negeri-4/* /layanan-vaksinasi-di-rumah/ 301
+/blog/pengalaman-1/* /blog/ 301
+/blog/vaksinasi-di-rumah-2/* /layanan-vaksinasi-di-rumah/ 301
+
+# Service Shortlinks & Aliases
+/services /layanan-lengkap/ 301
+/layanan /layanan-lengkap/ 301
+/layanan/ /layanan-lengkap/ 301
+/vaksin /layanan-vaksinasi-di-rumah/ 301
+/vaksinasi /layanan-vaksinasi-di-rumah/ 301
+/fisioterapi /layanan-fisioterapi-ke-rumah/ 301
+/perawat /layanan-perawat-di-rumah/ 301
+/dokter /panggil-dokter-ke-rumah/ 301
+/infus /infus-suntik-vitamin-di-rumah/ 301
+/akupuntur /layanan-akupuntur-di-rumah/ 301
+/transcare /transcare-antar-jemput-ke-rs-jakarta-tangerang/ 301
+
+# Trailing slash canonical redirects
+/panggil-dokter-ke-rumah /panggil-dokter-ke-rumah/ 301
+/layanan-fisioterapi-ke-rumah /layanan-fisioterapi-ke-rumah/ 301
+/layanan-perawat-di-rumah /layanan-perawat-di-rumah/ 301
+/layanan-vaksinasi-di-rumah /layanan-vaksinasi-di-rumah/ 301
+/infus-suntik-vitamin-di-rumah /infus-suntik-vitamin-di-rumah/ 301
+/homelab /homelab/ 301
+/layanan-akupuntur-di-rumah /layanan-akupuntur-di-rumah/ 301
+/transcare-antar-jemput-ke-rs-jakarta-tangerang /transcare-antar-jemput-ke-rs-jakarta-tangerang/ 301
+/layanan-lengkap /layanan-lengkap/ 301
+/blog /blog/ 301
+/blog/panggil-dokter /blog/panggil-dokter/ 301
+/blog/fisioterapi /blog/fisioterapi/ 301
+/blog/layanan-perawat /blog/layanan-perawat/ 301
+/blog/tips-lansia /blog/tips-lansia/ 301
+/blog/penyakit-kronis /blog/penyakit-kronis/ 301

@@ -15,6 +15,10 @@ const categoryNames: Record<string, string> = Object.fromEntries(
   CATEGORIES.map((c) => [c.slug, c.label])
 );
 
+const categoryThumbnails: Record<string, string> = Object.fromEntries(
+  CATEGORIES.map((c) => [c.slug, `/assets/blog/${c.slug}.svg`])
+);
+
 const categories = Object.entries(categoryNames);
 ---
 
@@ -27,6 +31,20 @@ const categories = Object.entries(categoryNames);
     <div class="container">
       <h1>Artikel Kesehatan Homecare</h1>
       <p>Panduan lengkap perawatan kesehatan di rumah dari tim medis Joy of Care</p>
+    </div>
+  </section>
+
+  <section class="category-thumbnails">
+    <div class="container">
+      <h2 class="section-title">Kategori Artikel</h2>
+      <div class="category-grid">
+        {categories.map(([slug, name]) => (
+          <a href={`/blog/${slug}/`} class="category-card">
+            <img src={categoryThumbnails[slug]} alt={name} class="category-thumb" />
+            <span class="category-name">{name}</span>
+          </a>
+        ))}
+      </div>
     </div>
   </section>
 
@@ -181,6 +199,67 @@ const categories = Object.entries(categoryNames);
   @media (max-width: 768px) {
     .articles-grid {
       grid-template-columns: 1fr;
+    }
+  }
+
+  .category-thumbnails {
+    padding: 48px 0;
+    background: var(--color-neutral);
+  }
+
+  .category-thumbnails .section-title {
+    margin-bottom: 32px;
+  }
+
+  .category-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 16px;
+  }
+
+  .category-card {
+    display: block;
+    background: white;
+    border-radius: var(--radius-lg);
+    overflow: hidden;
+    box-shadow: var(--shadow-sm);
+    text-decoration: none;
+    transition: all 0.3s;
+  }
+
+  .category-card:hover {
+    transform: translateY(-4px);
+    box-shadow: var(--shadow-md);
+  }
+
+  .category-thumb {
+    width: 100%;
+    height: 140px;
+    object-fit: cover;
+  }
+
+  .category-name {
+    display: block;
+    padding: 12px;
+    text-align: center;
+    font-weight: 600;
+    color: var(--color-text);
+    font-size: 0.875rem;
+  }
+
+  .category-card:hover .category-name {
+    color: var(--color-primary);
+  }
+
+  @media (max-width: 1024px) {
+    .category-grid {
+      grid-template-columns: repeat(3, 1fr);
+    }
+  }
+
+  @media (max-width: 768px) {
+    .category-grid {
+      grid-template-columns: repeat(2, 1fr);
     }
   }
 </style>

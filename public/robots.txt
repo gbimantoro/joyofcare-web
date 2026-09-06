@@ -1,5 +1,5 @@
 # robots.txt — Joy of Care
-# https://www.joyofcare.net
+# https://joyofcare.net
 
 User-agent: *
 Allow: /
@@ -38,4 +38,4 @@ User-agent: Diffbot
 Disallow: /
 
 # Sitemap (HTTPS!)
-Sitemap: https://new.joyof.care/sitemap-index.xml
+Sitemap: https://joyofcare.net/sitemap-index.xml

@@ -1,47 +1,48 @@
-# Joy of Care — Homecare Health Service
+# Joy of Care — Homecare Health Service Jabodetabek
 
-> Layanan kesehatan profesional di rumah untuk BSD City, Tangerang Selatan, Jakarta, Depok & Bogor. Panggil dokter, fisioterapi, infus vitamin, home lab, akupuntur, perawat, dan antar jemput RS.
+> Layanan kesehatan profesional dan medis terpercaya di rumah untuk Jakarta, BSD City, Tangerang Selatan, Tangerang Kota, Depok, dan Bogor. Melayani panggil dokter ke rumah, fisioterapi stroke & lansia, perawat homecare medis, vaksinasi di rumah, infus vitamin imun booster, home lab cek darah, akupuntur medis nyeri sendi, dan antar jemput rumah sakit (TransCare).
 
-## About
+## About Joy of Care
 
-Joy of Care (JoC) adalah layanan homecare health yang berpusat di BSD City, Tangerang Selatan. Kami menyediakan tenaga medis berlisensi — dokter, fisioterapis, perawat — yang datang langsung ke rumah atau lokasi pasien. Harga all-in sudah termasuk biaya transportasi. Tersedia 7 hari seminggu.
+Joy of Care (PT. Joyofcare Network Indonesia) adalah penyedia layanan homecare medis terintegrasi yang beroperasi di wilayah Jabodetabek. Seluruh tindakan medis dikerjakan oleh tenaga kesehatan profesional berlisensi resmi — dokter umum & spesialis, perawat medis D3/S1 ber-STR, fisioterapis ber-STR, dan analis laboratorium bersertifikat Kemenkes RI.
 
-**PT. Joyofcare Network Indonesia**
-- Alamat: Ruko Greenwich Business Park E-15, Jl. Bumi Botanika, BSD City, Tangerang Selatan
-- WhatsApp: [08811-118-911](https://api.whatsapp.com/send/?phone=628811118911)
+- Badan Usaha: PT. Joyofcare Network Indonesia
+- Alamat Kantor: Ruko Greenwich Business Park E-15, Jl. Bumi Botanika, BSD City, Tangerang Selatan, Banten
+- WhatsApp Konsultasi: [08811-118-911](https://wa.me/628811118911)
 - Email: hi@joyofcare.net
-- Website: https://new.joyof.care
+- Website Resmi: https://joyofcare.net/
+- Jam Operasional: Setiap hari (Senin–Minggu) 07:00 – 21:00 WIB, dengan pendampingan perawat standby 24 jam.
+- Prinsip Tarif: All-in transparent pricing, bebas biaya transportasi tenaga medis tersembunyi untuk area Jakarta & Tangerang.
 
-## Services
+## Layanan Utama (Core Services)
 
-- [Panggil Dokter ke Rumah](https://new.joyof.care/panggil-dokter-ke-rumah) — Kunjungan dokter umum dan spesialis ke rumah untuk keluarga Anda. Konsultasi, diagnosis, dan resep obat tanpa harus ke klinik.
-- [Fisioterapi di Rumah](https://new.joyof.care/layanan-fisioterapi-ke-rumah) — Pemulihan dan mobilitas oleh fisioterapis berlisensi. Cocok untuk pasien pasca operasi, lansia, dan rehabilitasi stroke.
-- [Infus & Suntik Vitamin](https://new.joyof.care/infus-suntik-vitamin-di-rumah) — Layanan infus dan suntik vitamin di rumah atau lokasi Anda. Pilihan paket beragam, dikerjakan tenaga medis bersertifikat.
-- [Home Lab — Cek Darah di Rumah](https://new.joyof.care/homelab) — Pengambilan sampel darah dan diagnostik laboratorium langsung di rumah. Hasil dikirim via WhatsApp atau email.
-- [Perawat di Rumah](https://new.joyof.care/layanan-perawat-di-rumah) — Perawatan medis profesional untuk lansia, pasien kronis, atau pasca rawat inap oleh perawat berlisensi.
-- [Akupuntur di Rumah](https://new.joyof.care/layanan-akupuntur-di-rumah) — Terapi akupuntur tradisional dan medis oleh praktisi berpengalaman, langsung di lokasi Anda.
-- [Antar Jemput ke Rumah Sakit](https://new.joyof.care/transcare-antar-jemput-ke-rs-jakarta-tangerang) — Layanan transportasi medis (transcare) antar jemput ke rumah sakit di Jakarta dan Tangerang dengan armada aman dan nyaman.
+1. [Panggil Dokter ke Rumah](https://joyofcare.net/panggil-dokter-ke-rumah/) — Pemeriksaan fisik medis, diagnosis klinis non-emergensi, peresepan obat, dan evaluasi geriatri langsung di rumah pasien oleh dokter ber-SIP aktif.
+2. [Fisioterapi di Rumah](https://joyofcare.net/layanan-fisioterapi-ke-rumah/) — Rehabilitasi mobilitas pasca stroke, latihan motorik penyakit Parkinson, pemulihan pasca operasi ortopedi (fraktur/ganti sendi), saraf kejepit (HNP), dan fisioterapi penguatan lansia.
+3. [Perawat Lansia di Rumah](https://joyofcare.net/layanan-perawat-di-rumah/) — Layanan perawat homecare medis ber-STR untuk perawatan pasien tirah baring (bedridden), pasang dan ganti kateter urine (Foley), pasang selang makan (NGT), perawatan luka modern (modern wound care gangrene/dekubitus), serta pendampingan 8/12/24 jam.
+4. [Vaksinasi di Rumah](https://joyofcare.net/layanan-vaksinasi-di-rumah/) — Layanan vaksinasi keluarga dan lansia langsung di rumah: vaksin pneumonia (PCV13/PPSV23), influenza kuadrivalen, herpes zoster/cacar api (Shingrix), hepatitis B, MMR, serta pemenuhan sertifikat vaksin & medical check-up (MCU) resmi untuk syarat studi ke luar negeri (AS, Inggris, Australia, Eropa).
+5. [Infus & Suntik Vitamin](https://joyofcare.net/infus-suntik-vitamin-di-rumah/) — Terapi cairan intravena (IV drip): Vitamin C dosis tinggi, neurobion/B-kompleks neurotropik, imun booster, anti-fatigue, dan pemulihan dehidrasi pasca tipes/DBD di rumah.
+6. [Home Lab — Cek Darah di Rumah](https://joyofcare.net/homelab/) — Layanan diagnostik flebotomi steril di rumah: paket pemantauan diabetes (HbA1c/GDP), profil lipid kolesterol, fungsi ginjal/hati/asam urat, paket lansia healthy aging. Hasil keluar same-day via PDF digital dan konsultasi dokter gratis.
+7. [Akupuntur Medis di Rumah](https://joyofcare.net/layanan-akupuntur-di-rumah/) — Terapi jarum akupuntur medis steril sekali pakai oleh dokter untuk mengatasi nyeri sendi osteoartritis lansia, pemulihan saraf pasca stroke, migrain, neuropati, dan insomnia.
+8. [Antar Jemput RS (TransCare)](https://joyofcare.net/transcare-antar-jemput-ke-rs-jakarta-tangerang/) — Transportasi medis non-darurat yang aman, nyaman, dan higienis untuk kontrol rutin atau kepulangan pasca rawat inap, ramah kursi roda, dengan opsi pengawalan perawat berlisensi.
 
-## Key Facts
+## Knowledge Base & Artikel Edukasi Kesehatan
 
-- **Lokasi:** BSD City, Tangerang Selatan, Banten, Indonesia
-- **Area layanan:** Jakarta (Barat, Selatan, Pusat), Tangerang, Tangerang Selatan, Depok, Bogor
-- **WhatsApp:** 08811-118-911 (konsultasi gratis)
-- **Jam operasional:** 08:00–21:00, 7 hari seminggu
-- **Rating Google:** 4.8/5 (150+ ulasan)
-- **Jenis layanan:** 7 layanan utama — dokter, fisioterapi, infus vitamin, home lab, perawat, akupuntur, antar jemput RS
-- **Harga:** All-in, sudah termasuk biaya transport tenaga medis
+Joy of Care mempublikasikan ratusan panduan medis terverifikasi yang ditinjau oleh dokter dan tim medis:
+- [Pusat Artikel Kesehatan Homecare](https://joyofcare.net/blog/)
+- [Kategori Panggil Dokter](https://joyofcare.net/blog/panggil-dokter/) — Panduan dokter ke rumah, penanganan demam lansia, evaluasi medis geriatri.
+- [Kategori Fisioterapi](https://joyofcare.net/blog/fisioterapi/) — Protokol pemulihan stroke di rumah, latihan mandiri Parkinson, terapi latihan sendi lutut.
+- [Kategori Layanan Perawat](https://joyofcare.net/blog/layanan-perawat/) — Tata cara perawatan kateter, selang NGT, dan pencegahan dekubitus tirah baring.
+- [Kategori Tips Lansia](https://joyofcare.net/blog/tips-lansia/) — Nutrisi geriatri, adaptasi lingkungan ramah lansia, pencegahan jatuh (fall prevention).
+- [Kategori Penyakit Kronis](https://joyofcare.net/blog/penyakit-kronis/) — Pengendalian diabetes melitus tipe 2, manajemen hipertensi, dan perawatan gagal jantung kongestif di rumah.
 
-## Blog
+## Standar Keamanan Klinis (Patient Safety)
 
-- [Artikel Kesehatan](https://new.joyof.care/artikel) — Tips, panduan, dan informasi kesehatan dari tim Joy of Care.
+- Registrasi Medis: 100% praktisi terdaftar di Konsil Kedokteran Indonesia (KKI) atau Konsil Tenaga Kesehatan Indonesia (KTKI).
+- Alkes & Obat: Semua peralatan sekali pakai (single-use disposable), steril hospital-grade, serta obat-obatan berizin edar BPOM RI.
+- Rantai Dingin Medis (Cold-Chain): Vaksin dan sampel darah laboratorium selalu disimpan dalam rentang suhu stabil 2-8°C dengan continuous monitoring.
 
-## Social
+## Kontak & Pemesanan
 
-- Instagram: https://www.instagram.com/joyofcare
-- WhatsApp: https://api.whatsapp.com/send/?phone=628811118911
-- Google Maps: https://www.google.com/maps/place/Joy+of+Care/@-6.277,106.633,17z
-
-## Contact
-
-Untuk konsultasi atau pemesanan layanan, hubungi kami via WhatsApp di [08811-118-911](https://api.whatsapp.com/send/?phone=628811118911) atau email ke [hi@joyofcare.net](mailto:hi@joyofcare.net).
+- WhatsApp: [08811-118-911](https://wa.me/628811118911)
+- Google Maps: [Joy of Care BSD City](https://maps.app.goo.gl/JwkLdvc11hQYs8ts6)
+- Website: [https://joyofcare.net/](https://joyofcare.net/)
