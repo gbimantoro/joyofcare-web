@@ -4,10 +4,15 @@ dist/
 
 # Dependencies
 node_modules/
+cms/node_modules/
+
+# Wrangler / Cloudflare local state
+.wrangler/
 
 # Environment
 .env
 .env.local
+.env.*
 
 # OS
 .DS_Store
@@ -19,3 +24,6 @@ Thumbs.db
 
 # Astro
 .astro/
+
+# Temp files
+pages/temp_*.md
