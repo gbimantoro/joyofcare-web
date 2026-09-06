@@ -344,3 +344,100 @@
 .cta-box a.cta-box-btn:hover {
   transform: scale(1.05);
 }
+
+/* ============================================
+   BLOG IMAGE SYSTEM (JoC Visual, 2026-09)
+   Card thumbnails + article hero images
+   ============================================ */
+
+/* --- Card Thumbnail (blog/index.html grid) --- */
+.blog-card {
+  padding: 0;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+.blog-card-img {
+  display: block;
+  aspect-ratio: 16 / 9;
+  overflow: hidden;
+  background: var(--color-neutral);
+}
+
+.blog-card-img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  display: block;
+  transition: opacity 0.3s ease;
+}
+
+.blog-card:hover .blog-card-img img {
+  opacity: 0.92;
+}
+
+.blog-card-body {
+  padding: 20px 24px 24px;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+/* --- Article Type Badges (next to category badge) --- */
+.type-badge {
+  display: inline-block;
+  font-weight: 600;
+  font-size: 0.78rem;
+  padding: 4px 12px;
+  border-radius: var(--radius-full);
+  margin: 0 0 16px 8px;
+  letter-spacing: 0.02em;
+}
+
+.blog-card .type-badge {
+  margin-bottom: 12px;
+}
+
+.type-badge.type-panduan { background: #E6F9EF; color: #007A3D; }  /* Panduan Lengkap - hijau brand */
+.type-badge.type-biaya   { background: #EFF6FF; color: #1D4ED8; }  /* Biaya & Perbandingan - biru */
+.type-badge.type-tips    { background: #FFF4E5; color: #B45309; }  /* Tips & Cara - oranye */
+.type-badge.type-klinis  { background: #FEF2F2; color: #B91C1C; }  /* Kapan Harus / Protokol - merah medis */
+.type-badge.type-info    { background: #ECFEFF; color: #0E7490; }  /* Yang Perlu Anda Ketahui - teal */
+
+/* --- Article Hero Image (article pages) --- */
+.article-hero {
+  max-width: 920px;
+  margin: 8px auto 0;
+  padding: 0 24px;
+}
+
+.article-hero img {
+  width: 100%;
+  aspect-ratio: 1200 / 630;
+  object-fit: cover;
+  object-position: center;
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--color-border);
+  box-shadow: var(--shadow-md);
+  display: block;
+}
+
+.article-hero figcaption {
+  font-size: 0.82rem;
+  color: var(--color-text-muted);
+  text-align: center;
+  margin-top: 10px;
+}
+
+/* Photos (webp) keep natural 4:5 on narrow screens for heroes */
+@media (max-width: 768px) {
+  .article-hero img {
+    aspect-ratio: 16 / 10;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .blog-card-img img { transition: none; }
+}

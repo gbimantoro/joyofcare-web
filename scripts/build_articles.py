@@ -240,7 +240,61 @@ def inline(text):
     t = re.sub(r'\[([^\]]+)\]\(([^)]+)\)', lambda m: f'<a href="{m.group(2)}">{m.group(1)}</a>', t)
     return t
 
+def get_article_image(cat_dir, slug, title=""):
+    s = (slug + " " + title).lower()
+    if cat_dir == "osteoporosis":
+        return "/assets/blog/osteoporosis.svg", "Pencegahan & Terapi Osteoporosis Lansia di Rumah — Joy of Care"
+    elif cat_dir == "parkinson":
+        return "/assets/blog/parkinson.svg", "Perawatan & Terapi Pasien Parkinson di Rumah — Joy of Care"
+    elif cat_dir == "studi-luar-negeri":
+        return "/assets/blog/studi-luar-negeri.svg", "Pemeriksaan Kesehatan & Vaksinasi Studi Luar Negeri — Joy of Care"
+    elif cat_dir == "vaksinasi-rumah":
+        return "/assets/blog/vaksinasi.svg", "Layanan Vaksinasi Medis di Rumah untuk Lansia & Keluarga — Joy of Care"
+    elif cat_dir == "perawatan-lansia":
+        if "akupuntur" in s:
+            return "/images/service-akupuntur.webp", "Layanan Akupuntur Medis di Rumah untuk Nyeri Sendi Lansia — Joy of Care"
+        elif "perawat" in s:
+            return "/images/service-perawat.webp", "Layanan Perawat Homecare Pendamping Lansia — Joy of Care"
+        return "/assets/blog/healthy-aging.svg", "Layanan Perawatan Lansia & Geriatri di Rumah — Joy of Care"
+    elif cat_dir == "fisioterapi-rumah":
+        return "/images/service-fisioterapi.webp", "Layanan Fisioterapi Pasca Stroke & Mobilitas di Rumah — Joy of Care"
+    elif cat_dir == "panggil-dokter":
+        return "/images/service-panggil-dokter.webp", "Layanan Dokter Umum & Spesialis ke Rumah — Joy of Care"
+    elif cat_dir == "perawat-homecare":
+        return "/images/service-perawat.webp", "Layanan Perawat Medis Homecare Profesional — Joy of Care"
+    elif cat_dir == "kesehatan-umum":
+        return "/images/service-akupuntur.webp", "Layanan Kesehatan Umum & Akupuntur Medis di Rumah — Joy of Care"
+    elif cat_dir == "home-lab":
+        if "paket" in s:
+            return "/images/service-homelab-paket.webp", "Paket Medical Check Up & Cek Darah Lengkap — Joy of Care"
+        return "/images/service-homelab.webp", "Layanan Cek Darah & Home Lab Medis di Rumah — Joy of Care"
+    elif cat_dir == "infus-vitamin":
+        return "/images/service-infus.webp", "Layanan Infus & Suntik Vitamin di Rumah — Joy of Care"
+    elif cat_dir == "antar-jemput-rs":
+        return "/images/service-transcare.webp", "Layanan Antar Jemput Medis TransCare ke Rumah Sakit — Joy of Care"
+    return "/assets/blog/pengalaman-pasien.svg", "Layanan Kesehatan Joy of Care"
+
+def get_type_badge(slug):
+    s = slug.lower()
+    if "panduan-lengkap" in s:
+        return '<span class="type-badge type-panduan">Panduan Lengkap</span>'
+    elif "biaya-dan-perbandingan" in s:
+        return '<span class="type-badge type-biaya">Biaya &amp; Perbandingan</span>'
+    elif "tips-dan-cara" in s:
+        return '<span class="type-badge type-tips">Tips &amp; Cara</span>'
+    elif "kapan-harus" in s:
+        return '<span class="type-badge type-klinis">Kapan Harus</span>'
+    elif "yang-perlu-anda-ketahui" in s:
+        return '<span class="type-badge type-info">Perlu Diketahui</span>'
+    return ''
+
 def build_html(title, meta_desc, cat_dir, cat_name, slug, body):
+    img_url, img_caption = get_article_image(cat_dir, slug, title)
+    type_badge = get_type_badge(slug)
+    badges_html = f'<span class="category-badge" style="margin-bottom:0;">{cat_name}</span>'
+    if type_badge:
+        badges_html += f'\n      {type_badge}'
+
     return f"""<!DOCTYPE html>
 <html lang="id">
 <head>
@@ -250,10 +304,23 @@ def build_html(title, meta_desc, cat_dir, cat_name, slug, body):
   <meta name="description" content="{html_mod.escape(meta_desc)}">
   <link rel="canonical" href="https://new.joyof.care/blog/{cat_dir}/{slug}">
   <link rel="icon" href="/images/joc_icon.png" type="image/png">
+
+  <meta property="og:locale" content="id_ID">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="{html_mod.escape(title)} | Joy of Care">
+  <meta property="og:description" content="{html_mod.escape(meta_desc)}">
+  <meta property="og:url" content="https://new.joyof.care/blog/{cat_dir}/{slug}">
+  <meta property="og:site_name" content="Joy of Care">
+  <meta property="og:image" content="https://new.joyof.care{img_url}">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{html_mod.escape(title)} | Joy of Care">
+  <meta name="twitter:description" content="{html_mod.escape(meta_desc)}">
+  <meta name="twitter:image" content="https://new.joyof.care{img_url}">
+
   <link rel="stylesheet" href="../../css/style.css">
   <link rel="stylesheet" href="../../css/blog.css">
   <script type="application/ld+json">
-  {{"@context":"https://schema.org","@type":"Article","headline":"{html_mod.escape(title)}","description":"{html_mod.escape(meta_desc)}","url":"https://new.joyof.care/blog/{cat_dir}/{slug}","publisher":{{"@type":"Organization","name":"Joy of Care","logo":"/images/joc_logo.png"}},"mainEntityOfPage":{{"@type":"WebPage","@id":"https://new.joyof.care/blog/{cat_dir}/{slug}"}}}}
+  {{"@context":"https://schema.org","@type":"Article","headline":"{html_mod.escape(title)}","description":"{html_mod.escape(meta_desc)}","image":"https://new.joyof.care{img_url}","url":"https://new.joyof.care/blog/{cat_dir}/{slug}","publisher":{{"@type":"Organization","name":"Joy of Care","logo":"/images/joc_logo.png"}},"mainEntityOfPage":{{"@type":"WebPage","@id":"https://new.joyof.care/blog/{cat_dir}/{slug}"}}}}
   </script>
 </head>
 <body>
@@ -264,9 +331,15 @@ def build_html(title, meta_desc, cat_dir, cat_name, slug, body):
   </div></nav>
   <article class="article-content" style="padding-top:calc(var(--nav-height)+40px);max-width:800px;margin:0 auto;">
     <nav class="breadcrumbs" style="margin-bottom:20px;font-size:0.9rem;color:var(--color-text-muted);"><a href="/" style="color:var(--color-primary);">Beranda</a> › <a href="/blog/" style="color:var(--color-primary);">Artikel</a> › <a href="/blog/{cat_dir}/" style="color:var(--color-primary);">{cat_name}</a> › {html_mod.escape(title)}</nav>
-    <span class="category-badge" style="margin-bottom:16px;display:inline-block;">{cat_name}</span>
+    <div style="display:flex;align-items:center;flex-wrap:wrap;gap:8px;margin-bottom:16px;">
+      {badges_html}
+    </div>
     <h1 style="font-size:2rem;margin-bottom:16px;line-height:1.3;">{html_mod.escape(title)}</h1>
-    <p style="color:var(--color-text-muted);font-size:0.9rem;margin-bottom:32px;">Oleh Tim Joy of Care | Konsultasi Gratis via <a href="{WA_LINK}" style="color:var(--color-primary);">WhatsApp 08811-118-911</a></p>
+    <p style="color:var(--color-text-muted);font-size:0.9rem;margin-bottom:24px;">Oleh Tim Joy of Care | Konsultasi Gratis via <a href="{WA_LINK}" style="color:var(--color-primary);">WhatsApp 08811-118-911</a></p>
+    <figure class="article-hero" style="margin:0 0 32px 0;padding:0;">
+      <img src="{img_url}" alt="{html_mod.escape(title)}" width="1200" height="630" loading="eager">
+      <figcaption>{img_caption}</figcaption>
+    </figure>
     <div class="article-body">
 {body}
 {WA_CTA}

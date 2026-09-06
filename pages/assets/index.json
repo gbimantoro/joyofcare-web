@@ -1,0 +1,154 @@
+{
+  "name": "JoyofCare Visual Assets",
+  "version": "1.0.0",
+  "brand": {
+    "name": "Joy of Care",
+    "primary_color": "#2D9C4A",
+    "secondary_color": "#1A6B30",
+    "accent_color": "#FC9000",
+    "font_heading": "Montserrat",
+    "font_body": "Inter"
+  },
+  "categories": {
+    "thumbnails": {
+      "directory": "/thumbnails/",
+      "size": "1200x630",
+      "use": "Blog category cards, Open Graph images",
+      "assets": [
+        {
+          "id": "healthy-aging",
+          "file": "healthy-aging.svg",
+          "title": "Lansia Sehat",
+          "subtitle": "Healthy Aging",
+          "category": "healthy-aging",
+          "article_count": 29,
+          "color_theme": "green-warm",
+          "web_path": "/assets/blog/healthy-aging.svg"
+        },
+        {
+          "id": "pengalaman-pasien",
+          "file": "pengalaman-pasien.svg",
+          "title": "Pengalaman Pasien",
+          "subtitle": "Patient Stories",
+          "category": "pengalaman",
+          "article_count": 1,
+          "color_theme": "warm-orange",
+          "web_path": "/assets/blog/pengalaman-pasien.svg"
+        },
+        {
+          "id": "studi-luar-negeri",
+          "file": "studi-luar-negeri.svg",
+          "title": "Studi di Luar Negeri",
+          "subtitle": "Study Abroad Health",
+          "category": "studi-luar-negeri",
+          "article_count": 7,
+          "color_theme": "blue-green",
+          "web_path": "/assets/blog/studi-luar-negeri.svg"
+        },
+        {
+          "id": "vaksinasi",
+          "file": "vaksinasi.svg",
+          "title": "Vaksinasi di Rumah",
+          "subtitle": "Home Vaccination",
+          "category": "vaksinasi-di-rumah",
+          "article_count": 2,
+          "color_theme": "medical-cyan",
+          "web_path": "/assets/blog/vaksinasi.svg"
+        }
+      ]
+    },
+    "infographics": {
+      "directory": "/infographics/",
+      "size": "1080x1350",
+      "use": "Instagram feed, blog hero, mobile sharing",
+      "assets": [
+        {
+          "id": "biaya-panggil-dokter",
+          "file": "biaya-panggil-dokter.svg",
+          "title": "Biaya Panggil Dokter ke Rumah",
+          "subtitle": "Cost comparison: clinic vs home doctor",
+          "topic": "cost-transparency",
+          "sections": ["comparison", "benefits", "pricing-tiers"],
+          "web_path": "/assets/infographics/biaya-panggil-dokter.svg"
+        },
+        {
+          "id": "panduan-merawat-orang-tua",
+          "file": "panduan-merawat-orang-tua.svg",
+          "title": "10 Cara Merawat Orang Tua di Rumah",
+          "subtitle": "10 ways to care for elderly at home",
+          "topic": "elderly-care",
+          "sections": ["10-steps"],
+          "web_path": "/assets/infographics/panduan-merawat-orang-tua.svg"
+        },
+        {
+          "id": "fisioterapi-lansia",
+          "file": "fisioterapi-lansia.svg",
+          "title": "5 Latihan Fisioterapi untuk Lansia",
+          "subtitle": "5 physiotherapy exercises for elderly",
+          "topic": "physiotherapy",
+          "sections": ["exercises", "tips"],
+          "web_path": "/assets/infographics/fisioterapi-lansia.svg"
+        },
+        {
+          "id": "persyaratan-kesehatan-studi-luar-negeri",
+          "file": "persyaratan-kesehatan-studi-luar-negeri.svg",
+          "title": "Persyaratan Kesehatan Studi Luar Negeri",
+          "subtitle": "Health requirements for study abroad",
+          "topic": "study-abroad",
+          "sections": ["checklist", "countries", "tips"],
+          "web_path": "/assets/infographics/persyaratan-kesehatan-studi-luar-negeri.svg"
+        },
+        {
+          "id": "vaksinasi-untuk-lansia",
+          "file": "vaksinasi-untuk-lansia.svg",
+          "title": "Vaksinasi Penting untuk Lansia",
+          "subtitle": "Essential vaccines for elderly",
+          "topic": "vaccination",
+          "sections": ["stats", "vaccines", "preparation-tips"],
+          "web_path": "/assets/infographics/vaksinasi-untuk-lansia.svg"
+        }
+      ]
+    },
+    "social": {
+      "directory": "/social/",
+      "assets": [
+        {
+          "id": "whatsapp-share-card",
+          "file": "whatsapp-share-card.svg",
+          "title": "WhatsApp Share Card",
+          "size": "1200x630",
+          "platform": ["whatsapp", "og-share"],
+          "web_path": "/assets/social/whatsapp-share-card.svg"
+        },
+        {
+          "id": "instagram-post",
+          "file": "instagram-post.svg",
+          "title": "Instagram Post Template",
+          "size": "1080x1080",
+          "platform": ["instagram"],
+          "web_path": "/assets/social/instagram-post.svg"
+        },
+        {
+          "id": "facebook-share-card",
+          "file": "facebook-share-card.svg",
+          "title": "Facebook Share Card",
+          "size": "1200x630",
+          "platform": ["facebook", "og-share"],
+          "web_path": "/assets/social/facebook-share-card.svg"
+        }
+      ]
+    }
+  },
+  "stats": {
+    "total_assets": 12,
+    "thumbnails": 4,
+    "infographics": 5,
+    "social_graphics": 3
+  },
+  "contact": {
+    "whatsapp": "08811-118-911",
+    "whatsapp_link": "https://api.whatsapp.com/send/?phone=628811118911&text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?",
+    "url": "joyofcare.net",
+    "service_area": ["Jakarta", "Tangerang", "Depok", "Bogor"]
+  }
+}

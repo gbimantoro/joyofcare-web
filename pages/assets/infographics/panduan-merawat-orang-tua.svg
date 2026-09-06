@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350" width="1080" height="1350" role="img" aria-label="Panduan Merawat Orang Tua di Rumah - JoyofCare">
+  <title>Panduan Merawat Orang Tua di Rumah - Infografis</title>
+  <desc>10 langkah praktis merawat orang tua di rumah, dari nutrisi hingga aktivitas harian.</desc>
+
+  <defs>
+    <linearGradient id="headBg2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2D9C4A"/>
+      <stop offset="100%" stop-color="#1A6B30"/>
+    </linearGradient>
+    <linearGradient id="stepBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#F8F9FA"/>
+    </linearGradient>
+    <filter id="cardShadow2" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="6"/>
+      <feOffset dx="0" dy="4" result="offsetblur"/>
+      <feComponentTransfer><feFuncA type="linear" slope="0.12"/></feComponentTransfer>
+      <feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1080" height="1350" fill="#F8F9FA"/>
+
+  <!-- HEADER -->
+  <rect width="1080" height="280" fill="url(#headBg2)"/>
+  <circle cx="950" cy="60" r="120" fill="#FFFFFF" opacity="0.1"/>
+  <circle cx="120" cy="240" r="80" fill="#FFFFFF" opacity="0.08"/>
+
+  <g transform="translate(60, 50)">
+    <rect x="0" y="0" width="180" height="36" rx="18" fill="#FFFFFF"/>
+    <text x="90" y="24" font-family="Inter, sans-serif" font-size="12" font-weight="700" fill="#1A6B30" text-anchor="middle" letter-spacing="2">PANDUAN</text>
+  </g>
+
+  <text x="60" y="160" font-family="Montserrat, Inter, sans-serif" font-size="42" font-weight="800" fill="#FFFFFF">10 Cara Merawat</text>
+  <text x="60" y="210" font-family="Montserrat, Inter, sans-serif" font-size="42" font-weight="800" fill="#FFFFFF">Orang Tua di Rumah</text>
+  <text x="60" y="248" font-family="Inter, sans-serif" font-size="18" fill="#E8F5EC">Panduan praktis untuk keluarga Indonesia</text>
+
+  <!-- STEP 1 -->
+  <g transform="translate(60, 310)">
+    <rect x="0" y="0" width="960" height="90" rx="16" fill="url(#stepBg)" filter="url(#cardShadow2)"/>
+    <circle cx="50" cy="45" r="28" fill="#2D9C4A"/>
+    <text x="50" y="54" font-family="Montserrat, sans-serif" font-size="24" font-weight="800" fill="#FFFFFF" text-anchor="middle">1</text>
+    <text x="100" y="42" font-family="Inter, sans-serif" font-size="18" font-weight="700" fill="#1A1A2E">Pastikan Nutrisi Seimbang</text>
+    <text x="100" y="68" font-family="Inter, sans-serif" font-size="14" fill="#64748B">Makanan tinggi kalsat, protein, &amp; serat. Hindari garam &amp; gula berlebihan.</text>
+  </g>
+
+  <!-- STEP 2 -->
+  <g transform="translate(60, 410)">
+    <rect x="0" y="0" width="960" height="90" rx="16" fill="url(#stepBg)" filter="url(#cardShadow2)"/>
+    <circle cx="50" cy="45" r="28" fill="#2D9C4A"/>
+    <text x="50" y="54" font-family="Montserrat, sans-serif" font-size="24" font-weight="800" fill="#FFFFFF" text-anchor="middle">2</text>
+    <text x="100" y="42" font-family="Inter, sans-serif" font-size="18" font-weight="700" fill="#1A1A2E">Rutin Periksa Kesehatan</text>
+    <text x="100" y="68" font-family="Inter, sans-serif" font-size="14" fill="#64748B">Cek tensi, gula darah, kolesterol tiap bulan. Panggil dokter ke rumah.</text>
+  </g>
+
+  <!-- STEP 3 -->
+  <g transform="translate(60, 510)">
+    <rect x="0" y="0" width="960" height="90" rx="16" fill="url(#stepBg)" filter="url(#cardShadow2)"/>
+    <circle cx="50" cy="45" r="28" fill="#2D9C4A"/>
+    <text x="50" y="54" font-family="Montserrat, sans-serif" font-size="24" font-weight="800" fill="#FFFFFF" text-anchor="middle">3</text>
+    <text x="100" y="42" font-family="Inter, sans-serif" font-size="18" font-weight="700" fill="#1A1A2E">Aktivitas Fisik Teratur</text>
+    <text x="100" y="68" font-family="Inter, sans-serif" font-size="14" fill="#64748B">Jalan kaki 30 menit, senam ringan, atau fisioterapi 2-3x seminggu.</text>
+  </g>
+
+  <!-- STEP 4 -->
+  <g transform="translate(60, 610)">
+    <rect x="0" y="0" width="960" height="90" rx="16" fill="url(#stepBg)" filter="url(#cardShadow2)"/>
+    <circle cx="50" cy="45" r="28" fill="#FC9000"/>
+    <text x="50" y="54" font-family="Montserrat, sans-serif" font-size="24" font-weight="800" fill="#FFFFFF" text-anchor="middle">4</text>
+    <text x="100" y="42" font-family="Inter, sans-serif" font-size="18" font-weight="700" fill="#1A1A2E">Cegah Risiko Jatuh</text>
+    <text x="100" y="68" font-family="Inter, sans-serif" font-size="14" fill="#64748B">Pegang tangan, lantai anti-slip, lampu cukup, kamar mandi aman.</text>
+  </g>
+
+  <!-- STEP 5 -->
+  <g transform="translate(60, 710)">
+    <rect x="0" y="0" width="960" height="90" rx="16" fill="url(#stepBg)" filter="url(#cardShadow2)"/>
+    <circle cx="50" cy="45" r="28" fill="#FC9000"/>
+    <text x="50" y="54" font-family="Montserrat, sans-serif" font-size="24" font-weight="800" fill="#FFFFFF" text-anchor="middle">5</text>
+    <text x="100" y="42" font-family="Inter, sans-serif" font-size="18" font-weight="700" fill="#1A1A2E">Kualitas Tidur yang Baik</text>
+    <text x="100" y="68" font-family="Inter, sans-serif" font-size="14" fill="#64748B">7-8 jam sehari, kamar gelap &amp; sejuk, hindari kafein sore hari.</text>
+  </g>
+
+  <!-- STEP 6 -->
+  <g transform="translate(60, 810)">
+    <rect x="0" y="0" width="960" height="90" rx="16" fill="url(#stepBg)" filter="url(#cardShadow2)"/>
+    <circle cx="50" cy="45" r="28" fill="#2D9C4A"/>
+    <text x="50" y="54" font-family="Montserrat, sans-serif" font-size="24" font-weight="800" fill="#FFFFFF" text-anchor="middle">6</text>
+    <text x="100" y="42" font-family="Inter, sans-serif" font-size="18" font-weight="700" fill="#1A1A2E">Kesehatan Mental &amp; Emosi</text>
+    <text x="100" y="68" font-family="Inter, sans-serif" font-size="14" fill="#64748B">Ajari ngobrol, dengarkan keluh kesah, libatkan dalam aktivitas keluarga.</text>
+  </g>
+
+  <!-- STEP 7 -->
+  <g transform="translate(60, 910)">
+    <rect x="0" y="0" width="960" height="90" rx="16" fill="url(#stepBg)" filter="url(#cardShadow2)"/>
+    <circle cx="50" cy="45" r="28" fill="#2D9C4A"/>
+    <text x="50" y="54" font-family="Montserrat, sans-serif" font-size="24" font-weight="800" fill="#FFFFFF" text-anchor="middle">7</text>
+    <text x="100" y="42" font-family="Inter, sans-serif" font-size="18" font-weight="700" fill="#1A1A2E">Vaksinasi Rutin</text>
+    <text x="100" y="68" font-family="Inter, sans-serif" font-size="14" fill="#64748B">Vaksin flu tahunan, pneumonia, booster COVID-19 sesuai jadwal.</text>
+  </g>
+
+  <!-- STEP 8 -->
+  <g transform="translate(60, 1010)">
+    <rect x="0" y="0" width="960" height="90" rx="16" fill="url(#stepBg)" filter="url(#cardShadow2)"/>
+    <circle cx="50" cy="45" r="28" fill="#FC9000"/>
+    <text x="50" y="54" font-family="Montserrat, sans-serif" font-size="24" font-weight="800" fill="#FFFFFF" text-anchor="middle">8</text>
+    <text x="100" y="42" font-family="Inter, sans-serif" font-size="18" font-weight="700" fill="#1A1A2E">Kelola Obat dengan Benar</text>
+    <text x="100" y="68" font-family="Inter, sans-serif" font-size="14" fill="#64748B">Gunakan pill organizer, tulis jadwal minum obat dengan jelas.</text>
+  </g>
+
+  <!-- STEP 9 -->
+  <g transform="translate(60, 1110)">
+    <rect x="0" y="0" width="960" height="90" rx="16" fill="url(#stepBg)" filter="url(#cardShadow2)"/>
+    <circle cx="50" cy="45" r="28" fill="#2D9C4A"/>
+    <text x="50" y="54" font-family="Montserrat, sans-serif" font-size="24" font-weight="800" fill="#FFFFFF" text-anchor="middle">9</text>
+    <text x="100" y="42" font-family="Inter, sans-serif" font-size="18" font-weight="700" fill="#1A1A2E">Stimulasi Otak &amp; Sosial</text>
+    <text x="100" y="68" font-family="Inter, sans-serif" font-size="14" fill="#64748B">Baca buku, main catur, berkumpul dengan cucu &amp; tetangga.</text>
+  </g>
+
+  <!-- STEP 10 -->
+  <g transform="translate(60, 1210)">
+    <rect x="0" y="0" width="960" height="90" rx="16" fill="#FFF7ED" stroke="#FC9000" stroke-width="2" filter="url(#cardShadow2)"/>
+    <circle cx="50" cy="45" r="28" fill="#FC9000"/>
+    <text x="50" y="54" font-family="Montserrat, sans-serif" font-size="20" font-weight="800" fill="#FFFFFF" text-anchor="middle">10</text>
+    <text x="100" y="42" font-family="Inter, sans-serif" font-size="18" font-weight="700" fill="#1A1A2E">Panggil Profesional Saat Perlu</text>
+    <text x="100" y="68" font-family="Inter, sans-serif" font-size="14" fill="#475569">Jangan ragu hubungi dokter, perawat, atau fisioterapis ke rumah.</text>
+  </g>
+
+  <!-- CTA Footer -->
+  <g transform="translate(60, 1310)">
+    <text x="0" y="20" font-family="Inter, sans-serif" font-size="13" fill="#64748B">Joy of Care - Layanan kesehatan profesional ke rumah</text>
+  </g>
+</svg>
