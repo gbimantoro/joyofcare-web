@@ -33,22 +33,37 @@ def iso_date(dstr):
 
 
 def extract_faq(fm_text):
-    """Best-effort parse of the messy frontmatter FAQ into [{question, answer}]."""
+    """Parse the messy frontmatter FAQ into [{question, answer}]."""
     pairs = []
-    # find question blocks: <ul><li>question: X</li>  ...  answer: Y
-    q_re = re.compile(r"question:\s*(.*?)</li>", re.DOTALL)
-    # locate all 'answer:' occurrences with surrounding text
-    q_positions = [(m.start(), m.group(1)) for m in q_re.finditer(fm_text)]
-    for idx, (qstart, question) in enumerate(q_positions):
-        q = re.sub(r"<[^>]+>", "", question).strip()
-        # answer = text between end of this question block and the next question start
-        aend = q_positions[idx + 1][0] if idx + 1 < len(q_positions) else len(fm_text)
-        answer_seg = fm_text[qstart:aend]
-        am = re.search(r"answer:\s*(.*)", answer_seg, re.DOTALL)
-        if not am:
-            continue
-        a = re.sub(r"<[^>]+>", "", am.group(1)).strip()
-        a = re.sub(r"\s+", " ", a).strip()
+
+    def clean(s):
+        s = re.sub(r"<[^>]+>", " ", s)      # strip any html
+        s = s.replace("&nbsp;", " ")
+        s = re.sub(r"\s+", " ", s).strip()
+        return s
+
+    # Primary: messy HTML form  `<ul><li>question: Q ... </li></ul>\n  cont\n  answer: A ...`
+    if "<ul><li>question:" in fm_text:
+        parts = re.split(r"<ul><li>question:\s*", fm_text)
+        for part in parts[1:]:
+            # question body = text up to first 'answer:', answer = rest
+            q_part, _, a_part = part.partition("answer:")
+            q = clean(q_part)
+            # drop any leading question-number/li residue
+            q = re.sub(r"^[\s\d.]+", "", q)
+            a = clean(a_part)
+            if q and a:
+                pairs.append({"question": q, "answer": a})
+        if pairs:
+            return pairs
+
+    # Fallback: YAML list form  `- question: Q` / `  answer: A`
+    blocks = re.split(r"(?:^|\n)\s*-\s*question:\s*", fm_text)
+    for block in blocks[1:]:
+        bq, _, ba = block.partition("\n")
+        q = clean(bq)
+        am = re.search(r"answer:\s*(.*)", block, re.DOTALL)
+        a = clean(am.group(1)) if am else ""
         if q and a:
             pairs.append({"question": q, "answer": a})
     return pairs
