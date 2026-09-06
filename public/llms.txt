@@ -46,3 +46,5 @@ Joy of Care mempublikasikan ratusan panduan medis terverifikasi yang ditinjau ol
 - WhatsApp: [08811-118-911](https://wa.me/628811118911)
 - Google Maps: [Joy of Care BSD City](https://maps.app.goo.gl/JwkLdvc11hQYs8ts6)
 - Website: [https://joyofcare.net/](https://joyofcare.net/)
+- Full Knowledge Base (LLMs Full): [https://joyofcare.net/llms-full.txt](https://joyofcare.net/llms-full.txt)
+

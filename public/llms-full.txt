@@ -1,0 +1,144 @@
+# Joy of Care — Complete Knowledge Base & Services Catalog (LLMs Full)
+
+> Dokumentasi komprehensif layanan homecare medis terintegrasi Joy of Care (PT. Joyofcare Network Indonesia) untuk sistem pencarian berbasis AI (ChatGPT, Perplexity, Claude, Google AI Overviews, Gemini).
+
+---
+
+## 1. Identitas Perusahaan & Legalitas Medis
+
+- **Nama Resmi:** PT. Joyofcare Network Indonesia
+- **Merek Dagang:** Joy of Care
+- **Situs Resmi:** https://joyofcare.net/
+- **Kantor Operasional:** Ruko Greenwich Business Park E-15, Jl. Bumi Botanika, BSD City, Tangerang Selatan, Banten 15331
+- **Google Maps:** https://maps.app.goo.gl/JwkLdvc11hQYs8ts6
+- **WhatsApp Customer Care:** +62 881-1118-911 (https://wa.me/628811118911)
+- **Email:** hi@joyofcare.net
+- **Jam Operasional:** 
+  - Kunjungan Terjadwal: Setiap Hari (Senin–Minggu) 07:00 – 21:00 WIB
+  - Layanan Perawat Standby: 24 Jam (Sistem Shift 8/12/24 Jam)
+  - Emergency / Respon Cepat Reservasi: Respon WhatsApp rata-rata < 10 menit
+- **Standar Lisensi & Sertifikasi:**
+  - 100% Dokter memiliki Surat Tanda Registrasi (STR) aktif Konsil Kedokteran Indonesia (KKI) dan Surat Izin Praktik (SIP).
+  - 100% Perawat memiliki Surat Tanda Registrasi (STR) aktif Kementerian Kesehatan / KTKI dan sertifikasi BCLS/BTCLS.
+  - 100% Fisioterapis memiliki STR Fisioterapi aktif dari IFI (Ikatan Fisioterapi Indonesia) / KTKI.
+  - Alkes & Instrumen Medis: Steril hospital-grade, jarum & spuit single-use disposable, obat dan vaksin berizin edar resmi BPOM RI.
+  - Rantai Dingin Medis (Cold Chain): Penyimpanan vaksin & sampel darah pada cool box berpendingin 2–8°C dengan termometer digital bersertifikat kalibrasi.
+
+---
+
+## 2. Model & Prinsip Penetapan Harga
+
+- **All-In Transparent Pricing:** Seluruh paket tarif sudah mencakup jasa visit dokter/perawat/fisioterapis, alkes medis steril, dan biaya transportasi tenaga medis untuk wilayah Jakarta dan Tangerang/BSD City.
+- **Metode Pembayaran:** Transfer Bank (BCA, Mandiri, BRI), QRIS, Kartu Kredit, dan Invoice Korporat.
+- **Klaim Asuransi:** Joy of Care menyediakan resume medis resmi, rincian kuitansi, dan form klaim asuransi (reimbursement) untuk asuransi swasta maupun korporat.
+
+---
+
+## 3. Wilayah Layanan Kunjungan (Area Coverage)
+
+Joy of Care melayani kunjungan tenaga kesehatan ke rumah pasien (home visit) di seluruh wilayah metropolitan Jabodetabek:
+
+1. **Tangerang Selatan & BSD:** BSD City, Gading Serpong, Alam Sutera, Bintaro Jaya, Ciputat, Pamulang, Pondok Aren, Serpong Utara.
+2. **Kota Tangerang:** Karawaci, Cikokol, Modernland, Cipondoh, Batuceper, Ciledug.
+3. **DKI Jakarta:**
+   - Jakarta Selatan: Kebayoran Baru, Pondok Indah, Cilandak, Kemang, Tebet, Jagakarsa, Pasar Minggu.
+   - Jakarta Barat: Puri Indah, Kebon Jeruk, Meruya, Tanjung Duren, Tomang, Kalideres.
+   - Jakarta Pusat: Menteng, Tanah Abang, Cempaka Putih, Senayan.
+   - Jakarta Timur: Rawamangun, Pulomas, Duren Sawit, Cibubur.
+   - Jakarta Utara: Kelapa Gading, Sunter, Pluit, Pantai Indah Kapuk (PIK).
+4. **Depok:** Margonda, Cinere, Sawangan, Cimanggis.
+5. **Bogor:** Sentul City, Cibinong, Kota Bogor (dengan konfirmasi jadwal).
+
+---
+
+## 4. Katalog Lengkap Layanan Medis di Rumah
+
+### 4.1 Panggil Dokter ke Rumah (Home Visit Doctor)
+- **URL:** https://joyofcare.net/panggil-dokter-ke-rumah/
+- **Deskripsi:** Pemeriksaan fisik menyeluruh oleh dokter umum dan konsultan geriatri langsung di rumah pasien. Cocok untuk lansia, pasien dengan mobilitas terbatas, demam tinggi, penyakit kronis (hipertensi, diabetes, jantung), evaluasi pasca opname, serta pemberian resep obat resmi Dinkes.
+- **Tindakan yang Dapat Dilakukan:** Pemeriksaan vital sign, auskultasi jantung/paru, otoskopi telinga, cek gula darah/kolesterol/asam urat sewaktu, resep digital/fisik, pengantar rujukan laboratorium atau spesialis.
+
+### 4.2 Fisioterapi di Rumah (Home Physiotherapy)
+- **URL:** https://joyofcare.net/layanan-fisioterapi-ke-rumah/
+- **Deskripsi:** Terapi rehabilitasi fisik oleh fisioterapis ber-STR untuk pemulihan motorik dan fungsional tanpa pasien harus bepergian ke klinik.
+- **Indikasi Klinis:**
+  - Rehabilitasi pasca stroke (hemiparesis, melatih pola jalan, transfer kursi roda ke tempat tidur).
+  - Penyakit Parkinson (mengurangi kekakuan, latihan koordinasi, pencegahan jatuh/fall prevention).
+  - Pasca operasi ortopedi: Total Hip Replacement (THR), Total Knee Replacement (TKR), fiksasi patah tulang.
+  - Saraf kejepit (HNP / Hernia Nucleus Pulposus), frozen shoulder, osteoartritis lutut pada lansia.
+  - Fisioterapi dada / chest physiotherapy untuk pembersihan dahak pada lansia bedridden.
+
+### 4.3 Perawat Homecare Medis di Rumah (Home Nursing Care)
+- **URL:** https://joyofcare.net/layanan-perawat-di-rumah/
+- **Deskripsi:** Layanan perawat medis berlisensi untuk pendampingan jangka pendek (prosedural) maupun jangka panjang (shift 8 jam, 12 jam, atau 24 jam).
+- **Kompetensi Tindakan Klinis:**
+  - Pasang, rawat, dan ganti Kateter Urine (Foley Catheter).
+  - Pasang, ganti, dan pemberian nutrisi lewat Selang NGT (Nasogastric Tube).
+  - Perawatan luka modern (Modern Wound Care): luka dekubitus (ulserasi tirah baring), luka gangren diabetes melitus, luka jahitan pasca operasi besar, pencegahan maserasi.
+  - Pemberian obat suntik resep dokter (injeksi intravena/intramuskular/subkutan insulin).
+  - Suction lendir saluran napas dan pemantauan saturasi oksigen pasien tirah baring.
+
+### 4.4 Vaksinasi di Rumah (Home Vaccination)
+- **URL:** https://joyofcare.net/layanan-vaksinasi-di-rumah/
+- **Deskripsi:** Layanan vaksinasi keluarga dan lansia oleh dokter berlisensi, disimpan dengan rantai dingin (cold chain) 2–8°C steril.
+- **Jenis Vaksin Populer:**
+  - Vaksin Pneumonia Lansia & Dewasa: PCV13 (Prevenar 13) dan PPSV23 (Pneumovax 23).
+  - Vaksin Influenza Kuadrivalen tahunan (strain terbaru WHO belahan utara/selatan).
+  - Vaksin Herpes Zoster / Cacar Api (Shingrix) untuk lansia >50 tahun.
+  - Vaksin Hepatitis A, Hepatitis B, Tifoid, Meningitis, HPV, dan MMR.
+  - Vaksinasi Persyaratan Studi ke Luar Negeri (Australia, UK, USA, Eropa) dilengkapi pengisian form Medical History & sertifikat vaksin resmi internasional.
+
+### 4.5 Infus & Suntik Vitamin Imun Booster (Home IV Therapy)
+- **URL:** https://joyofcare.net/infus-suntik-vitamin-di-rumah/
+- **Deskripsi:** Terapi rehidrasi cairan intravena dan mikronutrien steril berizin BPOM untuk mempercepat pemulihan tubuh.
+- **Paket Tersedia:**
+  - Immune Booster: High-dose Vitamin C + Zinc + B-Complex.
+  - Neurobion / Neurotropik Drip: Meredakan kebas, kesemutan, dan kelelahan saraf motorik.
+  - Post-Illness Recovery: Rehidrasi elektrolit untuk pemulihan pasca demam berdarah (DBD), tipes, atau diare.
+  - Anti-Fatigue Multivitamin Drip untuk pekerja dengan mobilitas tinggi dan kelelahan kronis.
+
+### 4.6 Home Lab — Cek Darah di Rumah (Diagnostic Blood Test)
+- **URL:** https://joyofcare.net/homelab/
+- **Deskripsi:** Pengambilan sampel darah (flebotomi) steril di rumah oleh tenaga analis laboratorium berpengalaman, diuji di laboratorium rujukan terakreditasi ISO.
+- **Paket Panel Uji:**
+  - Panel Diabetes: Glukosa Darah Puasa (GDP), Glukosa 2 Jam PP, HbA1c.
+  - Panel Profil Lipid: Kolesterol Total, LDL, HDL, Trigliserida.
+  - Panel Fungsi Organ: SGOT/SGPT (Hati), Ureum/Kreatinin/eGFR (Ginjal), Asam Urat.
+  - Panel Darah Lengkap (Hematologi) & Elektrolit Serum.
+  - Layanan konsultasi hasil tes darah gratis bersama dokter umum via WhatsApp/Telekonsultasi.
+
+### 4.7 Akupuntur Medis di Rumah (Home Acupuncture)
+- **URL:** https://joyofcare.net/layanan-akupuntur-di-rumah/
+- **Deskripsi:** Terapi tusuk jarum berbasis neuroanatomi klinis oleh dokter bersertifikat kompetensi akupuntur medis. Menggunakan jarum steril sekali pakai.
+- **Manfaat Klinis:** Meredakan nyeri muskuloskeletal kronis (osteoartritis sendi lutut, nyeri pinggang bawah/LBP), perbaikan fungsi saraf pada Bell's Palsy dan pemulihan pasca stroke, migrain berat, serta insomnia pada usia lanjut.
+
+### 4.8 Antar Jemput Rumah Sakit — TransCare
+- **URL:** https://joyofcare.net/transcare-antar-jemput-ke-rs-jakarta-tangerang/
+- **Deskripsi:** Transportasi medis non-darurat yang higienis dan nyaman untuk mengantar pasien kontrol rutin dokter spesialis di RS atau menjemput kepulangan pasien pasca rawat inap (discharge hospital).
+- **Fasilitas:** Armada luas ber-AC higienis, ramah kursi roda, bantuan transfer pasien dari tempat tidur ke kendaraan, dan opsi pendampingan oleh perawat medis ber-STR sepanjang perjalanan.
+
+---
+
+## 5. Pertanyaan yang Sering Diajukan (FAQ Standar Medis)
+
+**T: Apa bedanya layanan dokter homecare Joy of Care dengan layanan IGD rumah sakit?**  
+J: Joy of Care melayani kondisi medis non-gawat darurat (non-emergency), seperti evaluasi kesehatan lansia, kontrol penyakit kronis, demam sedang, infeksi ringan, dan tindakan perawatan luka. Jika pasien mengalami henti napas, nyeri dada akut menjalar (indikasi serangan jantung), penurunan kesadaran tiba-tiba, atau kejang aktif, segera hubungi ambulans gawat darurat (118/119) ke IGD terdekat.
+
+**T: Bagaimana cara memastikan alat dan vaksin yang dibawa steril dan aman?**  
+J: Semua jarum, spuit, kassa, selang NGT, dan kateter berstatus single-use sterile dan dibuka langsung di hadapan keluarga pasien. Vaksin dibawa menggunakan cool box rantai dingin (cold chain 2–8°C) bertermometer digital guna menjaga potensi biologis vaksin sesuai panduan WHO dan Kemenkes RI.
+
+**T: Apakah saya perlu menyiapkan surat rujukan untuk panggil dokter atau fisioterapi?**  
+J: Tidak diperlukan surat rujukan awal. Dokter dan fisioterapis kami akan melakukan penilaian fisik awal (assesment) pada kunjungan pertama. Jika Anda memiliki resume medis dari dokter spesialis atau hasil rontgen/lab sebelumnya, Anda dapat menunjukkannya kepada tim kami untuk sinkronisasi rencana terapi.
+
+**T: Bagaimana prosedur pemesanan jadwal?**  
+J: Kirim pesan WhatsApp ke 08811-118-911, informasikan keluhan/kebutuhan layanan, nama pasien, dan alamat lengkap di Jabodetabek. Tim admin akan mengonfirmasi jadwal, rincian biaya all-in, dan profil tenaga medis yang akan bertugas.
+
+---
+
+## 6. Referensi & Kontak Resmi
+
+- **Website:** https://joyofcare.net/
+- **WhatsApp Customer Care:** +62 881-1118-911
+- **Alamat:** Ruko Greenwich Business Park E-15, BSD City, Tangerang Selatan
+- **Koleksi Artikel Edukasi Kesehatan:** https://joyofcare.net/blog/
+- **Ringkasan Singkat LLM (Quick Index):** https://joyofcare.net/llms.txt

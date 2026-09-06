@@ -1,5 +1,6 @@
 ---
-import { SITE_URL, SITE_NAME } from '../consts';
+import { SITE_URL, SITE_NAME, GSC_VERIFICATION_ID } from '../consts';
+import GoogleAnalytics from '../components/GoogleAnalytics.astro';
 import '../styles/global.css';
 
 interface Props {
@@ -30,6 +31,7 @@ const currentPath = Astro.url.pathname;
   <title>{title}</title>
   <meta name="description" content={description}>
   {noindex && <meta name="robots" content="noindex, follow" />}
+  {GSC_VERIFICATION_ID && <meta name="google-site-verification" content={GSC_VERIFICATION_ID} />}
   <link rel="canonical" href={canonicalURL}>
   
   <!-- Open Graph -->
@@ -56,27 +58,64 @@ const currentPath = Astro.url.pathname;
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Montserrat:wght@600;700;800&display=swap" rel="stylesheet">
+
+  <!-- Google Analytics 4 & Custom Conversion Tracking -->
+  <GoogleAnalytics />
   
-  <!-- JSON-LD: LocalBusiness -->
+  <!-- JSON-LD: MedicalBusiness Schema -->
   <script type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
     "@type": "MedicalBusiness",
     "name": SITE_NAME,
     "url": `${SITE_URL}/`,
     "logo": `${SITE_URL}/images/joc_long.png`,
+    "image": `${SITE_URL}/images/joc_long.png`,
     "telephone": "+628811118911",
     "email": "hi@joyofcare.net",
+    "priceRange": "$$",
+    "currenciesAccepted": "IDR",
+    "paymentAccepted": "Cash, Credit Card, Bank Transfer, QRIS",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "Ruko Greenwich Business Park E-15, Jl. Bumi Botanika",
       "addressLocality": "BSD City",
       "addressRegion": "Tangerang Selatan",
+      "postalCode": "15331",
       "addressCountry": "ID"
     },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -6.3024,
+      "longitude": 106.6521
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],
+        "opens": "07:00",
+        "closes": "21:00"
+      }
+    ],
+    "medicalSpecialty": [
+      "General Practice",
+      "Physical Therapy",
+      "Acupuncture",
+      "Nursing",
+      "Geriatrics"
+    ],
+    "sameAs": [
+      "https://www.instagram.com/joyof.care",
+      "https://www.facebook.com/joyof.care",
+      "https://linktr.ee/JoyofCare"
+    ],
     "areaServed": [
       { "@type": "City", "name": "BSD City" },
       { "@type": "City", "name": "Tangerang Selatan" },
-      { "@type": "City", "name": "Jakarta" },
+      { "@type": "City", "name": "Jakarta Barat" },
+      { "@type": "City", "name": "Jakarta Selatan" },
+      { "@type": "City", "name": "Jakarta Pusat" },
+      { "@type": "City", "name": "Jakarta Timur" },
+      { "@type": "City", "name": "Jakarta Utara" },
       { "@type": "City", "name": "Depok" },
       { "@type": "City", "name": "Bogor" }
     ]

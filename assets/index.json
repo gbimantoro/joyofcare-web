@@ -1,154 +1,465 @@
 {
-  "name": "JoyofCare Visual Assets",
-  "version": "1.0.0",
-  "brand": {
-    "name": "Joy of Care",
-    "primary_color": "#2D9C4A",
-    "secondary_color": "#1A6B30",
-    "accent_color": "#FC9000",
-    "font_heading": "Montserrat",
-    "font_body": "Inter"
-  },
-  "categories": {
-    "thumbnails": {
-      "directory": "/thumbnails/",
-      "size": "1200x630",
-      "use": "Blog category cards, Open Graph images",
-      "assets": [
-        {
-          "id": "healthy-aging",
-          "file": "healthy-aging.svg",
-          "title": "Lansia Sehat",
-          "subtitle": "Healthy Aging",
-          "category": "healthy-aging",
-          "article_count": 29,
-          "color_theme": "green-warm",
-          "web_path": "/assets/blog/healthy-aging.svg"
-        },
-        {
-          "id": "pengalaman-pasien",
-          "file": "pengalaman-pasien.svg",
-          "title": "Pengalaman Pasien",
-          "subtitle": "Patient Stories",
-          "category": "pengalaman",
-          "article_count": 1,
-          "color_theme": "warm-orange",
-          "web_path": "/assets/blog/pengalaman-pasien.svg"
-        },
-        {
-          "id": "studi-luar-negeri",
-          "file": "studi-luar-negeri.svg",
-          "title": "Studi di Luar Negeri",
-          "subtitle": "Study Abroad Health",
-          "category": "studi-luar-negeri",
-          "article_count": 7,
-          "color_theme": "blue-green",
-          "web_path": "/assets/blog/studi-luar-negeri.svg"
-        },
-        {
-          "id": "vaksinasi",
-          "file": "vaksinasi.svg",
-          "title": "Vaksinasi di Rumah",
-          "subtitle": "Home Vaccination",
-          "category": "vaksinasi-di-rumah",
-          "article_count": 2,
-          "color_theme": "medical-cyan",
-          "web_path": "/assets/blog/vaksinasi.svg"
-        }
-      ]
-    },
-    "infographics": {
-      "directory": "/infographics/",
-      "size": "1080x1350",
-      "use": "Instagram feed, blog hero, mobile sharing",
-      "assets": [
-        {
-          "id": "biaya-panggil-dokter",
-          "file": "biaya-panggil-dokter.svg",
-          "title": "Biaya Panggil Dokter ke Rumah",
-          "subtitle": "Cost comparison: clinic vs home doctor",
-          "topic": "cost-transparency",
-          "sections": ["comparison", "benefits", "pricing-tiers"],
-          "web_path": "/assets/infographics/biaya-panggil-dokter.svg"
-        },
-        {
-          "id": "panduan-merawat-orang-tua",
-          "file": "panduan-merawat-orang-tua.svg",
-          "title": "10 Cara Merawat Orang Tua di Rumah",
-          "subtitle": "10 ways to care for elderly at home",
-          "topic": "elderly-care",
-          "sections": ["10-steps"],
-          "web_path": "/assets/infographics/panduan-merawat-orang-tua.svg"
-        },
-        {
-          "id": "fisioterapi-lansia",
-          "file": "fisioterapi-lansia.svg",
-          "title": "5 Latihan Fisioterapi untuk Lansia",
-          "subtitle": "5 physiotherapy exercises for elderly",
-          "topic": "physiotherapy",
-          "sections": ["exercises", "tips"],
-          "web_path": "/assets/infographics/fisioterapi-lansia.svg"
-        },
-        {
-          "id": "persyaratan-kesehatan-studi-luar-negeri",
-          "file": "persyaratan-kesehatan-studi-luar-negeri.svg",
-          "title": "Persyaratan Kesehatan Studi Luar Negeri",
-          "subtitle": "Health requirements for study abroad",
-          "topic": "study-abroad",
-          "sections": ["checklist", "countries", "tips"],
-          "web_path": "/assets/infographics/persyaratan-kesehatan-studi-luar-negeri.svg"
-        },
-        {
-          "id": "vaksinasi-untuk-lansia",
-          "file": "vaksinasi-untuk-lansia.svg",
-          "title": "Vaksinasi Penting untuk Lansia",
-          "subtitle": "Essential vaccines for elderly",
-          "topic": "vaccination",
-          "sections": ["stats", "vaccines", "preparation-tips"],
-          "web_path": "/assets/infographics/vaksinasi-untuk-lansia.svg"
-        }
-      ]
-    },
-    "social": {
-      "directory": "/social/",
-      "assets": [
-        {
-          "id": "whatsapp-share-card",
-          "file": "whatsapp-share-card.svg",
-          "title": "WhatsApp Share Card",
-          "size": "1200x630",
-          "platform": ["whatsapp", "og-share"],
-          "web_path": "/assets/social/whatsapp-share-card.svg"
-        },
-        {
-          "id": "instagram-post",
-          "file": "instagram-post.svg",
-          "title": "Instagram Post Template",
-          "size": "1080x1080",
-          "platform": ["instagram"],
-          "web_path": "/assets/social/instagram-post.svg"
-        },
-        {
-          "id": "facebook-share-card",
-          "file": "facebook-share-card.svg",
-          "title": "Facebook Share Card",
-          "size": "1200x630",
-          "platform": ["facebook", "og-share"],
-          "web_path": "/assets/social/facebook-share-card.svg"
-        }
-      ]
+  "title": "Joy of Care Visual Assets Catalog",
+  "updatedAt": "2026-09-06",
+  "totalThumbnails": 54,
+  "totalInfographics": 53,
+  "branding": {
+    "icon": "joc_icon.png embedded as base64 in SVG",
+    "logoLong": "joc_long.png embedded as base64 in SVG",
+    "colors": {
+      "primary": "#00bf63",
+      "primaryDark": "#007A3D",
+      "accent": "#FC9000",
+      "teal": "#0E7490",
+      "bgLight": "#EFFBF4"
     }
   },
-  "stats": {
-    "total_assets": 12,
-    "thumbnails": 4,
-    "infographics": 5,
-    "social_graphics": 3
-  },
-  "contact": {
-    "whatsapp": "08811-118-911",
-    "whatsapp_link": "https://api.whatsapp.com/send/?phone=628811118911&text=Hi,%20saya%20tahu%20dari%20web.%20Apa%20saja%20layanan%20Joy%20of%20Care?",
-    "url": "joyofcare.net",
-    "service_area": ["Jakarta", "Tangerang", "Depok", "Bogor"]
-  }
+  "categories": [
+    "perawatan-lansia",
+    "fisioterapi-rumah",
+    "panggil-dokter",
+    "parkinson",
+    "studi-luar-negeri",
+    "osteoporosis",
+    "antar-jemput-rs",
+    "perawat-homecare",
+    "home-lab",
+    "vaksinasi-rumah",
+    "infus-vitamin",
+    "kesehatan-umum"
+  ],
+  "infographics": [
+    {
+      "slug": "antar-jemput-rumah-sakit-jakarta-harga-biaya-dan-perbandingan",
+      "title": "Antar Jemput RS: Joy of Care vs Taksi",
+      "category": "antar-jemput-rs",
+      "path": "/assets/infographics/antar-jemput-rumah-sakit-jakarta-harga-biaya-dan-perbandingan.svg",
+      "width": 1080,
+      "height": 1350,
+      "type": "Process Timeline & Clinical Guide"
+    },
+    {
+      "slug": "antar-jemput-rumah-sakit-jakarta-harga-tips-dan-cara",
+      "title": "Cara Pesan Antar Jemput Pasien ke RS",
+      "category": "antar-jemput-rs",
+      "path": "/assets/infographics/antar-jemput-rumah-sakit-jakarta-harga-tips-dan-cara.svg",
+      "width": 1080,
+      "height": 1350,
+      "type": "Process Timeline & Clinical Guide"
+    },
+    {
+      "slug": "5-latihan-fisioterapi-untuk-mengatasi-nyeri-punggung-bawah-hnp-26",
+      "title": "Latihan Fisioterapi HNP Saraf Kejepit",
+      "category": "fisioterapi-rumah",
+      "path": "/assets/infographics/5-latihan-fisioterapi-untuk-mengatasi-nyeri-punggung-bawah-hnp-26.svg",
+      "width": 1080,
+      "height": 1350,
+      "type": "Process Timeline & Clinical Guide"
+    },
+    {
+      "slug": "fisioterapi-di-rumah-solusi-praktis-pemulihan-pasca-operasi-lutut-23",
+      "title": "Fisioterapi Pasca Operasi Lutut di Rumah",
+      "category": "fisioterapi-rumah",
+      "path": "/assets/infographics/fisioterapi-di-rumah-solusi-praktis-pemulihan-pasca-operasi-lutut-23.svg",
+      "width": 1080,
+      "height": 1350,
+      "type": "Process Timeline & Clinical Guide"
+    },
+    {
+      "slug": "fisioterapi-lansia-di-rumah-jakarta-kapan-harus",
+      "title": "Kapan Lansia Butuh Fisioterapi di Rumah? Panduan Klinis",
+      "category": "fisioterapi-rumah",
+      "path": "/assets/infographics/fisioterapi-lansia-di-rumah-jakarta-kapan-harus.svg",
+      "width": 1080,
+      "height": 1350,
+      "type": "Process Timeline & Clinical Guide"
+    },
+    {
+      "slug": "fisioterapi-lansia-di-rumah-jakarta-yang-perlu-anda-ketahui",
+      "title": "FAQ Fisioterapi Lansia di Rumah Jakarta",
+      "category": "fisioterapi-rumah",
+      "path": "/assets/infographics/fisioterapi-lansia-di-rumah-jakarta-yang-perlu-anda-ketahui.svg",
+      "width": 1080,
+      "height": 1350,
+      "type": "Process Timeline & Clinical Guide"
+    },
+    {
+      "slug": "fisioterapi-pasca-stroke-di-rumah-panduan-lengkap",
+      "title": "Fisioterapi Pasca Stroke di Rumah: Panduan",
+      "category": "fisioterapi-rumah",
+      "path": "/assets/infographics/fisioterapi-pasca-stroke-di-rumah-panduan-lengkap.svg",
+      "width": 1080,
+      "height": 1350,
+      "type": "Process Timeline & Clinical Guide"
+    },
+    {
+      "slug": "fisioterapi-untuk-lansia-menjaga-mobilitas-dan-keseimbangan-30",
+      "title": "Fisioterapi Lansia: Mobilitas & Seimbang",
+      "category": "fisioterapi-rumah",
+      "path": "/assets/infographics/fisioterapi-untuk-lansia-menjaga-mobilitas-dan-keseimbangan-30.svg",
+      "width": 1080,
+      "height": 1350,
+      "type": "Process Timeline & Clinical Guide"
+    },
+    {
+      "slug": "latihan-fisioterapi-untuk-lansia-di-rumah-kapan-harus",
+      "title": "Kapan Lansia Butuh Latihan Fisioterapi di Rumah? Panduan",
+      "category": "fisioterapi-rumah",
+      "path": "/assets/infographics/latihan-fisioterapi-untuk-lansia-di-rumah-kapan-harus.svg",
+      "width": 1080,
+      "height": 1350,
+      "type": "Process Timeline & Clinical Guide"
+    },
+    {
+      "slug": "latihan-fisioterapi-untuk-lansia-di-rumah-yang-perlu-anda-ketahui",
+      "title": "FAQ Latihan Fisioterapi Lansia di Rumah",
+      "category": "fisioterapi-rumah",
+      "path": "/assets/infographics/latihan-fisioterapi-untuk-lansia-di-rumah-yang-perlu-anda-ketahui.svg",
+      "width": 1080,
+      "height": 1350,
+      "type": "Process Timeline & Clinical Guide"
+    },
+    {
+      "slug": "cek-darah-di-rumah-jakarta-biaya-biaya-dan-perbandingan",
+      "title": "Cek Darah di Rumah vs Laboratorium Klinik",
+      "category": "home-lab",
+      "path": "/assets/infographics/cek-darah-di-rumah-jakarta-biaya-biaya-dan-perbandingan.svg",
+      "width": 1080,
+      "height": 1350,
+      "type": "Process Timeline & Clinical Guide"
+    },
+    {
+      "slug": "infus-vitamin-di-rumah-jakarta-harga-biaya-dan-perbandingan",
+      "title": "Infus Vitamin di Rumah vs Klinik Jakarta",
+      "category": "infus-vitamin",
+      "path": "/assets/infographics/infus-vitamin-di-rumah-jakarta-harga-biaya-dan-perbandingan.svg",
+      "width": 1080,
+      "height": 1350,
+      "type": "Process Timeline & Clinical Guide"
+    },
+    {
+      "slug": "infus-vitamin-di-rumah-jakarta-harga-tips-dan-cara",
+      "title": "Cara Pesan Infus Vitamin di Rumah Jakarta",
+      "category": "infus-vitamin",
+      "path": "/assets/infographics/infus-vitamin-di-rumah-jakarta-harga-tips-dan-cara.svg",
+      "width": 1080,
+      "height": 1350,
+      "type": "Process Timeline & Clinical Guide"
+    },
+    {
+      "slug": "ini-dia-kunci-memahami-dan-memperlambat-proses-penuaan-dna-methylation-2",
+      "title": "Kunci Memperlambat Penuaan DNA Methylation",
+      "category": "kesehatan-umum",
+      "path": "/assets/infographics/ini-dia-kunci-memahami-dan-memperlambat-proses-penuaan-dna-methylation-2.svg",
+      "width": 1080,
+      "height": 1350,
+      "type": "Process Timeline & Clinical Guide"
+    },
+    {
+      "slug": "bahaya-komplikasi-osteoporosis-dan-faktor-risiko-yang-wajib-diwaspadai-41",
+      "title": "Bahaya Komplikasi Osteoporosis Lansia",
+      "category": "osteoporosis",
+      "path": "/assets/infographics/bahaya-komplikasi-osteoporosis-dan-faktor-risiko-yang-wajib-diwaspadai-41.svg",
+      "width": 1080,
+      "height": 1350,
+      "type": "Process Timeline & Clinical Guide"
+    },
+    {
+      "slug": "osteoporosis-pada-lansia-pencegahan-dan-perawatan-biaya-dan-perbandingan",
+      "title": "Osteoporosis Lansia: Medis vs Alami Terapi",
+      "category": "osteoporosis",
+      "path": "/assets/infographics/osteoporosis-pada-lansia-pencegahan-dan-perawatan-biaya-dan-perbandingan.svg",
+      "width": 1080,
+      "height": 1350,
+      "type": "Process Timeline & Clinical Guide"
+    },
+    {
+      "slug": "osteoporosis-pada-lansia-pencegahan-dan-perawatan-tips-dan-cara",
+      "title": "Makanan Penambah Kepadatan Tulang Lansia",
+      "category": "osteoporosis",
+      "path": "/assets/infographics/osteoporosis-pada-lansia-pencegahan-dan-perawatan-tips-dan-cara.svg",
+      "width": 1080,
+      "height": 1350,
+      "type": "Process Timeline & Clinical Guide"
+    },
+    {
+      "slug": "biaya-panggil-dokter-ke-rumah-2026-biaya-dan-perbandingan",
+      "title": "Biaya Dokter ke Rumah JOC vs Kavacare",
+      "category": "panggil-dokter",
+      "path": "/assets/infographics/biaya-panggil-dokter-ke-rumah-2026-biaya-dan-perbandingan.svg",
+      "width": 1080,
+      "height": 1350,
+      "type": "Process Timeline & Clinical Guide"
+    },
+    {
+      "slug": "biaya-panggil-dokter-ke-rumah-2026-tips-dan-cara",
+      "title": "Cara Menghitung Biaya Dokter ke Rumah",
+      "category": "panggil-dokter",
+      "path": "/assets/infographics/biaya-panggil-dokter-ke-rumah-2026-tips-dan-cara.svg",
+      "width": 1080,
+      "height": 1350,
+      "type": "Process Timeline & Clinical Guide"
+    },
+    {
+      "slug": "cek-darah-di-rumah-jakarta-biaya-yang-perlu-anda-ketahui",
+      "title": "FAQ Cek Darah di Rumah Jakarta & Biaya",
+      "category": "panggil-dokter",
+      "path": "/assets/infographics/cek-darah-di-rumah-jakarta-biaya-yang-perlu-anda-ketahui.svg",
+      "width": 1080,
+      "height": 1350,
+      "type": "Process Timeline & Clinical Guide"
+    },
+    {
+      "slug": "dokter-umum-ke-rumah-tangerang-panduan-lengkap",
+      "title": "Dokter Umum ke Rumah Tangerang & Tangsel",
+      "category": "panggil-dokter",
+      "path": "/assets/infographics/dokter-umum-ke-rumah-tangerang-panduan-lengkap.svg",
+      "width": 1080,
+      "height": 1350,
+      "type": "Process Timeline & Clinical Guide"
+    },
+    {
+      "slug": "panggil-dokter-ke-rumah-jakarta-biaya-dan-perbandingan",
+      "title": "Biaya Panggil Dokter ke Rumah Jakarta",
+      "category": "panggil-dokter",
+      "path": "/assets/infographics/panggil-dokter-ke-rumah-jakarta-biaya-dan-perbandingan.svg",
+      "width": 1080,
+      "height": 1350,
+      "type": "Process Timeline & Clinical Guide"
+    },
+    {
+      "slug": "panggil-dokter-ke-rumah-jakarta-tips-dan-cara",
+      "title": "Tips & Cara Panggil Dokter ke Rumah Jakarta",
+      "category": "panggil-dokter",
+      "path": "/assets/infographics/panggil-dokter-ke-rumah-jakarta-tips-dan-cara.svg",
+      "width": 1080,
+      "height": 1350,
+      "type": "Process Timeline & Clinical Guide"
+    },
+    {
+      "slug": "3-jenis-latihan-fisik-yang-terbukti-mampu-melawan-kekakuan-parkinson-panduan-fisioterapi-rumahan-35",
+      "title": "Latihan Fisik Parkinson di Rumah Terbaik",
+      "category": "parkinson",
+      "path": "/assets/infographics/3-jenis-latihan-fisik-yang-terbukti-mampu-melawan-kekakuan-parkinson-panduan-fisioterapi-rumahan-35.svg",
+      "width": 1080,
+      "height": 1350,
+      "type": "Process Timeline & Clinical Guide"
+    },
+    {
+      "slug": "perawatan-pasien-parkinson-di-rumah-kapan-harus",
+      "title": "Kapan Pasien Parkinson Butuh Homecare? Protokol Medis",
+      "category": "parkinson",
+      "path": "/assets/infographics/perawatan-pasien-parkinson-di-rumah-kapan-harus.svg",
+      "width": 1080,
+      "height": 1350,
+      "type": "Process Timeline & Clinical Guide"
+    },
+    {
+      "slug": "perawatan-pasien-parkinson-di-rumah-yang-perlu-anda-ketahui",
+      "title": "FAQ Perawatan Pasien Parkinson di Rumah",
+      "category": "parkinson",
+      "path": "/assets/infographics/perawatan-pasien-parkinson-di-rumah-yang-perlu-anda-ketahui.svg",
+      "width": 1080,
+      "height": 1350,
+      "type": "Process Timeline & Clinical Guide"
+    },
+    {
+      "slug": "suara-menghilang-kenali-hipofonia-begini-cara-terapi-wicara-mengembalikan-kekuatan-suara-dan-kelancaran-menelan-pada-parkinson-36",
+      "title": "Terapi Wicara Pasien Parkinson di Rumah",
+      "category": "parkinson",
+      "path": "/assets/infographics/suara-menghilang-kenali-hipofonia-begini-cara-terapi-wicara-mengembalikan-kekuatan-suara-dan-kelancaran-menelan-pada-parkinson-36.svg",
+      "width": 1080,
+      "height": 1350,
+      "type": "Process Timeline & Clinical Guide"
+    },
+    {
+      "slug": "jasa-perawat-homecare-terpercaya-biaya-dan-perbandingan",
+      "title": "Perawat Homecare Joy of Care vs Agensi Lain",
+      "category": "perawat-homecare",
+      "path": "/assets/infographics/jasa-perawat-homecare-terpercaya-biaya-dan-perbandingan.svg",
+      "width": 1080,
+      "height": 1350,
+      "type": "Process Timeline & Clinical Guide"
+    },
+    {
+      "slug": "jasa-perawat-homecare-terpercaya-tips-dan-cara",
+      "title": "Cara Verifikasi Sertifikasi Perawat Homecare",
+      "category": "perawat-homecare",
+      "path": "/assets/infographics/jasa-perawat-homecare-terpercaya-tips-dan-cara.svg",
+      "width": 1080,
+      "height": 1350,
+      "type": "Process Timeline & Clinical Guide"
+    },
+    {
+      "slug": "akupuntur-untuk-nyeri-sendi-lansia-biaya-dan-perbandingan",
+      "title": "Akupuntur vs Obat Nyeri Sendi Lansia",
+      "category": "perawatan-lansia",
+      "path": "/assets/infographics/akupuntur-untuk-nyeri-sendi-lansia-biaya-dan-perbandingan.svg",
+      "width": 1080,
+      "height": 1350,
+      "type": "Process Timeline & Clinical Guide"
+    },
+    {
+      "slug": "akupuntur-untuk-nyeri-sendi-lansia-tips-dan-cara",
+      "title": "Panduan Terapi Akupuntur Nyeri Sendi",
+      "category": "perawatan-lansia",
+      "path": "/assets/infographics/akupuntur-untuk-nyeri-sendi-lansia-tips-dan-cara.svg",
+      "width": 1080,
+      "height": 1350,
+      "type": "Process Timeline & Clinical Guide"
+    },
+    {
+      "slug": "cegah-jatuh-pada-lansia-tips-rumah-kapan-harus",
+      "title": "Kapan Lansia Butuh Program Cegah Jatuh? Protokol Klinis",
+      "category": "perawatan-lansia",
+      "path": "/assets/infographics/cegah-jatuh-pada-lansia-tips-rumah-kapan-harus.svg",
+      "width": 1080,
+      "height": 1350,
+      "type": "Process Timeline & Clinical Guide"
+    },
+    {
+      "slug": "cegah-jatuh-pada-lansia-tips-rumah-yang-perlu-anda-ketahui",
+      "title": "FAQ Pencegahan Jatuh pada Lansia Rumah",
+      "category": "perawatan-lansia",
+      "path": "/assets/infographics/cegah-jatuh-pada-lansia-tips-rumah-yang-perlu-anda-ketahui.svg",
+      "width": 1080,
+      "height": 1350,
+      "type": "Process Timeline & Clinical Guide"
+    },
+    {
+      "slug": "kesehatan-lansia-sehat-rutinitas-harian-panduan-lengkap",
+      "title": "Kesehatan Lansia Sehat: Rutinitas Harian",
+      "category": "perawatan-lansia",
+      "path": "/assets/infographics/kesehatan-lansia-sehat-rutinitas-harian-panduan-lengkap.svg",
+      "width": 1080,
+      "height": 1350,
+      "type": "Process Timeline & Clinical Guide"
+    },
+    {
+      "slug": "lanjutan-panduan-perawatan-pasca-operasi-untuk-pemulihan-optimal-di-rumah-penggantian-panggul-total-total-hip-replacement-thr-pada-lansia-20",
+      "title": "Lanjutan Perawatan Pasca Operasi THR Lansia",
+      "category": "perawatan-lansia",
+      "path": "/assets/infographics/lanjutan-panduan-perawatan-pasca-operasi-untuk-pemulihan-optimal-di-rumah-penggantian-panggul-total-total-hip-replacement-thr-pada-lansia-20.svg",
+      "width": 1080,
+      "height": 1350,
+      "type": "Process Timeline & Clinical Guide"
+    },
+    {
+      "slug": "merawat-orang-tua-di-rumah-kapan-harus",
+      "title": "Kapan Merawat Orang Tua Butuh Bantuan Medis? Panduan",
+      "category": "perawatan-lansia",
+      "path": "/assets/infographics/merawat-orang-tua-di-rumah-kapan-harus.svg",
+      "width": 1080,
+      "height": 1350,
+      "type": "Process Timeline & Clinical Guide"
+    },
+    {
+      "slug": "merawat-orang-tua-di-rumah-yang-perlu-anda-ketahui",
+      "title": "Merawat Orang Tua di Rumah: Hal Penting",
+      "category": "perawatan-lansia",
+      "path": "/assets/infographics/merawat-orang-tua-di-rumah-yang-perlu-anda-ketahui.svg",
+      "width": 1080,
+      "height": 1350,
+      "type": "Process Timeline & Clinical Guide"
+    },
+    {
+      "slug": "pentingnya-vaksinasi-untuk-lansia-jenis-vaksin-yang-direkomendasikan-12",
+      "title": "Pentingnya Vaksinasi untuk Lansia Wajib",
+      "category": "perawatan-lansia",
+      "path": "/assets/infographics/pentingnya-vaksinasi-untuk-lansia-jenis-vaksin-yang-direkomendasikan-12.svg",
+      "width": 1080,
+      "height": 1350,
+      "type": "Process Timeline & Clinical Guide"
+    },
+    {
+      "slug": "perawat-lansia-di-rumah-jabodetabek-kapan-harus",
+      "title": "Kapan Butuh Perawat Lansia Jabodetabek? Protokol Asuhan",
+      "category": "perawatan-lansia",
+      "path": "/assets/infographics/perawat-lansia-di-rumah-jabodetabek-kapan-harus.svg",
+      "width": 1080,
+      "height": 1350,
+      "type": "Process Timeline & Clinical Guide"
+    },
+    {
+      "slug": "perawat-lansia-di-rumah-jabodetabek-yang-perlu-anda-ketahui",
+      "title": "FAQ Perawat Lansia di Rumah Jabodetabek",
+      "category": "perawatan-lansia",
+      "path": "/assets/infographics/perawat-lansia-di-rumah-jabodetabek-yang-perlu-anda-ketahui.svg",
+      "width": 1080,
+      "height": 1350,
+      "type": "Process Timeline & Clinical Guide"
+    },
+    {
+      "slug": "vaksin-di-rumah-jakarta-lansia-kapan-harus",
+      "title": "Kapan Lansia Harus Vaksinasi di Rumah? Protokol Medis",
+      "category": "perawatan-lansia",
+      "path": "/assets/infographics/vaksin-di-rumah-jakarta-lansia-kapan-harus.svg",
+      "width": 1080,
+      "height": 1350,
+      "type": "Process Timeline & Clinical Guide"
+    },
+    {
+      "slug": "vaksin-di-rumah-jakarta-lansia-yang-perlu-anda-ketahui",
+      "title": "FAQ Vaksinasi Lansia di Rumah Jakarta",
+      "category": "perawatan-lansia",
+      "path": "/assets/infographics/vaksin-di-rumah-jakarta-lansia-yang-perlu-anda-ketahui.svg",
+      "width": 1080,
+      "height": 1350,
+      "type": "Process Timeline & Clinical Guide"
+    },
+    {
+      "slug": "cara-menyiapkan-persyaratan-kesehatan-untuk-studi-di-australia-18",
+      "title": "Persyaratan Kesehatan Studi di Australia",
+      "category": "studi-luar-negeri",
+      "path": "/assets/infographics/cara-menyiapkan-persyaratan-kesehatan-untuk-studi-di-australia-18.svg",
+      "width": 1080,
+      "height": 1350,
+      "type": "Process Timeline & Clinical Guide"
+    },
+    {
+      "slug": "syarat-kesehatan-studi-luar-negeri-vaksin-mcu-biaya-dan-perbandingan",
+      "title": "Syarat MCU Studi: Australia vs UK vs Asia",
+      "category": "studi-luar-negeri",
+      "path": "/assets/infographics/syarat-kesehatan-studi-luar-negeri-vaksin-mcu-biaya-dan-perbandingan.svg",
+      "width": 1080,
+      "height": 1350,
+      "type": "Process Timeline & Clinical Guide"
+    },
+    {
+      "slug": "tips-kesehatan-untuk-mahasiswa-kuliah-di-luar-negeri-biaya-dan-perbandingan",
+      "title": "Asuransi Kesehatan Pelajar Luar Negeri",
+      "category": "studi-luar-negeri",
+      "path": "/assets/infographics/tips-kesehatan-untuk-mahasiswa-kuliah-di-luar-negeri-biaya-dan-perbandingan.svg",
+      "width": 1080,
+      "height": 1350,
+      "type": "Process Timeline & Clinical Guide"
+    },
+    {
+      "slug": "tips-kesehatan-untuk-mahasiswa-kuliah-di-luar-negeri-tips-dan-cara",
+      "title": "Panduan MCU Studi Luar Negeri Lengkap",
+      "category": "studi-luar-negeri",
+      "path": "/assets/infographics/tips-kesehatan-untuk-mahasiswa-kuliah-di-luar-negeri-tips-dan-cara.svg",
+      "width": 1080,
+      "height": 1350,
+      "type": "Process Timeline & Clinical Guide"
+    },
+    {
+      "slug": "kenapa-bersekolah-di-luar-negeri-memerlukan-serangkaian-vaksinasi-8",
+      "title": "Vaksinasi Wajib Kuliah di Luar Negeri",
+      "category": "vaksinasi-rumah",
+      "path": "/assets/infographics/kenapa-bersekolah-di-luar-negeri-memerlukan-serangkaian-vaksinasi-8.svg",
+      "width": 1080,
+      "height": 1350,
+      "type": "Process Timeline & Clinical Guide"
+    },
+    {
+      "slug": "vaksinasi-mudah-di-rumah-solusi-praktis-untuk-kesehatan-keluarga-anda-7",
+      "title": "Layanan Vaksinasi Mudah di Rumah Aman",
+      "category": "vaksinasi-rumah",
+      "path": "/assets/infographics/vaksinasi-mudah-di-rumah-solusi-praktis-untuk-kesehatan-keluarga-anda-7.svg",
+      "width": 1080,
+      "height": 1350,
+      "type": "Process Timeline & Clinical Guide"
+    }
+  ]
 }

@@ -8,7 +8,7 @@ const articles = defineCollection({
     metaTitle: z.string().optional(),
     metaDescription: z.string(),
     category: z.string(),
-    author: z.string().default('Tim Penulis JoyofCare'),
+    author: z.string().default('Tim Kontributor Artikel'),
     reviewer: z.string().default('Tim Medis Joy of Care'),
     date: z.coerce.date(),
     slug: z.string(),

@@ -1,0 +1,81 @@
+---
+import { GA_MEASUREMENT_ID } from '../consts';
+
+interface Props {
+  measurementId?: string;
+}
+
+const { measurementId = GA_MEASUREMENT_ID } = Astro.props;
+---
+
+{measurementId && (
+  <>
+    <!-- Google tag (gtag.js) -->
+    <script is:inline src={`https://www.googletagmanager.com/gtag/js?id=${measurementId}`} async></script>
+    <script is:inline define:vars={{ measurementId }}>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', measurementId, {
+        page_path: window.location.pathname,
+        anonymize_ip: true,
+        cookie_flags: 'SameSite=None;Secure'
+      });
+
+      // Custom Event Auto-Tracking (WhatsApp, Phone, Scroll Depth)
+      document.addEventListener('DOMContentLoaded', () => {
+        // Track WhatsApp conversion clicks
+        document.querySelectorAll('a[href*="wa.me"], a[href*="whatsapp.com"]').forEach((link) => {
+          link.addEventListener('click', () => {
+            const href = link.getAttribute('href') || '';
+            const text = (link.textContent || '').trim();
+            gtag('event', 'whatsapp_click', {
+              event_category: 'conversion',
+              event_label: text || 'WhatsApp CTA',
+              link_url: href,
+              page_location: window.location.href,
+              page_title: document.title
+            });
+          });
+        });
+
+        // Track direct phone call clicks
+        document.querySelectorAll('a[href^="tel:"]').forEach((link) => {
+          link.addEventListener('click', () => {
+            const tel = (link.getAttribute('href') || '').replace('tel:', '');
+            gtag('event', 'phone_call_click', {
+              event_category: 'conversion',
+              event_label: tel,
+              phone_number: tel,
+              page_location: window.location.href
+            });
+          });
+        });
+
+        // Track reading scroll depth for long-form health articles
+        if (window.location.pathname.startsWith('/blog/')) {
+          const milestones = [25, 50, 75, 90];
+          const reached = new Set();
+          
+          window.addEventListener('scroll', () => {
+            const scrollPercent = Math.round(
+              (window.scrollY / (document.documentElement.scrollHeight - window.innerHeight)) * 100
+            );
+            
+            milestones.forEach((milestone) => {
+              if (scrollPercent >= milestone && !reached.has(milestone)) {
+                reached.add(milestone);
+                gtag('event', 'scroll_depth', {
+                  event_category: 'engagement',
+                  event_label: `${milestone}%`,
+                  percent_scrolled: milestone,
+                  page_location: window.location.href
+                });
+              }
+            });
+          }, { passive: true });
+        }
+      });
+    </script>
+  </>
+)}

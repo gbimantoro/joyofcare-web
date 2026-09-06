@@ -68,6 +68,7 @@ def extract_faq(fm_text):
             pairs.append({"question": q, "answer": a})
     return pairs
 
+
 def parse_frontmatter(content):
     """Extract YAML frontmatter fields and body."""
     meta = {}
@@ -95,6 +96,7 @@ def parse_frontmatter(content):
                 i += 1
     meta['_fm'] = fm_text
     return meta, body
+
 
 def md_to_html(text):
     """Convert markdown body to clean HTML with proper structure."""
@@ -285,6 +287,7 @@ def md_to_html(text):
     close()
     return '\n'.join(out)
 
+
 def inline(text):
     """Inline markdown conversions."""
     t = text
@@ -295,6 +298,7 @@ def inline(text):
     t = re.sub(r'\[([^\]]+)\]\(([^)]+)\)', lambda m: f'<a href="{m.group(2)}">{m.group(1)}</a>', t)
     return t
 
+
 def get_article_image(cat_dir, slug, title=""):
     s = (slug + " " + title).lower()
     if cat_dir == "osteoporosis":
@@ -304,13 +308,13 @@ def get_article_image(cat_dir, slug, title=""):
     elif cat_dir == "studi-luar-negeri":
         return "/assets/blog/studi-luar-negeri.svg", "Pemeriksaan Kesehatan & Vaksinasi Studi Luar Negeri — Joy of Care"
     elif cat_dir == "vaksinasi-rumah":
-        return "/assets/blog/vaksinasi.svg", "Layanan Vaksinasi Medis di Rumah untuk Lansia & Keluarga — Joy of Care"
+        return "/assets/blog/vaksinasi-rumah.svg", "Layanan Vaksinasi Medis di Rumah untuk Lansia & Keluarga — Joy of Care"
     elif cat_dir == "perawatan-lansia":
         if "akupuntur" in s:
             return "/images/service-akupuntur.webp", "Layanan Akupuntur Medis di Rumah untuk Nyeri Sendi Lansia — Joy of Care"
         elif "perawat" in s:
             return "/images/service-perawat.webp", "Layanan Perawat Homecare Pendamping Lansia — Joy of Care"
-        return "/assets/blog/healthy-aging.svg", "Layanan Perawatan Lansia & Geriatri di Rumah — Joy of Care"
+        return "/assets/blog/perawatan-lansia.svg", "Layanan Perawatan Lansia & Geriatri di Rumah — Joy of Care"
     elif cat_dir == "fisioterapi-rumah":
         return "/images/service-fisioterapi.webp", "Layanan Fisioterapi Pasca Stroke & Mobilitas di Rumah — Joy of Care"
     elif cat_dir == "panggil-dokter":
@@ -318,7 +322,7 @@ def get_article_image(cat_dir, slug, title=""):
     elif cat_dir == "perawat-homecare":
         return "/images/service-perawat.webp", "Layanan Perawat Medis Homecare Profesional — Joy of Care"
     elif cat_dir == "kesehatan-umum":
-        return "/images/service-akupuntur.webp", "Layanan Kesehatan Umum & Akupuntur Medis di Rumah — Joy of Care"
+        return "/assets/blog/kesehatan-umum.svg", "Layanan Kesehatan Umum & Akupuntur Medis di Rumah — Joy of Care"
     elif cat_dir == "home-lab":
         if "paket" in s:
             return "/images/service-homelab-paket.webp", "Paket Medical Check Up & Cek Darah Lengkap — Joy of Care"
@@ -327,21 +331,60 @@ def get_article_image(cat_dir, slug, title=""):
         return "/images/service-infus.webp", "Layanan Infus & Suntik Vitamin di Rumah — Joy of Care"
     elif cat_dir == "antar-jemput-rs":
         return "/images/service-transcare.webp", "Layanan Antar Jemput Medis TransCare ke Rumah Sakit — Joy of Care"
-    return "/assets/blog/pengalaman-pasien.svg", "Layanan Kesehatan Joy of Care"
+    return "/assets/blog/kesehatan-umum.svg", "Layanan Kesehatan Joy of Care"
+
 
 def get_type_badge(slug):
     s = slug.lower()
     if "panduan-lengkap" in s:
         return '<span class="type-badge type-panduan">Panduan Lengkap</span>'
     elif "biaya-dan-perbandingan" in s:
-        return '<span class="type-badge type-biaya">Biaya &amp; Perbandingan</span>'
+        return '<span class="type-badge type-biaya">Biaya & Perbandingan</span>'
     elif "tips-dan-cara" in s:
-        return '<span class="type-badge type-tips">Tips &amp; Cara</span>'
+        return '<span class="type-badge type-tips">Tips & Cara</span>'
     elif "kapan-harus" in s:
         return '<span class="type-badge type-klinis">Kapan Harus</span>'
     elif "yang-perlu-anda-ketahui" in s:
         return '<span class="type-badge type-info">Perlu Diketahui</span>'
     return ''
+
+
+def get_infographic_path(slug):
+    """Find matching infographic for article slug. Batch 2 naming: <slug>.svg"""
+    infographic_dir = '/home/gobeam/Projects/joyofcare-web/assets/infographics'
+    # Exact match (Batch 2: <slug>.svg)
+    exact = f"{slug}.svg"
+    if os.path.exists(os.path.join(infographic_dir, exact)):
+        return f"/assets/infographics/{exact}"
+    # Fallback to Batch 1 naming: <slug>-infografis.svg
+    fallback = f"{slug}-infografis.svg"
+    if os.path.exists(os.path.join(infographic_dir, fallback)):
+        return f"/assets/infographics/{fallback}"
+    return None
+
+
+def embed_infographic(body_html, infographic_url, title):
+    """Insert infographic into article body after 2nd paragraph or before CTA."""
+    if not infographic_url:
+        return body_html
+
+    infographic_html = f'''
+    <figure class="article-hero" style="margin: 32px 0; padding: 0;">
+      <img src="{infographic_url}" alt="Infografis: {html_mod.escape(title)}" width="1080" height="1350" loading="lazy" style="max-width: 100%; height: auto; border-radius: 12px; border: 1px solid var(--color-border); box-shadow: var(--shadow-md);">
+      <figcaption style="font-size: 0.82rem; color: var(--color-text-muted); text-align: center; margin-top: 10px;">Infografis: {html_mod.escape(title)} — Joy of Care</figcaption>
+    </figure>
+'''
+
+    # Insert after 2nd <p> tag
+    p_pattern = re.compile(r'(</p>)')
+    matches = list(p_pattern.finditer(body_html))
+    if len(matches) >= 2:
+        insert_pos = matches[1].end()
+        return body_html[:insert_pos] + infographic_html + body_html[insert_pos:]
+
+    # Fallback: insert before last </div> of article-body or before CTA
+    return body_html.replace('{WA_CTA}', infographic_html + '{WA_CTA}')
+
 
 def build_html(title, meta_desc, cat_dir, cat_name, slug, body, faq=None, date=DEFAULT_DATE):
     img_url, img_caption = get_article_image(cat_dir, slug, title)
@@ -429,10 +472,12 @@ def build_html(title, meta_desc, cat_dir, cat_name, slug, body, faq=None, date=D
   <script>var menuBtn=document.querySelector(".nav-mobile");var navLinks=document.querySelector(".nav-links");if(menuBtn&&navLinks){{menuBtn.addEventListener("click",function(e){{e.preventDefault();navLinks.classList.toggle("nav-open")}})}};</script>
 </body></html>"""
 
+
 def main():
     base = '/home/gobeam/Projects/joyofcare-web/pages/blog'
     src = '/home/gobeam/Projects/joyofcare-web/content-source/articles'
     total = 0
+    infographics_embedded = 0
     for cat_dir, cat_name in CATEGORIES.items():
         cat_path = os.path.join(src, cat_dir)
         if not os.path.isdir(cat_path):
@@ -447,12 +492,20 @@ def main():
             faq = extract_faq(meta.get('_fm', ''))
             date = meta.get('date') or DEFAULT_DATE
             body_html = md_to_html(body_md)
+
+            # Find and embed infographic
+            infographic_url = get_infographic_path(slug)
+            if infographic_url:
+                body_html = embed_infographic(body_html, infographic_url, title)
+                infographics_embedded += 1
+
             page = build_html(title, meta_desc, cat_dir, cat_name, slug, body_html, faq=faq, date=date)
             html_path = os.path.join(base, cat_dir, slug + '.html')
             with open(html_path, 'w') as fh:
                 fh.write(page)
             total += 1
     print(f"Generated {total} HTML articles")
+    print(f"Infographics embedded: {infographics_embedded}")
 
 if __name__ == '__main__':
     main()
