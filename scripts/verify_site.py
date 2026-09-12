@@ -7,7 +7,7 @@ in the built dist/.
 import glob, os, re, sys
 
 DIST = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "dist")
-SITE_URL = "https://new.joyof.care"
+SITE_URL = "https://joyofcare.net"
 
 errors = []
 

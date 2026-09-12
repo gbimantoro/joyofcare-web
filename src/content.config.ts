@@ -13,11 +13,13 @@ const articles = defineCollection({
     date: z.coerce.date(),
     slug: z.string(),
     featuredImage: z.string().optional(),
+    imagePrompt: z.string().optional(),
+    infographic: z.string().optional(),
     primaryKeyword: z.string().optional(),
     secondaryKeywords: z.array(z.string()).optional(),
     internalLinks: z.array(z.string()).optional(),
     faq: z.array(z.object({ question: z.string(), answer: z.string() })).optional(),
-    clinicalReferences: z.array(z.string()).optional(),
+    clinicalReferences: z.array(z.union([z.string(), z.record(z.any())]).transform(val => typeof val === 'string' ? val : Object.entries(val).map(([k, v]) => `${k}: ${v}`).join('; '))).optional(),
   }),
 });
 

@@ -1,4 +1,6 @@
 # Legacy Odoo paths -> new structure
+/blogs /blog/ 301
+/blogs/* /blog/ 301
 /artikel /blog/ 301
 /artikel/* /blog/ 301
 /blog/healthy-aging-3/* /blog/tips-lansia/ 301

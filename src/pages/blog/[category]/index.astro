@@ -22,8 +22,8 @@ const sortedArticles = articles.sort((a, b) =>
 ---
 
 <BaseLayout 
-  title={`${category.label} — Artikel Kesehatan | Joy of Care`}
-  description={`Artikel dan panduan kesehatan tentang ${category.label} dari tim medis Joy of Care.`}
+  title={`${category.label} — Panduan Medis & Artikel Kesehatan | Joy of Care`}
+  description={`Kumpulan panduan klinis dan artikel kesehatan tentang ${category.label} dari tim medis Joy of Care. Dapatkan penanganan medis langsung di rumah.`}
   canonicalURL={`${SITE_URL}/blog/${category.slug}/`}
 >
   <section class="category-header">
@@ -31,32 +31,57 @@ const sortedArticles = articles.sort((a, b) =>
       <nav class="breadcrumbs" aria-label="Breadcrumb">
         <a href="/">Beranda</a> <span>›</span>
         <a href="/blog/">Artikel</a> <span>›</span>
-        <span>{category.label}</span>
+        <span aria-current="page">{category.label}</span>
       </nav>
-      <div class="category-thumbnail">
-        <img src={categoryThumbnail} alt={category.label} />
+
+      <div class="category-hero-content">
+        <div class="category-text">
+          <span class="category-pill">Pilar Layanan Klinis</span>
+          <h1>{category.label}</h1>
+          <p class="category-desc">
+            Panduan lengkap, protokol perawatan medis di rumah, serta edukasi kesehatan terpercaya seputar {category.label} oleh dokter dan tenaga medis berlisensi Joy of Care.
+          </p>
+          <div class="category-meta-stats">
+            <span class="stat-badge">📄 {sortedArticles.length} Panduan Medis</span>
+            <span class="stat-badge">✓ Terverifikasi Tim Medis</span>
+            <span class="stat-badge">📍 Jabodetabek Siaga</span>
+          </div>
+        </div>
+
+        <div class="category-visual">
+          <img src={categoryThumbnail} alt={`Thumbnail ${category.label}`} class="category-hero-thumb" />
+        </div>
       </div>
-      <h1>{category.label}</h1>
-      <p>Artikel dan panduan kesehatan tentang {category.label}</p>
     </div>
   </section>
 
   <section class="category-content">
     <div class="container">
+      <div class="content-top-bar">
+        <h2>Daftar Artikel {category.label}</h2>
+        <a href="/blog/" class="back-link">← Lihat Semua Kategori</a>
+      </div>
+
       <div class="articles-grid">
         {sortedArticles.map((article) => (
           <article class="article-card">
             {article.data.featuredImage && (
-              <img src={article.data.featuredImage} alt={article.data.title} class="article-image" />
+              <a href={`/blog/${article.data.category}/${article.data.slug}/`} class="article-image-link" tabindex="-1" aria-hidden="true">
+                <img src={article.data.featuredImage} alt={article.data.title} class="article-image" loading="lazy" />
+              </a>
             )}
             <div class="article-card-content">
-              <h2>
+              <span class="article-category">{category.label}</span>
+              <h3>
                 <a href={`/blog/${article.data.category}/${article.data.slug}/`}>
                   {article.data.title}
                 </a>
-              </h2>
+              </h3>
               <div class="article-meta">
-                <time>{new Date(article.data.date).toLocaleDateString('id-ID', { day: 'numeric', month: 'long', year: 'numeric' })}</time>
+                <time datetime={new Date(article.data.date).toISOString()}>
+                  {new Date(article.data.date).toLocaleDateString('id-ID', { day: 'numeric', month: 'long', year: 'numeric' })}
+                </time>
+                <span class="meta-reviewer">✓ Review Tim Medis</span>
               </div>
             </div>
           </article>
@@ -75,122 +100,250 @@ const sortedArticles = articles.sort((a, b) =>
 
 <style>
   .category-header {
-    background: linear-gradient(135deg, #f8fafc 0%, #edf2f7 100%);
-    padding: 48px 0 32px;
+    background: linear-gradient(135deg, #f0fdf4 0%, #f8fafc 50%, #eff6ff 100%);
+    padding: 48px 0 40px;
+    border-bottom: 1px solid #e2e8f0;
   }
 
   .breadcrumbs {
     font-size: 0.875rem;
-    color: var(--color-text-secondary);
-    margin-bottom: 16px;
+    color: #64748b;
+    margin-bottom: 24px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
   }
 
   .breadcrumbs a {
-    color: var(--color-primary);
+    color: #00bf63;
     text-decoration: none;
+    font-weight: 600;
+  }
+
+  .breadcrumbs a:hover {
+    text-decoration: underline;
+  }
+
+  .category-hero-content {
+    display: grid;
+    grid-template-columns: 1.2fr 0.8fr;
+    gap: 40px;
+    align-items: center;
+  }
+
+  .category-pill {
+    display: inline-block;
+    background: #00bf63;
+    color: #ffffff;
+    padding: 4px 12px;
+    border-radius: 100px;
+    font-size: 0.75rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: 14px;
   }
 
   h1 {
     font-family: 'Montserrat', sans-serif;
-    font-size: 2.25rem;
+    font-size: 2.5rem;
     font-weight: 800;
-    margin-bottom: 12px;
+    color: #0f172a;
+    line-height: 1.2;
+    margin-bottom: 14px;
+    letter-spacing: -0.02em;
   }
 
-  .category-header p {
-    color: var(--color-text-secondary);
+  .category-desc {
+    color: #475569;
+    font-size: 1.1rem;
+    line-height: 1.6;
+    margin-bottom: 24px;
   }
 
-  .category-thumbnail {
-    margin: 24px 0;
-    text-align: center;
+  .category-meta-stats {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
   }
 
-  .category-thumbnail img {
-    max-width: 200px;
-    height: auto;
+  .stat-badge {
+    background: #ffffff;
+    border: 1px solid #cbd5e1;
+    color: #334155;
+    padding: 6px 14px;
+    border-radius: 100px;
+    font-size: 0.8125rem;
+    font-weight: 600;
+  }
+
+  .category-hero-thumb {
+    width: 100%;
+    max-height: 240px;
+    object-fit: cover;
+    border-radius: 20px;
+    box-shadow: 0 12px 28px rgba(15, 23, 42, 0.08);
+    border: 1px solid #e2e8f0;
   }
 
   .category-content {
-    padding: 48px 0;
+    padding: 56px 0 80px;
+  }
+
+  .content-top-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 32px;
+    border-bottom: 1px solid #e2e8f0;
+    padding-bottom: 16px;
+  }
+
+  .content-top-bar h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: #0f172a;
+    margin: 0;
+  }
+
+  .back-link {
+    color: #00bf63;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 0.95rem;
+  }
+
+  .back-link:hover {
+    text-decoration: underline;
   }
 
   .articles-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: 24px;
+    gap: 28px;
   }
 
   .article-card {
-    background: white;
-    border-radius: var(--radius-lg);
+    background: #ffffff;
+    border-radius: 16px;
     overflow: hidden;
-    box-shadow: var(--shadow-sm);
-    transition: all 0.3s;
+    box-shadow: 0 2px 10px rgba(15, 23, 42, 0.04);
+    border: 1px solid #e2e8f0;
+    transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+    display: flex;
+    flex-direction: column;
   }
 
   .article-card:hover {
-    transform: translateY(-4px);
-    box-shadow: var(--shadow-md);
+    transform: translateY(-5px);
+    box-shadow: 0 16px 32px rgba(15, 23, 42, 0.08);
+    border-color: #00bf63;
+  }
+
+  .article-image-link {
+    display: block;
+    overflow: hidden;
   }
 
   .article-image {
     width: 100%;
-    height: 200px;
+    height: 190px;
     object-fit: cover;
+    background: #f8fafc;
+    transition: transform 0.4s ease;
+  }
+
+  .article-card:hover .article-image {
+    transform: scale(1.03);
   }
 
   .article-card-content {
-    padding: 24px;
+    padding: 22px;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
   }
 
-  h2 {
-    font-size: 1.125rem;
-    font-weight: 600;
+  .article-category {
+    display: inline-block;
+    background: #f0fdf4;
+    color: #007a3d;
+    padding: 4px 10px;
+    border-radius: 6px;
+    font-size: 0.75rem;
+    font-weight: 700;
     margin-bottom: 12px;
-    line-height: 1.4;
+    width: fit-content;
   }
 
-  h2 a {
-    color: var(--color-text);
+  h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.15rem;
+    font-weight: 700;
+    margin-bottom: 12px;
+    line-height: 1.45;
+    flex-grow: 1;
+  }
+
+  h3 a {
+    color: #0f172a;
     text-decoration: none;
+    transition: color 0.2s ease;
   }
 
-  h2 a:hover {
-    color: var(--color-primary);
+  h3 a:hover {
+    color: #00bf63;
   }
 
   .article-meta {
-    font-size: 0.875rem;
-    color: var(--color-text-secondary);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 0.8125rem;
+    color: #64748b;
+    padding-top: 14px;
+    border-top: 1px solid #f1f5f9;
+  }
+
+  .meta-reviewer {
+    color: #007a3d;
+    font-weight: 600;
+    font-size: 0.75rem;
   }
 
   .no-articles {
     text-align: center;
     padding: 64px 0;
-    color: var(--color-text-secondary);
+    background: #f8fafc;
+    border-radius: 16px;
+    border: 1px dashed #cbd5e1;
   }
 
-  .btn {
-    display: inline-block;
-    padding: 12px 24px;
-    background: var(--color-primary);
-    color: white;
-    text-decoration: none;
-    border-radius: var(--radius-sm);
-    font-weight: 600;
-    margin-top: 16px;
+  .no-articles p {
+    font-size: 1.1rem;
+    color: #64748b;
+    margin-bottom: 16px;
   }
 
   @media (max-width: 1024px) {
+    .category-hero-content {
+      grid-template-columns: 1fr;
+    }
     .articles-grid {
       grid-template-columns: repeat(2, 1fr);
     }
   }
 
   @media (max-width: 768px) {
+    h1 {
+      font-size: 2rem;
+    }
     .articles-grid {
       grid-template-columns: 1fr;
+    }
+    .category-header {
+      padding: 36px 0 28px;
     }
   }
 </style>

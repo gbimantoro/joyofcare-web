@@ -19,29 +19,56 @@ const categoryThumbnails: Record<string, string> = Object.fromEntries(
   CATEGORIES.map((c) => [c.slug, `/assets/blog/${c.slug}.svg`])
 );
 
+const categoryCounts: Record<string, number> = {};
+for (const a of articles) {
+  const cat = a.data.category;
+  categoryCounts[cat] = (categoryCounts[cat] || 0) + 1;
+}
+
 const categories = Object.entries(categoryNames);
 ---
 
 <BaseLayout 
-  title="Artikel Kesehatan Homecare | Joy of Care"
-  description="Temukan panduan lengkap perawatan lansia, fisioterapi di rumah, tips Parkinson & osteoporosis, panduan vaksinasi, serta persyaratan medis studi ke luar negeri."
+  title="Pusat Edukasi & Artikel Medis Homecare | Joy of Care"
+  description="Temukan 350+ panduan lengkap dokter ke rumah, perawatan lansia, fisioterapi di rumah, tips Parkinson & osteoporosis, panduan vaksinasi, serta mitigasi siaga bencana dari tim medis Joy of Care."
   canonicalURL={`${SITE_URL}/blog/`}
 >
   <section class="blog-header">
     <div class="container">
-      <h1>Artikel Kesehatan Homecare</h1>
-      <p>Panduan lengkap perawatan kesehatan di rumah dari tim medis Joy of Care</p>
+      <div class="header-badge">
+        <span class="badge-dot"></span>
+        <span>Pusat Edukasi Medis • 350+ Panduan Homecare Terverifikasi</span>
+      </div>
+      <h1>Artikel &amp; Panduan Medis Homecare</h1>
+      <p>Informasi kesehatan terpercaya seputar dokter ke rumah, perawatan lansia, fisioterapi, dan mitigasi kesehatan keluarga langsung dari Tim Medis Joy of Care.</p>
+      
+      <div class="blog-search-bar">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+          <circle cx="11" cy="11" r="8"></circle>
+          <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+        </svg>
+        <input type="text" id="articleSearch" placeholder="Cari topik kesehatan (cth: dokter ke rumah, fisioterapi lutut, abu vulkanik...)" aria-label="Cari artikel kesehatan" />
+      </div>
     </div>
   </section>
 
   <section class="category-thumbnails">
     <div class="container">
-      <h2 class="section-title">Kategori Artikel</h2>
+      <div class="section-title-wrap">
+        <div>
+          <h2 class="section-title">Kategori Layanan &amp; Edukasi</h2>
+          <p class="section-subtitle">Pilih pilar topik klinis sesuai kebutuhan perawatan keluarga Anda</p>
+        </div>
+        <span class="total-badge">{articles.length} Panduan Medis</span>
+      </div>
       <div class="category-grid">
         {categories.map(([slug, name]) => (
           <a href={`/blog/${slug}/`} class="category-card">
-            <img src={categoryThumbnails[slug]} alt={name} class="category-thumb" />
-            <span class="category-name">{name}</span>
+            <img src={categoryThumbnails[slug]} alt={name} class="category-thumb" loading="lazy" />
+            <div class="category-info">
+              <span class="category-name">{name}</span>
+              <span class="category-count">{categoryCounts[slug] || 0} Artikel</span>
+            </div>
           </a>
         ))}
       </div>
@@ -50,18 +77,23 @@ const categories = Object.entries(categoryNames);
 
   <section class="blog-content">
     <div class="container">
-      <div class="category-filter">
-        <button class="filter-btn active" data-category="all">Semua</button>
-        {categories.map(([slug, name]) => (
-          <button class="filter-btn" data-category={slug}>{name}</button>
-        ))}
+      <div class="filter-header">
+        <h3>Daftar Seluruh Artikel</h3>
+        <div class="category-filter">
+          <button class="filter-btn active" data-category="all">Semua ({articles.length})</button>
+          {categories.map(([slug, name]) => (
+            <button class="filter-btn" data-category={slug}>{name} ({categoryCounts[slug] || 0})</button>
+          ))}
+        </div>
       </div>
 
-      <div class="articles-grid">
+      <div class="articles-grid" id="articlesGrid">
         {sortedArticles.map((article) => (
-          <article class="article-card" data-category={article.data.category}>
+          <article class="article-card" data-category={article.data.category} data-title={article.data.title.toLowerCase()} data-kw={(article.data.primaryKeyword || '').toLowerCase()}>
             {article.data.featuredImage && (
-              <img src={article.data.featuredImage} alt={article.data.title} class="article-image" />
+              <a href={`/blog/${article.data.category}/${article.data.slug}/`} class="article-image-link" tabindex="-1" aria-hidden="true">
+                <img src={article.data.featuredImage} alt={article.data.title} class="article-image" loading="lazy" />
+              </a>
             )}
             <div class="article-card-content">
               <span class="article-category">{categoryNames[article.data.category] || article.data.category}</span>
@@ -71,11 +103,19 @@ const categories = Object.entries(categoryNames);
                 </a>
               </h2>
               <div class="article-meta">
-                <time>{new Date(article.data.date).toLocaleDateString('id-ID', { day: 'numeric', month: 'long', year: 'numeric' })}</time>
+                <time datetime={new Date(article.data.date).toISOString()}>
+                  {new Date(article.data.date).toLocaleDateString('id-ID', { day: 'numeric', month: 'long', year: 'numeric' })}
+                </time>
+                <span class="meta-reviewer">✓ Terverifikasi Dokter</span>
               </div>
             </div>
           </article>
         ))}
+      </div>
+
+      <div id="noResults" class="no-results" style="display: none;">
+        <p>Tidak ada artikel yang cocok dengan pencarian Anda.</p>
+        <button id="resetSearch" class="btn-reset">Reset Pencarian</button>
       </div>
     </div>
   </section>
@@ -83,201 +123,426 @@ const categories = Object.entries(categoryNames);
 
 <style>
   .blog-header {
-    background: linear-gradient(135deg, #f8fafc 0%, #edf2f7 100%);
-    padding: 64px 0;
+    background: linear-gradient(135deg, #f0fdf4 0%, #f8fafc 50%, #eff6ff 100%);
+    padding: 72px 0 56px;
     text-align: center;
+    border-bottom: 1px solid #e2e8f0;
+  }
+
+  .header-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    background: #ffffff;
+    border: 1px solid #00bf63;
+    color: #065f46;
+    padding: 6px 16px;
+    border-radius: 100px;
+    font-size: 0.8125rem;
+    font-weight: 700;
+    margin-bottom: 18px;
+    box-shadow: 0 2px 6px rgba(0, 191, 99, 0.1);
+  }
+
+  .badge-dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: #00bf63;
   }
 
   h1 {
     font-family: 'Montserrat', sans-serif;
-    font-size: 2.5rem;
+    font-size: 2.75rem;
     font-weight: 800;
-    margin-bottom: 12px;
+    color: #0f172a;
+    letter-spacing: -0.03em;
+    margin-bottom: 16px;
+    line-height: 1.2;
   }
 
   .blog-header p {
-    color: var(--color-text-secondary);
-    font-size: 1.125rem;
+    color: #475569;
+    font-size: 1.15rem;
+    max-width: 720px;
+    margin: 0 auto 32px;
+    line-height: 1.6;
+  }
+
+  .blog-search-bar {
+    max-width: 580px;
+    margin: 0 auto;
+    position: relative;
+    display: flex;
+    align-items: center;
+  }
+
+  .blog-search-bar svg {
+    position: absolute;
+    left: 20px;
+    color: #94a3b8;
+    pointer-events: none;
+  }
+
+  .blog-search-bar input {
+    width: 100%;
+    padding: 16px 20px 16px 52px;
+    border-radius: 100px;
+    border: 2px solid #cbd5e1;
+    font-size: 1rem;
+    font-family: inherit;
+    background: #ffffff;
+    box-shadow: 0 4px 12px rgba(15, 23, 42, 0.05);
+    transition: all 0.2s ease;
+    outline: none;
+  }
+
+  .blog-search-bar input:focus {
+    border-color: #00bf63;
+    box-shadow: 0 4px 20px rgba(0, 191, 99, 0.15);
+  }
+
+  .category-thumbnails {
+    padding: 56px 0;
+    background: #f8fafc;
+    border-bottom: 1px solid #e2e8f0;
+  }
+
+  .section-title-wrap {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    margin-bottom: 32px;
+    flex-wrap: wrap;
+    gap: 16px;
+  }
+
+  .section-title {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.75rem;
+    font-weight: 800;
+    color: #0f172a;
+    margin-bottom: 6px;
+  }
+
+  .section-subtitle {
+    color: #64748b;
+    font-size: 0.95rem;
+    margin: 0;
+  }
+
+  .total-badge {
+    background: #00bf63;
+    color: #ffffff;
+    font-size: 0.875rem;
+    font-weight: 700;
+    padding: 6px 14px;
+    border-radius: 100px;
+  }
+
+  .category-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+  }
+
+  .category-card {
+    display: flex;
+    flex-direction: column;
+    background: #ffffff;
+    border-radius: 16px;
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(15, 23, 42, 0.04);
+    border: 1px solid #e2e8f0;
+    text-decoration: none;
+    transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+  }
+
+  .category-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 12px 24px rgba(15, 23, 42, 0.08);
+    border-color: #00bf63;
+  }
+
+  .category-thumb {
+    width: 100%;
+    height: 130px;
+    object-fit: cover;
+    background: #f1f5f9;
+  }
+
+  .category-info {
+    padding: 14px 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+  }
+
+  .category-name {
+    font-weight: 700;
+    color: #0f172a;
+    font-size: 0.95rem;
+    transition: color 0.2s;
+  }
+
+  .category-card:hover .category-name {
+    color: #00bf63;
+  }
+
+  .category-count {
+    font-size: 0.75rem;
+    font-weight: 600;
+    color: #64748b;
   }
 
   .blog-content {
-    padding: 48px 0;
+    padding: 56px 0 80px;
+  }
+
+  .filter-header {
+    margin-bottom: 32px;
+  }
+
+  .filter-header h3 {
+    font-size: 1.25rem;
+    font-weight: 700;
+    margin-bottom: 16px;
+    color: #0f172a;
   }
 
   .category-filter {
     display: flex;
     flex-wrap: wrap;
     gap: 8px;
-    margin-bottom: 32px;
-    justify-content: center;
   }
 
   .filter-btn {
     padding: 8px 16px;
-    border: 1px solid var(--color-border);
-    background: white;
+    border: 1px solid #cbd5e1;
+    background: #ffffff;
     border-radius: 100px;
-    font-size: 0.875rem;
+    font-size: 0.8125rem;
+    font-weight: 600;
+    color: #475569;
     cursor: pointer;
-    transition: all 0.2s;
+    transition: all 0.2s ease;
   }
 
-  .filter-btn:hover,
+  .filter-btn:hover {
+    background: #f1f5f9;
+    color: #0f172a;
+  }
+
   .filter-btn.active {
-    background: var(--color-primary);
-    color: white;
-    border-color: var(--color-primary);
+    background: #00bf63;
+    color: #ffffff;
+    border-color: #00bf63;
+    box-shadow: 0 2px 8px rgba(0, 191, 99, 0.2);
   }
 
   .articles-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: 24px;
+    gap: 28px;
   }
 
   .article-card {
-    background: white;
-    border-radius: var(--radius-lg);
+    background: #ffffff;
+    border-radius: 16px;
     overflow: hidden;
-    box-shadow: var(--shadow-sm);
-    transition: all 0.3s;
+    box-shadow: 0 2px 10px rgba(15, 23, 42, 0.04);
+    border: 1px solid #e2e8f0;
+    transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+    display: flex;
+    flex-direction: column;
   }
 
   .article-card:hover {
-    transform: translateY(-4px);
-    box-shadow: var(--shadow-md);
+    transform: translateY(-5px);
+    box-shadow: 0 16px 32px rgba(15, 23, 42, 0.08);
+    border-color: #00bf63;
+  }
+
+  .article-image-link {
+    display: block;
+    overflow: hidden;
   }
 
   .article-image {
     width: 100%;
-    height: 200px;
+    height: 190px;
     object-fit: cover;
+    transition: transform 0.4s ease;
+    background: #f8fafc;
+  }
+
+  .article-card:hover .article-image {
+    transform: scale(1.03);
   }
 
   .article-card-content {
-    padding: 24px;
+    padding: 22px;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
   }
 
   .article-category {
     display: inline-block;
-    background: var(--color-neutral);
-    color: var(--color-primary);
+    background: #f0fdf4;
+    color: #007a3d;
     padding: 4px 10px;
-    border-radius: var(--radius-sm);
+    border-radius: 6px;
     font-size: 0.75rem;
-    font-weight: 600;
+    font-weight: 700;
     margin-bottom: 12px;
+    width: fit-content;
   }
 
   h2 {
-    font-size: 1.125rem;
-    font-weight: 600;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.15rem;
+    font-weight: 700;
     margin-bottom: 12px;
-    line-height: 1.4;
+    line-height: 1.45;
+    flex-grow: 1;
   }
 
   h2 a {
-    color: var(--color-text);
+    color: #0f172a;
     text-decoration: none;
+    transition: color 0.2s ease;
   }
 
   h2 a:hover {
-    color: var(--color-primary);
+    color: #00bf63;
   }
 
   .article-meta {
-    font-size: 0.875rem;
-    color: var(--color-text-secondary);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 0.8125rem;
+    color: #64748b;
+    padding-top: 14px;
+    border-top: 1px solid #f1f5f9;
   }
 
-  @media (max-width: 1024px) {
-    .articles-grid {
-      grid-template-columns: repeat(2, 1fr);
-    }
-  }
-
-  @media (max-width: 768px) {
-    .articles-grid {
-      grid-template-columns: 1fr;
-    }
-  }
-
-  .category-thumbnails {
-    padding: 48px 0;
-    background: var(--color-neutral);
-  }
-
-  .category-thumbnails .section-title {
-    margin-bottom: 32px;
-  }
-
-  .category-grid {
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    gap: 16px;
-  }
-
-  .category-card {
-    display: block;
-    background: white;
-    border-radius: var(--radius-lg);
-    overflow: hidden;
-    box-shadow: var(--shadow-sm);
-    text-decoration: none;
-    transition: all 0.3s;
-  }
-
-  .category-card:hover {
-    transform: translateY(-4px);
-    box-shadow: var(--shadow-md);
-  }
-
-  .category-thumb {
-    width: 100%;
-    height: 140px;
-    object-fit: cover;
-  }
-
-  .category-name {
-    display: block;
-    padding: 12px;
-    text-align: center;
+  .meta-reviewer {
+    color: #007a3d;
     font-weight: 600;
-    color: var(--color-text);
-    font-size: 0.875rem;
+    font-size: 0.75rem;
   }
 
-  .category-card:hover .category-name {
-    color: var(--color-primary);
+  .no-results {
+    text-align: center;
+    padding: 64px 0;
+    background: #f8fafc;
+    border-radius: 16px;
+    border: 1px dashed #cbd5e1;
+    margin-top: 24px;
+  }
+
+  .no-results p {
+    color: #64748b;
+    font-size: 1.1rem;
+    margin-bottom: 16px;
+  }
+
+  .btn-reset {
+    padding: 10px 24px;
+    background: #00bf63;
+    color: white;
+    border: none;
+    border-radius: 100px;
+    font-weight: 700;
+    cursor: pointer;
   }
 
   @media (max-width: 1024px) {
     .category-grid {
       grid-template-columns: repeat(3, 1fr);
     }
+    .articles-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
   }
 
   @media (max-width: 768px) {
+    h1 {
+      font-size: 2rem;
+    }
     .category-grid {
       grid-template-columns: repeat(2, 1fr);
+    }
+    .articles-grid {
+      grid-template-columns: 1fr;
+    }
+    .blog-header {
+      padding: 48px 0 40px;
     }
   }
 </style>
 
 <script>
-  document.querySelectorAll('.filter-btn').forEach(btn => {
-    btn.addEventListener('click', () => {
-      document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
-      btn.classList.add('active');
+  const searchInput = document.getElementById('articleSearch') as HTMLInputElement | null;
+  const filterBtns = document.querySelectorAll<HTMLButtonElement>('.filter-btn');
+  const articleCards = document.querySelectorAll<HTMLElement>('.article-card');
+  const noResults = document.getElementById('noResults');
+  const resetBtn = document.getElementById('resetSearch');
+
+  let activeCategory = 'all';
+  let searchQuery = '';
+
+  function applyFilter() {
+    let visibleCount = 0;
+    articleCards.forEach(card => {
+      const cardCategory = card.getAttribute('data-category') || '';
+      const title = card.getAttribute('data-title') || '';
+      const kw = card.getAttribute('data-kw') || '';
       
-      const category = btn.getAttribute('data-category');
-      document.querySelectorAll<HTMLElement>('.article-card').forEach(card => {
-        if (category === 'all' || card.getAttribute('data-category') === category) {
-          card.style.display = 'block';
-        } else {
-          card.style.display = 'none';
-        }
-      });
+      const matchesCat = activeCategory === 'all' || cardCategory === activeCategory;
+      const matchesSearch = !searchQuery || title.includes(searchQuery) || kw.includes(searchQuery);
+
+      if (matchesCat && matchesSearch) {
+        card.style.display = 'flex';
+        visibleCount++;
+      } else {
+        card.style.display = 'none';
+      }
+    });
+
+    if (noResults) {
+      noResults.style.display = visibleCount === 0 ? 'block' : 'none';
+    }
+  }
+
+  if (searchInput) {
+    searchInput.addEventListener('input', (e) => {
+      searchQuery = (e.target as HTMLInputElement).value.toLowerCase().trim();
+      applyFilter();
+    });
+  }
+
+  filterBtns.forEach(btn => {
+    btn.addEventListener('click', () => {
+      filterBtns.forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      activeCategory = btn.getAttribute('data-category') || 'all';
+      applyFilter();
     });
   });
+
+  if (resetBtn) {
+    resetBtn.addEventListener('click', () => {
+      if (searchInput) searchInput.value = '';
+      searchQuery = '';
+      activeCategory = 'all';
+      filterBtns.forEach(b => {
+        if (b.getAttribute('data-category') === 'all') b.classList.add('active');
+        else b.classList.remove('active');
+      });
+      applyFilter();
+    });
+  }
 </script>

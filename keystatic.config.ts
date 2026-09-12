@@ -41,16 +41,17 @@ export default config({
             { label: 'Perawat Homecare', value: 'perawat-homecare' },
             { label: 'Antar Jemput RS', value: 'antar-jemput-rs' },
             { label: 'Kesehatan Umum', value: 'kesehatan-umum' },
+            { label: 'Siaga Vulkanik', value: 'siaga-vulkanik' },
           ],
-          defaultValue: 'perawatan-lansia',
+          defaultValue: 'panggil-dokter',
         }),
         author: fields.text({
           label: 'Penulis',
-          defaultValue: 'Tim Medis Joy of Care',
+          defaultValue: 'Tim Kontributor Artikel',
         }),
         reviewer: fields.text({
           label: 'Reviewer Medis',
-          defaultValue: 'dr. Sarah Wijaya, Sp.FR',
+          defaultValue: 'Tim Medis Joy of Care',
         }),
         date: fields.date({
           label: 'Tanggal Publikasi',
