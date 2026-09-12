@@ -10,7 +10,8 @@ import json
 import glob
 import re
 import argparse
-from datetime import datetime
+import subprocess
+from datetime import datetime, timezone
 from pathlib import Path
 from PIL import Image
 
@@ -73,29 +74,36 @@ def load_or_init_manifest():
             print(f"Warning: Failed to load existing manifest: {e}. Reinitializing.")
 
     articles_manifest = manifest.get("articles", {})
-    updated = False
+    now_iso = datetime.now(timezone.utc).isoformat()
 
     for slug, data in prompts.items():
         category = data.get("category", "kesehatan-umum")
         track_id, track_info = get_track_for_category(category)
 
-        # Check existing image files on disk
         webp_file = IMAGES_DIR / f"{slug}.webp"
         jpg_file = IMAGES_DIR / f"{slug}.jpg"
         svg_file = IMAGES_DIR / f"{slug}.svg"
 
-        existing_entry = articles_manifest.get(slug)
-        current_status = existing_entry.get("status", "pending") if existing_entry else "pending"
-        output_image = existing_entry.get("output_image") if existing_entry else None
+        existing_entry = articles_manifest.get(slug, {})
+        existing_type = existing_entry.get("image_type")
 
-        if webp_file.exists():
-            current_status = "completed"
+        # Distinguish between real photojournalism vs baseline card
+        if existing_type == "photojournalism" or (webp_file.exists() and webp_file.stat().st_size > 100000):
+            image_type = "photojournalism"
+            status = "completed"
             output_image = f"/assets/images/articles/{slug}.webp"
-        elif jpg_file.exists():
-            current_status = "completed"
-            output_image = f"/assets/images/articles/{slug}.jpg"
-        elif not output_image:
-            output_image = f"/assets/images/articles/{slug}.svg" if svg_file.exists() else None
+        elif webp_file.exists():
+            image_type = "baseline_card"
+            status = "baseline_ready"
+            output_image = f"/assets/images/articles/{slug}.webp"
+        elif svg_file.exists():
+            image_type = "vector_svg"
+            status = "pending_render"
+            output_image = f"/assets/images/articles/{slug}.svg"
+        else:
+            image_type = "none"
+            status = "pending"
+            output_image = None
 
         articles_manifest[slug] = {
             "slug": slug,
@@ -104,7 +112,8 @@ def load_or_init_manifest():
             "primaryKeyword": data.get("primaryKeyword", ""),
             "artist_track": track_id,
             "artist_name": track_info["name"],
-            "status": current_status,
+            "status": status,
+            "image_type": image_type,
             "aspectRatio": data.get("aspectRatio", "16:9"),
             "style": data.get("style", "journalistic photography"),
             "imagePrompt": data.get("imagePrompt", ""),
@@ -112,11 +121,11 @@ def load_or_init_manifest():
             "has_photo_webp": webp_file.exists(),
             "has_photo_jpg": jpg_file.exists(),
             "has_vector_svg": svg_file.exists(),
-            "updated_at": existing_entry.get("updated_at") if existing_entry else datetime.utcnow().isoformat()
+            "updated_at": existing_entry.get("updated_at", now_iso)
         }
 
-    manifest["schema_version"] = "1.0.0"
-    manifest["updated_at"] = datetime.utcnow().isoformat()
+    manifest["schema_version"] = "1.1.0"
+    manifest["updated_at"] = now_iso
     manifest["total_articles"] = len(prompts)
     manifest["articles"] = articles_manifest
 
@@ -124,11 +133,10 @@ def load_or_init_manifest():
     return manifest
 
 def save_manifest(manifest):
-    # Recalculate summary stats
     articles = manifest.get("articles", {})
-    completed = sum(1 for a in articles.values() if a.get("status") == "completed")
-    pending = sum(1 for a in articles.values() if a.get("status") == "pending")
-    failed = sum(1 for a in articles.values() if a.get("status") == "failed")
+    photo_completed = sum(1 for a in articles.values() if a.get("image_type") == "photojournalism")
+    baseline_ready = sum(1 for a in articles.values() if a.get("image_type") == "baseline_card")
+    pending = sum(1 for a in articles.values() if a.get("image_type") not in ("photojournalism", "baseline_card"))
 
     track_stats = {}
     for t_id, t_info in ARTIST_TRACKS.items():
@@ -136,17 +144,18 @@ def save_manifest(manifest):
         track_stats[t_id] = {
             "name": t_info["name"],
             "total": len(t_articles),
-            "completed": sum(1 for a in t_articles if a.get("status") == "completed"),
-            "pending": sum(1 for a in t_articles if a.get("status") == "pending"),
-            "failed": sum(1 for a in t_articles if a.get("status") == "failed"),
+            "photojournalism": sum(1 for a in t_articles if a.get("image_type") == "photojournalism"),
+            "baseline_ready": sum(1 for a in t_articles if a.get("image_type") == "baseline_card"),
+            "pending": sum(1 for a in t_articles if a.get("image_type") not in ("photojournalism", "baseline_card")),
         }
 
     manifest["summary"] = {
         "total": len(articles),
-        "completed": completed,
+        "photojournalism_completed": photo_completed,
+        "baseline_ready": baseline_ready,
         "pending": pending,
-        "failed": failed,
-        "completion_rate": f"{(completed / len(articles) * 100):.1f}%" if articles else "0%",
+        "coverage_rate": f"{((photo_completed + baseline_ready) / len(articles) * 100):.1f}%" if articles else "0%",
+        "photojournalism_rate": f"{(photo_completed / len(articles) * 100):.1f}%" if articles else "0%",
         "tracks": track_stats
     }
 
@@ -157,22 +166,31 @@ def print_summary():
     manifest = load_or_init_manifest()
     summary = manifest["summary"]
 
-    print("\n" + "=" * 76)
+    print("\n" + "=" * 78)
     print("🎨 JOY OF CARE - VISUAL ARTISTS PRODUCTION DASHBOARD")
-    print("=" * 76)
-    print(f"Total Articles: {summary['total']} | Completed: {summary['completed']} | Pending: {summary['pending']} | Progress: {summary['completion_rate']}")
-    print("-" * 76)
+    print("=" * 78)
+    print(f"Total Articles       : {summary['total']}")
+    print(f"Photojournalism Done : {summary['photojournalism_completed']} ({summary['photojournalism_rate']})")
+    print(f"16:9 WebP Baselines  : {summary['baseline_ready']}")
+    print(f"Total 16:9 Coverage  : {summary['coverage_rate']}")
+    print("-" * 78)
 
     for t_id, stats in summary["tracks"].items():
         bar_len = 25
-        pct = (stats["completed"] / stats["total"]) if stats["total"] > 0 else 0
-        filled = int(round(pct * bar_len))
-        bar = "█" * filled + "░" * (bar_len - filled)
-        print(f"\n📌 {stats['name']}")
-        print(f"   Progress: [{bar}] {stats['completed']}/{stats['total']} ({pct*100:.1f}%)")
-        print(f"   Status  : Pending: {stats['pending']} | Completed: {stats['completed']} | Failed: {stats['failed']}")
+        total = stats["total"]
+        photo_pct = (stats["photojournalism"] / total) if total > 0 else 0
+        base_pct = (stats["baseline_ready"] / total) if total > 0 else 0
 
-    print("\n" + "=" * 76)
+        p_filled = int(round(photo_pct * bar_len))
+        b_filled = int(round(base_pct * bar_len))
+        remain = max(0, bar_len - p_filled - b_filled)
+        bar = "█" * p_filled + "▒" * b_filled + "░" * remain
+
+        print(f"\n📌 {stats['name']}")
+        print(f"   Visual Meter: [{bar}] Total: {total}")
+        print(f"   Photos: {stats['photojournalism']} | Baselines: {stats['baseline_ready']} | Pending: {stats['pending']}")
+
+    print("\n" + "=" * 78)
 
 def export_tracks():
     manifest = load_or_init_manifest()
@@ -197,41 +215,76 @@ def export_tracks():
             }, f, indent=2, ensure_ascii=False)
         print(f"✓ Exported {len(track_articles)} prompts for {t_info['name']} -> {track_file}")
 
+def render_baselines():
+    print("🎨 Rendering high-resolution 16:9 WebP baseline cards using Sharp...")
+    node_script = """
+    const sharp = require('/home/gobeam/Projects/joyofcare-web/node_modules/sharp');
+    const fs = require('fs');
+    const path = require('path');
+
+    const manifestPath = '/home/gobeam/Projects/joyofcare-web/assets/images/articles/production_manifest.json';
+    const imagesDir = '/home/gobeam/Projects/joyofcare-web/assets/images/articles';
+    const manifest = JSON.parse(fs.readFileSync(manifestPath, 'utf8'));
+
+    async function run() {
+      let count = 0;
+      for (const [slug, item] of Object.entries(manifest.articles)) {
+        if (item.image_type === 'photojournalism') {
+          continue; // Preserve actual photojournalism
+        }
+        const svgPath = path.join(imagesDir, `${slug}.svg`);
+        const webpPath = path.join(imagesDir, `${slug}.webp`);
+        if (fs.existsSync(svgPath)) {
+          const svgBuf = fs.readFileSync(svgPath);
+          await sharp(svgBuf)
+            .resize(1280, 720)
+            .webp({ quality: 90 })
+            .toFile(webpPath);
+          count++;
+          if (count % 50 === 0) {
+            console.log(`  Processed ${count} WebP cards...`);
+          }
+        }
+      }
+      console.log(`✅ Finished rendering ${count} baseline WebP cards (1280x720 16:9).`);
+    }
+    run().catch(console.error);
+    """
+    res = subprocess.run(["node", "-e", node_script], capture_output=True, text=True)
+    print(res.stdout)
+    if res.stderr:
+        print("Stderr:", res.stderr)
+    load_or_init_manifest()
+
 def ingest_image(source_path, slug):
     if not os.path.exists(source_path):
         print(f"Error: Source image {source_path} does not exist.")
         return False
 
     manifest = load_or_init_manifest()
-    if slug not in manifest["articles"]:
-        print(f"Warning: Slug '{slug}' not found in prompts manifest, registering anyway.")
-
     try:
         im = Image.open(source_path)
-        # Convert RGBA to RGB if needed
         if im.mode in ("RGBA", "P"):
             im = im.convert("RGB")
 
-        # Save WebP
         webp_out = IMAGES_DIR / f"{slug}.webp"
         im.save(webp_out, "WEBP", quality=88, method=6)
 
-        # Save JPEG
         jpg_out = IMAGES_DIR / f"{slug}.jpg"
         im.save(jpg_out, "JPEG", quality=90, optimize=True)
 
-        # Update manifest
+        now_iso = datetime.now(timezone.utc).isoformat()
         if slug in manifest["articles"]:
             manifest["articles"][slug]["status"] = "completed"
+            manifest["articles"][slug]["image_type"] = "photojournalism"
             manifest["articles"][slug]["featuredImage"] = f"/assets/images/articles/{slug}.webp"
             manifest["articles"][slug]["has_photo_webp"] = True
             manifest["articles"][slug]["has_photo_jpg"] = True
-            manifest["articles"][slug]["completed_at"] = datetime.utcnow().isoformat()
+            manifest["articles"][slug]["updated_at"] = now_iso
             save_manifest(manifest)
 
-        # Update MDX
         update_single_article_mdx(slug, f"/assets/images/articles/{slug}.webp")
-        print(f"✓ Ingested {slug}: WebP ({webp_out.stat().st_size} B), JPG ({jpg_out.stat().st_size} B)")
+        print(f"✓ Ingested photojournalism {slug}: WebP ({webp_out.stat().st_size} B), JPG ({jpg_out.stat().st_size} B)")
         return True
     except Exception as e:
         print(f"Error ingesting image for {slug}: {e}")
@@ -265,11 +318,11 @@ def sync_all_mdx():
     manifest = load_or_init_manifest()
     synced = 0
     for slug, entry in manifest["articles"].items():
-        if entry.get("status") == "completed" and entry.get("has_photo_webp"):
+        if entry.get("has_photo_webp"):
             image_url = f"/assets/images/articles/{slug}.webp"
             if update_single_article_mdx(slug, image_url):
                 synced += 1
-    print(f"✓ Synced {synced} MDX articles to use photojournalism WebP images.")
+    print(f"✓ Synced {synced} MDX articles to use 16:9 WebP images.")
 
 def batch_ingest_dir(dir_path):
     p = Path(dir_path)
@@ -283,7 +336,6 @@ def batch_ingest_dir(dir_path):
 
     for img in images:
         base = img.stem
-        # Check if base matches any slug or ends with slug
         for slug in manifest["articles"].keys():
             if base == slug or base.startswith(slug) or slug in base:
                 if ingest_image(str(img), slug):
@@ -295,6 +347,7 @@ def main():
     parser = argparse.ArgumentParser(description="Joy of Care Visual Artists Runner")
     parser.add_argument("--status", "--summary", action="store_true", help="Print production dashboard")
     parser.add_argument("--export-tracks", action="store_true", help="Export individual artist prompt files")
+    parser.add_argument("--render-baselines", action="store_true", help="Render high-res 16:9 WebP baselines for all articles")
     parser.add_argument("--ingest", help="Ingest a generated image path")
     parser.add_argument("--slug", help="Article slug for the ingested image")
     parser.add_argument("--batch-ingest", help="Batch ingest images from directory")
@@ -302,7 +355,11 @@ def main():
 
     args = parser.parse_args()
 
-    if args.export_tracks:
+    if args.render_baselines:
+        render_baselines()
+        sync_all_mdx()
+        print_summary()
+    elif args.export_tracks:
         export_tracks()
     elif args.ingest and args.slug:
         ingest_image(args.ingest, args.slug)
