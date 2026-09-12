@@ -19,7 +19,7 @@ export const CATEGORIES: Category[] = [
   { slug: 'perawat-homecare', label: 'Perawat Homecare' },
   { slug: 'kesehatan-umum', label: 'Kesehatan Umum' },
   { slug: 'home-lab', label: 'Home Lab' },
-  { slug: 'siaga-vulkanik', label: 'Siaga Vulkanik' },
+  { slug: 'kesehatan-lingkungan', label: 'Kesehatan Lingkungan' },
 ];
 
 export function categoryLabel(slug: string): string {

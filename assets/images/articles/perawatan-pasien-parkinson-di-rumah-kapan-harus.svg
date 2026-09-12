@@ -32,13 +32,13 @@
   <g transform="translate(80, 75)">
     <!-- Top Pill: Category + Verification Badges -->
     <g transform="translate(0, 0)">
-      <rect x="0" y="0" width="300" height="36" rx="18" fill="#EDE9FE"/>
+      <rect x="0" y="0" width="310" height="36" rx="18" fill="#EDE9FE"/>
       <circle cx="18" cy="18" r="6" fill="#7C3AED"/>
       <text x="34" y="23" font-family="Inter, -apple-system, sans-serif" font-size="12" font-weight="800" fill="#5B21B6" letter-spacing="1">PARKINSON &amp; SARAF MOTORIK</text>
     </g>
 
     <!-- Medical Review Trust Badge -->
-    <g transform="translate(315, 0)">
+    <g transform="translate(325, 0)">
       <rect x="0" y="0" width="230" height="36" rx="18" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.2"/>
       <path d="M14 18 L19 23 L28 13" fill="none" stroke="#7C3AED" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
       <text x="36" y="23" font-family="Inter, -apple-system, sans-serif" font-size="11.5" font-weight="700" fill="#334155">Review Tim Medis JOC</text>
@@ -81,7 +81,6 @@
     
         <g transform="translate(770, 180)">
           <circle cx="120" cy="120" r="105" fill="#FFFFFF" stroke="#7C3AED" stroke-width="4" filter="url(#shadow)"/>
-          <!-- Neuro Synapse Nodes -->
           <circle cx="120" cy="90" r="18" fill="#7C3AED"/>
           <circle cx="75" cy="140" r="14" fill="#6D28D9"/>
           <circle cx="165" cy="140" r="14" fill="#6D28D9"/>

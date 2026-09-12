@@ -32,13 +32,13 @@
   <g transform="translate(80, 75)">
     <!-- Top Pill: Category + Verification Badges -->
     <g transform="translate(0, 0)">
-      <rect x="0" y="0" width="300" height="36" rx="18" fill="#E0F2FE"/>
+      <rect x="0" y="0" width="310" height="36" rx="18" fill="#E0F2FE"/>
       <circle cx="18" cy="18" r="6" fill="#0284C7"/>
       <text x="34" y="23" font-family="Inter, -apple-system, sans-serif" font-size="12" font-weight="800" fill="#075985" letter-spacing="1">HOME LAB &amp; CEK DARAH</text>
     </g>
 
     <!-- Medical Review Trust Badge -->
-    <g transform="translate(315, 0)">
+    <g transform="translate(325, 0)">
       <rect x="0" y="0" width="230" height="36" rx="18" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.2"/>
       <path d="M14 18 L19 23 L28 13" fill="none" stroke="#0284C7" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
       <text x="36" y="23" font-family="Inter, -apple-system, sans-serif" font-size="11.5" font-weight="700" fill="#334155">Review Tim Medis JOC</text>
@@ -81,12 +81,10 @@
     
         <g transform="translate(770, 180)">
           <circle cx="120" cy="120" r="105" fill="#FFFFFF" stroke="#0284C7" stroke-width="4" filter="url(#shadow)"/>
-          <!-- Test Tubes & Molecule Motif -->
           <rect x="90" y="60" width="22" height="90" rx="11" fill="#0284C7" opacity="0.25" stroke="#0284C7" stroke-width="3"/>
           <rect x="125" y="75" width="22" height="75" rx="11" fill="#0369A1" opacity="0.4" stroke="#0369A1" stroke-width="3"/>
           <circle cx="101" cy="130" r="6" fill="#0284C7"/>
           <circle cx="136" cy="130" r="6" fill="#0369A1"/>
-          <!-- DNA Double Helix Base -->
           <path d="M70 185 Q120 165 170 185 Q120 205 70 185" fill="none" stroke="#0284C7" stroke-width="4"/>
           <line x1="95" y1="178" x2="95" y2="192" stroke="#0369A1" stroke-width="3"/>
           <line x1="120" y1="175" x2="120" y2="195" stroke="#0369A1" stroke-width="3"/>

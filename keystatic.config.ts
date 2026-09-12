@@ -41,7 +41,7 @@ export default config({
             { label: 'Perawat Homecare', value: 'perawat-homecare' },
             { label: 'Antar Jemput RS', value: 'antar-jemput-rs' },
             { label: 'Kesehatan Umum', value: 'kesehatan-umum' },
-            { label: 'Siaga Vulkanik', value: 'siaga-vulkanik' },
+            { label: 'Kesehatan Lingkungan', value: 'kesehatan-lingkungan' },
           ],
           defaultValue: 'panggil-dokter',
         }),
