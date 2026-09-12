@@ -13,4 +13,8 @@ export default defineConfig({
   ],
   output: 'static',
   trailingSlash: 'always',
+  redirects: {
+    '/blogs': '/blog/',
+    '/blogs/': '/blog/',
+  },
 });
