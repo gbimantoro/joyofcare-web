@@ -30,14 +30,16 @@ const { measurementId = GA_MEASUREMENT_ID } = Astro.props;
         document.head.appendChild(s);
       }
 
-      if ('requestIdleCallback' in window) {
-        requestIdleCallback(function() { setTimeout(loadGtag, 1200); });
-      } else {
-        window.addEventListener('load', function() { setTimeout(loadGtag, 1200); });
-      }
-      ['scroll', 'keydown', 'touchstart', 'click'].forEach(function(evt) {
+      // Load immediately on user interaction, or fall back to 5s after idle
+      ['scroll', 'keydown', 'touchstart', 'click', 'mousemove'].forEach(function(evt) {
         window.addEventListener(evt, loadGtag, { once: true, passive: true });
       });
+
+      if ('requestIdleCallback' in window) {
+        requestIdleCallback(function() { setTimeout(loadGtag, 5000); });
+      } else {
+        window.addEventListener('load', function() { setTimeout(loadGtag, 5000); });
+      }
 
       // Custom Event Auto-Tracking (WhatsApp, Phone, Scroll Depth)
       document.addEventListener('DOMContentLoaded', () => {
