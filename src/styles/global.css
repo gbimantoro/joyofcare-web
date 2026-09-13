@@ -168,13 +168,13 @@ p { margin-bottom: 1rem; color: var(--color-text-secondary); }
 .wa-float svg { width: 32px; height: 32px; fill: #fff; }
 
 /* --- Breadcrumbs --- */
-.breadcrumbs { padding: 100px 0 20px; font-size: 0.85rem; color: var(--color-text-muted); }
-.breadcrumbs a { color: var(--color-text-muted); }
-.breadcrumbs a:hover { color: var(--color-primary); }
+.breadcrumbs { padding: 0; margin-bottom: 16px; font-size: 0.85rem; color: var(--color-text-muted); }
+.breadcrumbs a { color: var(--color-primary); text-decoration: none; }
+.breadcrumbs a:hover { text-decoration: underline; }
 .breadcrumbs span { margin: 0 8px; }
 
 /* --- Page Hero (inner pages) --- */
-.page-hero { padding: calc(var(--nav-height) + 40px) 0 60px; background: var(--color-neutral); }
+.page-hero { padding: calc(var(--nav-height) + 24px) 0 40px; background: linear-gradient(135deg, #f0fdf4 0%, #dcfce7 100%); }
 .page-hero h1 { margin-bottom: 16px; }
 .page-hero p { font-size: 1.1rem; max-width: 640px; }
 
@@ -293,6 +293,10 @@ p { margin-bottom: 1rem; color: var(--color-text-secondary); }
   .footer-grid { grid-template-columns: 1fr 1fr; }
   .hero { padding: calc(var(--nav-height) + 30px) 0 50px; }
   .hero-stats { gap: 24px; }
+  .page-hero { padding: calc(var(--nav-height) + 12px) 0 24px; }
+  .page-hero h1 { margin-bottom: 12px; }
+  .page-hero p { font-size: 1rem; margin-bottom: 16px; }
+  .breadcrumbs { margin-bottom: 12px; font-size: 0.8rem; }
   .section { padding: 50px 0; }
   .cta-banner { padding: 40px 24px; }
   

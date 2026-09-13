@@ -20,14 +20,18 @@ const canonical = `${SITE_URL}/layanan-lengkap/`;
     ]
   })} />
 
-  <section class="section" style="padding-top: calc(64px + 40px);">
+  <section class="page-hero" style="text-align:center">
     <div class="container">
-      <nav class="breadcrumbs" aria-label="Breadcrumb" style="text-align:center;margin-bottom:16px">
+      <nav class="breadcrumbs" aria-label="Breadcrumb" style="text-align:center">
         <a href="/">Beranda</a> <span>›</span> Layanan Lengkap
       </nav>
       <h1 style="text-align:center;margin-bottom:8px">Layanan Kesehatan di Rumah</h1>
-      <p style="text-align:center;color:#555770;max-width:600px;margin:0 auto 40px">Pilih layanan yang Anda butuhkan. Seluruh tindakan medis dikerjakan langsung di kediaman Anda oleh dokter, perawat, dan terapis berizin STR resmi.</p>
+      <p style="text-align:center;color:#555770;max-width:600px;margin:0 auto">Pilih layanan yang Anda butuhkan. Seluruh tindakan medis dikerjakan langsung di kediaman Anda oleh dokter, perawat, dan terapis berizin STR resmi.</p>
+    </div>
+  </section>
 
+  <section class="section">
+    <div class="container">
       <div class="services-grid">
         <a href="/panggil-dokter-ke-rumah/" class="service-card">
           <div class="service-icon">🩺</div>
@@ -86,7 +90,32 @@ const canonical = `${SITE_URL}/layanan-lengkap/`;
   </section>
 
   <style>
-    .services-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 24px; padding: 40px 0; }
+    .page-hero {
+      background: linear-gradient(135deg, #f0fdf4 0%, #dcfce7 100%);
+      padding: calc(var(--nav-height) + 24px) 0 40px;
+    }
+    .breadcrumbs {
+      padding: 0;
+      font-size: 0.875rem;
+      color: var(--color-text-secondary);
+      margin-bottom: 16px;
+    }
+    .breadcrumbs a {
+      color: var(--color-primary);
+      text-decoration: none;
+    }
+    .breadcrumbs a:hover {
+      text-decoration: underline;
+    }
+    @media (max-width: 768px) {
+      .page-hero {
+        padding: calc(var(--nav-height) + 12px) 0 24px;
+      }
+      .breadcrumbs {
+        margin-bottom: 12px;
+      }
+    }
+    .services-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 24px; padding: 20px 0 40px; }
     .service-card { background: var(--color-surface); border: 1px solid var(--color-border); border-radius: var(--radius-lg); padding: 32px; text-align: center; transition: all 0.2s; text-decoration: none; color: inherit; }
     .service-card:hover { box-shadow: var(--shadow-md); border-color: var(--color-primary); transform: translateY(-2px); }
     .service-card h3 { margin: 16px 0 8px; font-size: 1.1rem; }

@@ -184,5 +184,32 @@ const faqData = [
     </div>
   </section>
 
-  
 </BaseLayout>
+
+<style>
+  .page-hero {
+    background: linear-gradient(135deg, #f0fdf4 0%, #dcfce7 100%);
+    padding: calc(var(--nav-height) + 24px) 0 40px;
+  }
+  .breadcrumbs {
+    padding: 0;
+    font-size: 0.875rem;
+    color: var(--color-text-secondary);
+    margin-bottom: 16px;
+  }
+  .breadcrumbs a {
+    color: var(--color-primary);
+    text-decoration: none;
+  }
+  .breadcrumbs a:hover {
+    text-decoration: underline;
+  }
+  @media (max-width: 768px) {
+    .page-hero {
+      padding: calc(var(--nav-height) + 12px) 0 24px;
+    }
+    .breadcrumbs {
+      margin-bottom: 12px;
+    }
+  }
+</style>

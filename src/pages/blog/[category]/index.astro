@@ -101,11 +101,12 @@ const sortedArticles = articles.sort((a, b) =>
 <style>
   .category-header {
     background: linear-gradient(135deg, #f0fdf4 0%, #f8fafc 50%, #eff6ff 100%);
-    padding: 48px 0 40px;
+    padding: calc(var(--nav-height) + 24px) 0 40px;
     border-bottom: 1px solid #e2e8f0;
   }
 
   .breadcrumbs {
+    padding: 0;
     font-size: 0.875rem;
     color: #64748b;
     margin-bottom: 24px;
@@ -343,7 +344,10 @@ const sortedArticles = articles.sort((a, b) =>
       grid-template-columns: 1fr;
     }
     .category-header {
-      padding: 36px 0 28px;
+      padding: calc(var(--nav-height) + 12px) 0 24px;
+    }
+    .breadcrumbs {
+      margin-bottom: 12px;
     }
   }
 </style>
