@@ -14,13 +14,15 @@ interface Props {
 const { 
   title, 
   description = 'Joy of Care menyediakan layanan kesehatan di rumah profesional: panggil dokter, fisioterapi, infus vitamin, home lab, dan antar jemput RS.',
-  canonicalURL = `${SITE_URL}/`,
   ogImage = `${SITE_URL}/images/joc_long.png`,
   noindex = false,
 } = Astro.props;
 
+const rawPath = Astro.url.pathname || '/';
+const currentPath = rawPath === '/' ? '/' : (rawPath.endsWith('/') ? rawPath : `${rawPath}/`);
+const canonicalURL = Astro.props.canonicalURL || `${SITE_URL}${currentPath}`;
+
 const fullOgImage = ogImage.startsWith('http') ? ogImage : `${SITE_URL}${ogImage.startsWith('/') ? '' : '/'}${ogImage}`;
-const currentPath = Astro.url.pathname;
 ---
 
 <!DOCTYPE html>
@@ -70,6 +72,7 @@ const currentPath = Astro.url.pathname;
   <script type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
     "@type": "MedicalBusiness",
+    "@id": `${SITE_URL}/#organization`,
     "name": SITE_NAME,
     "url": `${SITE_URL}/`,
     "logo": `${SITE_URL}/images/joc_long.png`,

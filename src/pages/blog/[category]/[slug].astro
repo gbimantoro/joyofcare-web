@@ -6,16 +6,65 @@ export const prerender = true;
 
 export async function getStaticPaths() {
   const articles = await getCollection('articles');
-  return articles.map(article => ({
-    params: { 
-      category: article.data.category,
-      slug: article.data.slug 
-    },
-    props: { article },
-  }));
+
+  // Pre-group articles by category for fast deterministic lookup
+  const byCategory = new Map<string, typeof articles>();
+  for (const a of articles) {
+    const list = byCategory.get(a.data.category) || [];
+    list.push(a);
+    byCategory.set(a.data.category, list);
+  }
+
+  return articles.map(article => {
+    const sameCat = (byCategory.get(article.data.category) || [])
+      .filter(a => a.data.slug !== article.data.slug);
+
+    // Pick 4 same-category articles
+    const relatedSame = sameCat.slice(0, 4);
+
+    // Pick 2 cross-category articles
+    const otherArticles = articles.filter(a => a.data.category !== article.data.category);
+    // Use hash of slug to pick deterministically diverse cross-category articles
+    const hash = article.data.slug.split('').reduce((acc, c) => acc + c.charCodeAt(0), 0);
+    const startIdx = otherArticles.length > 0 ? hash % otherArticles.length : 0;
+    const relatedCross = otherArticles.slice(startIdx, startIdx + 2);
+    if (relatedCross.length < 2 && otherArticles.length >= 2) {
+      relatedCross.push(...otherArticles.slice(0, 2 - relatedCross.length));
+    }
+
+    const combinedRelated = [
+      ...relatedSame.map(a => ({
+        title: a.data.title,
+        category: a.data.category,
+        slug: a.data.slug,
+        featuredImage: a.data.featuredImage,
+        description: a.data.metaDescription || a.data.title,
+        date: a.data.date,
+      })),
+      ...relatedCross.map(a => ({
+        title: a.data.title,
+        category: a.data.category,
+        slug: a.data.slug,
+        featuredImage: a.data.featuredImage,
+        description: a.data.metaDescription || a.data.title,
+        date: a.data.date,
+      }))
+    ];
+
+    return {
+      params: { 
+        category: article.data.category,
+        slug: article.data.slug 
+      },
+      props: { 
+        article,
+        relatedArticles: combinedRelated
+      },
+    };
+  });
 }
 
-const { article } = Astro.props;
+const { article, relatedArticles = [] } = Astro.props;
 const { Content } = await render(article);
 ---
 
@@ -32,6 +81,7 @@ const { Content } = await render(article);
   secondaryKeywords={article.data.secondaryKeywords}
   faq={article.data.faq}
   slug={article.data.slug}
+  relatedArticles={relatedArticles}
 >
   <Content />
 </ArticleLayout>
