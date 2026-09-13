@@ -109,7 +109,21 @@ const homeFaq = [
           </div>
         </div>
         <div class="hero-image">
-          <img src="/images/panggil-dokter-ke-rumah/1.jpg" alt="Dokter Joy of Care melakukan pemeriksaan kesehatan di rumah pasien" width="560" height="420" loading="eager">
+          <picture>
+            <source
+              type="image/webp"
+              srcset="/images/panggil-dokter-ke-rumah/1-560.webp 560w, /images/panggil-dokter-ke-rumah/1.webp 800w"
+              sizes="(max-width: 768px) 100vw, 560px"
+            />
+            <img
+              src="/images/panggil-dokter-ke-rumah/1.webp"
+              alt="Dokter Joy of Care melakukan pemeriksaan kesehatan di rumah pasien"
+              width="560"
+              height="315"
+              loading="eager"
+              fetchpriority="high"
+            />
+          </picture>
         </div>
       </div>
     </div>

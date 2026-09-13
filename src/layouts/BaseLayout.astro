@@ -57,7 +57,11 @@ const currentPath = Astro.url.pathname;
   <!-- Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Montserrat:wght@600;700;800&display=swap" rel="stylesheet">
+  <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Montserrat:wght@600;700;800&display=swap">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Montserrat:wght@600;700;800&display=swap" media="print" onload="this.media='all'">
+  <noscript>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Montserrat:wght@600;700;800&display=swap">
+  </noscript>
 
   <!-- Google Analytics 4 & Custom Conversion Tracking -->
   <GoogleAnalytics />
@@ -126,7 +130,10 @@ const currentPath = Astro.url.pathname;
   <nav class="nav">
     <div class="nav-inner">
       <a href="/" class="nav-logo" aria-label="Joy of Care — Beranda">
-        <img src="/images/joc_long.png" alt="Joy of Care" width="160" height="40">
+        <picture>
+          <source srcset="/images/joc_long.webp" type="image/webp">
+          <img src="/images/joc_long.png" alt="Joy of Care" width="120" height="40">
+        </picture>
       </a>
       
       <div class="nav-links" id="nav-links">
@@ -155,11 +162,11 @@ const currentPath = Astro.url.pathname;
     <div class="container">
       <div class="footer-grid">
         <div>
-          <h4>Joy of Care</h4>
+          <div class="footer-title">Joy of Care</div>
           <p>Layanan kesehatan di rumah profesional untuk BSD City, Tangerang Selatan, Jakarta, Depok &amp; Bogor.</p>
         </div>
         <div>
-          <h4>Layanan</h4>
+          <div class="footer-title">Layanan</div>
           <div class="footer-links">
             <a href="/panggil-dokter-ke-rumah/">Panggil Dokter ke Rumah</a>
             <a href="/layanan-fisioterapi-ke-rumah/">Fisioterapi di Rumah</a>
@@ -172,7 +179,7 @@ const currentPath = Astro.url.pathname;
           </div>
         </div>
         <div>
-          <h4>Kontak</h4>
+          <div class="footer-title">Kontak</div>
           <div class="footer-links">
             <a href="https://wa.me/628811118911" target="_blank" rel="noopener noreferrer">WhatsApp: 08811-118-911</a>
             <a href="https://maps.app.goo.gl/JwkLdvc11hQYs8ts6" target="_blank" rel="noopener noreferrer">Google Maps</a>
@@ -192,8 +199,8 @@ const currentPath = Astro.url.pathname;
 
   <style>
     :root {
-      --color-primary: #2D9C4A;
-      --color-primary-dark: #247A3B;
+      --color-primary: #1E7B36;
+      --color-primary-dark: #165C28;
       --color-cta: #FC9000;
       --color-text: #1A1A2E;
       --color-text-secondary: #4A5568;
@@ -241,6 +248,11 @@ const currentPath = Astro.url.pathname;
       align-items: center;
       justify-content: space-between;
       height: 72px;
+    }
+
+    .nav-logo picture {
+      display: flex;
+      align-items: center;
     }
 
     .nav-logo img {
@@ -299,9 +311,11 @@ const currentPath = Astro.url.pathname;
       gap: 48px;
     }
 
-    .footer h4 {
+    .footer-title {
       font-size: 1.1rem;
+      font-weight: 600;
       margin-bottom: 16px;
+      color: white;
     }
 
     .footer p {
@@ -331,7 +345,7 @@ const currentPath = Astro.url.pathname;
       padding-top: 20px;
       border-top: 1px solid #2D3748;
       text-align: center;
-      color: #718096;
+      color: #A0AEC0;
       font-size: 0.85rem;
     }
 

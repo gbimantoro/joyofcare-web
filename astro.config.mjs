@@ -12,6 +12,9 @@ export default defineConfig({
     }),
   ],
   output: 'static',
+  build: {
+    inlineStylesheets: 'always',
+  },
   trailingSlash: 'always',
   redirects: {
     '/blogs': '/blog/',

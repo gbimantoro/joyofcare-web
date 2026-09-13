@@ -3,12 +3,10 @@
    Notion-inspired minimal + healthcare trust
    ============================================ */
 
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
-
 /* --- Tokens --- */
 :root {
-  --color-primary: #00bf63;
-  --color-primary-dark: #007A3D;
+  --color-primary: #1E7B36;
+  --color-primary-dark: #165C28;
   --color-primary-light: #E8F5E9;
   --color-accent: #FC9000;
   --color-accent-hover: #E58200;
