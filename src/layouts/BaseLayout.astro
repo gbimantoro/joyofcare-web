@@ -164,28 +164,85 @@ const fullOgImage = ogImage.startsWith('http') ? ogImage : `${SITE_URL}${ogImage
   <footer class="footer">
     <div class="container">
       <div class="footer-grid">
-        <div>
+        <!-- Kolom 1: Profil Joy of Care (SEO, GEO & AEO) -->
+        <div class="footer-brand-col">
           <div class="footer-title">Joy of Care</div>
-          <p>Layanan kesehatan di rumah profesional untuk BSD City, Tangerang Selatan, Jakarta, Depok &amp; Bogor.</p>
+          <p class="footer-desc">
+            Layanan kesehatan dan homecare medis profesional langsung ke rumah dan kantor untuk BSD City, Tangerang Selatan, Jakarta, Depok &amp; Bogor. Didukung dokter umum, dokter spesialis, fisioterapis, dan perawat bersertifikasi resmi untuk kenyamanan serta pemulihan optimal keluarga Anda.
+          </p>
+          <div class="footer-geo">
+            <div class="footer-geo-title">Area Layanan Homecare Jabodetabek:</div>
+            <p class="footer-geo-list">
+              <strong>BSD City &amp; Tangerang Selatan</strong> (Serpong, BSD, Alam Sutera, Gading Serpong, Bintaro, Ciputat, Pamulang), <strong>DKI Jakarta</strong> (Jaksel, Jakbar, Jakpus, Jaktim, Jakut), <strong>Kota Tangerang</strong>, <strong>Depok</strong> &amp; <strong>Bogor</strong>.
+            </p>
+          </div>
+          <div class="footer-badges">
+            <span class="footer-badge">✓ Dokter &amp; Perawat Berizin STR / SIP Aktif</span>
+            <span class="footer-badge">✓ Standar Medis &amp; Pasien Safety Rumah Sakit</span>
+            <span class="footer-badge">✓ Tarif Transparan Tanpa Biaya Tersembunyi</span>
+          </div>
         </div>
-        <div>
+
+        <!-- Kolom 2: Layanan Homecare -->
+        <div class="footer-services-col">
           <div class="footer-title">Layanan</div>
           <div class="footer-links">
             <a href="/panggil-dokter-ke-rumah/">Panggil Dokter ke Rumah</a>
             <a href="/layanan-fisioterapi-ke-rumah/">Fisioterapi di Rumah</a>
             <a href="/layanan-perawat-di-rumah/">Perawat Lansia Homecare</a>
             <a href="/layanan-vaksinasi-di-rumah/">Vaksinasi di Rumah</a>
-            <a href="/infus-suntik-vitamin-di-rumah/">Infus & Suntik Vitamin</a>
+            <a href="/infus-suntik-vitamin-di-rumah/">Infus &amp; Suntik Vitamin</a>
             <a href="/homelab/">Home Lab Cek Darah</a>
             <a href="/layanan-akupuntur-di-rumah/">Akupuntur Medis di Rumah</a>
             <a href="/transcare-antar-jemput-ke-rs-jakarta-tangerang/">Antar Jemput RS (TransCare)</a>
           </div>
         </div>
-        <div>
+
+        <!-- Kolom 3: Kontak & Google Maps -->
+        <div class="footer-contact-col">
           <div class="footer-title">Kontak</div>
-          <div class="footer-links">
-            <a href="https://wa.me/628811118911" target="_blank" rel="noopener noreferrer">WhatsApp: 08811-118-911</a>
-            <a href="https://maps.app.goo.gl/JwkLdvc11hQYs8ts6" target="_blank" rel="noopener noreferrer">Google Maps</a>
+          <div class="footer-contact-content">
+            <a href="https://wa.me/628811118911?text=Halo%20Joy%20of%20Care,%20saya%20ingin%20konsultasi%20layanan%20kesehatan" 
+               target="_blank" 
+               rel="noopener noreferrer" 
+               class="footer-wa-btn" 
+               aria-label="Hubungi WhatsApp 08811-118-911">
+              <svg viewBox="0 0 24 24" class="footer-wa-icon" aria-hidden="true">
+                <path fill="currentColor" d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/>
+              </svg>
+              <span class="footer-wa-info">
+                <span class="footer-wa-subtitle">WhatsApp 24 Jam</span>
+                <span class="footer-wa-number">08811-118-911</span>
+              </span>
+            </a>
+
+            <div class="footer-address">
+              <span class="footer-address-label">Lokasi Kantor:</span>
+              <address class="footer-address-text">
+                Ruko Greenwich Business Park E-15, Jl. Bumi Botanika, BSD City, Tangerang Selatan 15331
+              </address>
+            </div>
+
+            <div class="footer-map-wrapper">
+              <iframe 
+                src="https://maps.google.com/maps?q=Ruko+Greenwich+Business+Park+E-15+BSD+City&t=&z=15&ie=UTF8&iwloc=&output=embed"
+                class="footer-map-iframe"
+                loading="lazy" 
+                referrerpolicy="no-referrer-when-downgrade"
+                title="Peta Lokasi Joy of Care BSD City">
+              </iframe>
+              <a href="https://maps.app.goo.gl/JwkLdvc11hQYs8ts6" 
+                 target="_blank" 
+                 rel="noopener noreferrer" 
+                 class="footer-map-btn"
+                 aria-label="Buka Google Maps Joy of Care">
+                <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                  <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path>
+                  <circle cx="12" cy="10" r="3"></circle>
+                </svg>
+                <span>Buka di Google Maps</span>
+              </a>
+            </div>
           </div>
         </div>
       </div>
@@ -310,37 +367,201 @@ const fullOgImage = ogImage.startsWith('http') ? ogImage : `${SITE_URL}${ogImage
 
     .footer-grid {
       display: grid;
-      grid-template-columns: 2fr 1fr 1fr;
+      grid-template-columns: 1.8fr 1.1fr 1.3fr;
       gap: 48px;
     }
 
     .footer-title {
-      font-size: 1.1rem;
-      font-weight: 600;
+      font-size: 1.15rem;
+      font-weight: 700;
       margin-bottom: 16px;
       color: white;
+      letter-spacing: -0.01em;
     }
 
-    .footer p {
-      color: #A0AEC0;
+    .footer-desc {
+      color: #CBD5E0;
       font-size: 0.9rem;
+      line-height: 1.65;
+      margin-bottom: 16px;
+    }
+
+    .footer-geo {
+      margin-bottom: 16px;
+      padding: 12px 14px;
+      background: rgba(255, 255, 255, 0.04);
+      border-radius: 8px;
+      border: 1px solid rgba(255, 255, 255, 0.08);
+    }
+
+    .footer-geo-title {
+      font-size: 0.82rem;
+      font-weight: 600;
+      color: #E2E8F0;
+      margin-bottom: 6px;
+      text-transform: uppercase;
+      letter-spacing: 0.03em;
+    }
+
+    .footer-geo-list {
+      color: #A0AEC0;
+      font-size: 0.84rem;
+      line-height: 1.55;
+      margin: 0;
+    }
+
+    .footer-geo-list strong {
+      color: #CBD5E0;
+    }
+
+    .footer-badges {
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+
+    .footer-badge {
+      font-size: 0.82rem;
+      color: #86EFAC;
+      line-height: 1.4;
     }
 
     .footer-links {
       display: flex;
       flex-direction: column;
-      gap: 8px;
+      gap: 10px;
     }
 
     .footer-links a {
-      color: #A0AEC0;
+      color: #CBD5E0;
       text-decoration: none;
       font-size: 0.9rem;
-      transition: color 0.2s;
+      line-height: 1.4;
+      transition: color 0.2s, transform 0.2s;
+      display: inline-block;
     }
 
     .footer-links a:hover {
       color: white;
+      transform: translateX(3px);
+    }
+
+    .footer-contact-content {
+      display: flex;
+      flex-direction: column;
+      gap: 14px;
+    }
+
+    /* WhatsApp Button in Footer */
+    .footer-wa-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 12px;
+      background: #075E54;
+      color: #FFFFFF !important;
+      padding: 12px 16px;
+      border-radius: 10px;
+      text-decoration: none;
+      transition: background-color 0.2s, transform 0.2s, box-shadow 0.2s;
+      box-shadow: 0 4px 12px rgba(7, 94, 84, 0.35);
+      border: 1px solid rgba(255, 255, 255, 0.15);
+      width: 100%;
+      box-sizing: border-box;
+    }
+
+    .footer-wa-btn:hover {
+      background: #0B7D70;
+      transform: translateY(-2px);
+      box-shadow: 0 6px 16px rgba(7, 94, 84, 0.45);
+      color: #FFFFFF !important;
+    }
+
+    .footer-wa-icon {
+      width: 28px;
+      height: 28px;
+      flex-shrink: 0;
+      fill: #FFFFFF;
+    }
+
+    .footer-wa-info {
+      display: flex;
+      flex-direction: column;
+      text-align: left;
+    }
+
+    .footer-wa-subtitle {
+      font-size: 0.75rem;
+      color: #D1FAE5;
+      text-transform: uppercase;
+      letter-spacing: 0.03em;
+      line-height: 1.2;
+    }
+
+    .footer-wa-number {
+      font-size: 1.05rem;
+      font-weight: 700;
+      color: #FFFFFF;
+      letter-spacing: 0.02em;
+      line-height: 1.2;
+    }
+
+    /* Physical Address */
+    .footer-address {
+      font-size: 0.85rem;
+      line-height: 1.5;
+    }
+
+    .footer-address-label {
+      display: block;
+      color: #E2E8F0;
+      font-weight: 600;
+      margin-bottom: 4px;
+      font-size: 0.82rem;
+      text-transform: uppercase;
+      letter-spacing: 0.03em;
+    }
+
+    .footer-address-text {
+      font-style: normal;
+      color: #A0AEC0;
+    }
+
+    /* Google Maps Embed & Link */
+    .footer-map-wrapper {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+
+    .footer-map-iframe {
+      width: 100%;
+      height: 140px;
+      border: 0;
+      border-radius: 8px;
+      background: #2D3748;
+      display: block;
+    }
+
+    .footer-map-btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      background: rgba(255, 255, 255, 0.08);
+      color: #E2E8F0 !important;
+      padding: 9px 14px;
+      border-radius: 6px;
+      font-size: 0.85rem;
+      font-weight: 500;
+      text-decoration: none;
+      border: 1px solid rgba(255, 255, 255, 0.15);
+      transition: background-color 0.2s, color 0.2s, border-color 0.2s;
+    }
+
+    .footer-map-btn:hover {
+      background: rgba(255, 255, 255, 0.16);
+      color: #FFFFFF !important;
+      border-color: rgba(255, 255, 255, 0.3);
     }
 
     .footer-bottom {
