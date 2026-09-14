@@ -236,7 +236,7 @@ async function main() {
     }
 
     const item = articles[slug];
-    const promptText = item.image_prompt || item.prompt;
+    const promptText = item.imagePrompt || item.image_prompt || item.prompt;
     console.log(`\n🚀 [${generatedCount + 1}/${Math.min(limit, pendingSlugs.length)}] Generating: ${slug}`);
     console.log(`   Track: ${item.artist_track} | Category: ${item.category}`);
 
