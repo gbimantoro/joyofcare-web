@@ -10,6 +10,8 @@ const { measurementId = GA_MEASUREMENT_ID } = Astro.props;
 
 {measurementId && (
   <>
+    <!-- Google tag (gtag.js) -->
+    <script async src={`https://www.googletagmanager.com/gtag/js?id=${measurementId}`}></script>
     <script is:inline define:vars={{ measurementId }}>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
@@ -19,27 +21,6 @@ const { measurementId = GA_MEASUREMENT_ID } = Astro.props;
         anonymize_ip: true,
         cookie_flags: 'SameSite=None;Secure'
       });
-
-      // Lazy-load Google tag script to eliminate unused JS on initial render
-      function loadGtag() {
-        if (window._gtagLoaded) return;
-        window._gtagLoaded = true;
-        var s = document.createElement('script');
-        s.async = true;
-        s.src = 'https://www.googletagmanager.com/gtag/js?id=' + encodeURIComponent(measurementId);
-        document.head.appendChild(s);
-      }
-
-      // Load immediately on user interaction, or fall back to 5s after idle
-      ['scroll', 'keydown', 'touchstart', 'click', 'mousemove'].forEach(function(evt) {
-        window.addEventListener(evt, loadGtag, { once: true, passive: true });
-      });
-
-      if ('requestIdleCallback' in window) {
-        requestIdleCallback(function() { setTimeout(loadGtag, 5000); });
-      } else {
-        window.addEventListener('load', function() { setTimeout(loadGtag, 5000); });
-      }
 
       // Custom Event Auto-Tracking (WhatsApp, Phone, Scroll Depth)
       document.addEventListener('DOMContentLoaded', () => {

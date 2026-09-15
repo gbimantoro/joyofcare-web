@@ -1,9 +1,36 @@
-import { config, fields, collection } from '@keystatic/core';
+import { config, fields, collection, singleton } from '@keystatic/core';
 
 export default config({
   storage: {
     kind: 'github',
     repo: 'gbimantoro/joyofcare-web',
+  },
+  singletons: {
+    siteSettings: singleton({
+      label: 'Pengaturan Situs & Analitik',
+      path: 'src/content/settings/site',
+      format: 'json',
+      schema: {
+        gaMeasurementId: fields.text({
+          label: 'Google Analytics 4 Measurement ID',
+          description: 'ID pelacakan GA4 untuk seluruh halaman website (contoh: G-K4XR1K77PK)',
+          defaultValue: 'G-K4XR1K77PK',
+          validation: { isRequired: true },
+        }),
+        siteName: fields.text({
+          label: 'Nama Situs',
+          defaultValue: 'Joy of Care',
+        }),
+        siteUrl: fields.text({
+          label: 'Domain Utama (Canonical)',
+          defaultValue: 'https://joyofcare.net',
+        }),
+        whatsappNumber: fields.text({
+          label: 'Nomor WhatsApp Hotline',
+          defaultValue: '628811118911',
+        }),
+      },
+    }),
   },
   collections: {
     articles: collection({
