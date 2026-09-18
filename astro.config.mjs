@@ -18,6 +18,5 @@ export default defineConfig({
   trailingSlash: 'always',
   redirects: {
     '/blogs': '/blog/',
-    '/blogs/': '/blog/',
   },
 });
