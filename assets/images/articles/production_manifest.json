@@ -1,6 +1,6 @@
 {
   "schema_version": "1.1.0",
-  "updated_at": "2026-09-14T18:30:58.751541+00:00",
+  "updated_at": "2026-09-20T15:52:03.936888+00:00",
   "total_articles": 352,
   "articles": {
     "cegah-jatuh-pada-lansia-tips-rumah-yang-perlu-anda-ketahui": {
@@ -442,16 +442,16 @@
       "primaryKeyword": "perbandingan syarat kesehatan studi australia uk jepang korea",
       "artist_track": "artist-4-escort",
       "artist_name": "Visual Artist 4: Medical Escort, Lab & Environmental",
-      "status": "baseline_ready",
-      "image_type": "baseline_card",
+      "status": "completed",
+      "image_type": "photojournalism",
       "aspectRatio": "16:9",
       "style": "journalistic photography",
       "imagePrompt": "Nanobanana Pro 2 prompt: Editorial documentary photojournalism in Kompas and National Geographic news photography style, authentic unposed Indonesian healthcare scene set in elite urban housing in Jabodetabek (modern luxury landed house or upscale high-rise apartment): all healthcare professionals are from Joy of Care according to joc_logo.png, wearing official Joy of Care healthcare attire with the Joy of Care logo (vibrant green and warm orange medical cross emblem featuring an uplifting joyful white human figure silhouette with raised arms, and bold green 'JOY OF CARE' text) on their chest badge, and branded Joy of Care staff ID lanyards, taking care of patient in an affluent urban residence, a licensed Indonesian Joy of Care travel-medicine doctor in white consultation coat with the Joy of Care logo (vibrant green and warm orange medical cross emblem with a joyful human figure) and official Joy of Care lanyard, reviewing international immunization certificates and administering travel vaccines to an Indonesian university student in a sleek, modern private study room of an upscale urban apartment in Jakarta. Focusing on topic 'Syarat MCU Studi: Australia vs UK vs Asia'. Primary keyword: perbandingan syarat kesehatan studi australia uk jepang korea. Candid photojournalistic capture, natural daylight from large panoramic windows, authentic Indonesian family and Joy of Care medical professionals, honest expressions of empathy and clinical attentiveness, elite urban housing setting (modern landed house or luxury apartment in Jabodetabek), pristine clean contemporary interior, polished stone floors, elegant modern furniture, Leica M11 with Summilux 35mm f/1.4 lens, natural skin tones, true-to-life documentary color grading, high realism, Pulitzer-prize photojournalistic storytelling --ar 16:9 --style raw",
       "featuredImage": "/assets/images/articles/syarat-kesehatan-studi-luar-negeri-vaksin-mcu-biaya-dan-perbandingan.webp",
       "has_photo_webp": true,
-      "has_photo_jpg": false,
+      "has_photo_jpg": true,
       "has_vector_svg": true,
-      "updated_at": "2026-09-12T14:00:57.822210"
+      "updated_at": "2026-09-20T15:51:58.055401+00:00"
     },
     "fisioterapi-pasca-stroke-di-rumah-kapan-harus": {
       "slug": "fisioterapi-pasca-stroke-di-rumah-kapan-harus",
@@ -460,16 +460,16 @@
       "primaryKeyword": "kapan harus fisioterapi pasca stroke",
       "artist_track": "artist-3-rehab",
       "artist_name": "Visual Artist 3: Neuro-Rehab & Physical Therapy",
-      "status": "baseline_ready",
-      "image_type": "baseline_card",
+      "status": "completed",
+      "image_type": "photojournalism",
       "aspectRatio": "16:9",
       "style": "journalistic photography",
       "imagePrompt": "Nanobanana Pro 2 prompt: Editorial documentary photojournalism in Kompas and National Geographic news photography style, authentic unposed Indonesian healthcare scene set in elite urban housing in Jabodetabek (modern luxury landed house or upscale high-rise apartment): all healthcare professionals are from Joy of Care according to joc_logo.png, wearing official Joy of Care healthcare attire with the Joy of Care logo (vibrant green and warm orange medical cross emblem featuring an uplifting joyful white human figure silhouette with raised arms, and bold green 'JOY OF CARE' text) on their chest badge, and branded Joy of Care staff ID lanyards, taking care of patient in an affluent urban residence, a professional Indonesian Joy of Care physiotherapist in a clinical polo uniform displaying the embroidered Joy of Care logo (vibrant green and warm orange medical cross emblem with a joyful white human silhouette) and wearing an official Joy of Care staff lanyard, gently assisting a patient through knee mobility and gait rehabilitation exercises on an exercise mat in a bright, modern living room with polished marble flooring and contemporary minimalist furniture in an elite urban landed house in Jabodetabek. Focusing on topic 'Kapan Fisioterapi Pasca Stroke Dimulai? Protokol Klinis'. Primary keyword: kapan harus fisioterapi pasca stroke. Candid photojournalistic capture, natural daylight from large panoramic windows, authentic Indonesian family and Joy of Care medical professionals, honest expressions of empathy and clinical attentiveness, elite urban housing setting (modern landed house or luxury apartment in Jabodetabek), pristine clean contemporary interior, polished stone floors, elegant modern furniture, Leica M11 with Summilux 35mm f/1.4 lens, natural skin tones, true-to-life documentary color grading, high realism, Pulitzer-prize photojournalistic storytelling --ar 16:9 --style raw",
       "featuredImage": "/assets/images/articles/fisioterapi-pasca-stroke-di-rumah-kapan-harus.webp",
       "has_photo_webp": true,
-      "has_photo_jpg": false,
+      "has_photo_jpg": true,
       "has_vector_svg": true,
-      "updated_at": "2026-09-12T14:00:57.822267"
+      "updated_at": "2026-09-20T15:52:01.197189+00:00"
     },
     "infus-multivitamin-khusus-geriatri-lansia-mengalami-penolakan": {
       "slug": "infus-multivitamin-khusus-geriatri-lansia-mengalami-penolakan",
@@ -478,16 +478,16 @@
       "primaryKeyword": "infus multivitamin khusus geriatri lansia mengalami penolakan",
       "artist_track": "artist-2-doctor",
       "artist_name": "Visual Artist 2: Doctor Home-Visit & IV Therapy",
-      "status": "baseline_ready",
-      "image_type": "baseline_card",
+      "status": "completed",
+      "image_type": "photojournalism",
       "aspectRatio": "16:9",
       "style": "journalistic photography",
       "imagePrompt": "Nanobanana Pro 2 prompt: Editorial documentary photojournalism in Kompas and National Geographic news photography style, authentic unposed Indonesian healthcare scene set in elite urban housing in Jabodetabek (modern luxury landed house or upscale high-rise apartment): all healthcare professionals are from Joy of Care according to joc_logo.png, wearing official Joy of Care healthcare attire with the Joy of Care logo (vibrant green and warm orange medical cross emblem featuring an uplifting joyful white human figure silhouette with raised arms, and bold green 'JOY OF CARE' text) on their chest badge, and branded Joy of Care staff ID lanyards, taking care of patient in an affluent urban residence, an experienced Indonesian Joy of Care infusion nurse in professional medical scrubs with the Joy of Care logo (vibrant green and warm orange medical cross emblem with a joyful white silhouette) and Joy of Care staff ID badge, monitoring an intravenous vitamin drip line on a stainless IV pole while patient rests comfortably on an elegant contemporary designer sofa in an upscale modern apartment or luxury landed house in Jabodetabek. Focusing on topic 'Infus Multivitamin Khusus Geriatri untuk Lansia yang Me...'. Primary keyword: infus multivitamin khusus geriatri lansia mengalami penolakan. Candid photojournalistic capture, natural daylight from large panoramic windows, authentic Indonesian family and Joy of Care medical professionals, honest expressions of empathy and clinical attentiveness, elite urban housing setting (modern landed house or luxury apartment in Jabodetabek), pristine clean contemporary interior, polished stone floors, elegant modern furniture, Leica M11 with Summilux 35mm f/1.4 lens, natural skin tones, true-to-life documentary color grading, high realism, Pulitzer-prize photojournalistic storytelling --ar 16:9 --style raw",
       "featuredImage": "/assets/images/articles/infus-multivitamin-khusus-geriatri-lansia-mengalami-penolakan.webp",
       "has_photo_webp": true,
-      "has_photo_jpg": false,
+      "has_photo_jpg": true,
       "has_vector_svg": true,
-      "updated_at": "2026-09-12T14:00:57.822325"
+      "updated_at": "2026-09-20T15:52:04.298661+00:00"
     },
     "konsep-aging-in-place-menyehatkan-jiwa-lansia": {
       "slug": "konsep-aging-in-place-menyehatkan-jiwa-lansia",
@@ -6342,11 +6342,11 @@
   },
   "summary": {
     "total": 352,
-    "photojournalism_completed": 25,
-    "baseline_ready": 327,
+    "photojournalism_completed": 28,
+    "baseline_ready": 324,
     "pending": 0,
     "coverage_rate": "100.0%",
-    "photojournalism_rate": "7.1%",
+    "photojournalism_rate": "8.0%",
     "tracks": {
       "artist-1-geriatric": {
         "name": "Visual Artist 1: Geriatric & Home Nursing",
@@ -6358,22 +6358,22 @@
       "artist-2-doctor": {
         "name": "Visual Artist 2: Doctor Home-Visit & IV Therapy",
         "total": 78,
-        "photojournalism": 3,
-        "baseline_ready": 75,
+        "photojournalism": 4,
+        "baseline_ready": 74,
         "pending": 0
       },
       "artist-3-rehab": {
         "name": "Visual Artist 3: Neuro-Rehab & Physical Therapy",
         "total": 77,
-        "photojournalism": 5,
-        "baseline_ready": 72,
+        "photojournalism": 6,
+        "baseline_ready": 71,
         "pending": 0
       },
       "artist-4-escort": {
         "name": "Visual Artist 4: Medical Escort, Lab & Environmental",
         "total": 99,
-        "photojournalism": 11,
-        "baseline_ready": 88,
+        "photojournalism": 12,
+        "baseline_ready": 87,
         "pending": 0
       }
     }
