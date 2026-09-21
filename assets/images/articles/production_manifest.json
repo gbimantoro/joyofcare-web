@@ -1,6 +1,6 @@
 {
   "schema_version": "1.1.0",
-  "updated_at": "2026-09-20T15:52:03.936888+00:00",
+  "updated_at": "2026-09-21T00:14:37.330184+00:00",
   "total_articles": 352,
   "articles": {
     "cegah-jatuh-pada-lansia-tips-rumah-yang-perlu-anda-ketahui": {
@@ -496,16 +496,16 @@
       "primaryKeyword": "konsep aging in place menyehatkan jiwa lansia",
       "artist_track": "artist-1-geriatric",
       "artist_name": "Visual Artist 1: Geriatric & Home Nursing",
-      "status": "baseline_ready",
-      "image_type": "baseline_card",
+      "status": "completed",
+      "image_type": "photojournalism",
       "aspectRatio": "16:9",
       "style": "journalistic photography",
       "imagePrompt": "Nanobanana Pro 2 prompt: Editorial documentary photojournalism in Kompas and National Geographic news photography style, authentic unposed Indonesian healthcare scene set in elite urban housing in Jabodetabek (modern luxury landed house or upscale high-rise apartment): all healthcare professionals are from Joy of Care according to joc_logo.png, wearing official Joy of Care healthcare attire with the Joy of Care logo (vibrant green and warm orange medical cross emblem featuring an uplifting joyful white human figure silhouette with raised arms, and bold green 'JOY OF CARE' text) on their chest badge, and branded Joy of Care staff ID lanyards, taking care of patient in an affluent urban residence, a compassionate Indonesian Joy of Care geriatric nurse wearing a comfortable clinical scrub uniform with the Joy of Care logo (vibrant green and warm orange medical cross emblem with an uplifting joyful white silhouette) and Joy of Care ID lanyard, holding hands and comforting an elderly Indonesian grandmother sitting in an ergonomic modern armchair in a sunlit contemporary living room with large garden-view windows in an elite urban landed house in Jabodetabek. Focusing on topic 'Mengapa Konsep Aging in Place (Menua di Rumah Sendiri) ...'. Primary keyword: konsep aging in place menyehatkan jiwa lansia. Candid photojournalistic capture, natural daylight from large panoramic windows, authentic Indonesian family and Joy of Care medical professionals, honest expressions of empathy and clinical attentiveness, elite urban housing setting (modern landed house or luxury apartment in Jabodetabek), pristine clean contemporary interior, polished stone floors, elegant modern furniture, Leica M11 with Summilux 35mm f/1.4 lens, natural skin tones, true-to-life documentary color grading, high realism, Pulitzer-prize photojournalistic storytelling --ar 16:9 --style raw",
       "featuredImage": "/assets/images/articles/konsep-aging-in-place-menyehatkan-jiwa-lansia.webp",
       "has_photo_webp": true,
-      "has_photo_jpg": false,
+      "has_photo_jpg": true,
       "has_vector_svg": true,
-      "updated_at": "2026-09-12T14:00:57.822386"
+      "updated_at": "2026-09-21T00:14:36.183345+00:00"
     },
     "biaya-panggil-dokter-ke-rumah-2026-kapan-harus": {
       "slug": "biaya-panggil-dokter-ke-rumah-2026-kapan-harus",
@@ -532,16 +532,16 @@
       "primaryKeyword": "dokter ke rumah untuk orang tua sandwich generation",
       "artist_track": "artist-2-doctor",
       "artist_name": "Visual Artist 2: Doctor Home-Visit & IV Therapy",
-      "status": "baseline_ready",
-      "image_type": "baseline_card",
+      "status": "completed",
+      "image_type": "photojournalism",
       "aspectRatio": "16:9",
       "style": "journalistic photography",
       "imagePrompt": "Nanobanana Pro 2 prompt: Editorial documentary photojournalism in Kompas and National Geographic news photography style, authentic unposed Indonesian healthcare scene set in elite urban housing in Jabodetabek (modern luxury landed house or upscale high-rise apartment): all healthcare professionals are from Joy of Care according to joc_logo.png, wearing official Joy of Care healthcare attire with the Joy of Care logo (vibrant green and warm orange medical cross emblem featuring an uplifting joyful white human figure silhouette with raised arms, and bold green 'JOY OF CARE' text) on their chest badge, and branded Joy of Care staff ID lanyards, taking care of patient in an affluent urban residence, an authentic Indonesian Joy of Care home-visit doctor in a neat white consultation coat over clinical scrubs with the Joy of Care logo (vibrant green and warm orange medical cross emblem with a joyful white human silhouette) and wearing an official Joy of Care neck lanyard and ID badge, with stethoscope, visiting an elderly patient and family inside an upscale contemporary living room with marble flooring and large floor-to-ceiling windows of an elite urban landed house or luxury apartment in Jakarta, candid documentary moment of measuring blood pressure and talking attentively with patient. Focusing on topic 'Sandwich Generation: Solusi Dokter ke Rumah Tanpa Cuti Kerja'. Primary keyword: dokter ke rumah untuk orang tua sandwich generation. Candid photojournalistic capture, natural daylight from large panoramic windows, authentic Indonesian family and Joy of Care medical professionals, honest expressions of empathy and clinical attentiveness, elite urban housing setting (modern landed house or luxury apartment in Jabodetabek), pristine clean contemporary interior, polished stone floors, elegant modern furniture, Leica M11 with Summilux 35mm f/1.4 lens, natural skin tones, true-to-life documentary color grading, high realism, Pulitzer-prize photojournalistic storytelling --ar 16:9 --style raw",
       "featuredImage": "/assets/images/articles/sindrom-sandwich-generation-solusi-dokter-ke-rumah-tanpa-cuti-kerja.webp",
       "has_photo_webp": true,
-      "has_photo_jpg": false,
+      "has_photo_jpg": true,
       "has_vector_svg": true,
-      "updated_at": "2026-09-12T14:00:57.822495"
+      "updated_at": "2026-09-21T00:14:37.098445+00:00"
     },
     "triase-demam-anak-malam-hari-bedakan-kejang-demam-dan-observasi-dokter-di-rumah": {
       "slug": "triase-demam-anak-malam-hari-bedakan-kejang-demam-dan-observasi-dokter-di-rumah",
@@ -550,16 +550,16 @@
       "primaryKeyword": "demam anak malam hari panggil dokter ke rumah",
       "artist_track": "artist-2-doctor",
       "artist_name": "Visual Artist 2: Doctor Home-Visit & IV Therapy",
-      "status": "baseline_ready",
-      "image_type": "baseline_card",
+      "status": "completed",
+      "image_type": "photojournalism",
       "aspectRatio": "16:9",
       "style": "journalistic photography",
       "imagePrompt": "Nanobanana Pro 2 prompt: Editorial documentary photojournalism in Kompas and National Geographic news photography style, authentic unposed Indonesian healthcare scene set in elite urban housing in Jabodetabek (modern luxury landed house or upscale high-rise apartment): all healthcare professionals are from Joy of Care according to joc_logo.png, wearing official Joy of Care healthcare attire with the Joy of Care logo (vibrant green and warm orange medical cross emblem featuring an uplifting joyful white human figure silhouette with raised arms, and bold green 'JOY OF CARE' text) on their chest badge, and branded Joy of Care staff ID lanyards, taking care of patient in an affluent urban residence, an authentic Indonesian Joy of Care home-visit doctor in a neat white consultation coat over clinical scrubs with the Joy of Care logo (vibrant green and warm orange medical cross emblem with a joyful white human silhouette) and wearing an official Joy of Care neck lanyard and ID badge, with stethoscope, visiting an elderly patient and family inside an upscale contemporary living room with marble flooring and large floor-to-ceiling windows of an elite urban landed house or luxury apartment in Jakarta, candid documentary moment of measuring blood pressure and talking attentively with patient. Focusing on topic 'Triase Demam Anak Malam Hari: Kejang Demam vs Dokter Visit'. Primary keyword: demam anak malam hari panggil dokter ke rumah. Candid photojournalistic capture, natural daylight from large panoramic windows, authentic Indonesian family and Joy of Care medical professionals, honest expressions of empathy and clinical attentiveness, elite urban housing setting (modern landed house or luxury apartment in Jabodetabek), pristine clean contemporary interior, polished stone floors, elegant modern furniture, Leica M11 with Summilux 35mm f/1.4 lens, natural skin tones, true-to-life documentary color grading, high realism, Pulitzer-prize photojournalistic storytelling --ar 16:9 --style raw",
       "featuredImage": "/assets/images/articles/triase-demam-anak-malam-hari-bedakan-kejang-demam-dan-observasi-dokter-di-rumah.webp",
       "has_photo_webp": true,
-      "has_photo_jpg": false,
+      "has_photo_jpg": true,
       "has_vector_svg": true,
-      "updated_at": "2026-09-12T14:00:57.822555"
+      "updated_at": "2026-09-21T00:14:37.958058+00:00"
     },
     "cegah-jatuh-pada-lansia-tips-rumah-panduan-lengkap": {
       "slug": "cegah-jatuh-pada-lansia-tips-rumah-panduan-lengkap",
@@ -6342,24 +6342,24 @@
   },
   "summary": {
     "total": 352,
-    "photojournalism_completed": 28,
-    "baseline_ready": 324,
+    "photojournalism_completed": 31,
+    "baseline_ready": 321,
     "pending": 0,
     "coverage_rate": "100.0%",
-    "photojournalism_rate": "8.0%",
+    "photojournalism_rate": "8.8%",
     "tracks": {
       "artist-1-geriatric": {
         "name": "Visual Artist 1: Geriatric & Home Nursing",
         "total": 98,
-        "photojournalism": 6,
-        "baseline_ready": 92,
+        "photojournalism": 7,
+        "baseline_ready": 91,
         "pending": 0
       },
       "artist-2-doctor": {
         "name": "Visual Artist 2: Doctor Home-Visit & IV Therapy",
         "total": 78,
-        "photojournalism": 4,
-        "baseline_ready": 74,
+        "photojournalism": 6,
+        "baseline_ready": 72,
         "pending": 0
       },
       "artist-3-rehab": {
