@@ -145,6 +145,10 @@ const fullOgImage = ogImage.startsWith('http') ? ogImage : `${SITE_URL}${ogImage
       </a>
       
       <div class="nav-links" id="nav-links">
+        <a href="/walk-in-promo/" class={`nav-promo-highlight ${currentPath.startsWith('/walk-in-promo') ? 'active' : ''}`}>
+          <span>Promo</span>
+          <span class="promo-badge">HOT</span>
+        </a>
         <a href="/layanan-lengkap/">Layanan</a>
         <a href="/blog/" class={currentPath.startsWith('/blog') ? 'active' : ''}>Artikel</a>
         <a href="https://wa.me/628811118911?text=Hi,%20saya%20tahu%20dari%20web.%20Mau%20tanya%20layanan%20Joy%20of%20Care" class="nav-cta" target="_blank" rel="noopener noreferrer">Chat WhatsApp</a>
@@ -192,6 +196,7 @@ const fullOgImage = ogImage.startsWith('http') ? ogImage : `${SITE_URL}${ogImage
         <div class="footer-services-col">
           <div class="footer-title">Layanan</div>
           <div class="footer-links">
+            <a href="/walk-in-promo/" style="color:#fb923c;font-weight:600">Promo Walk-in Klinik BSD 🔥</a>
             <a href="/panggil-dokter-ke-rumah/">Panggil Dokter ke Rumah</a>
             <a href="/layanan-fisioterapi-ke-rumah/">Fisioterapi di Rumah</a>
             <a href="/layanan-perawat-di-rumah/">Perawat Lansia Homecare</a>
@@ -341,6 +346,46 @@ const fullOgImage = ogImage.startsWith('http') ? ogImage : `${SITE_URL}${ogImage
     .nav-links a:hover,
     .nav-links a.active {
       color: var(--color-primary);
+    }
+
+    .nav-promo-highlight {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      font-weight: 700 !important;
+      color: #ea580c !important;
+      padding: 6px 14px;
+      background: #fff7ed;
+      border: 1px solid #fed7aa;
+      border-radius: 9999px;
+      transition: all 0.2s ease;
+    }
+
+    .nav-promo-highlight:hover,
+    .nav-promo-highlight.active {
+      background: #ffedd5;
+      color: #c2410c !important;
+      border-color: #fdba74;
+      transform: translateY(-1px);
+      box-shadow: 0 2px 8px rgba(234, 88, 12, 0.2);
+    }
+
+    .promo-badge {
+      background: linear-gradient(135deg, #ef4444, #f97316);
+      color: white;
+      font-size: 0.62rem;
+      font-weight: 800;
+      letter-spacing: 0.06em;
+      padding: 2px 6px;
+      border-radius: 9999px;
+      line-height: 1.1;
+      box-shadow: 0 1px 3px rgba(239, 68, 68, 0.35);
+      animation: promoPulse 2s infinite ease-in-out;
+    }
+
+    @keyframes promoPulse {
+      0%, 100% { transform: scale(1); }
+      50% { transform: scale(1.08); }
     }
 
     .nav-cta {
@@ -621,6 +666,11 @@ const fullOgImage = ogImage.startsWith('http') ? ogImage : `${SITE_URL}${ogImage
 
       .nav-links.nav-open {
         display: flex;
+        gap: 20px;
+      }
+
+      .nav-links .nav-promo-highlight {
+        width: fit-content;
       }
 
       .nav-mobile {

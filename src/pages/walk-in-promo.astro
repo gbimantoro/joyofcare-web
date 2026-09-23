@@ -1,0 +1,1238 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { SITE_URL, PROMO_WHATSAPP_URL } from '../consts';
+
+export const prerender = true;
+
+const title = "Promo Spesial Walk-in Klinik Joy of Care BSD City Rp 300.000";
+const description = "Nikmati promo walk-in klinik Joy of Care BSD City serba Rp 300.000: Infus Anti GERD, Infus Anti Hangover, Infus Imun Booster & Vaksin Flu 3-Strain. Booking & Konsul dokter GRATIS!";
+const canonical = `${SITE_URL}/walk-in-promo/`;
+const ogImage = `/images/promo/anti-gerd.jpg`;
+
+const promoPackages = [
+  {
+    id: "anti-gerd",
+    title: "Infus Anti GERD / Gastro Protector",
+    headline: "Jalani hari tanpa nyeri lambung lagi",
+    badge: "Solusi Cepat Asam Lambung",
+    originalPrice: "Rp 350.000",
+    promoPrice: "Rp 300.000",
+    saveAmount: "Hemat Rp 50.000",
+    image: "/images/promo/anti-gerd.jpg",
+    alt: "Infus Anti GERD Asam Lambung Gastro Protector Joy of Care BSD City",
+    description: "Terapi intravena gastro-protector medis untuk menetralkan asam lambung berlebih, meredakan iritasi mukosa lambung, dan mengembalikan kenyamanan pencernaan secara instan tanpa membebani sistem cerna oral.",
+    benefits: [
+      "Meredakan sensasi dada terbakar (heartburn) & perih ulu hati",
+      "Mengatasi mual hebat, begah, perut kembung, dan rasa asam di mulut",
+      "Formula pelindung mukosa lambung yang bekerja langsung via aliran darah",
+      "Diobservasi langsung oleh dokter umum di ruang klinik steril & nyaman"
+    ],
+    recommendedFor: "Penderita maag akut, dispepsia, GERD kambuhan, dan nyeri ulu hati pasca konsumsi makanan asam/pedas/kopi."
+  },
+  {
+    id: "anti-hangover",
+    title: "Infus Pereda Gejala Anti Hangover",
+    headline: "Redakan gejalanya, badan pulih bertenaga lagi",
+    badge: "Diskon Terbesar • Hemat Rp 80.000",
+    originalPrice: "Rp 380.000",
+    promoPrice: "Rp 300.000",
+    saveAmount: "Hemat Rp 80.000",
+    image: "/images/promo/anti-hangover.jpg",
+    alt: "Infus Anti Hangover Pemulihan Cepat Joy of Care BSD City",
+    description: "Rehidrasi cepat dan detoksifikasi tubuh pasca kelelahan berat, begadang lembur, atau konsumsi alkohol berlebih. Mengembalikan keseimbangan cairan elektrolit dan mikronutrien tubuh agar Anda kembali segar berenergi.",
+    benefits: [
+      "Rehidrasi cairan elektrolit esensial yang terkuras dalam hitungan menit",
+      "Meredakan sakit kepala berdenyut, migrain ringan, pusing, dan rasa mual",
+      "Kombinasi vitamin pemulihan energi seluler untuk mengusir rasa lemas",
+      "Membantu percepatan eliminasi zat sisa metabolisme / detoksifikasi alami"
+    ],
+    recommendedFor: "Kelelahan ekstrem, jetlag pasca perjalanan jauh, kurang tidur akibat lembur, serta pemulihan pasca perayaan/pesta."
+  },
+  {
+    id: "imun-booster",
+    title: "Infus Penambah Ketahanan Tubuh (Imun Booster)",
+    headline: "Cegah sakit, anti-manyun yuk! Perkuat imun kamu",
+    badge: "Paling Favorit • Proteksi Optimal",
+    originalPrice: "Rp 360.000",
+    promoPrice: "Rp 300.000",
+    saveAmount: "Hemat Rp 60.000",
+    image: "/images/promo/imun-booster.jpg",
+    alt: "Infus Imun Booster Multivitamin Ketahanan Tubuh Joy of Care BSD City",
+    description: "Suntikan multivitamin dan antioksidan dosis optimal melalui infus intravena yang diserap 100% oleh peredaran darah untuk mengoptimalkan sistem kekebalan tubuh di tengah cuaca ekstrem dan polusi udara tinggi.",
+    benefits: [
+      "Kombinasi vitamin esensial dosis tinggi untuk stimulasi produksi sel imun",
+      "Bioavailabilitas 100% tanpa efek samping rasa perih di lambung",
+      "Meningkatkan stamina, mengatasi rasa capek kronis (*burnout*), dan lesu",
+      "Mencegah infeksi saluran pernapasan di musim pancaroba dan polusi kota"
+    ],
+    recommendedFor: "Eksekutif sibuk, mobilitas tinggi, yang merasa mulai meriang atau rentan tertular flu di lingkungan kerja dan keluarga."
+  },
+  {
+    id: "vaksin-flu",
+    title: "Vaksinasi Flu / Influenza 3-Strain",
+    headline: "Langkah mudah lindungi kita & orang tercinta",
+    badge: "Vaksinasi Resmi Standar Depkes",
+    originalPrice: "Rp 350.000",
+    promoPrice: "Rp 300.000",
+    saveAmount: "Hemat Rp 50.000",
+    image: "/images/promo/vaksin-flu-3-strain.jpg",
+    alt: "Vaksinasi Influenza 3 Strain Musiman Joy of Care BSD City",
+    description: "Imunisasi influenza tahunan berstandar internasional untuk melindungi diri dan orang tersayang dari serangan virus flu musiman yang agresif, mencegah demam tinggi, batuk berat, dan komplikasi paru.",
+    benefits: [
+      "Memberikan antibodi protektif spesifik terhadap 3 jenis galur virus flu musiman",
+      "Menurunkan risiko absensi kerja dan risiko penularan ke anak atau lansia di rumah",
+      "Vaksin resmi terdaftar BPOM dengan cold chain (rantai dingin) terjaga higienis",
+      "Skrining pra-tindakan dan penyuntikan aman oleh dokter umum profesional"
+    ],
+    recommendedFor: "Dewasa produktif, lansia dengan riwayat asma/alergi pernapasan, serta keluarga yang menginginkan proteksi tahunan."
+  }
+];
+
+const promoFaqs = [
+  {
+    question: "Apa syarat dan ketentuan untuk mendapatkan harga promo Rp 300.000 ini?",
+    answer: "Harga promo Rp 300.000 berlaku khusus untuk pasien layanan walk-in (datang langsung) ke tempat praktik dokter Joy of Care di Ruko Greenwich Business Park E-15, BSD City, Tangerang Selatan. Anda disarankan melakukan reservasi slot kedatangan via WhatsApp terlebih dahulu agar langsung dilayani tanpa menunggu."
+  },
+  {
+    question: "Apakah biaya Rp 300.000 sudah termasuk jasa dokter dan peralatan medis?",
+    answer: "Ya, betul! Harga promo Rp 300.000 adalah harga all-in transparan, sudah mencakup obat/cairan vitamin/vaksin resmi BPOM, abocath dan set infus steril sekali pakai, jasa tindakan medis, serta GRATIS konsultasi awal dokter via WhatsApp."
+  },
+  {
+    question: "Berapa lama durasi tindakan infus vitamin atau vaksinasi di klinik?",
+    answer: "Untuk tindakan vaksinasi influenza hanya membutuhkan waktu sekitar 10-15 menit termasuk skrining tanda vital. Untuk tindakan terapi infus (Anti GERD, Anti Hangover, Imun Booster) berlangsung sekitar 35 hingga 50 menit di ruang klinik yang sejuk, bersih, dan nyaman."
+  },
+  {
+    question: "Bagaimana cara melakukan reservasi slot promo walk-in?",
+    answer: "Caranya sangat mudah! Klik tombol 'Booking & Konsul dokter GRATIS' di halaman ini, kirim pesan WhatsApp ke nomor resmi Joy of Care di 08811-118-911, sebutkan nama dan paket promo yang dipilih, lalu tim medis kami akan mengonfirmasi jadwal kedatangan Anda."
+  }
+];
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalURL={canonical}
+  ogImage={ogImage}
+>
+  <!-- Schema: BreadcrumbList -->
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Beranda", "item": `${SITE_URL}/` },
+      { "@type": "ListItem", "position": 2, "name": "Promo Walk-in BSD", "item": canonical }
+    ]
+  })} />
+
+  <!-- Schema: OfferCatalog / SpecialAnnouncement -->
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "OfferCatalog",
+    "name": "Promo Walk-in Klinik Joy of Care BSD City",
+    "description": description,
+    "url": canonical,
+    "itemListElement": promoPackages.map(pkg => ({
+      "@type": "Offer",
+      "name": pkg.title,
+      "description": pkg.description,
+      "price": "300000",
+      "priceCurrency": "IDR",
+      "availability": "https://schema.org/InStock",
+      "validFrom": "2026-06-01",
+      "url": canonical,
+      "offeredBy": {
+        "@type": "MedicalBusiness",
+        "name": "Joy of Care BSD City",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Ruko Greenwich Business Park E-15, Jl. Bumi Botanika",
+          "addressLocality": "BSD City",
+          "addressRegion": "Tangerang Selatan",
+          "postalCode": "15331",
+          "addressCountry": "ID"
+        },
+        "telephone": "+628811118911"
+      }
+    }))
+  })} />
+
+  <!-- Schema: FAQPage -->
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": promoFaqs.map(f => ({
+      "@type": "Question",
+      "name": f.question,
+      "acceptedAnswer": { "@type": "Answer", "text": f.answer }
+    }))
+  })} />
+
+  <!-- Hero Promo Section -->
+  <section class="promo-hero">
+    <div class="container">
+      <nav class="breadcrumbs" aria-label="Breadcrumb">
+        <a href="/">Beranda</a> <span>›</span>
+        <span>Promo Walk-in</span>
+      </nav>
+
+      <div class="promo-hero-badge">
+        <span class="badge-fire">🔥</span>
+        <span>PROMO SPESIAL WALK-IN KLINIK BSD CITY — HARGA SERBA RP 300.000</span>
+      </div>
+
+      <h1 class="promo-hero-title">
+        Terapi Medis & Vaksinasi Pilihan <br>
+        <span class="gradient-text">Hemat Hingga Rp 80.000</span> di Joy of Care BSD
+      </h1>
+
+      <p class="promo-hero-desc">
+        Kabar baik untuk warga BSD City, Gading Serpong, Alam Sutera & sekitarnya! Nikmati paket perawatan infus medis dan vaksinasi dengan dokter umum berlisensi resmi di Klinik Joy of Care BSD. Tempat higienis, bebas antre, pelayanan ramah, dan <strong>Gratis Konsultasi Dokter via WhatsApp</strong>.
+      </p>
+
+      <div class="promo-hero-highlights">
+        <div class="highlight-chip">
+          <span class="chip-icon">🏷️</span>
+          <span>Semua Paket Rp 300.000</span>
+        </div>
+        <div class="highlight-chip">
+          <span class="chip-icon">🩺</span>
+          <span>Dokter & Perawat Ber-STR Resmi</span>
+        </div>
+        <div class="highlight-chip">
+          <span class="chip-icon">📍</span>
+          <span>Ruko Greenwich Park E-15 BSD</span>
+        </div>
+        <div class="highlight-chip">
+          <span class="chip-icon">💬</span>
+          <span>Konsul Dokter WhatsApp GRATIS</span>
+        </div>
+      </div>
+
+      <div class="promo-hero-cta-wrapper">
+        <a href={PROMO_WHATSAPP_URL} target="_blank" rel="noopener noreferrer" class="btn-promo-cta btn-lg pulse-glow">
+          <svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
+          Booking & Konsul dokter GRATIS
+        </a>
+        <span class="cta-subtext">Slot harian terbatas demi kenyamanan & privasi tindakan setiap pasien</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- 4 Promo Packages Showcase -->
+  <section class="section promo-cards-section">
+    <div class="container">
+      <div class="section-header-center">
+        <span class="badge-tag">PILIHAN PAKET PROMO</span>
+        <h2 class="section-title">4 Paket Promo Unggulan Walk-in BSD</h2>
+        <p class="section-subtitle">
+          Pilih paket yang sesuai dengan kebutuhan kesehatan Anda. Seluruh tindakan dilaksanakan dengan standar medis ketat dan protokol aseptik.
+        </p>
+      </div>
+
+      <div class="promo-grid">
+        {promoPackages.map((pkg, idx) => (
+          <article class="promo-card" id={pkg.id}>
+            <div class="promo-card-image-wrap">
+              <img
+                src={pkg.image}
+                alt={pkg.alt}
+                width="540"
+                height="540"
+                loading={idx < 2 ? "eager" : "lazy"}
+                class="promo-img"
+              />
+              <div class="promo-floating-tag">
+                {pkg.badge}
+              </div>
+            </div>
+
+            <div class="promo-card-body">
+              <div class="promo-quote-banner">
+                <span class="quote-icon">“</span>
+                <span class="quote-text">{pkg.headline}</span>
+                <span class="quote-icon">”</span>
+              </div>
+
+              <h3 class="promo-package-title">{pkg.title}</h3>
+
+              <!-- Pricing Block -->
+              <div class="promo-price-box">
+                <div class="price-row">
+                  <span class="price-label">Tarif Promo Walk-In:</span>
+                  <div class="price-values">
+                    <span class="price-strikethrough">{pkg.originalPrice}</span>
+                    <span class="price-main">{pkg.promoPrice}</span>
+                  </div>
+                </div>
+                <div class="price-save-badge">
+                  <span>{pkg.saveAmount}</span> • All-in Bersih
+                </div>
+              </div>
+
+              <p class="promo-desc">{pkg.description}</p>
+
+              <div class="promo-benefits-box">
+                <h4 class="benefits-title">Manfaat Utama:</h4>
+                <ul class="benefits-list">
+                  {pkg.benefits.map((b) => (
+                    <li>
+                      <span class="check-icon">✓</span>
+                      <span>{b}</span>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+
+              <div class="promo-recommendation">
+                <strong>Cocok untuk:</strong> {pkg.recommendedFor}
+              </div>
+
+              <div class="promo-card-cta">
+                <a
+                  href={PROMO_WHATSAPP_URL}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="btn-promo-cta btn-block"
+                >
+                  <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
+                  Booking & Konsul dokter GRATIS
+                </a>
+                <span class="cta-microcopy">Termasuk konsultasi pra-tindakan dengan dokter via WhatsApp</span>
+              </div>
+            </div>
+          </article>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Mengapa Memilih Joy of Care Walk-in -->
+  <section class="section section-alt">
+    <div class="container">
+      <div class="section-header-center">
+        <span class="badge-tag">STANDAR KLINIK RESMI</span>
+        <h2 class="section-title">Mengapa Memilih Klinik Joy of Care BSD?</h2>
+        <p class="section-subtitle">Pelayanan kesehatan berintegritas tinggi dengan kenyamanan privat seperti di rumah sendiri.</p>
+      </div>
+
+      <div class="features-grid">
+        <div class="feature-box">
+          <div class="feature-icon-badge">👨‍⚕️</div>
+          <h3>Dokter & Perawat STR Aktif</h3>
+          <p>Tindakan medis dikerjakan langsung oleh dokter dan perawat berlisensi resmi Kementerian Kesehatan yang berpengalaman dan mengutamakan keselamatan pasien (*patient safety*).</p>
+        </div>
+
+        <div class="feature-box">
+          <div class="feature-icon-badge">✨</div>
+          <h3>Ruang Tindakan Nyaman & Higienis</h3>
+          <p>Klinik berlokasi di kawasan eksklusif BSD City dengan ruang tindakan berpendingin udara (AC), tempat tidur nyaman, dan standar sanitasi aseptik rumah sakit.</p>
+        </div>
+
+        <div class="feature-box">
+          <div class="feature-icon-badge">💊</div>
+          <h3>Obat & Vaksin Resmi BPOM</h3>
+          <p>Seluruh cairan infus, multivitamin konsentrat, dan vaksin influenza bersertifikasi resmi BPOM dari distributor farmasi legal dengan suhu *cold-chain* terjamin presisi.</p>
+        </div>
+
+        <div class="feature-box">
+          <div class="feature-icon-badge">⏱️</div>
+          <h3>Bebas Antre & Reservasi Praktis</h3>
+          <p>Dengan sistem reservasi online via WhatsApp, Anda menentukan jam kedatangan sendiri tanpa perlu menunggu antrean berjam-jam seperti di rumah sakit besar.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Lokasi & Cara Reservasi -->
+  <section class="section clinic-location-section">
+    <div class="container">
+      <div class="location-wrapper">
+        <div class="location-info">
+          <span class="badge-tag">LOKASI & CARA BOOKING</span>
+          <h2 class="location-title">Kunjungi Klinik Joy of Care BSD City</h2>
+          
+          <div class="address-card">
+            <div class="address-icon">📍</div>
+            <div class="address-details">
+              <strong>Joy of Care Walk-in Clinic</strong>
+              <p>Ruko Greenwich Business Park E-15, Jl. Bumi Botanika, BSD City, Tangerang Selatan 15331</p>
+              <div class="clinic-hours">
+                <span>🕒 Jam Layanan: <strong>07.00 – 21.00 WIB</strong> (Setiap Hari)</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="booking-steps">
+            <h4 class="steps-title">Langkah Mudah Mengikuti Promo:</h4>
+            <ol class="steps-list">
+              <li>
+                <strong>Pilih Paket Promo:</strong> Tentukan layanan yang Anda butuhkan (Anti GERD, Anti Hangover, Imun Booster, atau Vaksin Flu).
+              </li>
+              <li>
+                <strong>Klik Booking WhatsApp:</strong> Hubungi admin kami di 08811-118-911 untuk konfirmasi ketersediaan slot.
+              </li>
+              <li>
+                <strong>Konsultasi Pra-Tindakan:</strong> Konsultasikan keluhan atau riwayat kesehatan Anda dengan dokter secara GRATIS.
+              </li>
+              <li>
+                <strong>Datang & Dapatkan Perawatan:</strong> Hadir sesuai jam yang disepakati di Ruko Greenwich BSD dan nikmati pelayanan kesehatan prima.
+              </li>
+            </ol>
+          </div>
+
+          <div class="location-actions">
+            <a href={PROMO_WHATSAPP_URL} target="_blank" rel="noopener noreferrer" class="btn-promo-cta btn-lg">
+              <svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
+              Booking & Konsul dokter GRATIS
+            </a>
+            <a href="https://maps.app.goo.gl/JwkLdvc11hQYs8ts6" target="_blank" rel="noopener noreferrer" class="btn-outline-map">
+              Buka Google Maps
+            </a>
+          </div>
+        </div>
+
+        <div class="location-map">
+          <div class="map-card">
+            <iframe 
+              src="https://maps.google.com/maps?q=Ruko+Greenwich+Business+Park+E-15+BSD+City&t=&z=15&ie=UTF8&iwloc=&output=embed"
+              class="promo-map-iframe"
+              loading="lazy" 
+              referrerpolicy="no-referrer-when-downgrade"
+              title="Peta Lokasi Klinik Joy of Care BSD City">
+            </iframe>
+            <div class="map-caption">
+              <span>📍 Greenwich Business Park E-15, BSD City</span>
+              <a href="https://maps.app.goo.gl/JwkLdvc11hQYs8ts6" target="_blank" rel="noopener noreferrer">Petunjuk Arah →</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQ Section -->
+  <section class="section">
+    <div class="container">
+      <div class="section-header-center">
+        <span class="badge-tag">TANYA JAWAB</span>
+        <h2 class="section-title">Pertanyaan Seputar Promo Walk-in</h2>
+        <p class="section-subtitle">Informasi lengkap seputar promo spesial klinik Joy of Care BSD City.</p>
+      </div>
+
+      <div class="faq-list">
+        {promoFaqs.map((faq) => (
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false">
+              <span>{faq.question}</span>
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
+            </button>
+            <div class="faq-answer">
+              <p>{faq.answer}</p>
+            </div>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Bottom Final Call to Action Banner -->
+  <section class="promo-bottom-banner">
+    <div class="container">
+      <div class="bottom-banner-content">
+        <h2>Siap Merasakan Tubuh Lebih Segar & Sehat Hari Ini?</h2>
+        <p>Hubungi dokter kami sekarang via WhatsApp. Dapatkan konsultasi keluhan gratis dan amankan promo Rp 300.000 sebelum kuota slot mingguan penuh!</p>
+        <a href={PROMO_WHATSAPP_URL} target="_blank" rel="noopener noreferrer" class="btn-promo-cta btn-lg pulse-glow">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
+          Booking & Konsul dokter GRATIS
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Mobile Sticky CTA Bar -->
+  <div class="mobile-sticky-promo-bar">
+    <div class="mobile-sticky-inner">
+      <div class="sticky-text">
+        <span class="sticky-title">Promo Walk-in BSD</span>
+        <span class="sticky-price">Mulai Rp 300.000</span>
+      </div>
+      <a href={PROMO_WHATSAPP_URL} target="_blank" rel="noopener noreferrer" class="btn-promo-cta btn-sm">
+        Booking & Konsul dokter GRATIS
+      </a>
+    </div>
+  </div>
+</BaseLayout>
+
+<style>
+  /* Base & Hero */
+  .promo-hero {
+    background: linear-gradient(135deg, #09332c 0%, #0d5c4f 50%, #0f766e 100%);
+    color: white;
+    padding: 56px 0 64px;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .promo-hero::before {
+    content: "";
+    position: absolute;
+    top: -50%;
+    right: -10%;
+    width: 600px;
+    height: 600px;
+    background: radial-gradient(circle, rgba(249, 115, 22, 0.25) 0%, rgba(249, 115, 22, 0) 70%);
+    border-radius: 50%;
+    pointer-events: none;
+  }
+
+  .promo-hero .breadcrumbs {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 0.88rem;
+    color: #a7f3d0;
+    margin-bottom: 24px;
+  }
+
+  .promo-hero .breadcrumbs a {
+    color: #a7f3d0;
+    text-decoration: none;
+  }
+
+  .promo-hero .breadcrumbs a:hover {
+    text-decoration: underline;
+  }
+
+  .promo-hero-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    background: rgba(239, 68, 68, 0.25);
+    border: 1px solid rgba(239, 68, 68, 0.6);
+    backdrop-filter: blur(8px);
+    color: #fecaca;
+    padding: 6px 16px;
+    border-radius: 9999px;
+    font-size: 0.8rem;
+    font-weight: 700;
+    letter-spacing: 0.05em;
+    margin-bottom: 20px;
+  }
+
+  .badge-fire {
+    font-size: 1rem;
+    animation: promoPulse 1.5s infinite;
+  }
+
+  .promo-hero-title {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: 800;
+    line-height: 1.25;
+    letter-spacing: -0.02em;
+    color: white;
+    margin-bottom: 20px;
+    max-width: 850px;
+  }
+
+  .gradient-text {
+    background: linear-gradient(135deg, #fbbf24 0%, #f97316 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+  .promo-hero-desc {
+    font-size: 1.1rem;
+    line-height: 1.7;
+    color: #e6fffa;
+    max-width: 780px;
+    margin-bottom: 32px;
+  }
+
+  .promo-hero-highlights {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin-bottom: 36px;
+  }
+
+  .highlight-chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    background: rgba(255, 255, 255, 0.12);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    padding: 8px 16px;
+    border-radius: 9999px;
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: white;
+    backdrop-filter: blur(6px);
+  }
+
+  .promo-hero-cta-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+  }
+
+  .cta-subtext {
+    font-size: 0.82rem;
+    color: #a7f3d0;
+    font-style: italic;
+  }
+
+  /* Universal Promo CTA Button */
+  .btn-promo-cta {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    background: linear-gradient(135deg, #25D366 0%, #128C7E 100%);
+    color: white !important;
+    font-weight: 700;
+    border-radius: 10px;
+    text-decoration: none;
+    box-shadow: 0 4px 14px rgba(37, 211, 102, 0.4);
+    transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+    border: none;
+    cursor: pointer;
+    text-align: center;
+  }
+
+  .btn-promo-cta:hover {
+    background: linear-gradient(135deg, #22c55e 0%, #0f766e 100%);
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(37, 211, 102, 0.55);
+  }
+
+  .btn-promo-cta.btn-lg {
+    padding: 16px 32px;
+    font-size: 1.1rem;
+    border-radius: 12px;
+  }
+
+  .btn-promo-cta.btn-block {
+    width: 100%;
+    padding: 14px 20px;
+    font-size: 1rem;
+  }
+
+  .btn-promo-cta.btn-sm {
+    padding: 10px 18px;
+    font-size: 0.88rem;
+    border-radius: 8px;
+  }
+
+  .pulse-glow {
+    animation: promoGlow 2.5s infinite;
+  }
+
+  @keyframes promoGlow {
+    0%, 100% {
+      box-shadow: 0 4px 14px rgba(37, 211, 102, 0.4);
+    }
+    50% {
+      box-shadow: 0 6px 24px rgba(37, 211, 102, 0.75);
+    }
+  }
+
+  /* Section Headers */
+  .section-header-center {
+    text-align: center;
+    max-width: 720px;
+    margin: 0 auto 48px;
+  }
+
+  .badge-tag {
+    display: inline-block;
+    background: #e6fffa;
+    color: #0d9488;
+    border: 1px solid #99f6e4;
+    font-size: 0.78rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    padding: 4px 12px;
+    border-radius: 9999px;
+    margin-bottom: 12px;
+    text-transform: uppercase;
+  }
+
+  /* Promo Cards Grid */
+  .promo-cards-section {
+    padding-top: 60px;
+    padding-bottom: 80px;
+  }
+
+  .promo-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 36px;
+  }
+
+  .promo-card {
+    background: white;
+    border: 1px solid #e2e8f0;
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
+    display: flex;
+    flex-direction: column;
+    transition: transform 0.25s ease, box-shadow 0.25s ease;
+  }
+
+  .promo-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 18px 40px rgba(0, 0, 0, 0.1);
+    border-color: #cbd5e1;
+  }
+
+  .promo-card-image-wrap {
+    position: relative;
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    background: #f8fafc;
+    overflow: hidden;
+  }
+
+  .promo-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    transition: transform 0.4s ease;
+  }
+
+  .promo-card:hover .promo-img {
+    transform: scale(1.02);
+  }
+
+  .promo-floating-tag {
+    position: absolute;
+    top: 16px;
+    right: 16px;
+    background: rgba(15, 23, 42, 0.88);
+    backdrop-filter: blur(8px);
+    color: #fed7aa;
+    font-size: 0.78rem;
+    font-weight: 700;
+    padding: 6px 14px;
+    border-radius: 9999px;
+    border: 1px solid rgba(254, 215, 170, 0.3);
+    letter-spacing: 0.03em;
+  }
+
+  .promo-card-body {
+    padding: 28px 24px;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+  }
+
+  .promo-quote-banner {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    background: #f0fdf4;
+    border-left: 3px solid #16a34a;
+    padding: 8px 12px;
+    border-radius: 4px 8px 8px 4px;
+    margin-bottom: 14px;
+    font-size: 0.92rem;
+    color: #166534;
+    font-style: italic;
+    font-weight: 600;
+  }
+
+  .quote-icon {
+    font-size: 1.2rem;
+    font-weight: 800;
+    line-height: 1;
+    color: #16a34a;
+  }
+
+  .promo-package-title {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.35rem;
+    font-weight: 700;
+    color: #0f172a;
+    line-height: 1.35;
+    margin-bottom: 16px;
+  }
+
+  /* Pricing Box */
+  .promo-price-box {
+    background: #fff7ed;
+    border: 1px solid #fed7aa;
+    border-radius: 12px;
+    padding: 14px 18px;
+    margin-bottom: 18px;
+  }
+
+  .price-row {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+
+  .price-label {
+    font-size: 0.88rem;
+    color: #9a3412;
+    font-weight: 600;
+  }
+
+  .price-values {
+    display: flex;
+    align-items: baseline;
+    gap: 10px;
+  }
+
+  .price-strikethrough {
+    font-size: 1rem;
+    color: #94a3b8;
+    text-decoration: line-through;
+    font-weight: 500;
+  }
+
+  .price-main {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.75rem;
+    font-weight: 800;
+    color: #ea580c;
+    letter-spacing: -0.01em;
+  }
+
+  .price-save-badge {
+    margin-top: 6px;
+    font-size: 0.8rem;
+    color: #c2410c;
+    font-weight: 600;
+  }
+
+  .price-save-badge span {
+    background: #ea580c;
+    color: white;
+    padding: 2px 8px;
+    border-radius: 4px;
+    font-weight: 700;
+    font-size: 0.75rem;
+  }
+
+  .promo-desc {
+    color: #475569;
+    font-size: 0.95rem;
+    line-height: 1.6;
+    margin-bottom: 20px;
+  }
+
+  .promo-benefits-box {
+    background: #f8fafc;
+    border-radius: 12px;
+    padding: 16px 18px;
+    margin-bottom: 18px;
+  }
+
+  .benefits-title {
+    font-size: 0.88rem;
+    font-weight: 700;
+    color: #1e293b;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+  }
+
+  .benefits-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+  }
+
+  .benefits-list li {
+    display: flex;
+    align-items: flex-start;
+    gap: 8px;
+    font-size: 0.88rem;
+    color: #334155;
+    line-height: 1.45;
+  }
+
+  .check-icon {
+    color: #16a34a;
+    font-weight: 800;
+    font-size: 0.95rem;
+    flex-shrink: 0;
+  }
+
+  .promo-recommendation {
+    font-size: 0.86rem;
+    color: #64748b;
+    background: #f1f5f9;
+    padding: 10px 14px;
+    border-radius: 8px;
+    margin-bottom: 22px;
+    line-height: 1.5;
+  }
+
+  .promo-card-cta {
+    margin-top: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    text-align: center;
+  }
+
+  .cta-microcopy {
+    font-size: 0.76rem;
+    color: #64748b;
+  }
+
+  /* Features Grid */
+  .features-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 24px;
+  }
+
+  .feature-box {
+    background: white;
+    padding: 24px;
+    border-radius: 16px;
+    border: 1px solid #e2e8f0;
+    text-align: center;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.03);
+  }
+
+  .feature-icon-badge {
+    font-size: 2.2rem;
+    margin-bottom: 14px;
+  }
+
+  .feature-box h3 {
+    font-size: 1.05rem;
+    font-weight: 700;
+    color: #0f172a;
+    margin-bottom: 10px;
+  }
+
+  .feature-box p {
+    font-size: 0.88rem;
+    color: #64748b;
+    line-height: 1.55;
+    margin: 0;
+  }
+
+  /* Location Section */
+  .clinic-location-section {
+    background: white;
+    padding: 70px 0;
+  }
+
+  .location-wrapper {
+    display: grid;
+    grid-template-columns: 1.1fr 0.9fr;
+    gap: 48px;
+    align-items: center;
+  }
+
+  .location-title {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    font-weight: 800;
+    color: #0f172a;
+    margin-bottom: 20px;
+    line-height: 1.25;
+  }
+
+  .address-card {
+    display: flex;
+    gap: 16px;
+    background: #f8fafc;
+    border: 1px solid #e2e8f0;
+    border-radius: 12px;
+    padding: 20px;
+    margin-bottom: 24px;
+  }
+
+  .address-icon {
+    font-size: 1.8rem;
+    flex-shrink: 0;
+  }
+
+  .address-details strong {
+    font-size: 1.05rem;
+    color: #0f172a;
+    display: block;
+    margin-bottom: 6px;
+  }
+
+  .address-details p {
+    font-size: 0.92rem;
+    color: #475569;
+    margin: 0 0 10px;
+    line-height: 1.5;
+  }
+
+  .clinic-hours {
+    font-size: 0.88rem;
+    color: #0d9488;
+    background: #ccfbf1;
+    padding: 4px 10px;
+    border-radius: 6px;
+    display: inline-block;
+  }
+
+  .booking-steps {
+    margin-bottom: 28px;
+  }
+
+  .steps-title {
+    font-size: 1rem;
+    font-weight: 700;
+    color: #1e293b;
+    margin-bottom: 12px;
+  }
+
+  .steps-list {
+    padding-left: 20px;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .steps-list li {
+    font-size: 0.92rem;
+    color: #475569;
+    line-height: 1.5;
+  }
+
+  .steps-list strong {
+    color: #0f172a;
+  }
+
+  .location-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 14px;
+  }
+
+  .btn-outline-map {
+    display: inline-flex;
+    align-items: center;
+    padding: 14px 24px;
+    border: 2px solid #0d9488;
+    color: #0d9488;
+    font-weight: 700;
+    border-radius: 10px;
+    text-decoration: none;
+    transition: all 0.2s ease;
+  }
+
+  .btn-outline-map:hover {
+    background: #0d9488;
+    color: white;
+  }
+
+  .map-card {
+    border-radius: 16px;
+    overflow: hidden;
+    border: 1px solid #e2e8f0;
+    box-shadow: 0 12px 30px rgba(0, 0, 0, 0.08);
+  }
+
+  .promo-map-iframe {
+    width: 100%;
+    height: 380px;
+    border: 0;
+    display: block;
+  }
+
+  .map-caption {
+    background: #0f172a;
+    color: white;
+    padding: 12px 18px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 0.85rem;
+  }
+
+  .map-caption a {
+    color: #5eead4;
+    text-decoration: none;
+    font-weight: 600;
+  }
+
+  .map-caption a:hover {
+    text-decoration: underline;
+  }
+
+  /* FAQ List */
+  .faq-list {
+    max-width: 800px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+
+  .faq-item {
+    border: 1px solid #e2e8f0;
+    border-radius: 12px;
+    background: white;
+    overflow: hidden;
+  }
+
+  .faq-question {
+    width: 100%;
+    padding: 18px 24px;
+    background: none;
+    border: none;
+    text-align: left;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-weight: 600;
+    font-size: 1rem;
+    color: #0f172a;
+    cursor: pointer;
+    transition: background-color 0.2s;
+  }
+
+  .faq-question:hover {
+    background: #f8fafc;
+  }
+
+  .faq-answer {
+    padding: 0 24px 18px;
+    color: #475569;
+    font-size: 0.95rem;
+    line-height: 1.6;
+    display: none;
+  }
+
+  .faq-item.active .faq-answer {
+    display: block;
+  }
+
+  .faq-item.active .faq-question svg {
+    transform: rotate(180deg);
+  }
+
+  /* Bottom Final Banner */
+  .promo-bottom-banner {
+    background: linear-gradient(135deg, #ea580c 0%, #c2410c 100%);
+    color: white;
+    padding: 60px 0;
+    text-align: center;
+    margin-top: 60px;
+  }
+
+  .bottom-banner-content {
+    max-width: 700px;
+    margin: 0 auto;
+  }
+
+  .bottom-banner-content h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    font-weight: 800;
+    margin-bottom: 16px;
+    line-height: 1.3;
+    color: white;
+  }
+
+  .bottom-banner-content p {
+    font-size: 1.05rem;
+    line-height: 1.6;
+    color: #ffedd5;
+    margin-bottom: 28px;
+  }
+
+  /* Mobile Sticky Bar */
+  .mobile-sticky-promo-bar {
+    display: none;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: white;
+    border-top: 1px solid #e2e8f0;
+    padding: 10px 16px;
+    z-index: 999;
+    box-shadow: 0 -4px 16px rgba(0, 0, 0, 0.1);
+  }
+
+  .mobile-sticky-inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+
+  .sticky-text {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .sticky-title {
+    font-size: 0.78rem;
+    font-weight: 700;
+    color: #64748b;
+    text-transform: uppercase;
+  }
+
+  .sticky-price {
+    font-size: 1.05rem;
+    font-weight: 800;
+    color: #ea580c;
+  }
+
+  /* Responsive Breakpoints */
+  @media (max-width: 992px) {
+    .promo-grid {
+      grid-template-columns: 1fr;
+      max-width: 600px;
+      margin: 0 auto;
+    }
+
+    .features-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+
+    .location-wrapper {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  @media (max-width: 768px) {
+    .promo-hero-title {
+      font-size: 1.85rem;
+    }
+
+    .promo-hero-desc {
+      font-size: 0.98rem;
+    }
+
+    .features-grid {
+      grid-template-columns: 1fr;
+    }
+
+    .mobile-sticky-promo-bar {
+      display: block;
+    }
+
+    /* Hide standard floating WA button on this page to avoid overlap with sticky bar */
+    :global(.wa-float) {
+      bottom: 80px !important;
+    }
+  }
+</style>

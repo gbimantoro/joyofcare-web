@@ -8,6 +8,9 @@ export const WHATSAPP = siteSettings.whatsappNumber || '628811118911';
 export const WHATSAPP_URL = `https://wa.me/${WHATSAPP}?text=${encodeURIComponent(
   'Hi, saya tahu dari web. Mau tanya layanan Joy of Care'
 )}`;
+export const PROMO_WHATSAPP_URL = `https://wa.me/${WHATSAPP}?text=${encodeURIComponent(
+  'saya mau tahu promo JoC tahu dari WEb'
+)}`;
 
 /** Google Analytics 4 Measurement ID (CMS siteSettings.json -> env var -> fallback G-K4XR1K77PK) */
 export const GA_MEASUREMENT_ID =
