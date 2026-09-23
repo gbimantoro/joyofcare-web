@@ -4,49 +4,30 @@ import { SITE_URL, PROMO_WHATSAPP_URL } from '../consts';
 
 export const prerender = true;
 
-const title = "Promo Spesial Walk-in Klinik Joy of Care BSD City Rp 300.000";
-const description = "Nikmati promo walk-in klinik Joy of Care BSD City serba Rp 300.000: Infus Anti GERD, Infus Anti Hangover, Infus Imun Booster & Vaksin Flu 3-Strain. Booking & Konsul dokter GRATIS!";
+const title = "Terapi Medis & Vaksinasi Pilihan Hemat Hanya 300 Ribu | Joy of Care BSD";
+const description = "Terapi medis & vaksinasi pilihan hemat hanya 300 ribu di Joy of Care BSD City: Vaksin Flu 3-Strain, Infus Imun Booster, Infus Anti GERD & Anti Hangover. Booking & Konsul dokter GRATIS!";
 const canonical = `${SITE_URL}/walk-in-promo/`;
-const ogImage = `/images/promo/anti-gerd.jpg`;
+const ogImage = `/images/promo/vaksin-flu-3-strain.jpg`;
 
 const promoPackages = [
   {
-    id: "anti-gerd",
-    title: "Infus Anti GERD / Gastro Protector",
-    headline: "Jalani hari tanpa nyeri lambung lagi",
-    badge: "Solusi Cepat Asam Lambung",
+    id: "vaksin-flu",
+    title: "Vaksinasi Flu / Influenza 3-Strain",
+    headline: "Langkah mudah lindungi kita & orang tercinta",
+    badge: "Vaksinasi Resmi Standar Depkes",
     originalPrice: "Rp 350.000",
     promoPrice: "Rp 300.000",
     saveAmount: "Hemat Rp 50.000",
-    image: "/images/promo/anti-gerd.jpg",
-    alt: "Infus Anti GERD Asam Lambung Gastro Protector Joy of Care BSD City",
-    description: "Terapi intravena gastro-protector medis untuk menetralkan asam lambung berlebih, meredakan iritasi mukosa lambung, dan mengembalikan kenyamanan pencernaan secara instan tanpa membebani sistem cerna oral.",
+    image: "/images/promo/vaksin-flu-3-strain.jpg",
+    alt: "Vaksinasi Influenza 3 Strain Musiman Joy of Care BSD City",
+    description: "Imunisasi influenza tahunan berstandar internasional untuk melindungi diri dan orang tersayang dari serangan virus flu musiman yang agresif, mencegah demam tinggi, batuk berat, dan komplikasi paru.",
     benefits: [
-      "Meredakan sensasi dada terbakar (heartburn) & perih ulu hati",
-      "Mengatasi mual hebat, begah, perut kembung, dan rasa asam di mulut",
-      "Formula pelindung mukosa lambung yang bekerja langsung via aliran darah",
-      "Diobservasi langsung oleh dokter umum di ruang klinik steril & nyaman"
+      "Memberikan antibodi protektif spesifik terhadap 3 jenis galur virus flu musiman",
+      "Menurunkan risiko absensi kerja dan risiko penularan ke anak atau lansia di rumah",
+      "Vaksin resmi terdaftar BPOM dengan cold chain (rantai dingin) terjaga higienis",
+      "Skrining pra-tindakan dan penyuntikan aman oleh dokter umum profesional"
     ],
-    recommendedFor: "Penderita maag akut, dispepsia, GERD kambuhan, dan nyeri ulu hati pasca konsumsi makanan asam/pedas/kopi."
-  },
-  {
-    id: "anti-hangover",
-    title: "Infus Pereda Gejala Anti Hangover",
-    headline: "Redakan gejalanya, badan pulih bertenaga lagi",
-    badge: "Diskon Terbesar • Hemat Rp 80.000",
-    originalPrice: "Rp 380.000",
-    promoPrice: "Rp 300.000",
-    saveAmount: "Hemat Rp 80.000",
-    image: "/images/promo/anti-hangover.jpg",
-    alt: "Infus Anti Hangover Pemulihan Cepat Joy of Care BSD City",
-    description: "Rehidrasi cepat dan detoksifikasi tubuh pasca kelelahan berat, begadang lembur, atau konsumsi alkohol berlebih. Mengembalikan keseimbangan cairan elektrolit dan mikronutrien tubuh agar Anda kembali segar berenergi.",
-    benefits: [
-      "Rehidrasi cairan elektrolit esensial yang terkuras dalam hitungan menit",
-      "Meredakan sakit kepala berdenyut, migrain ringan, pusing, dan rasa mual",
-      "Kombinasi vitamin pemulihan energi seluler untuk mengusir rasa lemas",
-      "Membantu percepatan eliminasi zat sisa metabolisme / detoksifikasi alami"
-    ],
-    recommendedFor: "Kelelahan ekstrem, jetlag pasca perjalanan jauh, kurang tidur akibat lembur, serta pemulihan pasca perayaan/pesta."
+    recommendedFor: "Dewasa produktif, lansia dengan riwayat asma/alergi pernapasan, serta keluarga yang menginginkan proteksi tahunan."
   },
   {
     id: "imun-booster",
@@ -68,38 +49,57 @@ const promoPackages = [
     recommendedFor: "Eksekutif sibuk, mobilitas tinggi, yang merasa mulai meriang atau rentan tertular flu di lingkungan kerja dan keluarga."
   },
   {
-    id: "vaksin-flu",
-    title: "Vaksinasi Flu / Influenza 3-Strain",
-    headline: "Langkah mudah lindungi kita & orang tercinta",
-    badge: "Vaksinasi Resmi Standar Depkes",
+    id: "anti-gerd",
+    title: "Infus Anti GERD / Gastro Protector",
+    headline: "Jalani hari tanpa nyeri lambung lagi",
+    badge: "Solusi Cepat Asam Lambung",
     originalPrice: "Rp 350.000",
     promoPrice: "Rp 300.000",
     saveAmount: "Hemat Rp 50.000",
-    image: "/images/promo/vaksin-flu-3-strain.jpg",
-    alt: "Vaksinasi Influenza 3 Strain Musiman Joy of Care BSD City",
-    description: "Imunisasi influenza tahunan berstandar internasional untuk melindungi diri dan orang tersayang dari serangan virus flu musiman yang agresif, mencegah demam tinggi, batuk berat, dan komplikasi paru.",
+    image: "/images/promo/anti-gerd.jpg",
+    alt: "Infus Anti GERD Asam Lambung Gastro Protector Joy of Care BSD City",
+    description: "Terapi intravena gastro-protector medis untuk menetralkan asam lambung berlebih, meredakan iritasi mukosa lambung, dan mengembalikan kenyamanan pencernaan secara instan tanpa membebani sistem cerna oral.",
     benefits: [
-      "Memberikan antibodi protektif spesifik terhadap 3 jenis galur virus flu musiman",
-      "Menurunkan risiko absensi kerja dan risiko penularan ke anak atau lansia di rumah",
-      "Vaksin resmi terdaftar BPOM dengan cold chain (rantai dingin) terjaga higienis",
-      "Skrining pra-tindakan dan penyuntikan aman oleh dokter umum profesional"
+      "Meredakan sensasi dada terbakar (heartburn) & perih ulu hati",
+      "Mengatasi mual hebat, begah, perut kembung, dan rasa asam di mulut",
+      "Formula pelindung mukosa lambung yang bekerja langsung via aliran darah",
+      "Diobservasi langsung oleh dokter umum di ruang tindakan yang steril & nyaman"
     ],
-    recommendedFor: "Dewasa produktif, lansia dengan riwayat asma/alergi pernapasan, serta keluarga yang menginginkan proteksi tahunan."
+    recommendedFor: "Penderita maag akut, dispepsia, GERD kambuhan, dan nyeri ulu hati pasca konsumsi makanan asam/pedas/kopi."
+  },
+  {
+    id: "anti-hangover",
+    title: "Infus Pereda Gejala Anti Hangover",
+    headline: "Redakan gejalanya, badan pulih bertenaga lagi",
+    badge: "Diskon Terbesar • Hemat Rp 80.000",
+    originalPrice: "Rp 380.000",
+    promoPrice: "Rp 300.000",
+    saveAmount: "Hemat Rp 80.000",
+    image: "/images/promo/anti-hangover.jpg",
+    alt: "Infus Anti Hangover Pemulihan Cepat Joy of Care BSD City",
+    description: "Rehidrasi cepat dan detoksifikasi tubuh pasca kelelahan berat, begadang lembur, atau konsumsi alkohol berlebih. Mengembalikan keseimbangan cairan elektrolit dan mikronutrien tubuh agar Anda kembali segar berenergi.",
+    benefits: [
+      "Rehidrasi cairan elektrolit esensial yang terkuras dalam hitungan menit",
+      "Meredakan sakit kepala berdenyut, migrain ringan, pusing, dan rasa mual",
+      "Kombinasi vitamin pemulihan energi seluler untuk mengusir rasa lemas",
+      "Membantu percepatan eliminasi zat sisa metabolisme / detoksifikasi alami"
+    ],
+    recommendedFor: "Kelelahan ekstrem, jetlag pasca perjalanan jauh, kurang tidur akibat lembur, serta pemulihan pasca perayaan/pesta."
   }
 ];
 
 const promoFaqs = [
   {
-    question: "Apa syarat dan ketentuan untuk mendapatkan harga promo Rp 300.000 ini?",
-    answer: "Harga promo Rp 300.000 berlaku khusus untuk pasien layanan walk-in (datang langsung) ke tempat praktik dokter Joy of Care di Ruko Greenwich Business Park E-15, BSD City, Tangerang Selatan. Anda disarankan melakukan reservasi slot kedatangan via WhatsApp terlebih dahulu agar langsung dilayani tanpa menunggu."
+    question: "Apa syarat dan ketentuan untuk mendapatkan harga promo hemat hanya 300 ribu ini?",
+    answer: "Harga promo hemat hanya 300 ribu berlaku khusus untuk pasien layanan walk-in (datang langsung) ke tempat praktik dokter Joy of Care di Ruko Greenwich Business Park E-15, BSD City, Tangerang Selatan. Anda disarankan melakukan reservasi slot kedatangan via WhatsApp terlebih dahulu agar langsung dilayani tanpa menunggu."
   },
   {
-    question: "Apakah biaya Rp 300.000 sudah termasuk jasa dokter dan peralatan medis?",
-    answer: "Ya, betul! Harga promo Rp 300.000 adalah harga all-in transparan, sudah mencakup obat/cairan vitamin/vaksin resmi BPOM, abocath dan set infus steril sekali pakai, jasa tindakan medis, serta GRATIS konsultasi awal dokter via WhatsApp."
+    question: "Apakah biaya 300 ribu sudah termasuk jasa dokter dan peralatan medis?",
+    answer: "Ya, betul! Harga promo hemat hanya 300 ribu adalah harga all-in transparan, sudah mencakup obat/cairan vitamin/vaksin resmi BPOM, abocath dan set infus steril sekali pakai, jasa tindakan medis, serta GRATIS konsultasi awal dokter via WhatsApp."
   },
   {
-    question: "Berapa lama durasi tindakan infus vitamin atau vaksinasi di klinik?",
-    answer: "Untuk tindakan vaksinasi influenza hanya membutuhkan waktu sekitar 10-15 menit termasuk skrining tanda vital. Untuk tindakan terapi infus (Anti GERD, Anti Hangover, Imun Booster) berlangsung sekitar 35 hingga 50 menit di ruang klinik yang sejuk, bersih, dan nyaman."
+    question: "Berapa lama durasi tindakan infus vitamin atau vaksinasi saat walk-in?",
+    answer: "Untuk tindakan vaksinasi influenza hanya membutuhkan waktu sekitar 10-15 menit termasuk skrining tanda vital. Untuk tindakan terapi infus (Anti GERD, Anti Hangover, Imun Booster) berlangsung sekitar 35 hingga 50 menit di ruang tindakan yang sejuk, bersih, dan nyaman."
   },
   {
     question: "Bagaimana cara melakukan reservasi slot promo walk-in?",
@@ -128,7 +128,7 @@ const promoFaqs = [
   <script type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
     "@type": "OfferCatalog",
-    "name": "Promo Walk-in Klinik Joy of Care BSD City",
+    "name": "Promo Walk-in Joy of Care BSD City",
     "description": description,
     "url": canonical,
     "itemListElement": promoPackages.map(pkg => ({
@@ -177,16 +177,16 @@ const promoFaqs = [
 
       <div class="promo-hero-badge">
         <span class="badge-fire">🔥</span>
-        <span>PROMO SPESIAL WALK-IN KLINIK BSD CITY — HARGA SERBA RP 300.000</span>
+        <span>PROMO SPESIAL WALK-IN BSD CITY — HEMAT HANYA 300 RIBU</span>
       </div>
 
       <h1 class="promo-hero-title">
         Terapi Medis & Vaksinasi Pilihan <br>
-        <span class="gradient-text">Hemat Hingga Rp 80.000</span> di Joy of Care BSD
+        <span class="gradient-text">Hemat Hanya 300 Ribu</span>
       </h1>
 
       <p class="promo-hero-desc">
-        Kabar baik untuk warga BSD City, Gading Serpong, Alam Sutera & sekitarnya! Nikmati paket perawatan infus medis dan vaksinasi dengan dokter umum berlisensi resmi di Klinik Joy of Care BSD. Tempat higienis, bebas antre, pelayanan ramah, dan <strong>Gratis Konsultasi Dokter via WhatsApp</strong>.
+        Kabar baik untuk warga BSD City, Gading Serpong, Alam Sutera & sekitarnya! Nikmati paket perawatan infus medis dan vaksinasi dengan dokter umum berlisensi resmi di Joy of Care BSD. Tempat higienis, bebas antre, pelayanan ramah, dan <strong>Gratis Konsultasi Dokter via WhatsApp</strong>.
       </p>
 
       <div class="promo-hero-highlights">
@@ -223,7 +223,7 @@ const promoFaqs = [
     <div class="container">
       <div class="section-header-center">
         <span class="badge-tag">PILIHAN PAKET PROMO</span>
-        <h2 class="section-title">4 Paket Promo Unggulan Walk-in BSD</h2>
+        <h2 class="section-title">4 Paket Pilihan Promo Walk-in BSD</h2>
         <p class="section-subtitle">
           Pilih paket yang sesuai dengan kebutuhan kesehatan Anda. Seluruh tindakan dilaksanakan dengan standar medis ketat dan protokol aseptik.
         </p>
@@ -310,8 +310,8 @@ const promoFaqs = [
   <section class="section section-alt">
     <div class="container">
       <div class="section-header-center">
-        <span class="badge-tag">STANDAR KLINIK RESMI</span>
-        <h2 class="section-title">Mengapa Memilih Klinik Joy of Care BSD?</h2>
+        <span class="badge-tag">STANDAR MEDIS RESMI</span>
+        <h2 class="section-title">Mengapa Memilih Joy of Care BSD?</h2>
         <p class="section-subtitle">Pelayanan kesehatan berintegritas tinggi dengan kenyamanan privat seperti di rumah sendiri.</p>
       </div>
 
@@ -325,7 +325,7 @@ const promoFaqs = [
         <div class="feature-box">
           <div class="feature-icon-badge">✨</div>
           <h3>Ruang Tindakan Nyaman & Higienis</h3>
-          <p>Klinik berlokasi di kawasan eksklusif BSD City dengan ruang tindakan berpendingin udara (AC), tempat tidur nyaman, dan standar sanitasi aseptik rumah sakit.</p>
+          <p>Praktik dokter berlokasi di kawasan eksklusif BSD City dengan ruang tindakan berpendingin udara (AC), tempat tidur nyaman, dan standar sanitasi aseptik rumah sakit.</p>
         </div>
 
         <div class="feature-box">
@@ -344,19 +344,19 @@ const promoFaqs = [
   </section>
 
   <!-- Lokasi & Cara Reservasi -->
-  <section class="section clinic-location-section">
+  <section class="section location-details-section">
     <div class="container">
       <div class="location-wrapper">
         <div class="location-info">
           <span class="badge-tag">LOKASI & CARA BOOKING</span>
-          <h2 class="location-title">Kunjungi Klinik Joy of Care BSD City</h2>
+          <h2 class="location-title">Kunjungi Lokasi Joy of Care BSD City</h2>
           
           <div class="address-card">
             <div class="address-icon">📍</div>
             <div class="address-details">
-              <strong>Joy of Care Walk-in Clinic</strong>
+              <strong>Praktik Dokter Joy of Care BSD</strong>
               <p>Ruko Greenwich Business Park E-15, Jl. Bumi Botanika, BSD City, Tangerang Selatan 15331</p>
-              <div class="clinic-hours">
+              <div class="hours-badge">
                 <span>🕒 Jam Layanan: <strong>07.00 – 21.00 WIB</strong> (Setiap Hari)</span>
               </div>
             </div>
@@ -366,7 +366,7 @@ const promoFaqs = [
             <h4 class="steps-title">Langkah Mudah Mengikuti Promo:</h4>
             <ol class="steps-list">
               <li>
-                <strong>Pilih Paket Promo:</strong> Tentukan layanan yang Anda butuhkan (Anti GERD, Anti Hangover, Imun Booster, atau Vaksin Flu).
+                <strong>Pilih Paket Promo:</strong> Tentukan layanan yang Anda butuhkan (Vaksin Flu, Imun Booster, Anti GERD, atau Anti Hangover).
               </li>
               <li>
                 <strong>Klik Booking WhatsApp:</strong> Hubungi admin kami di 08811-118-911 untuk konfirmasi ketersediaan slot.
@@ -398,7 +398,7 @@ const promoFaqs = [
               class="promo-map-iframe"
               loading="lazy" 
               referrerpolicy="no-referrer-when-downgrade"
-              title="Peta Lokasi Klinik Joy of Care BSD City">
+              title="Peta Lokasi Joy of Care BSD City">
             </iframe>
             <div class="map-caption">
               <span>📍 Greenwich Business Park E-15, BSD City</span>
@@ -416,7 +416,7 @@ const promoFaqs = [
       <div class="section-header-center">
         <span class="badge-tag">TANYA JAWAB</span>
         <h2 class="section-title">Pertanyaan Seputar Promo Walk-in</h2>
-        <p class="section-subtitle">Informasi lengkap seputar promo spesial klinik Joy of Care BSD City.</p>
+        <p class="section-subtitle">Informasi lengkap seputar promo spesial walk-in Joy of Care BSD City.</p>
       </div>
 
       <div class="faq-list">
@@ -440,7 +440,7 @@ const promoFaqs = [
     <div class="container">
       <div class="bottom-banner-content">
         <h2>Siap Merasakan Tubuh Lebih Segar & Sehat Hari Ini?</h2>
-        <p>Hubungi dokter kami sekarang via WhatsApp. Dapatkan konsultasi keluhan gratis dan amankan promo Rp 300.000 sebelum kuota slot mingguan penuh!</p>
+        <p>Hubungi dokter kami sekarang via WhatsApp. Dapatkan konsultasi keluhan gratis dan amankan promo hemat hanya 300 ribu sebelum kuota slot mingguan penuh!</p>
         <a href={PROMO_WHATSAPP_URL} target="_blank" rel="noopener noreferrer" class="btn-promo-cta btn-lg pulse-glow">
           <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
           Booking & Konsul dokter GRATIS
@@ -454,7 +454,7 @@ const promoFaqs = [
     <div class="mobile-sticky-inner">
       <div class="sticky-text">
         <span class="sticky-title">Promo Walk-in BSD</span>
-        <span class="sticky-price">Mulai Rp 300.000</span>
+        <span class="sticky-price">Hemat Hanya 300 Ribu</span>
       </div>
       <a href={PROMO_WHATSAPP_URL} target="_blank" rel="noopener noreferrer" class="btn-promo-cta btn-sm">
         Booking & Konsul dokter GRATIS
@@ -928,7 +928,7 @@ const promoFaqs = [
   }
 
   /* Location Section */
-  .clinic-location-section {
+  .location-details-section {
     background: white;
     padding: 70px 0;
   }
@@ -978,7 +978,7 @@ const promoFaqs = [
     line-height: 1.5;
   }
 
-  .clinic-hours {
+  .hours-badge {
     font-size: 0.88rem;
     color: #0d9488;
     background: #ccfbf1;
