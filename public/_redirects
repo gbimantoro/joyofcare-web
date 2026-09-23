@@ -1,4 +1,13 @@
 # Legacy Odoo paths -> new structure
+/id/layanan-kesehatan-di-rumah /layanan-lengkap/ 301
+/id/layanan-kesehatan-di-rumah/ /layanan-lengkap/ 301
+/id/layanan-kesehatan-di-rumah/* /layanan-lengkap/ 301
+/layanan-kesehatan-di-rumah /layanan-lengkap/ 301
+/layanan-kesehatan-di-rumah/ /layanan-lengkap/ 301
+/layanan-kesehatan-di-rumah/* /layanan-lengkap/ 301
+/id / 301
+/id/ / 301
+/id/* / 301
 /blogs /blog/ 301
 /blogs/* /blog/ 301
 /blog/siaga-vulkanik /blog/kesehatan-lingkungan/ 301
@@ -9,6 +18,7 @@
 /blog/studi-luar-negeri-4/* /layanan-vaksinasi-di-rumah/ 301
 /blog/pengalaman-1/* /blog/ 301
 /blog/vaksinasi-di-rumah-2/* /layanan-vaksinasi-di-rumah/ 301
+
 
 # Service Shortlinks & Aliases
 /services /layanan-lengkap/ 301
@@ -39,3 +49,8 @@
 /blog/layanan-perawat /blog/layanan-perawat/ 301
 /blog/tips-lansia /blog/tips-lansia/ 301
 /blog/penyakit-kronis /blog/penyakit-kronis/ 301
+
+# Direct 404 URL redirects
+/404 / 301
+/404/ / 301
+

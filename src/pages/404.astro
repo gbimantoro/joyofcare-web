@@ -3,18 +3,33 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import { SITE_URL } from '../consts';
 
 export const prerender = true;
-const title = 'Halaman Tidak Ditemukan (404) | Joy of Care';
-const description = 'Halaman yang Anda cari tidak ditemukan. Kembali ke beranda Joy of Care atau jelajahi layanan kesehatan di rumah kami.';
-const canonical = `${SITE_URL}/404/`;
+const title = 'Halaman Tidak Ditemukan | Mengalihkan ke Beranda Joy of Care';
+const description = 'Halaman yang Anda cari tidak ditemukan. Anda sedang dialihkan secara otomatis ke beranda Joy of Care.';
+const canonical = `${SITE_URL}/`;
 ---
 
 <BaseLayout title={title} description={description} canonicalURL={canonical} noindex={true}>
-  <section class="section" style="padding-top: calc(64px + 80px); text-align:center;">
+  <Fragment slot="head">
+    <meta http-equiv="refresh" content="0; url=/" />
+  </Fragment>
+
+  <script is:inline>
+    if (typeof window !== 'undefined') {
+      window.location.replace('/');
+    }
+  </script>
+
+  <section class="section" style="padding-top: calc(64px + 80px); text-align:center; min-height: 60vh; display: flex; align-items: center; justify-content: center;">
     <div class="container">
-      <h1>Halaman Tidak Ditemukan</h1>
-      <p style="max-width:500px;margin:16px auto 32px">Maaf, halaman yang Anda cari tidak tersedia atau telah dipindahkan.</p>
-      <a href="/" class="btn btn-primary">Kembali ke Beranda</a>
-      <a href="/layanan-lengkap/" class="btn btn-outline" style="margin-left:8px">Lihat Layanan</a>
+      <div style="font-size: 3rem; margin-bottom: 16px;">🔄</div>
+      <h1 style="font-size: 1.85rem; margin-bottom: 12px;">Mengalihkan ke Beranda...</h1>
+      <p style="max-width:520px;margin:0 auto 28px; color: var(--color-text-muted, #64748b); font-size: 1.05rem;">
+        Halaman yang Anda tuju tidak ditemukan atau telah dipindahkan. Anda sedang dialihkan secara otomatis ke beranda Joy of Care.
+      </p>
+      <a href="/" class="btn btn-primary" style="display: inline-flex; align-items: center; gap: 8px;">
+        <span>Buka Beranda Joy of Care</span>
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+      </a>
     </div>
   </section>
 </BaseLayout>
