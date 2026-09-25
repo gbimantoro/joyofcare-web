@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import ServiceRelatedArticles from '../components/ServiceRelatedArticles.astro';
 import { SITE_URL } from '../consts';
 
 export const prerender = true;
@@ -17,6 +18,23 @@ const canonical = `${SITE_URL}/layanan-lengkap/`;
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "Beranda", "item": `${SITE_URL}/` },
       { "@type": "ListItem", "position": 2, "name": "Layanan Lengkap", "item": canonical }
+    ]
+  })} />
+
+  <!-- Schema: ItemList (Layanan Medis) -->
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "name": "Daftar Layanan Kesehatan di Rumah Joy of Care",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Panggil Dokter ke Rumah", "url": `${SITE_URL}/panggil-dokter-ke-rumah/` },
+      { "@type": "ListItem", "position": 2, "name": "Fisioterapi di Rumah", "url": `${SITE_URL}/layanan-fisioterapi-ke-rumah/` },
+      { "@type": "ListItem", "position": 3, "name": "Perawat Lansia Homecare", "url": `${SITE_URL}/layanan-perawat-di-rumah/` },
+      { "@type": "ListItem", "position": 4, "name": "Vaksinasi di Rumah", "url": `${SITE_URL}/layanan-vaksinasi-di-rumah/` },
+      { "@type": "ListItem", "position": 5, "name": "Infus & Suntik Vitamin", "url": `${SITE_URL}/infus-suntik-vitamin-di-rumah/` },
+      { "@type": "ListItem", "position": 6, "name": "Home Lab Cek Darah", "url": `${SITE_URL}/homelab/` },
+      { "@type": "ListItem", "position": 7, "name": "Akupuntur Medis di Rumah", "url": `${SITE_URL}/layanan-akupuntur-di-rumah/` },
+      { "@type": "ListItem", "position": 8, "name": "Antar Jemput RS (TransCare)", "url": `${SITE_URL}/transcare-antar-jemput-ke-rs-jakarta-tangerang/` }
     ]
   })} />
 
@@ -88,6 +106,15 @@ const canonical = `${SITE_URL}/layanan-lengkap/`;
       </div>
     </div>
   </section>
+
+  <ServiceRelatedArticles
+    categories={['panggil-dokter', 'perawat-homecare', 'fisioterapi-rumah', 'vaksinasi-rumah', 'infus-vitamin', 'home-lab']}
+    title="Panduan Klinis & Edukasi Kesehatan Populer"
+    subtitle="Rekomendasi artikel kesehatan terverifikasi dokter untuk panduan rawat mandiri dan pendampingan keluarga di rumah."
+    limit={6}
+    viewAllSlug="panggil-dokter"
+    viewAllLabel="Kunjungi Pusat Edukasi Medis (Blog)"
+  />
 
   <style>
     .page-hero {

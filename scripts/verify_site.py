@@ -7,7 +7,7 @@ in the built dist/.
 import glob, os, re, sys
 
 DIST = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "dist")
-SITE_URL = "https://joyofcare.net"
+SITE_URL = "https://www.joyofcare.net"
 
 errors = []
 
@@ -52,11 +52,11 @@ def main():
         if '"datePublished"' not in h or '"dateModified"' not in h:
             errors.append(f"[DATE] {p}: missing ISO datePublished/dateModified")
 
-    # 4) No Odoo/www.joyofcare.net refs anywhere
+    # 4) No Odoo refs anywhere
     for p in allp:
         h = open(p, encoding="utf-8", errors="ignore").read()
-        if "web/image" in h or "odoo.com" in h or "www.joyofcare.net" in h:
-            errors.append(f"[ODOO] {p}: contains Odoo/www.joyofcare.net reference")
+        if "web/image" in h or "odoo.com" in h:
+            errors.append(f"[ODOO] {p}: contains Odoo reference")
 
     # 5) canonical must start with SITE_URL
     for p in allp:

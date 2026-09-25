@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import ServiceRelatedArticles from '../components/ServiceRelatedArticles.astro';
 import { SITE_URL } from '../consts';
 
 export const prerender = true;
@@ -29,11 +30,12 @@ const faqData = [
 ---
 
 <BaseLayout title={title} description={description} canonicalURL={canonical}>
-  <!-- Schema: MedicalTherapy -->
+  <!-- Schema: Service & MedicalTherapy -->
   <script type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
-    "@type": "MedicalTherapy",
+    "@type": ["Service", "MedicalTherapy"],
     "name": "Layanan Akupuntur Medis di Rumah untuk Nyeri Sendi Lansia",
+    "serviceType": "Akupuntur Medis di Rumah",
     "description": description,
     "url": canonical,
     "provider": {
@@ -42,7 +44,17 @@ const faqData = [
       "telephone": "+628811118911",
       "url": `${SITE_URL}/`
     },
-    "areaServed": ["Jakarta", "Tangerang", "Tangerang Selatan", "Depok", "Bogor"]
+    "areaServed": [
+      { "@type": "City", "name": "BSD City" },
+      { "@type": "City", "name": "Tangerang Selatan" },
+      { "@type": "City", "name": "Jakarta Selatan" },
+      { "@type": "City", "name": "Jakarta Barat" },
+      { "@type": "City", "name": "Jakarta Pusat" },
+      { "@type": "City", "name": "Jakarta Timur" },
+      { "@type": "City", "name": "Jakarta Utara" },
+      { "@type": "City", "name": "Depok" },
+      { "@type": "City", "name": "Bogor" }
+    ]
   })} />
 
   <!-- Schema: BreadcrumbList -->
@@ -87,8 +99,8 @@ const faqData = [
       <p>Jarum akupuntur medis merangsang serabut saraf sensorik untuk melepaskan endorfin alami (pereda nyeri biologis tubuh), melancarkan mikrosirkulasi darah di area sendi yang mengalami inflamasi, serta mengendurkan ketegangan otot di sekitar ligamen yang kaku.</p>
       
       <div class="service-gallery-2col">
-        <img src="/images/layanan-akupuntur-di-rumah/1.png" alt="Dokter spesialis akupuntur medis Joy of Care melakukan penusukan jarum steril pada sendi lutut pasien lansia" loading="lazy">
-        <img src="/images/layanan-akupuntur-di-rumah/2.png" alt="Terapi akupuntur di rumah untuk stroke dan saraf kejepit oleh tenaga medis berizin STR" loading="lazy">
+        <img src="/images/layanan-akupuntur-di-rumah/1.webp" alt="Dokter spesialis akupuntur medis Joy of Care melakukan penusukan jarum steril pada sendi lutut pasien lansia" width="600" height="338" loading="lazy" decoding="async">
+        <img src="/images/layanan-akupuntur-di-rumah/2.webp" alt="Terapi akupuntur di rumah untuk stroke dan saraf kejepit oleh tenaga medis berizin STR" width="600" height="338" loading="lazy" decoding="async">
       </div>
 
       <h3 style="font-size:1.3rem;font-weight:700;margin:24px 0 12px">Indikasi Klinis Terapi Akupuntur Joy of Care:</h3>
@@ -169,6 +181,15 @@ const faqData = [
       </div>
     </div>
   </section>
+
+  <ServiceRelatedArticles
+    categories={['kesehatan-umum', 'fisioterapi-rumah']}
+    title="Panduan Medis Manajemen Nyeri Sendi & Saraf di Rumah"
+    subtitle="Pelajari cara mengatasi pengapuran sendi lutut, terapi nyeri saraf kejepit, dan panduan pemulihan mobilitas mandiri."
+    limit={3}
+    viewAllSlug="kesehatan-umum"
+    viewAllLabel="Lihat Semua Panduan Medis"
+  />
 
   <section class="section">
     <div class="container">

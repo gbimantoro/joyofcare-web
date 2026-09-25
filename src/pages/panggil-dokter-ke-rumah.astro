@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import ServiceRelatedArticles from '../components/ServiceRelatedArticles.astro';
 import { SITE_URL } from '../consts';
 
 export const prerender = true;
@@ -29,11 +30,12 @@ const faqData = [
 ---
 
 <BaseLayout title={title} description={description} canonicalURL={canonical}>
-  <!-- Schema: MedicalProcedure -->
+  <!-- Schema: Service & MedicalProcedure -->
   <script type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
-    "@type": "MedicalProcedure",
+    "@type": ["Service", "MedicalProcedure"],
     "name": "Layanan Panggil Dokter ke Rumah Jakarta & Tangerang",
+    "serviceType": "Dokter Kunjungan Rumah (Home Visit)",
     "description": description,
     "url": canonical,
     "procedureType": "http://schema.org/PhysicalExam",
@@ -43,7 +45,17 @@ const faqData = [
       "telephone": "+628811118911",
       "url": `${SITE_URL}/`
     },
-    "areaServed": ["Jakarta", "Tangerang", "Tangerang Selatan", "Depok", "Bogor"]
+    "areaServed": [
+      { "@type": "City", "name": "BSD City" },
+      { "@type": "City", "name": "Tangerang Selatan" },
+      { "@type": "City", "name": "Jakarta Selatan" },
+      { "@type": "City", "name": "Jakarta Barat" },
+      { "@type": "City", "name": "Jakarta Pusat" },
+      { "@type": "City", "name": "Jakarta Timur" },
+      { "@type": "City", "name": "Jakarta Utara" },
+      { "@type": "City", "name": "Depok" },
+      { "@type": "City", "name": "Bogor" }
+    ]
   })} />
 
   <!-- Schema: BreadcrumbList -->
@@ -87,8 +99,8 @@ const faqData = [
       <p>Layanan <strong>panggil dokter ke rumah</strong> dari Joy of Care memungkinkan Anda dan keluarga mendapatkan pemeriksaan kesehatan tanpa harus antre di rumah sakit atau klinik. Layanan ini sangat membantu bagi lansia, pasien pasca operasi, dan keluarga yang tidak memiliki waktu untuk bepergian.</p>
       <p>Tim dokter kami berlisensi dan berpengalaman. Setiap kunjungan dilengkapi alat medis standar untuk pemeriksaan umum, pengukuran tekanan darah, cek gula darah, hingga tindakan medis ringan seperti perawatan luka dan pemberian resep.</p>
       <div class="service-gallery-2col">
-        <img src="/images/panggil-dokter-ke-rumah/2.jpg" alt="Dokter Joy of Care memeriksa pasien lansia di rumah" loading="lazy">
-        <img src="/images/panggil-dokter-ke-rumah/3.jpg" alt="Kunjungan dokter ke rumah untuk pemeriksaan kesehatan" loading="lazy">
+        <img src="/images/panggil-dokter-ke-rumah/2.webp" alt="Dokter Joy of Care memeriksa pasien lansia di rumah" width="600" height="338" loading="lazy" decoding="async">
+        <img src="/images/panggil-dokter-ke-rumah/3.webp" alt="Kunjungan dokter ke rumah untuk pemeriksaan kesehatan" width="600" height="338" loading="lazy" decoding="async">
       </div>
       <h3 style="font-size:1.2rem;font-weight:600;margin:16px 0">Layanan yang Tersedia:</h3>
       <ul style="padding-left:20px;color:#4a5568">
@@ -173,6 +185,15 @@ const faqData = [
       </div>
     </div>
   </section>
+
+  <ServiceRelatedArticles
+    categories="panggil-dokter"
+    title="Panduan Medis Dokter Visit ke Rumah"
+    subtitle="Pelajari triase demam anak, evaluasi berkala lansia, dekompensasi penyakit kronis, dan pertolongan pertama di rumah."
+    limit={3}
+    viewAllSlug="panggil-dokter"
+    viewAllLabel="Lihat Semua Panduan Dokter ke Rumah"
+  />
 
   <section class="section">
     <div class="container">

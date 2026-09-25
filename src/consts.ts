@@ -1,7 +1,7 @@
 import siteSettings from './content/settings/site.json';
 
-/** Canonical site URL — single source of truth (DECIDED 2026-09-06). */
-export const SITE_URL = siteSettings.siteUrl || 'https://joyofcare.net';
+/** Canonical site URL — single source of truth (aligned with live SSL host www.joyofcare.net). */
+export const SITE_URL = siteSettings.siteUrl || 'https://www.joyofcare.net';
 
 export const SITE_NAME = siteSettings.siteName || 'Joy of Care';
 export const WHATSAPP = siteSettings.whatsappNumber || '628811118911';

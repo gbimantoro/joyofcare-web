@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import ServiceRelatedArticles from '../components/ServiceRelatedArticles.astro';
 import { SITE_URL } from '../consts';
 
 export const prerender = true;
@@ -29,11 +30,12 @@ const faqData = [
 ---
 
 <BaseLayout title={title} description={description} canonicalURL={canonical}>
-  <!-- Schema: MedicalProcedure -->
+  <!-- Schema: Service & MedicalProcedure -->
   <script type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
-    "@type": "MedicalProcedure",
+    "@type": ["Service", "MedicalProcedure"],
     "name": "Layanan Cek Darah di Rumah & Home Lab Jakarta",
+    "serviceType": "Pemeriksaan Laboratorium & Cek Darah di Rumah (Home Lab)",
     "procedureType": "DiagnosticProcedure",
     "description": description,
     "url": canonical,
@@ -43,7 +45,17 @@ const faqData = [
       "telephone": "+628811118911",
       "url": `${SITE_URL}/`
     },
-    "areaServed": ["Jakarta", "Tangerang", "Tangerang Selatan", "Depok", "Bogor"]
+    "areaServed": [
+      { "@type": "City", "name": "BSD City" },
+      { "@type": "City", "name": "Tangerang Selatan" },
+      { "@type": "City", "name": "Jakarta Selatan" },
+      { "@type": "City", "name": "Jakarta Barat" },
+      { "@type": "City", "name": "Jakarta Pusat" },
+      { "@type": "City", "name": "Jakarta Timur" },
+      { "@type": "City", "name": "Jakarta Utara" },
+      { "@type": "City", "name": "Depok" },
+      { "@type": "City", "name": "Bogor" }
+    ]
   })} />
 
   <!-- Schema: BreadcrumbList -->
@@ -88,8 +100,8 @@ const faqData = [
       <p>Petugas flebotomi terlatih kami mengambil sampel darah dengan teknik steril minim nyeri. Seluruh sampel darah dan urine disimpan dalam <em>temperature-controlled coolbox</em> berstandar medis untuk menjaga integritas biomolekuler hingga tiba di laboratorium terakreditasi.</p>
       
       <div class="service-gallery-2col">
-        <img src="/images/homelab/1.jpg" alt="Petugas flebotomis Home Lab Joy of Care mengambil sampel darah steril di rumah pasien" loading="lazy">
-        <img src="/assets/thumbnails/home-lab-v1-hero.svg" alt="Paket pemeriksaan laboratorium darah lengkap HOMELAB Joy of Care" loading="lazy">
+        <img src="/images/homelab/1.webp" alt="Petugas flebotomis Home Lab Joy of Care mengambil sampel darah steril di rumah pasien" width="600" height="338" loading="lazy" decoding="async">
+        <img src="/assets/thumbnails/home-lab-v1-hero.svg" alt="Paket pemeriksaan laboratorium darah lengkap HOMELAB Joy of Care" width="600" height="338" loading="lazy" decoding="async">
       </div>
 
       <h3 style="font-size:1.3rem;font-weight:700;margin:24px 0 12px">Pilihan Paket Cek Darah & Skrining Home Lab:</h3>
@@ -170,6 +182,15 @@ const faqData = [
       </div>
     </div>
   </section>
+
+  <ServiceRelatedArticles
+    categories="home-lab"
+    title="Panduan Laboratorium & Skrining Darah di Rumah"
+    subtitle="Pelajari cara membaca hasil tes kolesterol, HbA1c diabetes, fungsi ginjal, dan tips persiapan puasa flebotomi."
+    limit={3}
+    viewAllSlug="home-lab"
+    viewAllLabel="Lihat Semua Panduan Home Lab"
+  />
 
   <section class="section">
     <div class="container">

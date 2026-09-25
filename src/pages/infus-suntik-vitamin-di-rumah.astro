@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import ServiceRelatedArticles from '../components/ServiceRelatedArticles.astro';
 import { SITE_URL } from '../consts';
 
 export const prerender = true;
@@ -29,11 +30,12 @@ const faqData = [
 ---
 
 <BaseLayout title={title} description={description} canonicalURL={canonical}>
-  <!-- Schema: MedicalProcedure -->
+  <!-- Schema: Service & MedicalProcedure -->
   <script type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
-    "@type": "MedicalProcedure",
+    "@type": ["Service", "MedicalProcedure"],
     "name": "Layanan Terapi Infus & Suntik Vitamin di Rumah Jakarta",
+    "serviceType": "Terapi Infus & Suntik Vitamin di Rumah",
     "procedureType": "TherapeuticProcedure",
     "description": description,
     "url": canonical,
@@ -43,7 +45,17 @@ const faqData = [
       "telephone": "+628811118911",
       "url": `${SITE_URL}/`
     },
-    "areaServed": ["Jakarta", "Tangerang", "Tangerang Selatan", "Depok", "Bogor"]
+    "areaServed": [
+      { "@type": "City", "name": "BSD City" },
+      { "@type": "City", "name": "Tangerang Selatan" },
+      { "@type": "City", "name": "Jakarta Selatan" },
+      { "@type": "City", "name": "Jakarta Barat" },
+      { "@type": "City", "name": "Jakarta Pusat" },
+      { "@type": "City", "name": "Jakarta Timur" },
+      { "@type": "City", "name": "Jakarta Utara" },
+      { "@type": "City", "name": "Depok" },
+      { "@type": "City", "name": "Bogor" }
+    ]
   })} />
 
   <!-- Schema: BreadcrumbList -->
@@ -88,8 +100,8 @@ const faqData = [
       <p>Dengan terapi intravena (IV drip), multivitamin dan mikronutrien penting langsung diserap 100% oleh peredaran darah tanpa membebani lambung, memberikan efek kebugaran dan revitalisasi sel tubuh yang instan dan aman di bawah pengawasan medis.</p>
       
       <div class="service-gallery-2col">
-        <img src="/images/infus-suntik-vitamin-di-rumah/1.jpg" alt="Dokter Joy of Care memberikan terapi infus vitamin di rumah pasien" loading="lazy">
-        <img src="/images/infus-suntik-vitamin-di-rumah/2.jpg" alt="Peralatan steril infus vitamin dan injeksi vitamin oleh tenaga medis Joy of Care" loading="lazy">
+        <img src="/images/infus-suntik-vitamin-di-rumah/1.webp" alt="Dokter Joy of Care memberikan terapi infus vitamin di rumah pasien" width="600" height="338" loading="lazy" decoding="async">
+        <img src="/images/infus-suntik-vitamin-di-rumah/2.webp" alt="Peralatan steril infus vitamin dan injeksi vitamin oleh tenaga medis Joy of Care" width="600" height="338" loading="lazy" decoding="async">
       </div>
 
       <h3 style="font-size:1.3rem;font-weight:700;margin:24px 0 12px">Pilihan Paket Terapi Infus & Suntik Vitamin:</h3>
@@ -170,6 +182,15 @@ const faqData = [
       </div>
     </div>
   </section>
+
+  <ServiceRelatedArticles
+    categories="infus-vitamin"
+    title="Panduan Terapi Nutrisi & Infus Vitamin di Rumah"
+    subtitle="Pelajari manfaat vitamin C dosis tinggi, nutrisi pemulihan kelelahan kronis, terapi rehidrasi jetlag/sakit, dan panduan klinis infus."
+    limit={3}
+    viewAllSlug="infus-vitamin"
+    viewAllLabel="Lihat Semua Panduan Infus Vitamin"
+  />
 
   <section class="section">
     <div class="container">

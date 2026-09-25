@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import ServiceRelatedArticles from '../components/ServiceRelatedArticles.astro';
 import { SITE_URL } from '../consts';
 
 export const prerender = true;
@@ -29,11 +30,12 @@ const faqData = [
 ---
 
 <BaseLayout title={title} description={description} canonicalURL={canonical}>
-  <!-- Schema: MedicalTherapy -->
+  <!-- Schema: Service & MedicalTherapy -->
   <script type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
-    "@type": "MedicalTherapy",
+    "@type": ["Service", "MedicalTherapy"],
     "name": "Layanan Fisioterapi di Rumah Joy of Care",
+    "serviceType": "Fisioterapi & Rehabilitasi Medis di Rumah",
     "description": description,
     "url": canonical,
     "provider": {
@@ -42,7 +44,17 @@ const faqData = [
       "telephone": "+628811118911",
       "url": `${SITE_URL}/`
     },
-    "areaServed": ["Jakarta", "Tangerang", "Tangerang Selatan", "Depok", "Bogor"]
+    "areaServed": [
+      { "@type": "City", "name": "BSD City" },
+      { "@type": "City", "name": "Tangerang Selatan" },
+      { "@type": "City", "name": "Jakarta Selatan" },
+      { "@type": "City", "name": "Jakarta Barat" },
+      { "@type": "City", "name": "Jakarta Pusat" },
+      { "@type": "City", "name": "Jakarta Timur" },
+      { "@type": "City", "name": "Jakarta Utara" },
+      { "@type": "City", "name": "Depok" },
+      { "@type": "City", "name": "Bogor" }
+    ]
   })} />
 
   <!-- Schema: BreadcrumbList -->
@@ -87,8 +99,8 @@ const faqData = [
       <p>Setiap fisioterapis kami memiliki Surat Tanda Registrasi (STR) aktif dari Ikatan Fisioterapi Indonesia (IFI) dan berpengalaman dalam protokol rehabilitasi geriatri, neurologi, ortopedi, dan kardiorespirasi.</p>
 
       <div class="service-gallery-2col">
-        <img src="/images/layanan-fisioterapi-ke-rumah/1.jpg" alt="Fisioterapis Joy of Care memandu latihan keseimbangan pasien lansia di rumah" loading="lazy">
-        <img src="/images/layanan-fisioterapi-ke-rumah/2.jpg" alt="Rehabilitasi fisioterapi pasca stroke di rumah Jakarta" loading="lazy">
+        <img src="/images/layanan-fisioterapi-ke-rumah/1.webp" alt="Fisioterapis Joy of Care memandu latihan keseimbangan pasien lansia di rumah" width="600" height="410" loading="lazy" decoding="async">
+        <img src="/images/layanan-fisioterapi-ke-rumah/2.webp" alt="Rehabilitasi fisioterapi pasca stroke di rumah Jakarta" width="600" height="410" loading="lazy" decoding="async">
       </div>
     </div>
   </section>
@@ -153,6 +165,15 @@ const faqData = [
       </div>
     </div>
   </section>
+
+  <ServiceRelatedArticles
+    categories={['fisioterapi-rumah', 'parkinson', 'osteoporosis']}
+    title="Panduan Medis Fisioterapi & Latihan Pemulihan di Rumah"
+    subtitle="Pelajari teknik latihan pasca-stroke, pencegahan risiko jatuh lansia, manajemen Parkinson, dan pemulihan sendi."
+    limit={3}
+    viewAllSlug="fisioterapi-rumah"
+    viewAllLabel="Lihat Semua Panduan Fisioterapi"
+  />
 
   <section class="section">
     <div class="container">

@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import ServiceRelatedArticles from '../components/ServiceRelatedArticles.astro';
 import { SITE_URL } from '../consts';
 
 export const prerender = true;
@@ -29,11 +30,12 @@ const faqData = [
 ---
 
 <BaseLayout title={title} description={description} canonicalURL={canonical}>
-  <!-- Schema: MedicalProcedure -->
+  <!-- Schema: Service & MedicalProcedure -->
   <script type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
-    "@type": "MedicalProcedure",
+    "@type": ["Service", "MedicalProcedure"],
     "name": "Layanan Antar Jemput Rumah Sakit TransCare Jakarta Tangerang",
+    "serviceType": "Transportasi Medis Antar Jemput Rumah Sakit (TransCare)",
     "procedureType": "PatientTransferProcedure",
     "description": description,
     "url": canonical,
@@ -43,7 +45,17 @@ const faqData = [
       "telephone": "+628811118911",
       "url": `${SITE_URL}/`
     },
-    "areaServed": ["Jakarta", "Tangerang", "Tangerang Selatan", "Depok", "Bogor"]
+    "areaServed": [
+      { "@type": "City", "name": "BSD City" },
+      { "@type": "City", "name": "Tangerang Selatan" },
+      { "@type": "City", "name": "Jakarta Selatan" },
+      { "@type": "City", "name": "Jakarta Barat" },
+      { "@type": "City", "name": "Jakarta Pusat" },
+      { "@type": "City", "name": "Jakarta Timur" },
+      { "@type": "City", "name": "Jakarta Utara" },
+      { "@type": "City", "name": "Depok" },
+      { "@type": "City", "name": "Bogor" }
+    ]
   })} />
 
   <!-- Schema: BreadcrumbList -->
@@ -88,8 +100,8 @@ const faqData = [
       <p>Armada kami dibersihkan secara steril setiap pergantian pasien, dilengkapi suspensi empuk untuk meminimalkan guncangan jalan, serta didampingi tim yang memahami protokol *patient handling* yang ramah dan sabar.</p>
       
       <div class="service-gallery-2col">
-        <img src="/images/transcare-antar-jemput-ke-rs-jakarta-tangerang/1.jpg" alt="Armada transportasi medis TransCare Joy of Care melayani antar jemput pasien rumah sakit di Jakarta" loading="lazy">
-        <img src="/images/transcare-antar-jemput-ke-rs-jakarta-tangerang/2.jpg" alt="Perawat TransCare mendampingi pasien lansia di dalam kendaraan medis menuju rumah sakit" loading="lazy">
+        <img src="/images/transcare-antar-jemput-ke-rs-jakarta-tangerang/1.webp" alt="Armada transportasi medis TransCare Joy of Care melayani antar jemput pasien rumah sakit di Jakarta" width="600" height="468" loading="lazy" decoding="async">
+        <img src="/images/transcare-antar-jemput-ke-rs-jakarta-tangerang/2.webp" alt="Perawat TransCare mendampingi pasien lansia di dalam kendaraan medis menuju rumah sakit" width="600" height="468" loading="lazy" decoding="async">
       </div>
 
       <h3 style="font-size:1.3rem;font-weight:700;margin:24px 0 12px">Pilihan Skema Layanan TransCare:</h3>
@@ -170,6 +182,15 @@ const faqData = [
       </div>
     </div>
   </section>
+
+  <ServiceRelatedArticles
+    categories="antar-jemput-rs"
+    title="Panduan Medis Transportasi & Kepulangan Pasien RS"
+    subtitle="Pelajari protokol evakuasi medis non-darurat, panduan kontrol pasien bedridden, dan tips pemulihan pasca rawat inap."
+    limit={3}
+    viewAllSlug="antar-jemput-rs"
+    viewAllLabel="Lihat Semua Panduan Antar Jemput RS"
+  />
 
   <section class="section">
     <div class="container">
