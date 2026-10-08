@@ -1,6 +1,7 @@
 import os
 import sys
 import time
+import json
 import xml.etree.ElementTree as ET
 from google.oauth2.credentials import Credentials
 from google_auth_oauthlib.flow import InstalledAppFlow
@@ -14,6 +15,7 @@ SCOPES = [
 ]
 CLIENT_SECRET_FILE = '/home/gobeam/Downloads/client_secret_1014385004109-fjrjisk5md8idkkilvk43jeh0c64o8q5.apps.googleusercontent.com.json'
 TOKEN_FILE = '/home/gobeam/Projects/joyofcare-web/scripts/gsc_token.json'
+HISTORY_FILE = '/home/gobeam/Projects/joyofcare-web/scripts/gsc_history.json'
 SITEMAP_FILE = '/home/gobeam/Projects/joyofcare-web/dist/sitemap-0.xml'
 SITE_URL = 'https://www.joyofcare.net/' # Ensure trailing slash if needed
 
@@ -54,9 +56,21 @@ def authenticate():
             token.write(creds.to_json())
     return creds
 
+def load_history():
+    if os.path.exists(HISTORY_FILE):
+        with open(HISTORY_FILE, 'r') as f:
+            return json.load(f)
+    return {}
+
+def save_history(history):
+    with open(HISTORY_FILE, 'w') as f:
+        json.dump(history, f, indent=2)
+
 def check_and_submit(creds, urls):
     searchconsole = build('searchconsole', 'v1', credentials=creds)
     indexing = build('indexing', 'v3', credentials=creds)
+    history = load_history()
+    current_time = time.time()
     
     # Dynamically find the exact siteUrl registered in GSC
     actual_site_url = SITE_URL
@@ -78,18 +92,23 @@ def check_and_submit(creds, urls):
         print(f"Could not list sites: {e}")
 
     for url in urls:
+        # Skip if submitted in the last 7 days
+        last_submitted = history.get(url, 0)
+        if current_time - last_submitted < 7 * 24 * 3600:
+            print(f"Skipping {url} (submitted recently)")
+            continue
+
         print(f"Checking index status for {url}...")
         try:
             request = {
                 'siteUrl': actual_site_url,
                 'inspectionUrl': url,
-                'languageCode': 'id-ID'
+                'languageCode': 'en-US'
             }
             response = searchconsole.urlInspection().index().inspect(body=request).execute()
             status = response.get('inspectionResult', {}).get('indexStatusResult', {}).get('coverageState', '')
             
-            # The coverage state could be 'Indexed, not submitted in sitemap', 'Submitted and indexed', etc.
-            if 'Indexed' not in status:
+            if 'indexed' not in status.lower():
                 print(f"  URL not indexed ({status}). Submitting to Indexing API...")
                 idx_resp = indexing.urlNotifications().publish(
                     body={
@@ -98,15 +117,25 @@ def check_and_submit(creds, urls):
                     }
                 ).execute()
                 print(f"  Submitted successfully.")
+                history[url] = current_time
             else:
                 print(f"  URL is already indexed.")
                 
             time.sleep(2) # Basic rate limiting
         except HttpError as e:
-            print(f"  API Error for {url}: {e.reason}")
+            error_msg = e.reason if hasattr(e, 'reason') else str(e)
+            print(f"  API Error for {url}: {error_msg}")
+            
+            if 'Quota exceeded' in error_msg or e.resp.status == 429:
+                print("Publish quota exceeded for today. Stopping.")
+                break
+            
             time.sleep(2)
         except Exception as e:
             print(f"  Unexpected error: {e}")
+            
+    # Save history before exiting
+    save_history(history)
 
 if __name__ == '__main__':
     print("Extracting blog URLs from sitemap...")

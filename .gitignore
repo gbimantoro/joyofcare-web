@@ -30,3 +30,4 @@ pages/temp_*.md
 # Credentials / tokens
 *token*.json
 scripts/gsc_token.json
+scripts/gsc_history.json
