@@ -145,10 +145,15 @@ const fullOgImage = ogImage.startsWith('http') ? ogImage : `${SITE_URL}${ogImage
   <!-- Navigation -->
   <nav class="nav">
     <div class="nav-inner">
-      <a href="/" class="nav-logo" aria-label="Joy of Care — Beranda">
+      <a href="/" class="nav-logo" aria-label="Joy of Care & iCareHub — Beranda">
         <picture>
           <source srcset="/images/joc_long.webp" type="image/webp">
           <img src="/images/joc_long.png" alt="Joy of Care" width="120" height="40">
+        </picture>
+        <span class="nav-logo-divider" aria-hidden="true"></span>
+        <picture>
+          <source srcset="/images/icarehub.webp" type="image/webp">
+          <img src="/images/icarehub.png" alt="iCareHub Indonesia" width="80" height="40">
         </picture>
       </a>
       
@@ -328,14 +333,30 @@ const fullOgImage = ogImage.startsWith('http') ? ogImage : `${SITE_URL}${ogImage
       height: 72px;
     }
 
+    .nav-logo {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      text-decoration: none;
+    }
+
     .nav-logo picture {
       display: flex;
       align-items: center;
     }
 
     .nav-logo img {
-      height: 40px;
+      height: 38px;
       width: auto;
+      display: block;
+      object-fit: contain;
+    }
+
+    .nav-logo-divider {
+      width: 1px;
+      height: 24px;
+      background: var(--color-border);
+      flex-shrink: 0;
     }
 
     .nav-links {
@@ -660,6 +681,18 @@ const fullOgImage = ogImage.startsWith('http') ? ogImage : `${SITE_URL}${ogImage
 
     /* Responsive */
     @media (max-width: 768px) {
+      .nav-logo {
+        gap: 8px;
+      }
+
+      .nav-logo img {
+        height: 32px;
+      }
+
+      .nav-logo-divider {
+        height: 18px;
+      }
+
       .nav-links {
         display: none;
         position: absolute;
