@@ -45,15 +45,15 @@
     </g>
 
     <!-- Dynamic Multi-line Title -->
-    <text x="0" y="145" font-family="Montserrat, Inter, -apple-system, sans-serif" font-size="38" font-weight="800" fill="#0F172A" letter-spacing="-0.8">Biaya Dokter ke Rumah JOC vs</text>
-<text x="0" y="193" font-family="Montserrat, Inter, -apple-system, sans-serif" font-size="38" font-weight="800" fill="#0F172A" letter-spacing="-0.8">Kavacare</text>
+    <text x="0" y="145" font-family="Montserrat, Inter, -apple-system, sans-serif" font-size="34" font-weight="800" fill="#0F172A" letter-spacing="-0.8">Biaya Dokter ke Rumah JoC vs</text>
+<text x="0" y="193" font-family="Montserrat, Inter, -apple-system, sans-serif" font-size="34" font-weight="800" fill="#0F172A" letter-spacing="-0.8">Homecare A vs Homecare B</text>
 
     <!-- Keyword Highlight Pill -->
     <g transform="translate(0, 266)">
       <rect x="0" y="0" width="540" height="42" rx="10" fill="#FFFFFF" stroke="#059669" stroke-opacity="0.3" stroke-width="1.5" filter="url(#shadow)"/>
       <rect x="0" y="0" width="6" height="42" rx="3" fill="#059669"/>
       <text x="20" y="26" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="600" fill="#475569">
-        Fokus Klinis: <tspan font-weight="700" fill="#047857">biaya panggil dokter ke rumah joy of care vs </tspan>
+        Fokus Klinis: <tspan font-weight="700" fill="#047857">biaya panggil dokter ke rumah joy of care vs homecare a</tspan>
       </text>
     </g>
 
