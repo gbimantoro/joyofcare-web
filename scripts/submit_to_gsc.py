@@ -45,8 +45,8 @@ def authenticate():
                 creds = None
         
         if not creds:
-            if not sys.stdin.isatty():
-                print("Error: Authentication required. Please run this script manually in a terminal to authenticate.")
+            if not sys.stdin.isatty() or os.environ.get("NON_INTERACTIVE") or "--non-interactive" in sys.argv:
+                print("Error: Authentication required. Please run this script manually in an interactive terminal to authenticate with Google.")
                 sys.exit(1)
             print("Interactive authentication required...")
             flow = InstalledAppFlow.from_client_secrets_file(CLIENT_SECRET_FILE, SCOPES)
